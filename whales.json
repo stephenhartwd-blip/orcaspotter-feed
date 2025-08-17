@@ -1,13 +1,396 @@
 [
   {
-    "id": "D68F2A18-0F5F-4D37-9D3D-7B1C1E4F9B10",
-    "name": "Central Puget Sound — ‘Butterfly Wings’",
+    "id": "A6C6F4CF-6F5A-4D42-8E7F-0F6A1A0A0001",
+    "name": "Glacier Bay – Whidbey Passage (AK)",
     "species": "Humpback",
-    "info": "Humpback CRC-20232 ‘Butterfly Wings’ reported.",
-    "date": "2025-08-14",
-    "latitude": 47.60,
-    "longitude": -122.43,
+    "info": "Hotspot: feeding humpbacks in summer inside Glacier Bay.",
+    "date": "2025-08-17",
+    "latitude": 58.670,
+    "longitude": -136.230,
+    "area": "Alaska",
+    "source": null
+  },
+  {
+    "id": "A6C6F4CF-6F5A-4D42-8E7F-0F6A1A0A0002",
+    "name": "Frederick Sound / Petersburg (AK)",
+    "species": "Humpback",
+    "info": "Hotspot: bubble-net feeding in summer.",
+    "date": "2025-08-17",
+    "latitude": 56.870,
+    "longitude": -134.350,
+    "area": "Alaska",
+    "source": null
+  },
+  {
+    "id": "A6C6F4CF-6F5A-4D42-8E7F-0F6A1A0A0003",
+    "name": "Kenai Fjords – Aialik Bay (AK)",
+    "species": "Humpback",
+    "info": "Hotspot: humpbacks along glacial fjords and shelf edge.",
+    "date": "2025-08-17",
+    "latitude": 59.750,
+    "longitude": -149.850,
+    "area": "Alaska",
+    "source": null
+  },
+  {
+    "id": "A6C6F4CF-6F5A-4D42-8E7F-0F6A1A0A0004",
+    "name": "Icy Strait / Point Adolphus (AK)",
+    "species": "Humpback",
+    "info": "Hotspot: reliable summer feeding humpbacks.",
+    "date": "2025-08-17",
+    "latitude": 58.313,
+    "longitude": -135.610,
+    "area": "Alaska",
+    "source": null
+  },
+
+  {
+    "id": "B1D3A2F0-1C11-4F52-9F00-0B6B1B0B0001",
+    "name": "Johnstone Strait – Telegraph Cove (BC)",
+    "species": "Northern Resident Orca",
+    "info": "Hotspot: Northern Resident orcas in summer; rubbing beaches nearby.",
+    "date": "2025-08-17",
+    "latitude": 50.540,
+    "longitude": -126.840,
+    "area": "BC North",
+    "source": null
+  },
+  {
+    "id": "B1D3A2F0-1C11-4F52-9F00-0B6B1B0B0002",
+    "name": "Blackney Pass / Blackfish Sound (BC)",
+    "species": "Northern Resident Orca",
+    "info": "Hotspot: resident orcas transiting; strong acoustics.",
+    "date": "2025-08-17",
+    "latitude": 50.550,
+    "longitude": -126.650,
+    "area": "BC North",
+    "source": null
+  },
+
+  {
+    "id": "B1D3A2F0-1C11-4F52-9F00-0B6B1B0B0003",
+    "name": "Haro Strait – Turn Point (San Juans)",
+    "species": "Bigg’s (Transient) Orca",
+    "info": "Hotspot: Bigg’s orcas traveling the border waters.",
+    "date": "2025-08-17",
+    "latitude": 48.690,
+    "longitude": -123.240,
+    "area": "BC South",
+    "source": null
+  },
+  {
+    "id": "B1D3A2F0-1C11-4F52-9F00-0B6B1B0B0004",
+    "name": "Race Rocks – Strait of Juan de Fuca",
+    "species": "Bigg’s (Transient) Orca",
+    "info": "Hotspot: tidal rips off Race Rocks; frequent Bigg’s.",
+    "date": "2025-08-17",
+    "latitude": 48.303,
+    "longitude": -123.530,
+    "area": "BC South",
+    "source": null
+  },
+
+  {
+    "id": "C2E4B3C1-2D22-4A63-8C11-1C7C2C0C0001",
+    "name": "Rosario Strait (WA)",
+    "species": "Bigg’s (Transient) Orca",
+    "info": "Hotspot: Bigg’s travel corridor between islands.",
+    "date": "2025-08-17",
+    "latitude": 48.500,
+    "longitude": -122.700,
     "area": "Washington",
-    "source": "https://www.facebook.com/OrcaNetwork/"
+    "source": null
+  },
+  {
+    "id": "C2E4B3C1-2D22-4A63-8C11-1C7C2C0C0002",
+    "name": "Central Puget Sound (WA)",
+    "species": "Humpback",
+    "info": "Hotspot: seasonal humpbacks; occasional Bigg’s orcas.",
+    "date": "2025-08-17",
+    "latitude": 47.600,
+    "longitude": -122.430,
+    "area": "Washington",
+    "source": null
+  },
+  {
+    "id": "C2E4B3C1-2D22-4A63-8C11-1C7C2C0C0003",
+    "name": "Hood Canal Mouth (WA)",
+    "species": "Humpback",
+    "info": "Hotspot: periodic humpback visits; long dives.",
+    "date": "2025-08-17",
+    "latitude": 47.755,
+    "longitude": -122.770,
+    "area": "Washington",
+    "source": null
+  },
+
+  {
+    "id": "D3F5C4D2-3E33-4B74-9D22-2D8D3D1D0001",
+    "name": "Depoe Bay / Boiler Bay (OR)",
+    "species": "Gray Whale",
+    "info": "Hotspot: resident feeding gray whales close to shore.",
+    "date": "2025-08-17",
+    "latitude": 44.810,
+    "longitude": -124.060,
+    "area": "Oregon",
+    "source": null
+  },
+  {
+    "id": "D3F5C4D2-3E33-4B74-9D22-2D8D3D1D0002",
+    "name": "Newport (OR)",
+    "species": "Gray Whale",
+    "info": "Hotspot: nearshore feeding grays; spring–fall best.",
+    "date": "2025-08-17",
+    "latitude": 44.620,
+    "longitude": -124.080,
+    "area": "Oregon",
+    "source": null
+  },
+
+  {
+    "id": "E4A6D5E3-4F44-4C85-8E33-3E9E4E2E0001",
+    "name": "Crescent City (Far North CA)",
+    "species": "Gray Whale",
+    "info": "Hotspot: migration corridor near the headlands.",
+    "date": "2025-08-17",
+    "latitude": 41.740,
+    "longitude": -124.220,
+    "area": "Northern California",
+    "source": null
+  },
+  {
+    "id": "E4A6D5E3-4F44-4C85-8E33-3E9E4E2E0002",
+    "name": "Mendocino / Fort Bragg (CA)",
+    "species": "Humpback",
+    "info": "Hotspot: humpbacks along the shelf and canyon edges.",
+    "date": "2025-08-17",
+    "latitude": 39.450,
+    "longitude": -123.810,
+    "area": "Northern California",
+    "source": null
+  },
+  {
+    "id": "E4A6D5E3-4F44-4C85-8E33-3E9E4E2E0003",
+    "name": "Bodega Bay (CA)",
+    "species": "Humpback",
+    "info": "Hotspot: bait ball action offshore; summer–fall.",
+    "date": "2025-08-17",
+    "latitude": 38.320,
+    "longitude": -123.070,
+    "area": "Northern California",
+    "source": null
+  },
+  {
+    "id": "E4A6D5E3-4F44-4C85-8E33-3E9E4E2E0004",
+    "name": "Farallon Islands (CA)",
+    "species": "Humpback",
+    "info": "Hotspot: productive upwelling zone; seabird/whale mix.",
+    "date": "2025-08-17",
+    "latitude": 37.700,
+    "longitude": -123.050,
+    "area": "Central California",
+    "source": null
+  },
+  {
+    "id": "E4A6D5E3-4F44-4C85-8E33-3E9E4E2E0005",
+    "name": "Monterey Submarine Canyon (CA)",
+    "species": "Humpback",
+    "info": "Hotspot: world-class humpback feeding (spring–fall).",
+    "date": "2025-08-17",
+    "latitude": 36.730,
+    "longitude": -121.930,
+    "area": "Central California",
+    "source": null
+  },
+  {
+    "id": "E4A6D5E3-4F44-4C85-8E33-3E9E4E2E0006",
+    "name": "Channel Islands – Anacapa (CA)",
+    "species": "Humpback",
+    "info": "Hotspot: summer humpbacks; dolphins common.",
+    "date": "2025-08-17",
+    "latitude": 34.010,
+    "longitude": -119.400,
+    "area": "Southern California",
+    "source": null
+  },
+  {
+    "id": "E4A6D5E3-4F44-4C85-8E33-3E9E4E2E0007",
+    "name": "Dana Point (CA)",
+    "species": "Gray Whale",
+    "info": "Hotspot: gray whale migration viewing (winter–spring).",
+    "date": "2025-08-17",
+    "latitude": 33.460,
+    "longitude": -117.740,
+    "area": "Southern California",
+    "source": null
+  },
+
+  {
+    "id": "F5B7E6F4-5055-4D96-9F44-4FAF5F3F0001",
+    "name": "Laguna San Ignacio (Baja MX)",
+    "species": "Gray Whale",
+    "info": "Hotspot: gray whale nursery (Jan–Mar).",
+    "date": "2025-08-17",
+    "latitude": 26.760,
+    "longitude": -113.150,
+    "area": "Baja",
+    "source": null
+  },
+  {
+    "id": "F5B7E6F4-5055-4D96-9F44-4FAF5F3F0002",
+    "name": "Laguna Ojo de Liebre (Baja MX)",
+    "species": "Gray Whale",
+    "info": "Hotspot: gray whale calving lagoon (Jan–Mar).",
+    "date": "2025-08-17",
+    "latitude": 27.630,
+    "longitude": -113.930,
+    "area": "Baja",
+    "source": null
+  },
+  {
+    "id": "F5B7E6F4-5055-4D96-9F44-4FAF5F3F0003",
+    "name": "Cabo San Lucas Offshore (Baja MX)",
+    "species": "Humpback",
+    "info": "Hotspot: winter/spring humpbacks near the cape.",
+    "date": "2025-08-17",
+    "latitude": 22.880,
+    "longitude": -109.900,
+    "area": "Baja",
+    "source": null
+  },
+  {
+    "id": "F5B7E6F4-5055-4D96-9F44-4FAF5F3F0004",
+    "name": "Bahía de La Paz (Sea of Cortez MX)",
+    "species": "Humpback",
+    "info": "Hotspot: seasonal humpbacks inside the gulf.",
+    "date": "2025-08-17",
+    "latitude": 24.300,
+    "longitude": -110.320,
+    "area": "Sea of Cortez",
+    "source": null
+  },
+
+  {
+    "id": "G6C8F705-6166-4EA7-8A55-50B060400001",
+    "name": "Stellwagen Bank (MA)",
+    "species": "Humpback",
+    "info": "Hotspot: classic New England humpback feeding grounds.",
+    "date": "2025-08-17",
+    "latitude": 42.420,
+    "longitude": -70.330,
+    "area": "New England",
+    "source": null
+  },
+  {
+    "id": "G6C8F705-6166-4EA7-8A55-50B060400002",
+    "name": "Jeffreys Ledge (NH/ME)",
+    "species": "Humpback",
+    "info": "Hotspot: frequent humpbacks off New Hampshire/Maine.",
+    "date": "2025-08-17",
+    "latitude": 42.950,
+    "longitude": -70.000,
+    "area": "New England",
+    "source": null
+  },
+  {
+    "id": "G6C8F705-6166-4EA7-8A55-50B060400003",
+    "name": "Cape Cod Bay (MA)",
+    "species": "Humpback",
+    "info": "Hotspot: inshore feeding (spring).",
+    "date": "2025-08-17",
+    "latitude": 41.850,
+    "longitude": -70.100,
+    "area": "New England",
+    "source": null
+  },
+
+  {
+    "id": "H7DA0816-7277-4F18-9B66-61C171500001",
+    "name": "Bay of Fundy – Grand Manan (NB)",
+    "species": "Humpback",
+    "info": "Hotspot: nutrient-rich tides bring humpbacks each summer.",
+    "date": "2025-08-17",
+    "latitude": 44.690,
+    "longitude": -66.820,
+    "area": "Bay of Fundy",
+    "source": null
+  },
+  {
+    "id": "H7DA0816-7277-4F18-9B66-61C171500002",
+    "name": "Cape Breton – Pleasant Bay (NS)",
+    "species": "Humpback",
+    "info": "Hotspot: summer–fall humpbacks off Highlands coast.",
+    "date": "2025-08-17",
+    "latitude": 46.830,
+    "longitude": -60.800,
+    "area": "Nova Scotia",
+    "source": null
+  },
+  {
+    "id": "H7DA0816-7277-4F18-9B66-61C171500003",
+    "name": "Saguenay–St. Lawrence (Tadoussac QC)",
+    "species": "Humpback",
+    "info": "Hotspot: confluence zone; frequent humpbacks and fins.",
+    "date": "2025-08-17",
+    "latitude": 48.140,
+    "longitude": -69.720,
+    "area": "Gulf of St. Lawrence",
+    "source": null
+  },
+  {
+    "id": "H7DA0816-7277-4F18-9B66-61C171500004",
+    "name": "Mingan Archipelago (QC North Shore)",
+    "species": "Humpback",
+    "info": "Hotspot: islands and upwellings attract whales.",
+    "date": "2025-08-17",
+    "latitude": 50.220,
+    "longitude": -63.660,
+    "area": "Gulf of St. Lawrence",
+    "source": null
+  },
+  {
+    "id": "H7DA0816-7277-4F18-9B66-61C171500005",
+    "name": "Witless Bay Ecological Reserve (NL)",
+    "species": "Humpback",
+    "info": "Hotspot: capelin season draws feeding humpbacks.",
+    "date": "2025-08-17",
+    "latitude": 47.180,
+    "longitude": -52.770,
+    "area": "Newfoundland",
+    "source": null
+  },
+  {
+    "id": "H7DA0816-7277-4F18-9B66-61C171500006",
+    "name": "Trinity Bay (NL)",
+    "species": "Humpback",
+    "info": "Hotspot: summer humpbacks near headlands.",
+    "date": "2025-08-17",
+    "latitude": 48.120,
+    "longitude": -53.470,
+    "area": "Newfoundland",
+    "source": null
+  },
+
+  {
+    "id": "J8EB1927-8388-4A29-8C77-72D272600001",
+    "name": "New York Bight – Rockaways (NY)",
+    "species": "Humpback",
+    "info": "Hotspot: nearshore bait schools draw humpbacks (summer).",
+    "date": "2025-08-17",
+    "latitude": 40.450,
+    "longitude": -73.800,
+    "area": "Mid-Atlantic",
+    "source": null
+  },
+  {
+    "id": "J8EB1927-8388-4A29-8C77-72D272600002",
+    "name": "Virginia Beach / Chesapeake Mouth (VA)",
+    "species": "Humpback",
+    "info": "Hotspot: winter juvenile humpbacks near the coast.",
+    "date": "2025-08-17",
+    "latitude": 36.800,
+    "longitude": -75.770,
+    "area": "Mid-Atlantic",
+    "source": null
   }
 ]
