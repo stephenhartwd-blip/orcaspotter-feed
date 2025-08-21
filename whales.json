@@ -1,240 +1,134 @@
 [
   {
-    "id": "9D5A4B7F-3B0B-4D0B-9C9C-6C6E6DB90001",
-    "name": "Sitka Sound (AK)",
+    "id": "12B2D6E4-8F7A-4E2B-A1B2-CA1F0B001001",
+    "name": "Monterey Submarine Canyon (CA)",
     "species": "Humpback",
-    "info": "Hotspot: feeding humpbacks around island channels.",
-    "date": "2025-08-17",
-    "latitude": 57.050,
-    "longitude": -135.360,
-    "area": "Alaska",
-    "source": null
+    "info": "8–10 humpbacks feeding in the afternoon; breaches and tail throws; Risso’s dolphins present.",
+    "date": "2025-08-16",
+    "latitude": 36.730,
+    "longitude": -121.930,
+    "area": "Central California",
+    "source": "https://montereywhalewatching.com/daily-sightings/"
   },
   {
-    "id": "9D5A4B7F-3B0B-4D0B-9C9C-6C6E6DB90002",
-    "name": "Point Adolphus — Icy Strait (AK)",
+    "id": "12B2D6E4-8F7A-4E2B-A1B2-CA1F0B001002",
+    "name": "Newport Offshore (CA)",
     "species": "Humpback",
-    "info": "Hotspot: reliable summer feeding humpbacks.",
-    "date": "2025-08-17",
-    "latitude": 58.313,
-    "longitude": -135.610,
-    "area": "Alaska",
-    "source": null
+    "info": "3 humpbacks documented on trips; thousands of common dolphins also observed.",
+    "date": "2025-08-13",
+    "latitude": 33.610,
+    "longitude": -117.930,
+    "area": "Southern California",
+    "source": "https://www.daveyslocker.com/whale-dolphin-sightings/"
   },
   {
-    "id": "9D5A4B7F-3B0B-4D0B-9C9C-6C6E6DB90003",
-    "name": "Frederick Sound / Petersburg (AK)",
-    "species": "Humpback",
-    "info": "Hotspot: bubble-net feeding groups in mid-summer.",
-    "date": "2025-08-17",
-    "latitude": 56.870,
-    "longitude": -134.350,
-    "area": "Alaska",
-    "source": null
+    "id": "A0F4E2D8-7C29-4F3E-9B21-WA1F0B001003",
+    "name": "East Sound — Orcas Island (WA)",
+    "species": "Bigg’s (Transient) Orca",
+    "info": "T100 family confirmed; small family group led by ~46-yr matriarch; observed in East Sound then continuing travel.",
+    "date": "2025-08-18",
+    "latitude": 48.646,
+    "longitude": -122.872,
+    "area": "Washington",
+    "source": "https://blog.island-adventures.com/2025/08/august-18-2025.html"
   },
   {
-    "id": "9D5A4B7F-3B0B-4D0B-9C9C-6C6E6DB90004",
-    "name": "Kenai Fjords — Aialik Bay (AK)",
+    "id": "A0F4E2D8-7C29-4F3E-9B21-WA1F0B001004",
+    "name": "San Juan Islands (WA)",
+    "species": "Bigg’s (Transient) Orca",
+    "info": "‘Orca-filled day’ with multiple encounters; pod of ~4 transients cruising the islands.",
+    "date": "2025-08-16",
+    "latitude": 48.600,
+    "longitude": -123.100,
+    "area": "Washington",
+    "source": "https://blog.island-adventures.com/2025/08/august-16-2025.html"
+  },
+  {
+    "id": "B7E4C2A1-0FD2-4C3A-8DB3-WA1F0B001005",
+    "name": "Fauntleroy / Brace Point — Puget Sound (WA)",
     "species": "Humpback",
-    "info": "Hotspot: fjord and shelf-edge feeding.",
+    "info": "Juvenile humpback ~500 yds off Fauntleroy ferry; fluke shows; mid-day sighting.",
+    "date": "2025-08-03",
+    "latitude": 47.523,
+    "longitude": -122.397,
+    "area": "Washington",
+    "source": "https://www.orcanetwork.org/recent-sightings"
+  },
+  {
+    "id": "C3D5E7F9-1122-4A3B-BC10-BC1F0B001006",
+    "name": "Strait of Georgia — Nanaimo (BC)",
+    "species": "Bigg’s (Transient) Orca",
+    "info": "Transient orcas traveling the Strait; notes on long-range daily movements and marine-mammal prey.",
+    "date": "2025-08-05",
+    "latitude": 49.200,
+    "longitude": -123.950,
+    "area": "BC South",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/8/17/august-5-2025-330-pm-orca-and-humpbacks-in-the-strait"
+  },
+  {
+    "id": "C3D5E7F9-1122-4A3B-BC10-BC1F0B001007",
+    "name": "Strait of Georgia — Nanaimo (BC)",
+    "species": "Humpback",
+    "info": "Seasonal humpbacks working tide lines; seen alongside Bigg’s orcas the same period.",
+    "date": "2025-08-05",
+    "latitude": 49.200,
+    "longitude": -123.950,
+    "area": "BC South",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/8/17/august-5-2025-330-pm-orca-and-humpbacks-in-the-strait"
+  },
+  {
+    "id": "D4A6B8C0-2233-4D71-95AA-AK1F0B001008",
+    "name": "Resurrection Bay — Seward (AK)",
+    "species": "Orca",
+    "info": "Multiple orca pods reported in early August; operators noted strong, frequent sightings continuing.",
+    "date": "2025-08-04",
+    "latitude": 60.050,
+    "longitude": -149.440,
+    "area": "Alaska",
+    "source": "https://www.instagram.com/reel/DM9XkeWOC9w/"
+  },
+  {
+    "id": "D4A6B8C0-2233-4D71-95AA-AK1F0B001009",
+    "name": "Aialik Bay — Kenai Fjords (AK)",
+    "species": "Humpback",
+    "info": "Recent day tour reported humpbacks along fjords and shelf edges (late-season feeding).",
     "date": "2025-08-17",
     "latitude": 59.750,
     "longitude": -149.850,
     "area": "Alaska",
-    "source": null
+    "source": "https://www.tripadvisor.com/AttractionProductReview-g60873-d11453231-Full_day_Northwestern_Glacier_Wildlife_Tour_from_Seward-Seward_Alaska.html"
   },
   {
-    "id": "9D5A4B7F-3B0B-4D0B-9C9C-6C6E6DB90005",
-    "name": "Resurrection Bay — Seward (AK)",
-    "species": "Humpback",
-    "info": "Frequent humpbacks near the bay mouth.",
+    "id": "D4A6B8C0-2233-4D71-95AA-AK1F0B001010",
+    "name": "Kenai Fjords / Gulf side (AK)",
+    "species": "Orca",
+    "info": "Tour reports included orca encounters alongside humpbacks during long day trips.",
     "date": "2025-08-17",
-    "latitude": 60.050,
-    "longitude": -149.440,
+    "latitude": 59.850,
+    "longitude": -149.950,
     "area": "Alaska",
-    "source": null
-  },
-
-  {
-    "id": "A1C2D3E4-F5A6-47B8-9C10-112131415001",
-    "name": "Johnstone Strait — Telegraph Cove (BC)",
-    "species": "Northern Resident Orca",
-    "info": "Resident orcas transiting/rubbing beaches (summer).",
-    "date": "2025-08-17",
-    "latitude": 50.540,
-    "longitude": -126.840,
-    "area": "BC North",
-    "source": null
+    "source": "https://www.tripadvisor.com/AttractionProductReview-g60873-d11453231-Full_day_Northwestern_Glacier_Wildlife_Tour_from_Seward-Seward_Alaska.html"
   },
   {
-    "id": "A1C2D3E4-F5A6-47B8-9C10-112131415002",
-    "name": "Blackney Pass / Blackfish Sound (BC)",
-    "species": "Northern Resident Orca",
-    "info": "Common corridor; strong acoustics.",
-    "date": "2025-08-17",
-    "latitude": 50.550,
-    "longitude": -126.650,
-    "area": "BC North",
-    "source": null
-  },
-  {
-    "id": "A1C2D3E4-F5A6-47B8-9C10-112131415003",
-    "name": "Broughton Archipelago (BC)",
-    "species": "Northern Resident Orca",
-    "info": "Sheltered channels used by resident orcas.",
-    "date": "2025-08-17",
-    "latitude": 50.830,
-    "longitude": -126.750,
-    "area": "BC North",
-    "source": null
-  },
-
-  {
-    "id": "B2D4E6F8-1020-4B31-9C42-536475869001",
-    "name": "Active Pass (Gulf Islands, BC)",
-    "species": "Bigg’s (Transient) Orca",
-    "info": "Tidal pass with frequent transient orca transits.",
-    "date": "2025-08-17",
-    "latitude": 48.860,
-    "longitude": -123.280,
-    "area": "BC South",
-    "source": null
-  },
-  {
-    "id": "B2D4E6F8-1020-4B31-9C42-536475869002",
-    "name": "Strait of Georgia — Nanaimo (BC)",
+    "id": "12B2D6E4-8F7A-4E2B-A1B2-CA1F0B001011",
+    "name": "Monterey Bay — Mid-Canyon (CA)",
     "species": "Humpback",
-    "info": "Seasonal humpbacks along the island side.",
-    "date": "2025-08-17",
-    "latitude": 49.200,
-    "longitude": -123.950,
-    "area": "BC South",
-    "source": null
-  },
-
-  {
-    "id": "C3E5F7A9-2131-4C52-AD63-647586970001",
-    "name": "Admiralty Inlet (WA)",
-    "species": "Bigg’s (Transient) Orca",
-    "info": "Regular transient orca travel route.",
-    "date": "2025-08-17",
-    "latitude": 48.140,
-    "longitude": -122.640,
-    "area": "Washington",
-    "source": null
-  },
-  {
-    "id": "C3E5F7A9-2131-4C52-AD63-647586970002",
-    "name": "Juan de Fuca — Eastern Bank (WA)",
-    "species": "Humpback",
-    "info": "Feeding humpbacks near tide lines.",
-    "date": "2025-08-17",
-    "latitude": 48.300,
-    "longitude": -123.200,
-    "area": "Washington",
-    "source": null
-  },
-
-  {
-    "id": "D4F6A8B0-3242-4D73-BE84-758697A80001",
-    "name": "Newport — Yaquina Head (OR)",
-    "species": "Humpback",
-    "info": "Offshore bait schools draw humpbacks (summer–fall).",
-    "date": "2025-08-17",
-    "latitude": 44.620,
-    "longitude": -124.080,
-    "area": "Oregon",
-    "source": null
-  },
-  {
-    "id": "D4F6A8B0-3242-4D73-BE84-758697A80002",
-    "name": "Port Orford (OR)",
-    "species": "Humpback",
-    "info": "Nearshore feeding when bait is thick.",
-    "date": "2025-08-17",
-    "latitude": 42.740,
-    "longitude": -124.500,
-    "area": "Oregon",
-    "source": null
-  },
-
-  {
-    "id": "E5A7B9C1-4353-4E94-CF95-8697A8B90001",
-    "name": "Crescent City (Far North CA)",
-    "species": "Humpback",
-    "info": "Migration/feeding along headlands.",
-    "date": "2025-08-17",
-    "latitude": 41.740,
-    "longitude": -124.220,
-    "area": "Northern California",
-    "source": null
-  },
-  {
-    "id": "E5A7B9C1-4353-4E94-CF95-8697A8B90002",
-    "name": "Trinidad Head (CA)",
-    "species": "Humpback",
-    "info": "Shelf breaks and eddies attract humpbacks.",
-    "date": "2025-08-17",
-    "latitude": 41.060,
-    "longitude": -124.150,
-    "area": "Northern California",
-    "source": null
-  },
-  {
-    "id": "E5A7B9C1-4353-4E94-CF95-8697A8B90003",
-    "name": "Bodega Bay (CA)",
-    "species": "Humpback",
-    "info": "Summer–fall feeding near the headlands/canyons.",
-    "date": "2025-08-17",
-    "latitude": 38.320,
-    "longitude": -123.070,
-    "area": "Northern California",
-    "source": null
-  },
-
-  {
-    "id": "F6B8CAD2-5464-4095-D1A6-97A8B9CA0001",
-    "name": "Farallon Islands (CA)",
-    "species": "Humpback",
-    "info": "Upwelling hotspot off San Francisco.",
-    "date": "2025-08-17",
-    "latitude": 37.700,
-    "longitude": -123.050,
+    "info": "12–15 humpbacks feeding; pec-slaps and surface activity through late morning.",
+    "date": "2025-08-14",
+    "latitude": 36.740,
+    "longitude": -121.960,
     "area": "Central California",
-    "source": null
+    "source": "https://montereywhalewatching.com/daily-sightings/"
   },
   {
-    "id": "F6B8CAD2-5464-4095-D1A6-97A8B9CA0002",
-    "name": "Monterey Submarine Canyon (CA)",
+    "id": "A0F4E2D8-7C29-4F3E-9B21-WA1F0B001012",
+    "name": "Haro Strait — US/Canada Line (WA)",
     "species": "Humpback",
-    "info": "World-class humpback feeding (spring–fall).",
-    "date": "2025-08-17",
-    "latitude": 36.730,
-    "longitude": -121.930,
-    "area": "Central California",
-    "source": null
-  },
-
-  {
-    "id": "07C9DBE3-6575-41A6-E2B7-A9B0CADB0001",
-    "name": "Santa Barbara Channel (CA)",
-    "species": "Humpback",
-    "info": "Channel edges and oil-rig lines hold bait.",
-    "date": "2025-08-17",
-    "latitude": 34.250,
-    "longitude": -119.500,
-    "area": "Southern California",
-    "source": null
-  },
-  {
-    "id": "07C9DBE3-6575-41A6-E2B7-A9B0CADB0002",
-    "name": "Channel Islands — Anacapa (CA)",
-    "species": "Humpback",
-    "info": "Summer humpbacks; dolphins common.",
-    "date": "2025-08-17",
-    "latitude": 34.010,
-    "longitude": -119.400,
-    "area": "Southern California",
-    "source": null
+    "info": "Single humpback spotted while crossing back into U.S. waters after orca encounters.",
+    "date": "2025-08-18",
+    "latitude": 48.600,
+    "longitude": -123.180,
+    "area": "Washington",
+    "source": "https://blog.island-adventures.com/2025/08/august-18-2025.html"
   }
 ]
