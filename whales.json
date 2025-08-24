@@ -1,5 +1,19 @@
 [
   {
+    "id": "BC-HOWE-2025-08-23-019",
+    "name": "Howe Sound — Hope Point, Gambier Island (BC)",
+    "species": "Bigg’s (Transient) Orca",
+    "info": "Multiple Bigg’s groups (T90s, T36s, T124Ds) observed eastbound from Hope Point around 09:45; later update of the group southbound along the east side of Gambier late morning.",
+    "date": "2025-08-23",
+    "time": "09:45",
+    "latitude": 49.43203,
+    "longitude": -123.37063,
+    "area": "BC South (Howe Sound)",
+    "source": "https://www.facebook.com/groups/372308232860762/posts/2149260918800651/",
+    "pod": "T90s/T36s/T124Ds",
+    "behaviors": ["traveling", "social"]
+  },
+  {
     "id": "WA-DECPT-2025-08-20-001",
     "name": "Deception Pass (WA)",
     "species": "Bigg’s (Transient) Orca",
@@ -25,116 +39,6 @@
     "source": "https://www.sanjuansafaris.com/whale-reports/biggs-killer-whales-t063chainsaw-and-mom-t065whidbey-ii-cowichan-bay",
     "pod": "T063/T065",
     "behaviors": ["traveling"]
-  },
-  {
-    "id": "BC-NAN-2025-08-09-003",
-    "name": "Strait of Georgia — Nanaimo (BC)",
-    "species": "Humpback",
-    "info": "Morning trip found multiple humpbacks dozing and surfacing gently in the Salish Sea (Dalmatian, Geometry, Twinning, Niagara, Forge, Pingu and others).",
-    "date": "2025-08-09",
-    "time": "10:30",
-    "latitude": 49.2,
-    "longitude": -123.95,
-    "area": "BC South",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": ["resting", "traveling"]
-  },
-  {
-    "id": "BC-NAN-2025-08-08-004",
-    "name": "Strait of Georgia — Nanaimo (BC)",
-    "species": "Humpback",
-    "info": "Circle bubble-net feeding with Sergeant and Fallen Knight; Ghost traveling with her 2025 calf and Zorro nearby.",
-    "date": "2025-08-08",
-    "time": "10:30",
-    "latitude": 49.2,
-    "longitude": -123.95,
-    "area": "BC South",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/8/19/august-8-2025-1030-am",
-    "calves": true,
-    "behaviors": ["bubble-net feeding", "group feeding", "traveling"]
-  },
-  {
-    "id": "BC-NAN-2025-08-08-005",
-    "name": "Strait of Georgia — Nanaimo (BC)",
-    "species": "Humpback",
-    "info": "Afternoon 'humpback soup' with Moresby, Bullet, Hammer, Europa and calf, Kappa & Kappiroto, KEX0086, and Eros widely spread across the Strait.",
-    "date": "2025-08-08",
-    "time": "15:30",
-    "latitude": 49.2,
-    "longitude": -123.95,
-    "area": "BC South",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "calves": true,
-    "behaviors": ["feeding", "traveling"]
-  },
-  {
-    "id": "BC-NAN-2025-08-07-006",
-    "name": "Strait of Georgia — Nanaimo (BC)",
-    "species": "Humpback",
-    "info": "Multiple humpbacks lunge-feeding including Twinning and Geometry; Kappa with 2025 calf and Valiant with 2025 calf also present.",
-    "date": "2025-08-07",
-    "time": "15:30",
-    "latitude": 49.2,
-    "longitude": -123.95,
-    "area": "BC South",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "calves": true,
-    "behaviors": ["lunge feeding", "group feeding"]
-  },
-  {
-    "id": "BC-NAN-2025-08-07-007",
-    "name": "Strait of Georgia — Gabriola Island (BC)",
-    "species": "Humpback",
-    "info": "Quartet of humpbacks (Tempest, Twinning, Bond, Geometry) socializing with surface lunges; additional trio (Kappa, Kappiroto, Watson/Cerulean) fluking near Gabriola.",
-    "date": "2025-08-07",
-    "time": "10:30",
-    "latitude": 49.164,
-    "longitude": -123.796,
-    "area": "BC South",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/8/19/august-7-2025-1030-am",
-    "behaviors": ["lunge feeding", "social", "fluking"]
-  },
-  {
-    "id": "BC-NAN-2025-08-05-008",
-    "name": "Strait of Georgia — Nanaimo (BC)",
-    "species": "Bigg’s (Transient) Orca",
-    "info": "T065Bs and T101s reported in the Strait during afternoon tours; humpbacks also present in the same area.",
-    "date": "2025-08-05",
-    "time": "15:30",
-    "latitude": 49.2,
-    "longitude": -123.95,
-    "area": "BC South",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "pod": "T065Bs/T101s",
-    "behaviors": ["traveling", "foraging"]
-  },
-  {
-    "id": "BC-NAN-2025-08-04-009",
-    "name": "Strait of Georgia — Halibut Bank (BC)",
-    "species": "Bigg’s (Transient) Orca",
-    "info": "T065As by Halibut Bank with many humpbacks in the 'Nursery' area (multiple calves identified).",
-    "date": "2025-08-04",
-    "time": "15:30",
-    "latitude": 49.335,
-    "longitude": -123.742,
-    "area": "BC South",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "pod": "T065As",
-    "behaviors": ["traveling"]
-  },
-  {
-    "id": "WA-SIDNEY-2025-08-10-010",
-    "name": "Sidney Island (BC/WA range)",
-    "species": "Bigg’s (Transient) Orca",
-    "info": "T109A matriline encountered near Sidney Island during cross-border tour; extended ID discussion in report.",
-    "date": "2025-08-10",
-    "time": "12:30",
-    "latitude": 48.631,
-    "longitude": -123.318,
-    "area": "BC South",
-    "source": "https://www.sanjuansafaris.com/whale-reports/trip-british-columbia-biggs-killer-whales-t109as-near-sidney-island",
-    "pod": "T109As",
-    "behaviors": ["traveling", "social"]
   },
   {
     "id": "WA-HARO-2025-08-13-011",
@@ -178,20 +82,6 @@
     "behaviors": ["traveling"]
   },
   {
-    "id": "WA-HENRY-2025-08-07-014",
-    "name": "Rosario Strait — North of Henry Island (WA)",
-    "species": "Bigg’s (Transient) Orca",
-    "info": "Nine orcas socializing — the T018s together with the T109As — with long surface intervals and socializing at the surface.",
-    "date": "2025-08-07",
-    "time": "14:00",
-    "latitude": 48.65,
-    "longitude": -122.82,
-    "area": "Washington",
-    "source": "https://www.sanjuansafaris.com/whale-reports/nine-biggs-killer-whales-socialize-north-henry-island",
-    "pod": "T018s/T109As",
-    "behaviors": ["social", "traveling"]
-  },
-  {
     "id": "WA-SJI-2025-08-08-015",
     "name": "San Juan Islands — northbound (WA)",
     "species": "Bigg’s (Transient) Orca",
@@ -206,40 +96,20 @@
     "behaviors": ["traveling", "foraging"]
   },
   {
-    "id": "BC-VIC-2025-08-06-016",
-    "name": "Victoria Inner Harbour (BC)",
-    "species": "Bigg’s (Transient) Orca",
-    "info": "T109A matriline made a rare pass into Victoria’s Inner Harbour, hunting/playing among moored vessels.",
-    "date": "2025-08-06",
-    "latitude": 48.425,
-    "longitude": -123.37,
-    "area": "BC South",
-    "source": "https://princeofwhales.com/killer-whales-in-the-inner-harbour-today/",
-    "pod": "T109As",
-    "behaviors": ["hunting", "traveling"]
-  },
-  {
-    "id": "WA-TAC-2025-08-03-017",
-    "name": "Commencement Bay — Browns Point (WA)",
+    "id": "BC-NAN-2025-08-09-003",
+    "name": "Strait of Georgia — Nanaimo (BC)",
     "species": "Humpback",
-    "info": "Multiple reports of a humpback (CRC-22909 “Ulli”) milling near Browns Point and Tyee Marina; repeated fluking and breaches observed through the day.",
-    "date": "2025-08-03",
-    "latitude": 47.2956,
-    "longitude": -122.443,
-    "area": "Washington",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": ["milling", "fluking", "breaching"]
-  },
-  {
-    "id": "CA-MB-2025-08-09-018",
-    "name": "Monterey Bay — Canyon Edge (CA)",
-    "species": "Humpback",
-    "info": "Multiple humpbacks lunge-feeding; close looks at cooperative feeding along canyon edges.",
+    "info": "Morning trip found multiple humpbacks dozing and surfacing gently in the Salish Sea (Dalmatian, Geometry, Twinning, Niagara, Forge, Pingu and others).",
     "date": "2025-08-09",
-    "latitude": 36.74,
-    "longitude": -121.96,
-    "area": "Central California",
-    "source": "https://gowhales.com/sightings/slstcurr/",
-    "behaviors": ["lunge feeding", "group feeding"]
-  }
-]
+    "time": "10:30",
+    "latitude": 49.2,
+    "longitude": -123.95,
+    "area": "BC South",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": ["resting", "traveling"]
+  },
+  {
+    "id": "BC-NAN-2025-08-08-004",
+    "name": "Strait of Georgia — Nanaimo (BC)",
+    "species": "Humpback",
+    "info": "Circle bubble-net feeding with Sergeant and Fallen Knight; Ghost trav
