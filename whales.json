@@ -1,5 +1,54 @@
 [
   {
+    "id": "AK-GLA-2025-08-21-020",
+    "name": "Glacier Bay NP — Lower Bay (AK)",
+    "species": "Humpback",
+    "info": "NPS 'Whale Waters' update effective Aug 21 reported many humpbacks using the lower bay; 13-knot vessel speed limit in effect to reduce disturbance.",
+    "date": "2025-08-21",
+    "latitude": 58.45,
+    "longitude": -135.90,
+    "area": "SE Alaska (Glacier Bay)",
+    "source": "https://www.nps.gov/locations/alaska/news.htm",
+    "behaviors": ["feeding", "traveling"]
+  },
+  {
+    "id": "AK-JNU-2025-08-09-021",
+    "name": "Juneau — Auke Bay / Stephens Passage (AK)",
+    "species": "Humpback",
+    "info": "Active bubble-net feeding observed on a Juneau tour (Gastineau Guiding) with repeated coordinated lunges.",
+    "date": "2025-08-09",
+    "latitude": 58.38,
+    "longitude": -134.65,
+    "area": "SE Alaska (Juneau)",
+    "source": "https://www.ottsworld.com/blogs/glacier-bay-national-park-alaska/",
+    "behaviors": ["bubble-net feeding", "group feeding"]
+  },
+  {
+    "id": "AK-GLA-2025-08-09-022",
+    "name": "Glacier Bay NP — Whale Waters Notice (AK)",
+    "species": "Humpback",
+    "info": "Park update (Aug 9) noted shifting feeding activity and implemented a new 'Whale Waters' speed limit to protect humpbacks in the lower bay.",
+    "date": "2025-08-09",
+    "latitude": 58.52,
+    "longitude": -135.95,
+    "area": "SE Alaska (Glacier Bay)",
+    "source": "https://www.nps.gov/glba/learn/news/help-us-protect-humpback-whales-in-glacier-bay.htm",
+    "behaviors": ["feeding", "traveling"]
+  },
+  {
+    "id": "AK-SIT-2025-07-30-023",
+    "name": "Sitka Sound — near Sitka (AK)",
+    "species": "Humpback",
+    "info": "Local news reported a whale interaction near Sitka; vessel briefly lifted—indicative of very close surfacing behavior in the area that week.",
+    "date": "2025-07-30",
+    "latitude": 57.05,
+    "longitude": -135.33,
+    "area": "SE Alaska (Sitka)",
+    "source": "https://alaska-native-news.com/whale-lifts-up-fishing-vessel-near-sitka/77767/",
+    "behaviors": ["close approach", "surfacing"]
+  },
+
+  {
     "id": "BC-HOWE-2025-08-23-019",
     "name": "Howe Sound — Hope Point, Gambier Island (BC)",
     "species": "Bigg’s (Transient) Orca",
