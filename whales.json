@@ -6,10 +6,13 @@
     "info": "NPS 'Whale Waters' update effective Aug 21 reported many humpbacks using the lower bay; 13-knot vessel speed limit in effect to reduce disturbance.",
     "date": "2025-08-21",
     "latitude": 58.45,
-    "longitude": -135.90,
+    "longitude": -135.9,
     "area": "SE Alaska (Glacier Bay)",
     "source": "https://www.nps.gov/locations/alaska/news.htm",
-    "behaviors": ["feeding", "traveling"]
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
   },
   {
     "id": "AK-JNU-2025-08-09-021",
@@ -21,7 +24,10 @@
     "longitude": -134.65,
     "area": "SE Alaska (Juneau)",
     "source": "https://www.ottsworld.com/blogs/glacier-bay-national-park-alaska/",
-    "behaviors": ["bubble-net feeding", "group feeding"]
+    "behaviors": [
+      "bubble-net feeding",
+      "group feeding"
+    ]
   },
   {
     "id": "AK-GLA-2025-08-09-022",
@@ -33,7 +39,10 @@
     "longitude": -135.95,
     "area": "SE Alaska (Glacier Bay)",
     "source": "https://www.nps.gov/glba/learn/news/help-us-protect-humpback-whales-in-glacier-bay.htm",
-    "behaviors": ["feeding", "traveling"]
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
   },
   {
     "id": "AK-SIT-2025-07-30-023",
@@ -45,9 +54,11 @@
     "longitude": -135.33,
     "area": "SE Alaska (Sitka)",
     "source": "https://alaska-native-news.com/whale-lifts-up-fishing-vessel-near-sitka/77767/",
-    "behaviors": ["close approach", "surfacing"]
+    "behaviors": [
+      "close approach",
+      "surfacing"
+    ]
   },
-
   {
     "id": "BC-HOWE-2025-08-23-019",
     "name": "Howe Sound — Hope Point, Gambier Island (BC)",
@@ -60,7 +71,10 @@
     "area": "BC South (Howe Sound)",
     "source": "https://www.facebook.com/groups/372308232860762/posts/2149260918800651/",
     "pod": "T90s/T36s/T124Ds",
-    "behaviors": ["traveling", "social"]
+    "behaviors": [
+      "traveling",
+      "social"
+    ]
   },
   {
     "id": "WA-DECPT-2025-08-20-001",
@@ -73,7 +87,10 @@
     "area": "Washington",
     "source": "https://www.sanjuansafaris.com/whale-reports/deception-pass-killer-whale-day",
     "pod": "T099s",
-    "behaviors": ["traveling", "milling"]
+    "behaviors": [
+      "traveling",
+      "milling"
+    ]
   },
   {
     "id": "BC-COW-2025-08-14-002",
@@ -87,7 +104,9 @@
     "area": "BC South",
     "source": "https://www.sanjuansafaris.com/whale-reports/biggs-killer-whales-t063chainsaw-and-mom-t065whidbey-ii-cowichan-bay",
     "pod": "T063/T065",
-    "behaviors": ["traveling"]
+    "behaviors": [
+      "traveling"
+    ]
   },
   {
     "id": "WA-HARO-2025-08-13-011",
@@ -100,7 +119,9 @@
     "area": "Washington",
     "source": "https://www.orcanetwork.org/recent-sightings",
     "pod": "T19s",
-    "behaviors": ["traveling"]
+    "behaviors": [
+      "traveling"
+    ]
   },
   {
     "id": "WA-HOOD-2025-08-13-012",
@@ -114,7 +135,9 @@
     "area": "Washington",
     "source": "https://www.orcanetwork.org/recent-sightings",
     "pod": "T65As (reported period)",
-    "behaviors": ["traveling"]
+    "behaviors": [
+      "traveling"
+    ]
   },
   {
     "id": "WA-OLY-2025-08-11-013",
@@ -128,7 +151,9 @@
     "area": "Washington",
     "source": "https://www.sanjuansafaris.com/whale-reports/olympic-mountains-backdropping-killer-and-humpback-whales",
     "pod": "T046B1s",
-    "behaviors": ["traveling"]
+    "behaviors": [
+      "traveling"
+    ]
   },
   {
     "id": "WA-SJI-2025-08-08-015",
@@ -142,7 +167,10 @@
     "area": "Washington",
     "source": "https://www.sanjuansafaris.com/whale-reports/perfect-pnw-day-bald-eagles-jumping-salmon-and-biggs-killer-whales",
     "pod": "T018/T019 family",
-    "behaviors": ["traveling", "foraging"]
+    "behaviors": [
+      "traveling",
+      "foraging"
+    ]
   },
   {
     "id": "BC-NAN-2025-08-09-003",
@@ -155,7 +183,10 @@
     "longitude": -123.95,
     "area": "BC South",
     "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": ["resting", "traveling"]
+    "behaviors": [
+      "resting",
+      "traveling"
+    ]
   },
   {
     "id": "BC-NAN-2025-08-08-004",
@@ -169,7 +200,11 @@
     "area": "BC South",
     "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/8/19/august-8-2025-1030-am",
     "calves": true,
-    "behaviors": ["bubble-net feeding", "group feeding", "traveling"]
+    "behaviors": [
+      "bubble-net feeding",
+      "group feeding",
+      "traveling"
+    ]
   },
   {
     "id": "BC-NAN-2025-08-08-005",
@@ -183,7 +218,10 @@
     "area": "BC South",
     "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
     "calves": true,
-    "behaviors": ["feeding", "traveling"]
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
   },
   {
     "id": "BC-NAN-2025-08-07-006",
@@ -197,7 +235,10 @@
     "area": "BC South",
     "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
     "calves": true,
-    "behaviors": ["lunge feeding", "group feeding"]
+    "behaviors": [
+      "lunge feeding",
+      "group feeding"
+    ]
   },
   {
     "id": "BC-NAN-2025-08-07-007",
@@ -210,7 +251,11 @@
     "longitude": -123.796,
     "area": "BC South",
     "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/8/19/august-7-2025-1030-am",
-    "behaviors": ["lunge feeding", "social", "fluking"]
+    "behaviors": [
+      "lunge feeding",
+      "social",
+      "fluking"
+    ]
   },
   {
     "id": "BC-NAN-2025-08-05-008",
@@ -224,7 +269,10 @@
     "area": "BC South",
     "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
     "pod": "T065Bs/T101s",
-    "behaviors": ["traveling", "foraging"]
+    "behaviors": [
+      "traveling",
+      "foraging"
+    ]
   },
   {
     "id": "BC-NAN-2025-08-04-009",
@@ -238,7 +286,9 @@
     "area": "BC South",
     "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
     "pod": "T065As",
-    "behaviors": ["traveling"]
+    "behaviors": [
+      "traveling"
+    ]
   },
   {
     "id": "BC-VIC-2025-08-06-016",
@@ -251,7 +301,10 @@
     "area": "BC South",
     "source": "https://princeofwhales.com/killer-whales-in-the-inner-harbour-today/",
     "pod": "T109As",
-    "behaviors": ["hunting", "traveling"]
+    "behaviors": [
+      "hunting",
+      "traveling"
+    ]
   },
   {
     "id": "WA-HENRY-2025-08-07-014",
@@ -265,7 +318,10 @@
     "area": "Washington",
     "source": "https://www.sanjuansafaris.com/whale-reports/nine-biggs-killer-whales-socialize-north-henry-island",
     "pod": "T018s/T109As",
-    "behaviors": ["social", "traveling"]
+    "behaviors": [
+      "social",
+      "traveling"
+    ]
   },
   {
     "id": "WA-TAC-2025-08-03-017",
@@ -277,7 +333,11 @@
     "longitude": -122.443,
     "area": "Washington",
     "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": ["milling", "fluking", "breaching"]
+    "behaviors": [
+      "milling",
+      "fluking",
+      "breaching"
+    ]
   },
   {
     "id": "CA-MB-2025-08-09-018",
@@ -289,6 +349,570 @@
     "longitude": -121.96,
     "area": "Central California",
     "source": "https://gowhales.com/sightings/slstcurr/",
-    "behaviors": ["lunge feeding", "group feeding"]
+    "behaviors": [
+      "lunge feeding",
+      "group feeding"
+    ]
+  },
+  {
+    "id": "AU-WA-FRE-2025-08-27-001",
+    "name": "Fremantle — off Rottnest Trench (WA)",
+    "species": "Humpback",
+    "info": "Southbound migration pods meandering past Fremantle; scattered escort pods and bachelor males.",
+    "date": "2025-08-27",
+    "latitude": -32.05,
+    "longitude": 115.58,
+    "area": "Western Australia (Perth)",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "traveling",
+      "breaching"
+    ]
+  },
+  {
+    "id": "AU-WA-PER-2025-08-23-002",
+    "name": "Perth — Gage Roads (WA)",
+    "species": "Humpback",
+    "info": "Playful juvenile interacting at the surface; 'seaweed facial' noted by naturalists.",
+    "date": "2025-08-23",
+    "latitude": -31.95,
+    "longitude": 115.75,
+    "area": "Western Australia (Perth)",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "social",
+      "tail slapping"
+    ]
+  },
+  {
+    "id": "AU-QLD-HER-2025-08-30-003",
+    "name": "Hervey Bay — Platypus Bay (QLD)",
+    "species": "Humpback",
+    "info": "Peak-season resting and socialising in World Whale Heritage waters; mother-calf pairs linger up to 10 days.",
+    "date": "2025-08-30",
+    "latitude": -24.78,
+    "longitude": 153.11,
+    "area": "Queensland (Fraser Coast)",
+    "source": "https://herveybaywhalefestival.com.au/",
+    "behaviors": [
+      "resting",
+      "social",
+      "spyhopping"
+    ]
+  },
+  {
+    "id": "NZ-AKL-HG-2025-08-18-004",
+    "name": "Hauraki Gulf — off Tiritiri Matangi (NZ)",
+    "species": "Orca",
+    "info": "Coastal orca passing southbound through the Gulf; common seasonal occurrence with intermittent prey-chasing.",
+    "date": "2025-08-18",
+    "latitude": -36.6,
+    "longitude": 174.88,
+    "area": "Auckland (Hauraki Gulf)",
+    "source": "https://www.facebook.com/groups/635589416580474/",
+    "behaviors": [
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "NZ-KAI-2025-08-10-005",
+    "name": "Kaikōura — south of Goose Bay (NZ)",
+    "species": "Orca",
+    "info": "Pod including a very old bull reported; short coastal pass with occasional milling near tour vessels.",
+    "date": "2025-08-10",
+    "latitude": -42.52,
+    "longitude": 173.56,
+    "area": "Kaikōura Coast",
+    "source": "https://www.facebook.com/groups/554312507954499/",
+    "behaviors": [
+      "traveling",
+      "milling"
+    ]
+  },
+  {
+    "id": "US-MA-STEL-2025-08-12-006",
+    "name": "Stellwagen Bank — SW Corner (MA)",
+    "species": "Humpback",
+    "info": "Five humpbacks including well-known individuals (Clamp, Brine, Owl, Sedge, Spoon) feeding and fluking.",
+    "date": "2025-08-12",
+    "latitude": 42.35,
+    "longitude": -70.4,
+    "area": "Gulf of Maine (Stellwagen Bank)",
+    "source": "https://www.facebook.com/whalewatchingma/",
+    "behaviors": [
+      "feeding",
+      "fluking"
+    ]
+  },
+  {
+    "id": "US-MA-STEL-2025-08-07-007",
+    "name": "Stellwagen Bank — Tillies Basin edge (MA)",
+    "species": "Humpback",
+    "info": "Morning watch with many humpbacks and a finback; afternoon repeat activity with active surface feeding.",
+    "date": "2025-08-07",
+    "latitude": 42.65,
+    "longitude": -70.35,
+    "area": "Gulf of Maine (Stellwagen Bank)",
+    "source": "https://www.facebook.com/whalewatchingma/",
+    "behaviors": [
+      "lunge feeding",
+      "group feeding"
+    ]
+  },
+  {
+    "id": "HI-MAU-2025-07-21-008",
+    "name": "Maui — Auʻau Channel (HI)",
+    "species": "Humpback",
+    "info": "Rare off-season humpback sighting near Maui reported by local operator; single whale in apparent good health.",
+    "date": "2025-07-21",
+    "latitude": 20.9,
+    "longitude": -156.67,
+    "area": "Maui County (Auʻau Channel)",
+    "source": "https://hawaiioceanrafting.com/rare-whale-sighting-in-july-2025-in-maui/",
+    "behaviors": [
+      "traveling",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "HI-HAW-2025-02-02-009",
+    "name": "Hawaiian Islands — Sanctuary/Great Whale Count (multi-island)",
+    "species": "Humpback",
+    "info": "Volunteer shoreline surveys recorded hundreds of humpback sightings across Kauaʻi, Oʻahu, Molokaʻi and Hawaiʻi Island during peak season.",
+    "date": "2025-02-02",
+    "latitude": 20.5,
+    "longitude": -156.5,
+    "area": "Hawaiian Islands",
+    "source": "https://lostonlanai.com/first-humpback-whale-count-of-the-year-2025/",
+    "behaviors": [
+      "blows",
+      "breaches",
+      "fluking"
+    ]
+  },
+  {
+    "id": "JP-OKI-KER-2025-02-20-010",
+    "name": "Kerama Islands — Zamami / Aka (Okinawa)",
+    "species": "Humpback",
+    "info": "Mother-calf pairs and escorts in winter breeding grounds; repeated breaches and tail slaps observed.",
+    "date": "2025-02-20",
+    "latitude": 26.21,
+    "longitude": 127.3,
+    "area": "Okinawa (Kerama National Park)",
+    "source": "https://keramaislands.asia/nature/whales/range-and-migration-humpbacks",
+    "behaviors": [
+      "breaching",
+      "tail slapping",
+      "escorting"
+    ]
+  },
+  {
+    "id": "JP-TKY-OGA-2025-03-05-011",
+    "name": "Ogasawara (Bonin) Islands — Chichijima offshore (Tokyo)",
+    "species": "Humpback",
+    "info": "Seasonal breeding aggregation; multiple singers and competitive groups reported around the island chain.",
+    "date": "2025-03-05",
+    "latitude": 27.08,
+    "longitude": 142.2,
+    "area": "Ogasawara (Tokyo)",
+    "source": "https://uk.whales.org/2025/04/03/where-is-the-best-place-to-go-whale-watching-in-japan/",
+    "behaviors": [
+      "singing",
+      "competitive group"
+    ]
+  },
+  {
+    "id": "JP-HKD-RAU-2025-06-10-012",
+    "name": "Rausu — Shiretoko Peninsula (Hokkaidō)",
+    "species": "Orca",
+    "info": "Peak-season coastal orca observed from nature cruise boats; multiple pods traveling along the Nemuro Strait.",
+    "date": "2025-06-10",
+    "latitude": 44.02,
+    "longitude": 145.2,
+    "area": "Hokkaidō (Shiretoko/Rausu)",
+    "source": "https://www.myeasternhokkaido.com/shiretoko-nature-cruise/",
+    "behaviors": [
+      "traveling",
+      "spyhopping"
+    ]
+  },
+  {
+    "id": "AU-WA-BRE-2025-03-01-013",
+    "name": "Bremer Sub-Basin — Bremer Canyon (WA)",
+    "species": "Orca",
+    "info": "Multiple orca family groups cooperatively hunting large prey in canyon waters (seasonal hotspot).",
+    "date": "2025-03-01",
+    "latitude": -34.45,
+    "longitude": 119.7,
+    "area": "Western Australia (Bremer Bay)",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "cooperative hunting",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-ME-BHB-2025-08-09-014",
+    "name": "Bar Harbor — Mount Desert Rock line (ME)",
+    "species": "Humpback",
+    "info": "Active feeding humpbacks on offshore banks; frequent tail throws and bubble clouds.",
+    "date": "2025-08-09",
+    "latitude": 44.03,
+    "longitude": -68.67,
+    "area": "Gulf of Maine (Bar Harbor)",
+    "source": "https://www.7seaswhalewatch.com/",
+    "behaviors": [
+      "lunge feeding",
+      "tail throwing"
+    ]
+  },
+  {
+    "id": "NZ-AKL-HG-2025-07-05-015",
+    "name": "Hauraki Gulf — outer Gulf (NZ)",
+    "species": "Humpback",
+    "info": "Migrating humpback transiting through the Hauraki Gulf alongside common dolphins.",
+    "date": "2025-07-05",
+    "latitude": -36.87,
+    "longitude": 175.2,
+    "area": "Auckland (Hauraki Gulf)",
+    "source": "https://whalewatchingauckland.com/marine-life/whales/",
+    "behaviors": [
+      "traveling",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "HI-HAW-2025-02-22-016",
+    "name": "Hawaiian Islands — Ocean Count (multi-island)",
+    "species": "Humpback",
+    "info": "Second volunteer count day of the season recorded numerous blows and breaches at shoreline stations.",
+    "date": "2025-02-22",
+    "latitude": 20.5,
+    "longitude": -156.5,
+    "area": "Hawaiian Islands",
+    "source": "https://lostonlanai.com/first-humpback-whale-count-of-the-year-2025/",
+    "behaviors": [
+      "breaching",
+      "blows"
+    ]
+  },
+  {
+    "id": "AU-WA-PER-2025-08-22-017",
+    "name": "Perth — Off Gage Roads (WA)",
+    "species": "Humpback",
+    "info": "Perth Humpback Season 2025 kick-off trip; first southbound pods meandering near Gage Roads.",
+    "date": "2025-08-22",
+    "latitude": -31.97,
+    "longitude": 115.72,
+    "area": "Western Australia (Perth)",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "traveling",
+      "breaching"
+    ]
+  },
+  {
+    "id": "AU-WA-PER-2025-08-24-018",
+    "name": "Perth — Rottnest Trench line (WA)",
+    "species": "Humpback",
+    "info": "Surface-active juvenile and escort pair; rolling, tail slaps reported by crew.",
+    "date": "2025-08-24",
+    "latitude": -31.98,
+    "longitude": 115.46,
+    "area": "Western Australia (Perth)",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "tail slapping",
+      "rolling",
+      "social"
+    ]
+  },
+  {
+    "id": "AU-QLD-HER-2025-08-29-019",
+    "name": "Hervey Bay — Platypus Bay (QLD)",
+    "species": "Humpback",
+    "info": "Mother–calf pair lingering in sheltered waters; repeated spyhops and gentle pec slaps typical of peak-season behavior.",
+    "date": "2025-08-29",
+    "latitude": -24.78,
+    "longitude": 153.11,
+    "area": "Queensland (Fraser Coast)",
+    "source": "https://www.herveybaywhalewatch.com.au/faqs",
+    "behaviors": [
+      "resting",
+      "spyhopping",
+      "pec slapping"
+    ],
+    "calves": true
+  },
+  {
+    "id": "US-NY-NYB-2025-08-02-020",
+    "name": "New York Bight — off Rockaway (NY)",
+    "species": "Humpback",
+    "info": "Two humpbacks seen on sunset trip; double lunge feeding noted earlier the same day.",
+    "date": "2025-08-02",
+    "latitude": 40.42,
+    "longitude": -73.83,
+    "area": "New York Bight",
+    "source": "https://americanprincesscruises.com/whale-dolphin-wildlife-sightings-report/",
+    "behaviors": [
+      "lunge feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-NY-NYB-2025-07-31-021",
+    "name": "New York Bight — off Breezy Point (NY)",
+    "species": "Humpback",
+    "info": "Three humpbacks together; breaching and tandem travel.",
+    "date": "2025-07-31",
+    "latitude": 40.55,
+    "longitude": -73.9,
+    "area": "New York Bight",
+    "source": "https://americanprincesscruises.com/whale-dolphin-wildlife-sightings-report/",
+    "behaviors": [
+      "breaching",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-NY-NYB-2025-07-30-022",
+    "name": "New York Bight — near Ambrose Channel (NY/NJ)",
+    "species": "Humpback",
+    "info": "Full-body breaching humpback observed repeatedly during afternoon tour.",
+    "date": "2025-07-30",
+    "latitude": 40.4,
+    "longitude": -73.9,
+    "area": "New York Bight",
+    "source": "https://americanprincesscruises.com/whale-dolphin-wildlife-sightings-report/",
+    "behaviors": [
+      "breaching"
+    ]
+  },
+  {
+    "id": "US-NY-NYB-2025-07-27-023",
+    "name": "New York Bight — Coney Island reef line (NY)",
+    "species": "Humpback",
+    "info": "Five humpbacks; tail slaps, peduncle throws, and tandem swimming.",
+    "date": "2025-07-27",
+    "latitude": 40.45,
+    "longitude": -73.96,
+    "area": "New York Bight",
+    "source": "https://americanprincesscruises.com/whale-dolphin-wildlife-sightings-report/",
+    "behaviors": [
+      "tail slapping",
+      "peduncle throwing",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-MA-STEL-2025-08-14-024",
+    "name": "Stellwagen Bank — mid-bank (MA)",
+    "species": "Humpback",
+    "info": "Named humpbacks 'Ravine' and 'Valley' traveling together; afternoon video posted by operator.",
+    "date": "2025-08-14",
+    "latitude": 42.35,
+    "longitude": -70.4,
+    "area": "Gulf of Maine (Stellwagen)",
+    "source": "https://www.facebook.com/whalewatchingma/",
+    "behaviors": [
+      "traveling",
+      "fluking"
+    ]
+  },
+  {
+    "id": "US-MA-STEL-2025-08-09-025",
+    "name": "Stellwagen Bank — southwest corner (MA)",
+    "species": "Humpback",
+    "info": "Two humpbacks observed on both morning and afternoon trips; unusual synchronous surfacing behavior noted.",
+    "date": "2025-08-09",
+    "latitude": 42.3,
+    "longitude": -70.45,
+    "area": "Gulf of Maine (Stellwagen)",
+    "source": "https://www.facebook.com/whalewatchingma/posts/whale-and-bird-update-august-9-2025today-we-again-travelled-north-to-an-area-on-/1194029532763807/",
+    "behaviors": [
+      "traveling",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "US-MA-STEL-2025-08-03-026",
+    "name": "Stellwagen Bank — northwest corner (MA)",
+    "species": "Humpback",
+    "info": "Many humpbacks on both trips; lunge feeding with Atlantic white-sided dolphins nearby.",
+    "date": "2025-08-03",
+    "latitude": 42.45,
+    "longitude": -70.4,
+    "area": "Gulf of Maine (Stellwagen)",
+    "source": "https://www.facebook.com/whalewatchingma/posts/whale-sightings-update-august-3-2025today-was-a-picture-perfect-weather-day-on-t/1188862193280541/",
+    "behaviors": [
+      "lunge feeding",
+      "group feeding"
+    ]
+  },
+  {
+    "id": "HI-OCEANCOUNT-2025-02-22-027",
+    "name": "Hawaiian Islands — Sanctuary Ocean Count (multi-island)",
+    "species": "Humpback",
+    "info": "Volunteer shoreline survey recorded widespread blows, breaches and tail slaps across sites on Oʻahu, Kauaʻi, Molokaʻi and Hawaiʻi Island.",
+    "date": "2025-02-22",
+    "latitude": 20.5,
+    "longitude": -156.5,
+    "area": "Hawaiian Islands",
+    "source": "https://oceancount.org/wp-content/uploads/2025/02/OC_web_results_Feb_2025.pdf",
+    "behaviors": [
+      "blows",
+      "breaching",
+      "tail slapping"
+    ]
+  },
+  {
+    "id": "JP-OKI-KER-2025-02-15-028",
+    "name": "Kerama Islands — Zamami Channel (Okinawa)",
+    "species": "Humpback",
+    "info": "Multiple mother–calf pairs with escorts in protected channels; repeated breaches and competitive groups nearby.",
+    "date": "2025-02-15",
+    "latitude": 26.21,
+    "longitude": 127.3,
+    "area": "Okinawa (Kerama National Park)",
+    "source": "https://keramaislands.asia/nature/whales/range-and-migration-humpbacks",
+    "behaviors": [
+      "breaching",
+      "competitive group"
+    ],
+    "calves": true
+  },
+  {
+    "id": "JP-TKY-OGA-2025-03-10-029",
+    "name": "Ogasawara — Chichijima offshore (Tokyo)",
+    "species": "Humpback",
+    "info": "Singers and surface-active groups seen around island chain during breeding season.",
+    "date": "2025-03-10",
+    "latitude": 27.08,
+    "longitude": 142.2,
+    "area": "Ogasawara (Tokyo)",
+    "source": "https://www.japan-guide.com/e/e8202.html",
+    "behaviors": [
+      "singing",
+      "breaching"
+    ]
+  },
+  {
+    "id": "JP-HKD-RAU-2025-06-15-030",
+    "name": "Rausu — Nemuro Strait (Hokkaidō)",
+    "species": "Orca",
+    "info": "Coastal orca pods traveling along the Shiretoko Peninsula; peak viewing in June noted by operators.",
+    "date": "2025-06-15",
+    "latitude": 44.02,
+    "longitude": 145.2,
+    "area": "Hokkaidō (Shiretoko/Rausu)",
+    "source": "https://www.myeasternhokkaido.com/shiretoko-nature-cruise/",
+    "behaviors": [
+      "traveling",
+      "spyhopping"
+    ]
+  },
+  {
+    "id": "NZ-AKL-HG-2025-08-20-031",
+    "name": "Hauraki Gulf — off Rangitoto (NZ)",
+    "species": "Orca",
+    "info": "Coastal orca cruising southbound with dolphins; short pursuit behavior on rays reported by local group.",
+    "date": "2025-08-20",
+    "latitude": -36.8,
+    "longitude": 174.9,
+    "area": "Auckland (Hauraki Gulf)",
+    "source": "https://www.facebook.com/groups/635589416580474/",
+    "behaviors": [
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "NZ-AKL-HG-2025-07-05-032",
+    "name": "Hauraki Gulf — Waitematā entrance (NZ)",
+    "species": "Humpback",
+    "info": "Migrating humpback transiting outer gulf alongside common dolphins; seen from Auckland Whale & Dolphin Safari route.",
+    "date": "2025-07-05",
+    "latitude": -36.83,
+    "longitude": 174.85,
+    "area": "Auckland (Hauraki Gulf)",
+    "source": "https://whalewatchingauckland.com/tour-details/",
+    "behaviors": [
+      "traveling",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "NZ-KAI-2025-08-28-033",
+    "name": "Kaikōura — south of Peninsula (NZ)",
+    "species": "Humpback",
+    "info": "Operator report indicates tours based around humpbacks with 1–2 sightings per sailing amid rougher weather.",
+    "date": "2025-08-28",
+    "latitude": -42.43,
+    "longitude": 173.68,
+    "area": "Kaikōura Coast",
+    "source": "https://whalewatch.co.nz/report/",
+    "behaviors": [
+      "traveling",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "US-ME-BHB-2025-08-10-034",
+    "name": "Bar Harbor — Mount Desert Rock line (ME)",
+    "species": "Humpback",
+    "info": "Several humpbacks and fin whales noted on offshore cruise; lighthouse loop included.",
+    "date": "2025-08-10",
+    "latitude": 43.97,
+    "longitude": -68.14,
+    "area": "Gulf of Maine (Bar Harbor)",
+    "source": "https://www.facebook.com/BarHarborWhaleWatch/posts/an-absolute-stellar-day-for-our-downeast-offshore-seabird-lighthouse-cruise-the-/1400346291654457/",
+    "behaviors": [
+      "traveling",
+      "fluking"
+    ]
+  },
+  {
+    "id": "AU-WA-AUG-2025-08-05-035",
+    "name": "Flinders Bay — Augusta (WA)",
+    "species": "Humpback",
+    "info": "Season finale day; migrating pods departing Flinders Bay with active breaching and tail throws.",
+    "date": "2025-08-05",
+    "latitude": -34.33,
+    "longitude": 115.15,
+    "area": "Western Australia (Augusta)",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "breaching",
+      "tail throwing"
+    ]
+  },
+  {
+    "id": "US-NY-NYB-2025-08-02-036",
+    "name": "New York Bight — off Rockaway (NY)",
+    "species": "Humpback",
+    "info": "Noon trip: two humpbacks double lunge feeding; evening trip maintained presence.",
+    "date": "2025-08-02",
+    "latitude": 40.43,
+    "longitude": -73.82,
+    "area": "New York Bight",
+    "source": "https://americanprincesscruises.com/whale-dolphin-wildlife-sightings-report/",
+    "behaviors": [
+      "double lunge feeding"
+    ]
+  },
+  {
+    "id": "US-MA-STEL-2025-08-08-037",
+    "name": "Stellwagen Bank — Tillies edge (MA)",
+    "species": "Humpback",
+    "info": "Lots of whales on both AM/PM trips; surface feeding observed.",
+    "date": "2025-08-08",
+    "latitude": 42.65,
+    "longitude": -70.35,
+    "area": "Gulf of Maine (Stellwagen)",
+    "source": "https://www.7seaswhalewatch.com/",
+    "behaviors": [
+      "surface feeding"
+    ]
   }
 ]
