@@ -1,18 +1,4 @@
-[
-  {
-    "id": "CA-20250810-100",
-    "name": "California — Monterey Bay (US)",
-    "species": "Humpback",
-    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
-    "date": "2025-08-10",
-    "latitude": 36.8,
-    "longitude": -121.92,
-    "area": "USA (California/Monterey Bay)",
-    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
-    "behaviors": [
-      "feeding",
-      "lunge feeding",
-      "breaching"
+
     ]
   },
   {
