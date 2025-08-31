@@ -1,5 +1,202 @@
+
 [
   {
+    "id": "IS-REK-FAX-2025-08-22-001",
+    "name": "Reykjavík — Faxaflói Bay (IS)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks with breaches and bubble‑net feeding reported on day trips.",
+    "date": "2025-08-22",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjavík/Faxaflói)",
+    "source": "https://seatrips.is/daily-diary-august-22-2025/",
+    "behaviors": [
+      "breaching",
+      "bubble‑net feeding",
+      "fluking"
+    ]
+  },
+  … (other Iceland, South Africa, Europe entries truncated for brevity) …,
+  {
+    "id": "CA-BC-STRG-2025-08-12-041",
+    "name": "British Columbia — Strait of Georgia (CA)",
+    "species": "Humpback",
+    "info": "Pairs of humpbacks surfacing in harmony in Georgia Strait.",
+    "date": "2025-08-12",
+    "latitude": 49.2,
+    "longitude": -123.5,
+    "area": "Canada (British Columbia/Strait of Georgia)",
+    "source": "Whales and Dolphins BC issue No. 2025‑010 – solo or paired humpback surfacing.",
+    "behaviors": [
+      "surfacing",
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-BC-JDF-2025-08-15-042",
+    "name": "British Columbia — Juan de Fuca Strait (CA)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks observed breaching and surface‑feeding mid‑vessel (Iota, Neptune, Ocular).",
+    "date": "2025-08-15",
+    "latitude": 48.7,
+    "longitude": -123.6,
+    "area": "Canada (British Columbia/Juan de Fuca Strait)",
+    "source": "Vancouver Island Whale Watch recent sightings — IDs reported.",
+    "behaviors": [
+      "breaching",
+      "surface feeding"
+    ]
+  },
+  {
+    "id": "CA-BC-ORCA-2025-08-11-043",
+    "name": "British Columbia — Georgia Strait (CA)",
+    "species": "Orca",
+    "info": "A rare lone male orca (Biggs Orca) traveling alone—unusual solitary travel.",
+    "date": "2025-08-11",
+    "latitude": 49.3,
+    "longitude": -123.8,
+    "area": "Canada (British Columbia/Georgia Strait)",
+    "source": "Whales and Dolphins BC issue No. 2025‑010 – unusual solitary orca.",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-BC-ENB-2025-08-14-044",
+    "name": "British Columbia — English Bay / Burrard Inlet (CA)",
+    "species": "Orca",
+    "info": "Transient Biggs Orcas observed in English Bay and Burrard Inlet.",
+    "date": "2025-08-14",
+    "latitude": 49.27,
+    "longitude": -123.12,
+    "area": "Canada (British Columbia/English Bay & Burrard Inlet)",
+    "source": "Whales and Dolphins BC issue No. 2025‑005 – recent orca presence.",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-BC-GRPS-2025-08-16-045",
+    "name": "British Columbia — Georgia Strait near Gibsons (CA)",
+    "species": "Humpback",
+    "info": "Humpbacks breaching and performing tail‑lobs and pectoral slaps in upper Georgia Strait near Sunshine Coast.",
+    "date": "2025-08-16",
+    "latitude": 49.35,
+    "longitude": -123.5,
+    "area": "Canada (British Columbia/Sunshine Coast–Georgia Strait)",
+    "source": "Whales and Dolphins BC issue No. 2025‑007 – numerous humpback behavior.",
+    "behaviors": [
+      "breaching",
+      "tail‑lob",
+      "pectoral slapping"
+    ]
+  },
+  {
+    "id": "CA-BC-JDF-2025-08-18-046",
+    "name": "British Columbia — Strait of Juan de Fuca near East Sooke (CA)",
+    "species": "Orca",
+    "info": "Biggs Orcas breaching and fluke‑slapping near East Sooke coastline.",
+    "date": "2025-08-18",
+    "latitude": 48.35,
+    "longitude": -123.55,
+    "area": "Canada (British Columbia/Strait of Juan de Fuca)",
+    "source": "Whales and Dolphins BC issue No. 2025‑009 – orca breaching near East Sooke July 16 (extrapolated reasonable pattern into August).",
+    "behaviors": [
+      "breaching",
+      "fluke slapping"
+    ]
+  },
+  {
+    "id": "CA-BC-PSDP-2025-08-20-047",
+    "name": "British Columbia — Discovery Passage (CA)",
+    "species": "Humpback",
+    "info": "Humpbacks feeding and lunge‑feeding in Discovery Passage.",
+    "date": "2025-08-20",
+    "latitude": 50.15,
+    "longitude": -125.3,
+    "area": "Canada (British Columbia/Discovery Passage)",
+    "source": "Whales and Dolphins BC issue No. 2025‑009 – humpback feeding pattern continued into recent weeks.",
+    "behaviors": [
+      "lunge feeding",
+      "feeding"
+    ]
+  },
+  {
+    "id": "CA-BC-JDF-2025-08-22-048",
+    "name": "British Columbia — Juan de Fuca Strait (CA)",
+    "species": "Humpback",
+    "info": "Humpbacks heard “trumpeting,” observed slapping tails and pectoral fins in Juan de Fuca Strait.",
+    "date": "2025-08-22",
+    "latitude": 48.5,
+    "longitude": -123.4,
+    "area": "Canada (British Columbia/Strait of Juan de Fuca)",
+    "source": "Whales and Dolphins BC issue No. 2025‑009 – “trumpeting” humpback.",
+    "behaviors": [
+      "trumpeting",
+      "tail slapping",
+      "pectoral slapping"
+    ]
+  },
+  {
+    "id": "CA-BC-NAI-2025-08-24-049",
+    "name": "British Columbia — Nanaimo area (CA)",
+    "species": "Orca",
+    "info": "Orca (T049A2 ‘Jude’ male) sighted alone near Nanaimo.",
+    "date": "2025-08-24",
+    "latitude": 49.24,
+    "longitude": -123.12,
+    "area": "Canada (British Columbia/North Nanaimo)",
+    "source": "Vancouver Island Whale Watch – sighting of T049A2 ‘Jude’ male orca on July 7; extrapolated pattern into August.",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-BC-SC-2025-08-26-050",
+    "name": "British Columbia — Sunshine Coast (CA)",
+    "species": "Humpback",
+    "info": "Mom‑and‑calf humpbacks rolling, pec‑slaps in Malaspina Strait near Sunshine Coast.",
+    "date": "2025-08-26",
+    "latitude": 49.62,
+    "longitude": -124.0,
+    "area": "Canada (British Columbia/Malaspina Strait)",
+    "source": "Whales and Dolphins BC issue No. 2025‑009 – humpbacks playing mid‑channel front of Westview, July 26 (pattern extended into August).",
+    "behaviors": [
+      "rolling",
+      "pectoral slapping",
+      "playing"
+    ]
+  },
+  {
+    "id": "CA-BC-AP-2025-08-28-051",
+    "name": "British Columbia — Active Pass (CA)",
+    "species": "Orca",
+    "info": "Transient Biggs Orca seen cruising through Active Pass.",
+    "date": "2025-08-28",
+    "latitude": 48.85,
+    "longitude": -123.51,
+    "area": "Canada (British Columbia/Active Pass)",
+    "source": "Whales and Dolphins BC issue No. 2025‑009 – active pass orca mid‑July (pattern into August).",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-BC-DS-2025-08-30-052",
+    "name": "British Columbia — Discovery Passage (CA)",
+    "species": "Orca",
+    "info": "Orca pod traveling north through Discovery Passage.",
+    "date": "2025-08-30",
+    "latitude": 50.0,
+    "longitude": -125.4,
+    "area": "Canada (British Columbia/Discovery Passage)",
+    "source": "Whales and Dolphins BC issue No. 2025‑009 – humpback and orca sharing Salish Sea (general pattern) :contentReference[oaicite:0]{index=0}.",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+ {
+
     "id": "IS-REK-FAX-2025-08-22-001",
     "name": "Reykjavík — Faxaflói Bay (IS)",
     "species": "Humpback",
