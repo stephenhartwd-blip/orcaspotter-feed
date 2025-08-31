@@ -93,8 +93,6 @@
     "pod": "T046B1s",
     "behaviors": ["traveling"]
   },
-
-  // — Europe (IS/IE/ES/PT) — August only (10–31)
   {
     "id": "IS-REK-FAX-2025-08-22-001",
     "name": "Reykjavík — Faxaflói Bay (IS)",
@@ -359,8 +357,6 @@
     "source": "https://gentlegiants.is/news/",
     "behaviors": ["blows", "traveling"]
   },
-
-  // Ireland / Spain / Strait of Gibraltar / South Africa
   {
     "id": "IE-COR-CRO-2025-08-24-015",
     "name": "Crookhaven — Co. Cork (IE)",
@@ -494,8 +490,6 @@
     "behaviors": ["traveling", "surfacing"],
     "calves": true
   },
-
-  // — Australia & New Zealand (Aug 10–31)
   {
     "id": "AU-WA-PER-2025-08-22-017",
     "name": "Perth — Off Gage Roads (WA)",
@@ -593,8 +587,6 @@
     "source": "https://whalewatch.co.nz/report/",
     "behaviors": ["traveling", "surfacing"]
   },
-
-  // — East Coast USA (within window)
   {
     "id": "US-MA-STEL-2025-08-12-006",
     "name": "Stellwagen Bank — SW Corner (MA)",
@@ -631,8 +623,6 @@
     "source": "https://www.facebook.com/BarHarborWhaleWatch/posts/an-absolute-stellar-day-for-our-downeast-offshore-seabird-lighthouse-cruise-the-/1400346291654457/",
     "behaviors": ["traveling", "fluking"]
   },
-
-  // — NEW WEST COAST NA ADDITIONS (WA/BC via Orca Network & operators)
   {
     "id": "WA-ADM-2025-08-16-001A",
     "name": "Admiralty Inlet — Point No Point (WA)",
@@ -993,8 +983,6 @@
     "source": "https://www.orcanetwork.org/recent-sightings",
     "behaviors": ["fluking", "traveling"]
   },
-
-  // — MONTEREY BAY / CENTRAL CA (Aug 10–31)
   {
     "id": "US-CA-MB-2025-08-10-001",
     "name": "Monterey Bay — Submarine Canyon edge (CA)",
@@ -1055,8 +1043,6 @@
     "source": "https://www.facebook.com/gowhales/posts/1214483744039528/",
     "behaviors": ["lunge feeding"]
   },
-
-  // — MORE EUROPE (Tarifa operator + media late Aug)
   {
     "id": "ES-CAD-TAR-2025-08-23-043",
     "name": "Strait of Gibraltar — Tarifa offshore (ES)",
@@ -1093,8 +1079,6 @@
     "source": "https://www.firmm.org/en/whale-watching/tour-diary",
     "behaviors": ["traveling"]
   },
-
-  // — EXTRA ICELANDIC AUG ENTRIES (same window)
   {
     "id": "IS-REK-FAX-2025-08-17-046",
     "name": "Reykjavík — Esja front (IS)",
@@ -1131,8 +1115,6 @@
     "source": "https://gentlegiants.is/news/",
     "behaviors": ["breaching"]
   },
-
-  // — MORE AU/NZ (late Aug Hervey + Kaikōura)
   {
     "id": "AU-QLD-HER-2025-08-28-049",
     "name": "Hervey Bay — Platypus Bay (QLD)",
@@ -1158,8 +1140,6 @@
     "source": "https://whalewatch.co.nz/report/",
     "behaviors": ["fluking", "traveling"]
   },
-
-  // — BULK ADD: more Orca Network + San Juan Safaris within Aug 10–31 —
   {"id":"WA-PUG-2025-08-12-051","name":"Puget Sound — Magnolia Bluff (WA)","species":"Bigg’s (Transient) Orca","info":"Quick southbound pass along bluff.","date":"2025-08-12","latitude":47.64,"longitude":-122.41,"area":"Puget Sound","source":"https://www.orcanetwork.org/recent-sightings","behaviors":["traveling"]},
   {"id":"WA-ADM-2025-08-12-052","name":"Admiralty — Lagoon Point (WA)","species":"Bigg’s (Transient) Orca","info":"Hunting near kelp; tight circles.","date":"2025-08-12","latitude":48.0,"longitude":-122.54,"area":"Puget Sound","source":"https://www.orcanetwork.org/recent-sightings","behaviors":["foraging"]},
   {"id":"WA-JDF-2025-08-13-053","name":"Juan de Fuca — Parsons Light (WA)","species":"Humpback","info":"Solo humpback, big flukes in tide rips.","date":"2025-08-13","latitude":48.28,"longitude":-123.59,"area":"Strait of Juan de Fuca","source":"https://www.orcanetwork.org/recent-sightings","behaviors":["fluking"]},
@@ -1183,7 +1163,6 @@
   {"id":"WA-ROS-2025-08-29-071","name":"Rosario — Thatcher Pass (WA)","species":"Bigg’s (Transient) Orca","info":"Northbound with long dives.","date":"2025-08-29","latitude":48.51,"longitude":-122.76,"area":"San Juan Islands","source":"https://www.sanjuansafaris.com/blog","behaviors":["traveling"]},
   {"id":"WA-HARO-2025-08-31-072","name":"Haro Strait — Kellett Bluff (WA)","species":"Bigg’s (Transient) Orca","info":"Border-skirting group headed south on ebb.","date":"2025-08-31","latitude":48.62,"longitude":-123.25,"area":"San Juan Islands","source":"https://www.orcanetwork.org/recent-sightings","behaviors":["traveling"]},
 
-  // — PAD WITH MORE MONTEREY AUG ENTRIES —
   {"id":"US-CA-MB-2025-08-11-073","name":"Monterey Bay — Soquel Hole (CA)","species":"Humpback","info":"Scattered lunges over anchovy schools.","date":"2025-08-11","latitude":36.74,"longitude":-121.9,"area":"Central California","source":"https://gowhales.com/sightings/slstcurr/","behaviors":["lunge feeding"]},
   {"id":"US-CA-MB-2025-08-12-074","name":"Monterey Bay — Pajaro Shelf (CA)","species":"Humpback","info":"Afternoon breaches; birds thick.","date":"2025-08-12","latitude":36.82,"longitude":-121.91,"area":"Central California","source":"https://gowhales.com/sightings/slstcurr/","behaviors":["breaching"]},
   {"id":"US-CA-MB-2025-08-13-075","name":"Monterey Bay — Moss Landing (CA)","species":"Humpback","info":"Pec slaps near kelp paddies.","date":"2025-08-13","latitude":36.8,"longitude":-121.79,"area":"Central California","source":"https://montereybaywhalewatch.com/sighting/flurry-of-humpback-whale-activity-on-august-16/","behaviors":["pec slapping"]},
@@ -1203,23 +1182,22 @@
   {"id":"US-CA-MB-2025-08-30-089","name":"Monterey Bay — Moss Landing (CA)","species":"Humpback","info":"Close passes; pec-slaps by juvenile.","date":"2025-08-30","latitude":36.8,"longitude":-121.79,"area":"Central California","source":"https://gowhales.com/sightings/slstcurr/","behaviors":["pec slapping"]},
   {"id":"US-CA-MB-2025-08-31-090","name":"Monterey Bay — Submarine Canyon (CA)","species":"Humpback","info":"Multiple blows along rip lines; steady travel.","date":"2025-08-31","latitude":36.74,"longitude":-121.96,"area":"Central California","source":"https://gowhales.com/sightings/slstcurr/","behaviors":["traveling"]},
 
-  // — a few West Coast Canada complements (late Aug)
+
   {"id":"BC-JDF-2025-08-28-091","name":"Juan de Fuca — Race Rocks (BC)","species":"Humpback","info":"Solo humpback circling tide rips.","date":"2025-08-28","latitude":48.29,"longitude":-123.53,"area":"Vancouver Island South","source":"https://www.orcanetwork.org/recent-sightings","behaviors":["milling"]},
   {"id":"BC-HARO-2025-08-29-092","name":"Haro Strait — Discovery Island (BC)","species":"Bigg’s (Transient) Orca","info":"Border run northbound.","date":"2025-08-29","latitude":48.42,"longitude":-123.25,"area":"Southern Gulf Islands","source":"https://www.orcanetwork.org/recent-sightings","behaviors":["traveling"]},
   {"id":"BC-SOG-2025-08-30-093","name":"Strait of Georgia — Halibut Bank (BC)","species":"Humpback","info":"Resting humpback; gentle surfacing.","date":"2025-08-30","latitude":49.34,"longitude":-123.74,"area":"BC South","source":"https://www.vancouverislandwhalewatch.com/recent-sightings","behaviors":["resting","surfacing"]},
 
-  // — a few more Spain/Galicia late-Aug datapoints
+
   {"id":"ES-GAL-ARO-2025-08-26-094","name":"Ría de Arousa — outer bar (ES)","species":"Orca","info":"Pair cruising near channel buoyage.","date":"2025-08-26","latitude":42.52,"longitude":-8.98,"area":"Spain (Galicia)","source":"https://www.lavozdegalicia.es/noticia/somosmar/2025/08/29/mitad-encuentros-orcas-verano-produjeron-entorno-ria/0003_202508A29C1991.htm","behaviors":["traveling"]},
   {"id":"ES-GAL-SIS-2025-08-27-095","name":"Ría de Arousa — Sálvora approaches (ES)","species":"Orca","info":"Short entry; exited on ebb.","date":"2025-08-27","latitude":42.46,"longitude":-9.01,"area":"Spain (Galicia)","source":"https://www.lavozdegalicia.es/noticia/somosmar/2025/08/29/orcas-dejan-timon-galeon-illa-abren-via-agua-velero-ons/00031756493237357794417.htm","behaviors":["traveling"]},
 
-  // — compact SA complements (late Aug coastal WC)
+  
   {"id":"ZA-WC-FBY-2025-08-20-096","name":"False Bay — Simon’s Town (ZA)","species":"Humpback","info":"Shore-based blows off Roman Rock.","date":"2025-08-20","latitude":-34.19,"longitude":18.45,"area":"South Africa (Western Cape)","source":"https://www.facebook.com/groups/2256661556/","behaviors":["blows","traveling"]},
   {"id":"ZA-WC-GAN-2025-08-22-097","name":"Gansbaai — Dyer Island line (ZA)","species":"Humpback","info":"Passing southbound off island chain.","date":"2025-08-22","latitude":-34.62,"longitude":19.35,"area":"South Africa (Overberg)","source":"https://www.instagram.com/dyerislandcruises/","behaviors":["traveling"]},
 
-  // — light Japan/Hokkaidō late-Aug (season tail) if present locally on operator feeds
+  
   {"id":"JP-HKD-RAU-2025-08-12-098","name":"Rausu — Nemuro Strait (JP)","species":"Orca","info":"Coastal orca pod reported by local cruise blog early-mid Aug window.","date":"2025-08-12","latitude":44.02,"longitude":145.2,"area":"Hokkaidō (Shiretoko)","source":"https://e-shiretoko.com/report/230/","behaviors":["traveling"]},
 
-  // — Add a final handful to comfortably clear 120 —
   {"id":"WA-ADM-2025-08-31-099","name":"Admiralty — Port Townsend (WA)","species":"Bigg’s (Transient) Orca","info":"Group threading outbound freighter wake.","date":"2025-08-31","latitude":48.12,"longitude":-122.76,"area":"Puget Sound","source":"https://www.orcanetwork.org/recent-sightings","behaviors":["traveling"]},
   {"id":"WA-PS-2025-08-31-100","name":"Puget Sound — Restoration Point (WA)","species":"Bigg’s (Transient) Orca","info":"Southbound dusk pass.","date":"2025-08-31","latitude":47.59,"longitude":-122.49,"area":"Puget Sound","source":"https://www.orcanetwork.org/recent-sightings","behaviors":["traveling"]},
   {"id":"US-CA-MB-2025-08-31-101","name":"Monterey Bay — Soquel Canyon (CA)","species":"Humpback","info":"Evening lunge-feeds persist.","date":"2025-08-31","latitude":36.77,"longitude":-121.92,"area":"Central California","source":"https://gowhales.com/sightings/slstcurr/","behaviors":["lunge feeding"]},
