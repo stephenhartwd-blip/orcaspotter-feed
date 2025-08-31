@@ -1,621 +1,1543 @@
 [
-  {
-    "id": "IS-REK-FAX-2025-08-22-001",
-    "name": "Reykjavík — Faxaflói Bay (IS)",
-    "species": "Humpback",
-    "info": "Multiple humpbacks with breaches and bubble-net feeding reported on day trips.",
-    "date": "2025-08-22",
-    "latitude": 64.15,
-    "longitude": -22.0,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://seatrips.is/daily-diary-august-22-2025/",
-    "behaviors": [
-      "breaching",
-      "bubble-net feeding",
-      "fluking"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-06-002",
-    "name": "Reykjavík — Faxaflói Bay (IS)",
-    "species": "Humpback",
-    "info": "Busy day with humpbacks fluking and surface-feeding near feeding birds.",
-    "date": "2025-08-06",
-    "latitude": 64.15,
-    "longitude": -22.0,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://specialtours.is/2025/08/06/whale-watching-6th-of-august-2025/",
-    "behaviors": [
-      "surface feeding",
-      "fluking"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-21-003",
-    "name": "Reykjavík — Hvalfjörður approaches (IS)",
-    "species": "Humpback",
-    "info": "Spyhops and bubble feeding observed over several tours.",
-    "date": "2025-08-21",
-    "latitude": 64.3,
-    "longitude": -21.7,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "spyhopping",
-      "bubble feeding"
-    ]
-  },
-  {
-    "id": "IS-REK-AKU-2025-08-22-004",
-    "name": "Reykjavík — near Akurey islands (IS)",
-    "species": "Humpback",
-    "info": "Humpback with pale fluke gave repeated close fluke dives late day.",
-    "date": "2025-08-22",
-    "latitude": 64.16,
-    "longitude": -22.03,
-    "area": "Iceland (Reykjavík islets)",
-    "source": "https://seatrips.is/daily-diary-august-22-2025/",
-    "behaviors": [
-      "fluking",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-16-005",
-    "name": "Reykjavík — Faxaflói mid-bay (IS)",
-    "species": "Humpback",
-    "info": "Seven or more humpbacks active across the bay; frequent breaches.",
-    "date": "2025-08-16",
-    "latitude": 64.2,
-    "longitude": -22.1,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-18-006",
-    "name": "Reykjavík — Esja line (IS)",
-    "species": "Humpback",
-    "info": "Multiple humpbacks surface feeding among kittiwakes.",
-    "date": "2025-08-18",
-    "latitude": 64.22,
-    "longitude": -22.05,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "surface feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-24-007",
-    "name": "Reykjavík — Kollafjörður edge (IS)",
-    "species": "Humpback",
-    "info": "Several humpbacks fluking; sporadic tail slaps seen from afternoon tour.",
-    "date": "2025-08-24",
-    "latitude": 64.18,
-    "longitude": -22.02,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "fluking",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-28-008",
-    "name": "Reykjavík — Faxaflói outer bay (IS)",
-    "species": "Humpback",
-    "info": "Humpbacks lunge-feeding in bait balls with seabirds.",
-    "date": "2025-08-28",
-    "latitude": 64.25,
-    "longitude": -22.25,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "lunge feeding",
-      "group feeding"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-12-009",
-    "name": "Reykjavík — near Engey (IS)",
-    "species": "Humpback",
-    "info": "Close fluke dives with clear tail patterns documented by crew.",
-    "date": "2025-08-12",
-    "latitude": 64.16,
-    "longitude": -21.94,
-    "area": "Iceland (Reykjavík islets)",
-    "source": "https://specialtours.is/",
-    "behaviors": [
-      "fluking",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-10-010",
-    "name": "Reykjavík — Viðey sound (IS)",
-    "species": "Humpback",
-    "info": "Multiple humpbacks traveling with occasional breaches.",
-    "date": "2025-08-10",
-    "latitude": 64.16,
-    "longitude": -21.85,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://specialtours.is/",
-    "behaviors": [
-      "traveling",
-      "breaching"
-    ]
-  },
-  {
-    "id": "IS-HUS-SKJ-2025-08-13-011",
-    "name": "Húsavík — Skjálfandi Bay (IS)",
-    "species": "Humpback",
-    "info": "Sea got wild; humpbacks responded with repeated breaches.",
-    "date": "2025-08-13",
-    "latitude": 66.05,
-    "longitude": -17.34,
-    "area": "Iceland (Húsavík/Skjálfandi)",
-    "source": "https://gentlegiants.is/news/2025/08/13/when-the-sea-gets-wild/",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "IS-HUS-SKJ-2025-08-24-012",
-    "name": "Húsavík — Skjálfandi Bay (IS)",
-    "species": "Humpback",
-    "info": "Multiple humpbacks in bay; frequent blows and fluke dives.",
-    "date": "2025-08-24",
-    "latitude": 66.05,
-    "longitude": -17.34,
-    "area": "Iceland (Húsavík/Skjálfandi)",
-    "source": "https://gentlegiants.is/news/2025/08/24/",
-    "behaviors": [
-      "blows",
-      "fluking"
-    ]
-  },
-  {
-    "id": "IS-HUS-SKJ-2025-08-19-013",
-    "name": "Húsavík — Lundey line (IS)",
-    "species": "Humpback",
-    "info": "Humpbacks surfacing and tail-slapping between squalls.",
-    "date": "2025-08-19",
-    "latitude": 66.06,
-    "longitude": -17.4,
-    "area": "Iceland (Húsavík/Skjálfandi)",
-    "source": "https://gentlegiants.is/news/",
-    "behaviors": [
-      "tail slapping",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "IS-HUS-SKJ-2025-08-26-014",
-    "name": "Húsavík — Skjálfandi outer bay (IS)",
-    "species": "Humpback",
-    "info": "Pairs of humpbacks traveling with occasional lunge-feeds.",
-    "date": "2025-08-26",
-    "latitude": 66.08,
-    "longitude": -17.5,
-    "area": "Iceland (Húsavík/Skjálfandi)",
-    "source": "https://gentlegiants.is/news/",
-    "behaviors": [
-      "traveling",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "IE-COR-CRO-2025-08-24-015",
-    "name": "Crookhaven — Co. Cork (IE)",
-    "species": "Orca",
-    "info": "Killer whale reported off Crookhaven; listed on IWDG Recent Sightings.",
-    "date": "2025-08-24",
-    "latitude": 51.47,
-    "longitude": -9.72,
-    "area": "Ireland (Co. Cork)",
-    "source": "https://iwdg.ie/recentsightings/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "ES-GAL-ARO-2025-08-25-016",
-    "name": "Rías Baixas — Corrubedo to Arousa (ES)",
-    "species": "Orca",
-    "info": "Maritime radio alert after three groups of orcas sighted near Corrubedo, Sálvora–Arousa and north of O Grove.",
-    "date": "2025-08-25",
-    "latitude": 42.55,
-    "longitude": -9.05,
-    "area": "Spain (Galicia/Rías Baixas)",
-    "source": "https://www.infobae.com/espana/2025/08/25/las-orcas-vuelven-a-galicia-salvamento-maritimo-alerta-de-su-presencia-en-rias-baixas-tras-el-registro-de-varios-ataques/",
-    "behaviors": [
-      "traveling",
-      "foraging"
-    ]
-  },
-  {
-    "id": "ES-GAL-ARO-2025-08-29-017",
-    "name": "Ría de Arousa — inside the estuary (ES)",
-    "species": "Orca",
-    "info": "Orcas returned to Arousa; rudder damage reported on a classic vessel near A Illa de Arousa.",
-    "date": "2025-08-29",
-    "latitude": 42.55,
-    "longitude": -8.88,
-    "area": "Spain (Galicia/Arousa)",
-    "source": "https://www.lavozdegalicia.es/noticia/somosmar/2025/08/29/orcas-dejan-timon-galeon-illa-abren-via-agua-velero-ons/00031756493237357794417.htm",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "ES-GAL-MAL-2025-08-29-018",
-    "name": "Off Malpica — Costa da Morte (ES)",
-    "species": "Orca",
-    "info": "One of the latest August sightings reported north near Malpica.",
-    "date": "2025-08-29",
-    "latitude": 43.32,
-    "longitude": -8.81,
-    "area": "Spain (Galicia/Costa da Morte)",
-    "source": "https://www.lavozdegalicia.es/noticia/somosmar/2025/08/29/mitad-encuentros-orcas-verano-produjeron-entorno-ria/0003_202508A29C1991.htm",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "ES-GAL-SAL-2025-08-24-019",
-    "name": "South of Sálvora Island — Rías Baixas (ES)",
-    "species": "Orca",
-    "info": "Group of eight orcas entered the estuary near Sálvora; Salvamento Marítimo kept watch.",
-    "date": "2025-08-24",
-    "latitude": 42.45,
-    "longitude": -9.01,
-    "area": "Spain (Galicia/Rías Baixas)",
-    "source": "https://www.lavozdegalicia.es/noticia/somosmar/2025/08/29/orcas-dejan-timon-galeon-illa-abren-via-agua-velero-ons/00031756493237357794417.htm",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "ES-CAD-STR-2025-08-26-020",
-    "name": "Strait of Gibraltar — off Tarifa (ES)",
-    "species": "Orca",
-    "info": "Summer orcas active in the Strait; media highlight feeding near tuna and interactions.",
-    "date": "2025-08-26",
-    "latitude": 36.01,
-    "longitude": -5.6,
-    "area": "Spain (Strait of Gibraltar)",
-    "source": "https://cadenaser.com/andalucia/2025/08/26/las-orcas-se-comen-y-lo-demuestran-la-polemica-esta-servida-en-el-estrecho-radio-cadiz/",
-    "behaviors": [
-      "foraging",
-      "traveling"
-    ]
-  },
-  {
-    "id": "ES-CAD-STR-2025-08-27-021",
-    "name": "Strait of Gibraltar — Tarifa shallows (ES)",
-    "species": "Orca",
-    "info": "Reports of unusually shallow-water orcas prompted caution among sailors.",
-    "date": "2025-08-27",
-    "latitude": 36.02,
-    "longitude": -5.61,
-    "area": "Spain (Strait of Gibraltar)",
-    "source": "https://www.thetimes.co.uk/travel/destinations/europe/spain/articles/orca-whales-galicia-spain-coastguard-jx9gq62x7",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "PT-ALG-BEN-2025-08-01-022",
-    "name": "Benagil — off Praia de Benagil (PT)",
-    "species": "Orca",
-    "info": "Five orcas observed 3.5 miles offshore moving west, recorded by local operator.",
-    "date": "2025-08-01",
-    "latitude": 37.09,
-    "longitude": -8.43,
-    "area": "Portugal (Algarve)",
-    "source": "https://postal.pt/nacional/cinco-orcas-avistadas-proximo-da-praia-de-benagil-c-video/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "ZA-WC-GLN-2025-08-13-023",
-    "name": "Glencairn — False Bay (ZA)",
-    "species": "Humpback",
-    "info": "Humpback whale breaching off Glencairn; shore-based observation.",
-    "date": "2025-08-13",
-    "latitude": -34.15,
-    "longitude": 18.44,
-    "area": "South Africa (Western Cape/False Bay)",
-    "source": "https://www.facebook.com/groups/2256661556/posts/10161126029961557/",
-    "behaviors": [
-      "breaching",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "ZA-EC-ALGO-2025-08-02-024",
-    "name": "Algoa Bay — St Croix Island line (ZA)",
-    "species": "Humpback",
-    "info": "Review notes an unforgettable Raggy Charters day on Sat Aug 2 with humpback whales.",
-    "date": "2025-08-02",
-    "latitude": -33.8,
-    "longitude": 25.77,
-    "area": "South Africa (Eastern Cape/Algoa Bay)",
-    "source": "https://travel-booking.acg.aaa.com/activities/details/010/261461P1",
-    "behaviors": [
-      "traveling",
-      "breaching"
-    ]
-  },
-  {
-    "id": "ZA-WC-HER-2025-08-25-025",
-    "name": "Hermanus — Walker Bay (ZA)",
-    "species": "Humpback",
-    "info": "Individual re-sighted on Aug 25 with a calf; shore-based photo ID post.",
-    "date": "2025-08-25",
-    "latitude": -34.42,
-    "longitude": 19.24,
-    "area": "South Africa (Western Cape/Hermanus)",
-    "source": "https://www.instagram.com/p/DN5fjyMiIIV/",
-    "behaviors": [
-      "traveling",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-03-026",
-    "name": "Reykjavík — Faxaflói inner bay (IS)",
-    "species": "Humpback",
-    "info": "Pods scattered with frequent fluke dives on morning tour.",
-    "date": "2025-08-03",
-    "latitude": 64.17,
-    "longitude": -21.97,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "fluking",
-      "traveling"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-04-027",
-    "name": "Reykjavík — Viðey channel (IS)",
-    "species": "Humpback",
-    "info": "Two humpbacks lunge-fed briefly near bait balls.",
-    "date": "2025-08-04",
-    "latitude": 64.16,
-    "longitude": -21.86,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-05-028",
-    "name": "Reykjavík — Akurey line (IS)",
-    "species": "Humpback",
-    "info": "Humpbacks surfacing and tail-slapping around bird activity.",
-    "date": "2025-08-05",
-    "latitude": 64.17,
-    "longitude": -22.04,
-    "area": "Iceland (Reykjavík islets)",
-    "source": "https://specialtours.is/",
-    "behaviors": [
-      "tail slapping",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-07-029",
-    "name": "Reykjavík — Esja front (IS)",
-    "species": "Humpback",
-    "info": "Multiple humpbacks traveling west; occasional breaches.",
-    "date": "2025-08-07",
-    "latitude": 64.21,
-    "longitude": -22.13,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://specialtours.is/",
-    "behaviors": [
-      "traveling",
-      "breaching"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-08-030",
-    "name": "Reykjavík — Kollafjörður mouth (IS)",
-    "species": "Humpback",
-    "info": "Morning trip with repeated fluke dives in calm seas.",
-    "date": "2025-08-08",
-    "latitude": 64.19,
-    "longitude": -21.98,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://specialtours.is/",
-    "behaviors": [
-      "fluking"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-09-031",
-    "name": "Reykjavík — Faxaflói (IS)",
-    "species": "Humpback",
-    "info": "Surface feeding under bird flurries; strong fluke IDs taken.",
-    "date": "2025-08-09",
-    "latitude": 64.23,
-    "longitude": -22.18,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "surface feeding",
-      "fluking"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-12-032",
-    "name": "Reykjavík — Viðey sound (IS)",
-    "species": "Humpback",
-    "info": "Breaches and pec slaps during afternoon lull.",
-    "date": "2025-08-12",
-    "latitude": 64.17,
-    "longitude": -21.87,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://specialtours.is/",
-    "behaviors": [
-      "breaching",
-      "pec slapping"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-14-033",
-    "name": "Reykjavík — Engey channel (IS)",
-    "species": "Humpback",
-    "info": "Humpbacks traveling with occasional tail throws.",
-    "date": "2025-08-14",
-    "latitude": 64.17,
-    "longitude": -21.94,
-    "area": "Iceland (Reykjavík islets)",
-    "source": "https://specialtours.is/",
-    "behaviors": [
-      "traveling",
-      "tail throwing"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-15-034",
-    "name": "Reykjavík — Viðey approaches (IS)",
-    "species": "Humpback",
-    "info": "Multiple fluke dives across tours; stable sea conditions.",
-    "date": "2025-08-15",
-    "latitude": 64.16,
-    "longitude": -21.87,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://specialtours.is/",
-    "behaviors": [
-      "fluking"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-18-035",
-    "name": "Reykjavík — Esja line (IS)",
-    "species": "Humpback",
-    "info": "Traveling humpbacks with sporadic lunge feeds mid-bay.",
-    "date": "2025-08-18",
-    "latitude": 64.23,
-    "longitude": -22.12,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "traveling",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "IS-HUS-SKJ-2025-08-21-036",
-    "name": "Húsavík — Skjálfandi inner bay (IS)",
-    "species": "Humpback",
-    "info": "Repeated breaches near puffin colonies; late-summer activity.",
-    "date": "2025-08-21",
-    "latitude": 66.05,
-    "longitude": -17.3,
-    "area": "Iceland (Húsavík/Skjálfandi)",
-    "source": "https://gentlegiants.is/news/",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "IS-HUS-SKJ-2025-08-22-037",
-    "name": "Húsavík — Skjálfandi outer bay (IS)",
-    "species": "Humpback",
-    "info": "Pairs traveling with frequent blows; strong afternoon light.",
-    "date": "2025-08-22",
-    "latitude": 66.07,
-    "longitude": -17.46,
-    "area": "Iceland (Húsavík/Skjálfandi)",
-    "source": "https://gentlegiants.is/news/",
-    "behaviors": [
-      "blows",
-      "traveling"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-25-038",
-    "name": "Reykjavík — Faxaflói mid-bay (IS)",
-    "species": "Humpback",
-    "info": "Humpbacks feeding with kittiwakes and gannets in mixed flocks.",
-    "date": "2025-08-25",
-    "latitude": 64.22,
-    "longitude": -22.05,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-27-039",
-    "name": "Reykjavík — Faxaflói outer bay (IS)",
-    "species": "Humpback",
-    "info": "Surface-active groups with rolling and pec slaps.",
-    "date": "2025-08-27",
-    "latitude": 64.26,
-    "longitude": -22.22,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://specialtours.is/",
-    "behaviors": [
-      "rolling",
-      "pec slapping"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-08-30-040",
-    "name": "Reykjavík — Faxaflói (IS)",
-    "species": "Humpback",
-    "info": "Late-August humpbacks continued feeding across the bay.",
-    "date": "2025-08-30",
-    "latitude": 64.21,
-    "longitude": -22.11,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "ES-GAL-ARO-2025-08-29-041",
-    "name": "Ría de Arousa — Vilaxóan shallows (ES)",
-    "species": "Orca",
-    "info": "Reports of orcas in unusually shallow water inside the estuary; authorities urged caution.",
-    "date": "2025-08-29",
-    "latitude": 42.59,
-    "longitude": -8.79,
-    "area": "Spain (Galicia/Arousa)",
-    "source": "https://www.thetimes.co.uk/travel/destinations/europe/spain/articles/orca-whales-galicia-spain-coastguard-jx9gq62x7",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "ES-GAL-COR-2025-08-25-042",
-    "name": "Off Corrubedo — Rías Baixas (ES)",
-    "species": "Orca",
-    "info": "One of three groups reported by maritime radio in late August.",
-    "date": "2025-08-25",
-    "latitude": 42.57,
-    "longitude": -9.09,
-    "area": "Spain (Galicia/Rías Baixas)",
-    "source": "https://www.infobae.com/espana/2025/08/25/las-orcas-vuelven-a-galicia-salvamento-maritimo-alerta-de-su-presencia-en-rias-baixas-tras-el-registro-de-varios-ataques/",
-    "behaviors": [
-      "traveling"
-    ]
-  }
+{
+"id": "IS-REK-FAX-2025-08-22-001",
+"name": "Reykjavík — Faxaflói Bay (IS)",
+"species": "Humpback",
+"info": "Multiple humpbacks with breaches and bubble-net feeding reported on day trips.",
+"date": "2025-08-22",
+"latitude": 64.15,
+"longitude": -22.0,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://seatrips.is/daily-diary-august-22-2025/
+",
+"behaviors": ["breaching","bubble-net feeding","fluking"]
+},
+{
+"id": "IS-REK-FAX-2025-08-06-002",
+"name": "Reykjavík — Faxaflói Bay (IS)",
+"species": "Humpback",
+"info": "Busy day with humpbacks fluking and surface-feeding near feeding birds.",
+"date": "2025-08-06",
+"latitude": 64.15,
+"longitude": -22.0,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://specialtours.is/2025/08/06/whale-watching-6th-of-august-2025/
+",
+"behaviors": ["surface feeding","fluking"]
+},
+{
+"id": "IS-REK-FAX-2025-08-21-003",
+"name": "Reykjavík — Hvalfjörður approaches (IS)",
+"species": "Humpback",
+"info": "Spyhops and bubble feeding observed over several tours.",
+"date": "2025-08-21",
+"latitude": 64.3,
+"longitude": -21.7,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://elding.is/whale-diary
+",
+"behaviors": ["spyhopping","bubble feeding"]
+},
+{
+"id": "IS-REK-AKU-2025-08-22-004",
+"name": "Reykjavík — near Akurey islands (IS)",
+"species": "Humpback",
+"info": "Humpback with pale fluke gave repeated close fluke dives late day.",
+"date": "2025-08-22",
+"latitude": 64.16,
+"longitude": -22.03,
+"area": "Iceland (Reykjavík islets)",
+"source": "https://seatrips.is/daily-diary-august-22-2025/
+",
+"behaviors": ["fluking","surfacing"]
+},
+{
+"id": "IS-REK-FAX-2025-08-16-005",
+"name": "Reykjavík — Faxaflói mid-bay (IS)",
+"species": "Humpback",
+"info": "Seven or more humpbacks active across the bay; frequent breaches.",
+"date": "2025-08-16",
+"latitude": 64.2,
+"longitude": -22.1,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://elding.is/whale-diary
+",
+"behaviors": ["breaching","traveling"]
+},
+{
+"id": "IS-REK-FAX-2025-08-18-006",
+"name": "Reykjavík — Esja line (IS)",
+"species": "Humpback",
+"info": "Multiple humpbacks surface feeding among kittiwakes.",
+"date": "2025-08-18",
+"latitude": 64.22,
+"longitude": -22.05,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://elding.is/whale-diary
+",
+"behaviors": ["surface feeding","traveling"]
+},
+{
+"id": "IS-REK-FAX-2025-08-24-007",
+"name": "Reykjavík — Kollafjörður edge (IS)",
+"species": "Humpback",
+"info": "Several humpbacks fluking; sporadic tail slaps seen from afternoon tour.",
+"date": "2025-08-24",
+"latitude": 64.18,
+"longitude": -22.02,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://elding.is/whale-diary
+",
+"behaviors": ["fluking","tail slapping"]
+},
+{
+"id": "IS-REK-FAX-2025-08-28-008",
+"name": "Reykjavík — Faxaflói outer bay (IS)",
+"species": "Humpback",
+"info": "Humpbacks lunge-feeding in bait balls with seabirds.",
+"date": "2025-08-28",
+"latitude": 64.25,
+"longitude": -22.25,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://elding.is/whale-diary
+",
+"behaviors": ["lunge feeding","group feeding"]
+},
+{
+"id": "IS-REK-FAX-2025-08-12-009",
+"name": "Reykjavík — near Engey (IS)",
+"species": "Humpback",
+"info": "Close fluke dives with clear tail patterns documented by crew.",
+"date": "2025-08-12",
+"latitude": 64.16,
+"longitude": -21.94,
+"area": "Iceland (Reykjavík islets)",
+"source": "https://specialtours.is/
+",
+"behaviors": ["fluking","surfacing"]
+},
+{
+"id": "IS-REK-FAX-2025-08-10-010",
+"name": "Reykjavík — Viðey sound (IS)",
+"species": "Humpback",
+"info": "Multiple humpbacks traveling with occasional breaches.",
+"date": "2025-08-10",
+"latitude": 64.16,
+"longitude": -21.85,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://specialtours.is/
+",
+"behaviors": ["traveling","breaching"]
+},
+{
+"id": "IS-HUS-SKJ-2025-08-13-011",
+"name": "Húsavík — Skjálfandi Bay (IS)",
+"species": "Humpback",
+"info": "Sea got wild; humpbacks responded with repeated breaches.",
+"date": "2025-08-13",
+"latitude": 66.05,
+"longitude": -17.34,
+"area": "Iceland (Húsavík/Skjálfandi)",
+"source": "https://gentlegiants.is/news/2025/08/13/when-the-sea-gets-wild/
+",
+"behaviors": ["breaching","traveling"]
+},
+{
+"id": "IS-HUS-SKJ-2025-08-24-012",
+"name": "Húsavík — Skjálfandi Bay (IS)",
+"species": "Humpback",
+"info": "Multiple humpbacks in bay; frequent blows and fluke dives.",
+"date": "2025-08-24",
+"latitude": 66.05,
+"longitude": -17.34,
+"area": "Iceland (Húsavík/Skjálfandi)",
+"source": "https://gentlegiants.is/news/2025/08/24/
+",
+"behaviors": ["blows","fluking"]
+},
+{
+"id": "IS-HUS-SKJ-2025-08-19-013",
+"name": "Húsavík — Lundey line (IS)",
+"species": "Humpback",
+"info": "Humpbacks surfacing and tail-slapping between squalls.",
+"date": "2025-08-19",
+"latitude": 66.06,
+"longitude": -17.4,
+"area": "Iceland (Húsavík/Skjálfandi)",
+"source": "https://gentlegiants.is/news/
+",
+"behaviors": ["tail slapping","surfacing"]
+},
+{
+"id": "IS-HUS-SKJ-2025-08-26-014",
+"name": "Húsavík — Skjálfandi outer bay (IS)",
+"species": "Humpback",
+"info": "Pairs of humpbacks traveling with occasional lunge-feeds.",
+"date": "2025-08-26",
+"latitude": 66.08,
+"longitude": -17.5,
+"area": "Iceland (Húsavík/Skjálfandi)",
+"source": "https://gentlegiants.is/news/
+",
+"behaviors": ["traveling","lunge feeding"]
+},
+{
+"id": "IE-COR-CRO-2025-08-24-015",
+"name": "Crookhaven — Co. Cork (IE)",
+"species": "Orca",
+"info": "Killer whale reported off Crookhaven; listed on IWDG Recent Sightings.",
+"date": "2025-08-24",
+"latitude": 51.47,
+"longitude": -9.72,
+"area": "Ireland (Co. Cork)",
+"source": "https://iwdg.ie/recentsightings/
+",
+"behaviors": ["traveling"]
+},
+{
+"id": "ES-GAL-ARO-2025-08-25-016",
+"name": "Rías Baixas — Corrubedo to Arousa (ES)",
+"species": "Orca",
+"info": "Maritime radio alert after three groups of orcas sighted near Corrubedo, Sálvora–Arousa and north of O Grove.",
+"date": "2025-08-25",
+"latitude": 42.55,
+"longitude": -9.05,
+"area": "Spain (Galicia/Rías Baixas)",
+"source": "https://www.infobae.com/espana/2025/08/25/las-orcas-vuelven-a-galicia-salvamento-maritimo-alerta-de-su-presencia-en-rias-baixas-tras-el-registro-de-varios-ataques/
+",
+"behaviors": ["traveling","foraging"]
+},
+{
+"id": "ES-GAL-ARO-2025-08-29-017",
+"name": "Ría de Arousa — inside the estuary (ES)",
+"species": "Orca",
+"info": "Orcas returned to Arousa; rudder damage reported on a classic vessel near A Illa de Arousa.",
+"date": "2025-08-29",
+"latitude": 42.55,
+"longitude": -8.88,
+"area": "Spain (Galicia/Arousa)",
+"source": "https://www.lavozdegalicia.es/noticia/somosmar/2025/08/29/orcas-dejan-timon-galeon-illa-abren-via-agua-velero-ons/00031756493237357794417.htm
+",
+"behaviors": ["traveling"]
+},
+{
+"id": "ES-GAL-MAL-2025-08-29-018",
+"name": "Off Malpica — Costa da Morte (ES)",
+"species": "Orca",
+"info": "One of the latest August sightings reported north near Malpica.",
+"date": "2025-08-29",
+"latitude": 43.32,
+"longitude": -8.81,
+"area": "Spain (Galicia/Costa da Morte)",
+"source": "https://www.lavozdegalicia.es/noticia/somosmar/2025/08/29/mitad-encuentros-orcas-verano-produjeron-entorno-ria/0003_202508A29C1991.htm
+",
+"behaviors": ["traveling"]
+},
+{
+"id": "ES-GAL-SAL-2025-08-24-019",
+"name": "South of Sálvora Island — Rías Baixas (ES)",
+"species": "Orca",
+"info": "Group of eight orcas entered the estuary near Sálvora; Salvamento Marítimo kept watch.",
+"date": "2025-08-24",
+"latitude": 42.45,
+"longitude": -9.01,
+"area": "Spain (Galicia/Rías Baixas)",
+"source": "https://www.lavozdegalicia.es/noticia/somosmar/2025/08/29/orcas-dejan-timon-galeon-illa-abren-via-agua-velero-ons/00031756493237357794417.htm
+",
+"behaviors": ["traveling"]
+},
+{
+"id": "ES-CAD-STR-2025-08-26-020",
+"name": "Strait of Gibraltar — off Tarifa (ES)",
+"species": "Orca",
+"info": "Summer orcas active in the Strait; media highlight feeding near tuna and interactions.",
+"date": "2025-08-26",
+"latitude": 36.01,
+"longitude": -5.6,
+"area": "Spain (Strait of Gibraltar)",
+"source": "https://cadenaser.com/andalucia/2025/08/26/las-orcas-se-comen-y-lo-demuestran-la-polemica-esta-servida-en-el-estrecho-radio-cadiz/
+",
+"behaviors": ["foraging","traveling"]
+},
+{
+"id": "ES-CAD-STR-2025-08-27-021",
+"name": "Strait of Gibraltar — Tarifa shallows (ES)",
+"species": "Orca",
+"info": "Reports of unusually shallow-water orcas prompted caution among sailors.",
+"date": "2025-08-27",
+"latitude": 36.02,
+"longitude": -5.61,
+"area": "Spain (Strait of Gibraltar)",
+"source": "https://www.thetimes.co.uk/travel/destinations/europe/spain/articles/orca-whales-galicia-spain-coastguard-jx9gq62x7
+",
+"behaviors": ["traveling"]
+},
+{
+"id": "PT-ALG-BEN-2025-08-01-022",
+"name": "Benagil — off Praia de Benagil (PT)",
+"species": "Orca",
+"info": "Five orcas observed 3.5 miles offshore moving west, recorded by local operator.",
+"date": "2025-08-01",
+"latitude": 37.09,
+"longitude": -8.43,
+"area": "Portugal (Algarve)",
+"source": "https://postal.pt/nacional/cinco-orcas-avistadas-proximo-da-praia-de-benagil-c-video/
+",
+"behaviors": ["traveling"]
+},
+{
+"id": "ZA-WC-GLN-2025-08-13-023",
+"name": "Glencairn — False Bay (ZA)",
+"species": "Humpback",
+"info": "Humpback whale breaching off Glencairn; shore-based observation.",
+"date": "2025-08-13",
+"latitude": -34.15,
+"longitude": 18.44,
+"area": "South Africa (Western Cape/False Bay)",
+"source": "https://www.facebook.com/groups/2256661556/posts/10161126029961557/
+",
+"behaviors": ["breaching","surfacing"]
+},
+{
+"id": "ZA-EC-ALGO-2025-08-02-024",
+"name": "Algoa Bay — St Croix Island line (ZA)",
+"species": "Humpback",
+"info": "Review notes an unforgettable Raggy Charters day on Sat Aug 2 with humpback whales.",
+"date": "2025-08-02",
+"latitude": -33.8,
+"longitude": 25.77,
+"area": "South Africa (Eastern Cape/Algoa Bay)",
+"source": "https://travel-booking.acg.aaa.com/activities/details/010/261461P1
+",
+"behaviors": ["traveling","breaching"]
+},
+{
+"id": "ZA-WC-HER-2025-08-25-025",
+"name": "Hermanus — Walker Bay (ZA)",
+"species": "Humpback",
+"info": "Individual re-sighted on Aug 25 with a calf; shore-based photo ID post.",
+"date": "2025-08-25",
+"latitude": -34.42,
+"longitude": 19.24,
+"area": "South Africa (Western Cape/Hermanus)",
+"source": "https://www.instagram.com/p/DN5fjyMiIIV/
+",
+"behaviors": ["traveling","surfacing"]
+},
+{
+"id": "IS-REK-FAX-2025-08-03-026",
+"name": "Reykjavík — Faxaflói inner bay (IS)",
+"species": "Humpback",
+"info": "Pods scattered with frequent fluke dives on morning tour.",
+"date": "2025-08-03",
+"latitude": 64.17,
+"longitude": -21.97,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://elding.is/whale-diary
+",
+"behaviors": ["fluking","traveling"]
+},
+{
+"id": "IS-REK-FAX-2025-08-04-027",
+"name": "Reykjavík — Viðey channel (IS)",
+"species": "Humpback",
+"info": "Two humpbacks lunge-fed briefly near bait balls.",
+"date": "2025-08-04",
+"latitude": 64.16,
+"longitude": -21.86,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://elding.is/whale-diary
+",
+"behaviors": ["lunge feeding"]
+},
+{
+"id": "IS-REK-FAX-2025-08-05-028",
+"name": "Reykjavík — Akurey line (IS)",
+"species": "Humpback",
+"info": "Humpbacks surfacing and tail-slapping around bird activity.",
+"date": "2025-08-05",
+"latitude": 64.17,
+"longitude": -22.04,
+"area": "Iceland (Reykjavík islets)",
+"source": "https://specialtours.is/
+",
+"behaviors": ["tail slapping","surfacing"]
+},
+{
+"id": "IS-REK-FAX-2025-08-07-029",
+"name": "Reykjavík — Esja front (IS)",
+"species": "Humpback",
+"info": "Multiple humpbacks traveling west; occasional breaches.",
+"date": "2025-08-07",
+"latitude": 64.21,
+"longitude": -22.13,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://specialtours.is/
+",
+"behaviors": ["traveling","breaching"]
+},
+{
+"id": "IS-REK-FAX-2025-08-08-030",
+"name": "Reykjavík — Kollafjörður mouth (IS)",
+"species": "Humpback",
+"info": "Morning trip with repeated fluke dives in calm seas.",
+"date": "2025-08-08",
+"latitude": 64.19,
+"longitude": -21.98,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://specialtours.is/
+",
+"behaviors": ["fluking"]
+},
+{
+"id": "IS-REK-FAX-2025-08-09-031",
+"name": "Reykjavík — Faxaflói (IS)",
+"species": "Humpback",
+"info": "Surface feeding under bird flurries; strong fluke IDs taken.",
+"date": "2025-08-09",
+"latitude": 64.23,
+"longitude": -22.18,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://elding.is/whale-diary
+",
+"behaviors": ["surface feeding","fluking"]
+},
+{
+"id": "IS-REK-FAX-2025-08-12-032",
+"name": "Reykjavík — Viðey sound (IS)",
+"species": "Humpback",
+"info": "Breaches and pec slaps during afternoon lull.",
+"date": "2025-08-12",
+"latitude": 64.17,
+"longitude": -21.87,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://specialtours.is/
+",
+"behaviors": ["breaching","pec slapping"]
+},
+{
+"id": "IS-REK-FAX-2025-08-14-033",
+"name": "Reykjavík — Engey channel (IS)",
+"species": "Humpback",
+"info": "Humpbacks traveling with occasional tail throws.",
+"date": "2025-08-14",
+"latitude": 64.17,
+"longitude": -21.94,
+"area": "Iceland (Reykjavík islets)",
+"source": "https://specialtours.is/
+",
+"behaviors": ["traveling","tail throwing"]
+},
+{
+"id": "IS-REK-FAX-2025-08-15-034",
+"name": "Reykjavík — Viðey approaches (IS)",
+"species": "Humpback",
+"info": "Multiple fluke dives across tours; stable sea conditions.",
+"date": "2025-08-15",
+"latitude": 64.16,
+"longitude": -21.87,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://specialtours.is/
+",
+"behaviors": ["fluking"]
+},
+{
+"id": "IS-REK-FAX-2025-08-18-035",
+"name": "Reykjavík — Esja line (IS)",
+"species": "Humpback",
+"info": "Traveling humpbacks with sporadic lunge feeds mid-bay.",
+"date": "2025-08-18",
+"latitude": 64.23,
+"longitude": -22.12,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://elding.is/whale-diary
+",
+"behaviors": ["traveling","lunge feeding"]
+},
+{
+"id": "IS-HUS-SKJ-2025-08-21-036",
+"name": "Húsavík — Skjálfandi inner bay (IS)",
+"species": "Humpback",
+"info": "Repeated breaches near puffin colonies; late-summer activity.",
+"date": "2025-08-21",
+"latitude": 66.05,
+"longitude": -17.3,
+"area": "Iceland (Húsavík/Skjálfandi)",
+"source": "https://gentlegiants.is/news/
+",
+"behaviors": ["breaching","traveling"]
+},
+{
+"id": "IS-HUS-SKJ-2025-08-22-037",
+"name": "Húsavík — Skjálfandi outer bay (IS)",
+"species": "Humpback",
+"info": "Pairs traveling with frequent blows; strong afternoon light.",
+"date": "2025-08-22",
+"latitude": 66.07,
+"longitude": -17.46,
+"area": "Iceland (Húsavík/Skjálfandi)",
+"source": "https://gentlegiants.is/news/
+",
+"behaviors": ["blows","traveling"]
+},
+{
+"id": "IS-REK-FAX-2025-08-25-038",
+"name": "Reykjavík — Faxaflói mid-bay (IS)",
+"species": "Humpback",
+"info": "Humpbacks feeding with kittiwakes and gannets in mixed flocks.",
+"date": "2025-08-25",
+"latitude": 64.22,
+"longitude": -22.05,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://elding.is/whale-diary
+",
+"behaviors": ["feeding","traveling"]
+},
+{
+"id": "IS-REK-FAX-2025-08-27-039",
+"name": "Reykjavík — Faxaflói outer bay (IS)",
+"species": "Humpback",
+"info": "Surface-active groups with rolling and pec slaps.",
+"date": "2025-08-27",
+"latitude": 64.26,
+"longitude": -22.22,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://specialtours.is/
+",
+"behaviors": ["rolling","pec slapping"]
+},
+{
+"id": "IS-REK-FAX-2025-08-30-040",
+"name": "Reykjavík — Faxaflói (IS)",
+"species": "Humpback",
+"info": "Late-August humpbacks continued feeding across the bay.",
+"date": "2025-08-30",
+"latitude": 64.21,
+"longitude": -22.11,
+"area": "Iceland (Reykjavík/Faxaflói)",
+"source": "https://elding.is/whale-diary
+",
+"behaviors": ["feeding"]
+},
+{
+"id": "ES-GAL-ARO-2025-08-29-041",
+"name": "Ría de Arousa — Vilaxóan shallows (ES)",
+"species": "Orca",
+"info": "Reports of orcas in unusually shallow water inside the estuary; authorities urged caution.",
+"date": "2025-08-29",
+"latitude": 42.59,
+"longitude": -8.79,
+"area": "Spain (Galicia/Arousa)",
+"source": "https://www.thetimes.co.uk/travel/destinations/europe/spain/articles/orca-whales-galicia-spain-coastguard-jx9gq62x7
+",
+"behaviors": ["traveling"]
+},
+{
+"id": "ES-GAL-COR-2025-08-25-042",
+"name": "Off Corrubedo — Rías Baixas (ES)",
+"species": "Orca",
+"info": "One of three groups reported by maritime radio in late August.",
+"date": "2025-08-25",
+"latitude": 42.57,
+"longitude": -9.09,
+"area": "Spain (Galicia/Rías Baixas)",
+"source": "https://www.infobae.com/espana/2025/08/25/las-orcas-vuelven-a-galicia-salvamento-maritimo-alerta-de-su-presencia-en-rias-baixas-tras-el-registro-de-varios-ataques/
+",
+"behaviors": ["traveling"]
+},
+
+{
+"id": "AK-JNU-2025-08-10-101",
+"name": "Juneau — Auke Bay (AK)",
+"species": "Humpback",
+"info": "Bubble-net feeding by a coordinated group near Shelter Island.",
+"date": "2025-08-10",
+"latitude": 58.37,
+"longitude": -134.77,
+"area": "SE Alaska (Juneau)",
+"source": "https://www.gastineauguiding.com/whale-watching-juneau-alaska-blog/
+",
+"behaviors": ["bubble-net feeding","group feeding"]
+},
+{
+"id": "AK-JNU-2025-08-12-102",
+"name": "Juneau — Favorite Channel (AK)",
+"species": "Humpback",
+"info": "Multiple humpbacks lunge-feeding beneath kittiwake flocks.",
+"date": "2025-08-12",
+"latitude": 58.49,
+"longitude": -134.83,
+"area": "SE Alaska (Juneau)",
+"source": "https://www.facebook.com/harvandmarv/
+",
+"behaviors": ["lunge feeding","feeding"]
+},
+{
+"id": "AK-ICY-2025-08-15-103",
+"name": "Icy Strait — Point Adolphus (AK)",
+"species": "Humpback",
+"info": "Dozens of humpbacks spread along tide rips; repeated breaches.",
+"date": "2025-08-15",
+"latitude": 58.28,
+"longitude": -135.0,
+"area": "SE Alaska (Icy Strait)",
+"source": "https://alaskawhalefoundation.org/news/
+",
+"behaviors": ["breaching","feeding"]
+},
+{
+"id": "AK-GLA-2025-08-21-104",
+"name": "Glacier Bay — Lower Bay (AK)",
+"species": "Humpback",
+"info": "Whale Waters speed advisory with many humpbacks present.",
+"date": "2025-08-21",
+"latitude": 58.45,
+"longitude": -135.9,
+"area": "SE Alaska (Glacier Bay)",
+"source": "https://www.nps.gov/glba/learn/news/help-us-protect-humpback-whales-in-glacier-bay.htm
+",
+"behaviors": ["feeding","traveling"]
+},
+{
+"id": "AK-SIT-2025-08-18-105",
+"name": "Sitka Sound — Kruzof Island line (AK)",
+"species": "Humpback",
+"info": "Scattered feeding pairs with occasional breaches.",
+"date": "2025-08-18",
+"latitude": 57.15,
+"longitude": -135.5,
+"area": "SE Alaska (Sitka)",
+"source": "https://www.facebook.com/alandersontours/
+",
+"behaviors": ["feeding","breaching"]
+},
+{
+"id": "AK-HNS-2025-08-24-106",
+"name": "Lynn Canal — Haines (AK)",
+"species": "Humpback",
+"info": "Lunge-feeding along current lines near Seduction Point.",
+"date": "2025-08-24",
+"latitude": 59.2,
+"longitude": -135.42,
+"area": "SE Alaska (Haines)",
+"source": "https://www.facebook.com/haineswhalewatch/
+",
+"behaviors": ["lunge feeding"]
+},
+
+{
+"id": "BC-NAN-2025-08-10-201",
+"name": "Strait of Georgia — Nanaimo (BC)",
+"species": "Humpback",
+"info": "Morning tour with Twinning and Geometry surface feeding.",
+"date": "2025-08-10",
+"latitude": 49.2,
+"longitude": -123.95,
+"area": "BC South (Nanaimo)",
+"source": "https://www.vancouverislandwhalewatch.com/recent-sightings
+",
+"behaviors": ["surface feeding"]
+},
+{
+"id": "BC-NAN-2025-08-12-202",
+"name": "Strait of Georgia — Gabriola Pass (BC)",
+"species": "Humpback",
+"info": "Lunge-feeding pair working bait balls with gulls.",
+"date": "2025-08-12",
+"latitude": 49.17,
+"longitude": -123.78,
+"area": "BC South (Nanaimo/Gabriola)",
+"source": "https://www.vancouverislandwhalewatch.com/recent-sightings
+",
+"behaviors": ["lunge feeding","group feeding"]
+},
+{
+"id": "BC-VIC-2025-08-14-203",
+"name": "Juan de Fuca — Constance Bank (BC)",
+"species": "Humpback",
+"info": "Solo humpback fluking in glassy seas.",
+"date": "2025-08-14",
+"latitude": 48.38,
+"longitude": -123.33,
+"area": "South Vancouver Island",
+"source": "https://www.eaglewingtours.com/blog/
+",
+"behaviors": ["fluking","traveling"]
+},
+{
+"id": "BC-VIC-2025-08-16-204",
+"name": "Haro Strait — Discovery Island (BC)",
+"species": "Bigg’s (Transient) Orca",
+"info": "T-group foraging along kelp beds; harbor seals flushing.",
+"date": "2025-08-16",
+"latitude": 48.42,
+"longitude": -123.24,
+"area": "South Vancouver Island",
+"source": "https://www.princeofwhales.com/blog/
+",
+"behaviors": ["foraging","traveling"]
+},
+{
+"id": "BC-VIC-2025-08-18-205",
+"name": "Race Pass — Race Rocks (BC)",
+"species": "Bigg’s (Transient) Orca",
+"info": "Westbound pod surfing ebb tide.",
+"date": "2025-08-18",
+"latitude": 48.3,
+"longitude": -123.53,
+"area": "South Vancouver Island",
+"source": "https://www.orcaspirit.com/blog/
+",
+"behaviors": ["traveling"]
+},
+{
+"id": "BC-SGI-2025-08-20-206",
+"name": "Southern Gulf Islands — Active Pass (BC)",
+"species": "Bigg’s (Transient) Orca",
+"info": "T-group mid-channel with porpoise scatter.",
+"date": "2025-08-20",
+"latitude": 48.87,
+"longitude": -123.29,
+"area": "BC Southern Gulf Islands",
+"source": "https://www.orcanetwork.org/recent-sightings
+",
+"behaviors": ["foraging","traveling"]
+},
+{
+"id": "BC-CAMP-2025-08-24-207",
+"name": "Campbell River — Discovery Passage (BC)",
+"species": "Humpback",
+"info": "Feeding humpbacks in strong currents; repeated lunges.",
+"date": "2025-08-24",
+"latitude": 50.03,
+"longitude": -125.25,
+"area": "Vancouver Island North",
+"source": "https://www.discovercampbellriver.com/whale-watching/
+",
+"behaviors": ["lunge feeding"]
+},
+{
+"id": "BC-PRIN-2025-08-26-208",
+"name": "Prince Rupert — Chatham Sound (BC)",
+"species": "Humpback",
+"info": "Scattered blows; pairs traveling along current seams.",
+"date": "2025-08-26",
+"latitude": 54.28,
+"longitude": -130.3,
+"area": "North Coast BC",
+"source": "https://www.princerupertadventuretours.ca/blog
+",
+"behaviors": ["blows","traveling"]
+},
+
+{
+"id": "WA-ADM-2025-08-10-301",
+"name": "Admiralty Inlet — Point No Point (WA)",
+"species": "Bigg’s (Transient) Orca",
+"info": "Southbound T-pod with porpoise chase reported.",
+"date": "2025-08-10",
+"latitude": 47.91,
+"longitude": -122.53,
+"area": "Washington (Admiralty Inlet)",
+"source": "https://www.orcanetwork.org/recent-sightings
+",
+"behaviors": ["foraging","traveling"]
+},
+{
+"id": "WA-SAR-2025-08-11-302",
+"name": "Saratoga Passage — Hat Island (WA)",
+"species": "Bigg’s (Transient) Orca",
+"info": "Mid-channel travel with occasional milling.",
+"date": "2025-08-11",
+"latitude": 47.97,
+"longitude": -122.32,
+"area": "Washington (Puget Sound)",
+"source": "https://www.orcanetwork.org/recent-sightings
+",
+"behaviors": ["traveling","milling"]
+},
+{
+"id": "WA-CPASS-2025-08-12-303",
+"name": "Cattle Pass — San Juan Channel (WA)",
+"species": "Bigg’s (Transient) Orca",
+"info": "Pods transiting flood tide at Cattle Pass.",
+"date": "2025-08-12",
+"latitude": 48.45,
+"longitude": -122.97,
+"area": "San Juan Islands",
+"source": "https://www.orcanetwork.org/recent-sightings
+",
+"behaviors": ["traveling"]
+},
+{
+"id": "WA-TAC-2025-08-14-304",
+"name": "Commencement Bay — Browns Point (WA)",
+"species": "Humpback",
+"info": "Humpback milling with repeated flukes; brief breaches.",
+"date": "2025-08-14",
+"latitude": 47.2956,
+"longitude": -122.443,
+"area": "Washington (South Sound)",
+"source": "https://www.orcanetwork.org/recent-sightings
+",
+"behaviors": ["milling","fluking","breaching"]
+},
+{
+"id": "WA-HARO-2025-08-16-305",
+"name": "Haro Strait — Lime Kiln (WA)",
+"species": "Bigg’s (Transient) Orca",
+"info": "Border run with long glides along the shoreline.",
+"date": "2025-08-16",
+"latitude": 48.52,
+"longitude": -123.15,
+"area": "San Juan Islands",
+"source": "https://www.orcanetwork.org/recent-sightings
+",
+"behaviors": ["traveling"]
+},
+{
+"id": "WA-ADM-2025-08-18-306",
+"name": "Admiralty Inlet — Foulweather Bluff (WA)",
+"species": "Bigg’s (Transient) Orca",
+"info": "Northbound T-family group; porpoise scatter.",
+"date": "2025-08-18",
+"latitude": 47.92,
+"longitude": -122.61,
+"area": "Washington (Admiralty Inlet)",
+"source": "https://www.orcanetwork.org/recent-sightings
+",
+"behaviors": ["traveling","foraging"]
+},
+{
+"id": "WA-PSN-2025-08-20-307",
+"name": "Puget Sound — Restoration Point (WA)",
+"species": "Bigg’s (Transient) Orca",
+"info": "Quick pass near Bainbridge; brief milling.",
+"date": "2025-08-20",
+"latitude": 47.59,
+"longitude": -122.49,
+"area": "Washington (Central Sound)",
+"source": "https://www.orcanetwork.org/recent-sightings
+",
+"behaviors": ["milling","traveling"]
+},
+{
+"id": "WA-WHID-2025-08-22-308",
+"name": "Whidbey Island — Possession Point (WA)",
+"species": "Bigg’s (Transient) Orca",
+"info": "T-pod surfacings off the point; crowds on shore.",
+"date": "2025-08-22",
+"latitude": 47.89,
+"longitude": -122.38,
+"area": "Washington (Puget Sound)",
+"source": "https://www.orcanetwork.org/recent-sightings
+",
+"behaviors": ["traveling"]
+},
+{
+"id": "WA-OLY-2025-08-24-309",
+"name": "Strait of Juan de Fuca — Freshwater Bay (WA)",
+"species": "Bigg’s (Transient) Orca",
+"info": "Westbound group surfing swell; sea lions alert.",
+"date": "2025-08-24",
+"latitude": 48.12,
+"longitude": -123.6,
+"area": "Washington (Olympic Peninsula)",
+"source": "https://www.sanjuansafaris.com/whale-reports/
+",
+"behaviors": ["traveling","foraging"]
+},
+{
+"id": "WA-WPT-2025-08-26-310",
+"name": "Point Wilson — Port Townsend (WA)",
+"species": "Bigg’s (Transient) Orca",
+"info": "Pod rounding the point with tidal rips; long dives.",
+"date": "2025-08-26",
+"latitude": 48.14,
+"longitude": -122.75,
+"area": "Washington (Admiralty Inlet)",
+"source": "https://www.orcanetwork.org/recent-sightings
+",
+"behaviors": ["traveling"]
+},
+
+{
+"id": "OR-DEPO-2025-08-12-401",
+"name": "Depoe Bay — Nearshore (OR)",
+"species": "Humpback",
+"info": "Nearshore humpback feeding close to the harbor entrance.",
+"date": "2025-08-12",
+"latitude": 44.81,
+"longitude": -124.06,
+"area": "Oregon Coast (Depoe Bay)",
+"source": "https://www.tradewindscharters.com/fishing-reports/
+",
+"behaviors": ["feeding","surfacing"]
+},
+{
+"id": "OR-NEWP-2025-08-15-402",
+"name": "Newport — Yaquina Head (OR)",
+"species": "Humpback",
+"info": "Breaches off the headland; bait fish schools visible.",
+"date": "2025-08-15",
+"latitude": 44.67,
+"longitude": -124.08,
+"area": "Oregon Coast (Newport)",
+"source": "https://oregoncoast.org/whale-watching/
+",
+"behaviors": ["breaching","feeding"]
+},
+{
+"id": "OR-BAND-2025-08-19-403",
+"name": "Bandon — Coquille River Mouth (OR)",
+"species": "Humpback",
+"info": "Humpback milling in green water near the bar.",
+"date": "2025-08-19",
+"latitude": 43.12,
+"longitude": -124.42,
+"area": "Oregon South Coast",
+"source": "https://www.facebook.com/oregonstateparks
+",
+"behaviors": ["milling","surfacing"]
+},
+{
+"id": "OR-CANN-2025-08-21-404",
+"name": "Cannon Beach — Haystack Rock (OR)",
+"species": "Humpback",
+"info": "Evening blows offshore; feeding birds overhead.",
+"date": "2025-08-21",
+"latitude": 45.89,
+"longitude": -123.97,
+"area": "Oregon North Coast",
+"source": "https://www.facebook.com/HaystackRockAwareness
+",
+"behaviors": ["blows","feeding"]
+},
+
+{
+"id": "CA-MB-2025-08-10-501",
+"name": "Monterey Bay — Submarine Canyon Edge (CA)",
+"species": "Humpback",
+"info": "Lunge-feeding at bait balls; cooperative groups.",
+"date": "2025-08-10",
+"latitude": 36.74,
+"longitude": -121.96,
+"area": "Central California (Monterey Bay)",
+"source": "https://gowhales.com/sightings/slstcurr/
+",
+"behaviors": ["lunge feeding","group feeding"]
+},
+{
+"id": "CA-MB-2025-08-12-502",
+"name": "Monterey Bay — Moss Landing line (CA)",
+"species": "Humpback",
+"info": "Surface lunge-feeds with murres overhead.",
+"date": "2025-08-12",
+"latitude": 36.81,
+"longitude": -121.79,
+"area": "Central California (Monterey Bay)",
+"source": "https://gowhales.com/sightings/slstcurr/
+",
+"behaviors": ["surface feeding"]
+},
+{
+"id": "CA-MB-2025-08-14-503",
+"name": "Monterey Bay — Soquel Canyon (CA)",
+"species": "Humpback",
+"info": "Breaches and tail throws between feeds.",
+"date": "2025-08-14",
+"latitude": 36.87,
+"longitude": -121.93,
+"area": "Central California (Monterey Bay)",
+"source": "https://www.instagram.com/princessmontereywhalewatching/
+",
+"behaviors": ["breaching","tail throwing"]
+},
+{
+"id": "CA-MB-2025-08-18-504",
+"name": "Monterey Bay — Pajaro line (CA)",
+"species": "Humpback",
+"info": "Pods scattered; frequent flukes.",
+"date": "2025-08-18",
+"latitude": 36.86,
+"longitude": -121.85,
+"area": "Central California (Monterey Bay)",
+"source": "https://gowhales.com/sightings/slstcurr/
+",
+"behaviors": ["fluking","traveling"]
+},
+{
+"id": "CA-MB-2025-08-20-505",
+"name": "Monterey Bay — Carmel Canyon rim (CA)",
+"species": "Humpback",
+"info": "Close passes with lunges near krill slicks.",
+"date": "2025-08-20",
+"latitude": 36.51,
+"longitude": -121.95,
+"area": "Central California (Monterey Bay)",
+"source": "https://gowhales.com/sightings/slstcurr/
+",
+"behaviors": ["lunge feeding"]
+},
+{
+"id": "CA-MB-2025-08-22-506",
+"name": "Monterey Bay — Capitola line (CA)",
+"species": "Humpback",
+"info": "Afternoon feeds; seabird frenzies.",
+"date": "2025-08-22",
+"latitude": 36.97,
+"longitude": -121.94,
+"area": "Central California (Monterey Bay)",
+"source": "https://gowhales.com/sightings/slstcurr/
+",
+"behaviors": ["feeding"]
+},
+{
+"id": "CA-MB-2025-08-24-507",
+"name": "Monterey Bay — Canyon Head (CA)",
+"species": "Humpback",
+"info": "20+ humpbacks in the bay; breaches and lunges.",
+"date": "2025-08-24",
+"latitude": 36.79,
+"longitude": -121.89,
+"area": "Central California (Monterey Bay)",
+"source": "https://www.instagram.com/p/C_7Hzb9OTmA/
+",
+"behaviors": ["breaching","lunge feeding"]
+},
+{
+"id": "CA-SF-2025-08-25-508",
+"name": "San Francisco — Farallon line (CA)",
+"species": "Humpback",
+"info": "Humpbacks feeding near upwelling plume west of the Gate.",
+"date": "2025-08-25",
+"latitude": 37.72,
+"longitude": -123.05,
+"area": "Central California (San Francisco)",
+"source": "https://www.sfbaywhalewatch.com/sightings
+",
+"behaviors": ["feeding","blows"]
+},
+{
+"id": "CA-SLO-2025-08-27-509",
+"name": "San Luis Obispo — Avila/Port San Luis (CA)",
+"species": "Humpback",
+"info": "Breaches off Avila; baitfish schools tight to shore.",
+"date": "2025-08-27",
+"latitude": 35.17,
+"longitude": -120.76,
+"area": "California Central Coast",
+"source": "https://www.facebook.com/centralcoastwhale/
+",
+"behaviors": ["breaching","feeding"]
+},
+{
+"id": "CA-SD-2025-08-28-510",
+"name": "San Diego — Nine Mile Bank (CA)",
+"species": "Humpback",
+"info": "Southbound humpback with tail throws near tuna schools.",
+"date": "2025-08-28",
+"latitude": 32.63,
+"longitude": -117.5,
+"area": "Southern California (San Diego)",
+"source": "https://sdwhalewatch.com/whale-sightings/
+",
+"behaviors": ["tail throwing","traveling"]
+},
+{
+"id": "CA-CI-2025-08-29-511",
+"name": "Channel Islands — Santa Cruz north shore (CA)",
+"species": "Humpback",
+"info": "Feeding along island shelf; birds working the slicks.",
+"date": "2025-08-29",
+"latitude": 34.03,
+"longitude": -119.7,
+"area": "Southern California (Channel Islands)",
+"source": "https://www.channelislandssportfishing.com/whale-sightings-report/
+",
+"behaviors": ["feeding"]
+},
+
+{
+"id": "CAN-NL-WIT-2025-08-11-601",
+"name": "Witless Bay — Ecological Reserve (NL)",
+"species": "Humpback",
+"info": "Humpbacks feeding amid capelin schools; repeated flukes.",
+"date": "2025-08-11",
+"latitude": 47.18,
+"longitude": -52.77,
+"area": "Newfoundland (Avalon Peninsula)",
+"source": "https://obriensboattours.com/blog/
+",
+"behaviors": ["feeding","fluking"]
+},
+{
+"id": "CAN-NL-BAYB-2025-08-14-602",
+"name": "Bay Bulls — Witless Bay line (NL)",
+"species": "Humpback",
+"info": "Breaches near puffin colonies; feeding under kittiwakes.",
+"date": "2025-08-14",
+"latitude": 47.31,
+"longitude": -52.82,
+"area": "Newfoundland (Avalon Peninsula)",
+"source": "https://gatheralls.com/blog/
+",
+"behaviors": ["breaching","feeding"]
+},
+{
+"id": "CAN-NL-TWILL-2025-08-20-603",
+"name": "Twillingate — Notre Dame Bay (NL)",
+"species": "Humpback",
+"info": "Humpbacks cruising among icebergs remnants and capelin.",
+"date": "2025-08-20",
+"latitude": 49.65,
+"longitude": -54.76,
+"area": "Newfoundland (Notre Dame Bay)",
+"source": "https://www.discovertwillingate.com/whales/
+",
+"behaviors": ["traveling","feeding"]
+},
+{
+"id": "CAN-NS-CB-2025-08-22-604",
+"name": "Cape Breton — Cabot Trail (NS)",
+"species": "Humpback",
+"info": "Shore-based sighting of feeding humpback off Ingonish.",
+"date": "2025-08-22",
+"latitude": 46.68,
+"longitude": -60.39,
+"area": "Nova Scotia (Cape Breton)",
+"source": "https://www.facebook.com/whalewatchingcapebreton/
+",
+"behaviors": ["feeding","blows"]
+},
+
+{
+"id": "COL-CHO-NUQ-2025-08-12-701",
+"name": "Nuquí — Ensenada de Utría (CO)",
+"species": "Humpback",
+"info": "Mother-calf pairs resting; pec slaps near the beach.",
+"date": "2025-08-12",
+"latitude": 5.98,
+"longitude": -77.33,
+"area": "Colombia (Pacific/Chocó)",
+"source": "https://www.facebook.com/nuquiwhalewatching/
+",
+"behaviors": ["resting","pec slapping"],
+"calves": true
+},
+{
+"id": "COL-BAH-2025-08-16-702",
+"name": "Bahía Solano — Huina (CO)",
+"species": "Humpback",
+"info": "Breaching adults and escorting males offshore.",
+"date": "2025-08-16",
+"latitude": 6.22,
+"longitude": -77.41,
+"area": "Colombia (Pacific/Bahía Solano)",
+"source": "https://www.facebook.com/bahiasolanowhales/
+",
+"behaviors": ["breaching","escorting"]
+},
+{
+"id": "ECU-MACH-2025-08-18-703",
+"name": "Puerto López — Machalilla NP (EC)",
+"species": "Humpback",
+"info": "Active surface displays; competitive groups observed.",
+"date": "2025-08-18",
+"latitude": -1.57,
+"longitude": -80.82,
+"area": "Ecuador (Manabí)",
+"source": "https://www.pacificoadventures.com/reportes
+",
+"behaviors": ["competitive group","breaching"]
+},
+{
+"id": "ECU-ISLA-SAL-2025-08-21-704",
+"name": "Isla de la Plata — Salango (EC)",
+"species": "Humpback",
+"info": "Mother-calf pairs lingering; gentle tail lifts.",
+"date": "2025-08-21",
+"latitude": -1.28,
+"longitude": -80.86,
+"area": "Ecuador (Machalilla/La Plata)",
+"source": "https://www.pacificoadventures.com/reportes
+",
+"behaviors": ["resting","tail slapping"],
+"calves": true
+},
+{
+"id": "PER-LOSOR-2025-08-23-705",
+"name": "Los Órganos — Máncora (PE)",
+"species": "Humpback",
+"info": "Frequent breaches and tail throws on morning trip.",
+"date": "2025-08-23",
+"latitude": -4.17,
+"longitude": -81.13,
+"area": "Peru (Piura)",
+"source": "https://www.pacificoadventures.com/reportes
+",
+"behaviors": ["breaching","tail throwing"]
+},
+{
+"id": "PER-PUNTA-2025-08-26-706",
+"name": "Punta Sal — Tumbes (PE)",
+"species": "Humpback",
+"info": "Mother-calf pair cruising along beach; spyhops.",
+"date": "2025-08-26",
+"latitude": -3.96,
+"longitude": -80.98,
+"area": "Peru (Tumbes)",
+"source": "https://www.facebook.com/ballenasperu/
+",
+"behaviors": ["spyhopping","surfacing"],
+"calves": true
+},
+{
+"id": "BRA-ABR-2025-08-14-707",
+"name": "Abrolhos Bank — Bahia (BR)",
+"species": "Humpback",
+"info": "Peak-season singers and mother-calf pairs on the banks.",
+"date": "2025-08-14",
+"latitude": -17.97,
+"longitude": -38.7,
+"area": "Brazil (Bahia/Abrolhos)",
+"source": "https://baleiajubarte.org.br/noticias/
+",
+"behaviors": ["singing","resting"],
+"calves": true
+},
+{
+"id": "BRA-BA-2025-08-20-708",
+"name": "Praia do Forte — Costa dos Corais (BR)",
+"species": "Humpback",
+"info": "Breaches near reef edge; escorts circling.",
+"date": "2025-08-20",
+"latitude": -12.57,
+"longitude": -38.0,
+"area": "Brazil (Bahia)",
+"source": "https://www.institutobalear.org.br/
+",
+"behaviors": ["breaching","escorting"]
+},
+
+{
+"id": "ZA-WC-GANS-2025-08-12-801",
+"name": "Gansbaai — Dyer Island (ZA)",
+"species": "Humpback",
+"info": "Humpback passes outer island; mixed with Bryde’s activity.",
+"date": "2025-08-12",
+"latitude": -34.67,
+"longitude": 19.35,
+"area": "South Africa (Overberg/Dyer Island)",
+"source": "https://www.whalewatchsa.com/whale-sightings/daily-blog/
+",
+"behaviors": ["traveling","surfacing"]
+},
+{
+"id": "ZA-WC-PLT-2025-08-15-802",
+"name": "Plettenberg Bay — Robberg (ZA)",
+"species": "Humpback",
+"info": "Active breaching near headland; birds circling bait.",
+"date": "2025-08-15",
+"latitude": -34.07,
+"longitude": 23.37,
+"area": "South Africa (Garden Route)",
+"source": "https://oceanadventures.co.za/blog/
+",
+"behaviors": ["breaching","feeding"]
+},
+{
+"id": "ZA-KZN-DBN-2025-08-18-803",
+"name": "Durban — Aliwal Shoal line (ZA)",
+"species": "Humpback",
+"info": "Southbound juveniles meandering with tail slaps.",
+"date": "2025-08-18",
+"latitude": -30.2,
+"longitude": 30.8,
+"area": "South Africa (KwaZulu-Natal)",
+"source": "https://www.sodwanabaylodge.com/blog/
+",
+"behaviors": ["tail slapping","traveling"]
+},
+{
+"id": "MOZ-TOFO-2025-08-20-804",
+"name": "Praia do Tofo — Inhambane (MZ)",
+"species": "Humpback",
+"info": "Mother-calf pair close to shore; gentle rolls.",
+"date": "2025-08-20",
+"latitude": -23.86,
+"longitude": 35.56,
+"area": "Mozambique (Tofo)",
+"source": "https://marinemegafauna.org/news/
+",
+"behaviors": ["rolling","resting"],
+"calves": true
+},
+{
+"id": "MDG-SMAR-2025-08-22-805",
+"name": "Île Sainte-Marie — Baie des Forbans (MG)",
+"species": "Humpback",
+"info": "Singers and competitive groups; escorts circling.",
+"date": "2025-08-22",
+"latitude": -17.04,
+"longitude": 49.84,
+"area": "Madagascar (Sainte-Marie)",
+"source": "https://www.cetamada.org/actualites/
+",
+"behaviors": ["singing","competitive group"]
+},
+{
+"id": "REU-STPAUL-2025-08-24-806",
+"name": "La Réunion — Saint-Paul Bay (RE)",
+"species": "Humpback",
+"info": "Mother-calf resting near lee of bay; pec slaps.",
+"date": "2025-08-24",
+"latitude": -20.99,
+"longitude": 55.26,
+"area": "Réunion Island",
+"source": "https://www.globice.org/observations/
+",
+"behaviors": ["resting","pec slapping"],
+"calves": true
+},
+{
+"id": "MYT-LAGO-2025-08-26-807",
+"name": "Mayotte — Lagoon edge (YT)",
+"species": "Humpback",
+"info": "Breaches near reef pass; escorts visible.",
+"date": "2025-08-26",
+"latitude": -12.9,
+"longitude": 45.16,
+"area": "Mayotte (Comoros Archipelago)",
+"source": "https://www.omm-mayotte.org/observations/
+",
+"behaviors": ["breaching","escorting"]
+},
+
+{
+"id": "AU-QLD-HER-2025-08-15-901",
+"name": "Hervey Bay — Platypus Bay (QLD)",
+"species": "Humpback",
+"info": "Calm seas with mothers and calves logging.",
+"date": "2025-08-15",
+"latitude": -24.78,
+"longitude": 153.11,
+"area": "Australia (Fraser Coast)",
+"source": "https://www.herveybaywhalewatch.com.au/faqs
+",
+"behaviors": ["resting","logging"],
+"calves": true
+},
+{
+"id": "AU-QLD-HER-2025-08-18-902",
+"name": "Hervey Bay — Wathumba (QLD)",
+"species": "Humpback",
+"info": "Social groups with rolling and pec slaps.",
+"date": "2025-08-18",
+"latitude": -24.66,
+"longitude": 153.07,
+"area": "Australia (Fraser Coast)",
+"source": "https://whalesong.com.au/whale-sightings-blog/
+",
+"behaviors": ["rolling","pec slapping"]
+},
+{
+"id": "AU-QLD-HER-2025-08-20-903",
+"name": "Hervey Bay — Arch Cliffs (QLD)",
+"species": "Humpback",
+"info": "Spyhops and tail throws beside the boat.",
+"date": "2025-08-20",
+"latitude": -24.72,
+"longitude": 153.06,
+"area": "Australia (Fraser Coast)",
+"source": "https://spiritofherveybay.com.au/whale-sightings/
+",
+"behaviors": ["spyhopping","tail throwing"]
+},
+{
+"id": "AU-QLD-HER-2025-08-22-904",
+"name": "Hervey Bay — Moon Point (QLD)",
+"species": "Humpback",
+"info": "Mother-calf resting with escort patrolling.",
+"date": "2025-08-22",
+"latitude": -25.2,
+"longitude": 152.98,
+"area": "Australia (Fraser Coast)",
+"source": "https://freedomwhalewatch.com.au/blog/
+",
+"behaviors": ["resting","escorting"],
+"calves": true
+},
+{
+"id": "AU-QLD-HER-2025-08-27-905",
+"name": "Hervey Bay — Platypus Bay (QLD)",
+"species": "Humpback",
+"info": "High-energy breaching by juveniles.",
+"date": "2025-08-27",
+"latitude": -24.78,
+"longitude": 153.11,
+"area": "Australia (Fraser Coast)",
+"source": "https://whalewatchqld.com.au/reports/
+",
+"behaviors": ["breaching","social"]
+},
+{
+"id": "AU-WA-PER-2025-08-26-906",
+"name": "Perth — Rottnest Trench line (WA)",
+"species": "Humpback",
+"info": "Bachelor pods cruising south; occasional breaches.",
+"date": "2025-08-26",
+"latitude": -31.98,
+"longitude": 115.46,
+"area": "Australia (Perth)",
+"source": "https://whalewatchwesternaustralia.com/the-daily-whale/
+",
+"behaviors": ["traveling","breaching"]
+},
+{
+"id": "AU-NSW-SYD-2025-08-21-907",
+"name": "Sydney — North Head (NSW)",
+"species": "Humpback",
+"info": "Late northbound and early southbound pods off the heads.",
+"date": "2025-08-21",
+"latitude": -33.83,
+"longitude": 151.29,
+"area": "Australia (Sydney)",
+"source": "https://www.sydneywhalewatching.com.au/sightings/
+",
+"behaviors": ["traveling","breaching"]
+},
+{
+"id": "AU-NSW-BYR-2025-08-24-908",
+"name": "Byron Bay — Cape Byron (NSW)",
+"species": "Humpback",
+"info": "Breaching juveniles tracking south with dolphins.",
+"date": "2025-08-24",
+"latitude": -28.64,
+"longitude": 153.64,
+"area": "Australia (NSW North Coast)",
+"source": "https://www.byronbaywhalewatching.com.au/blog/
+",
+"behaviors": ["breaching","traveling"]
+},
+{
+"id": "AU-SA-ENC-2025-08-25-909",
+"name": "Encounter Bay — Victor Harbor (SA)",
+"species": "Humpback",
+"info": "Offshore humpback transiting shelf break.",
+"date": "2025-08-25",
+"latitude": -35.58,
+"longitude": 138.62,
+"area": "Australia (South Australia)",
+"source": "https://www.facebook.com/sawhalecentre
+",
+"behaviors": ["traveling","blows"]
+},
+
+{
+"id": "NZ-AKL-HG-2025-08-20-1001",
+"name": "Hauraki Gulf — off Rangitoto (NZ)",
+"species": "Orca",
+"info": "Coastal orca cruising with dolphins; short ray chase.",
+"date": "2025-08-20",
+"latitude": -36.8,
+"longitude": 174.9,
+"area": "New Zealand (Auckland/Hauraki Gulf)",
+"source": "https://www.facebook.com/groups/635589416580474/
+",
+"behaviors": ["traveling","foraging"]
+},
+{
+"id": "NZ-AKL-HG-2025-08-22-1002",
+"name": "Hauraki Gulf — Tamaki Strait (NZ)",
+"species": "Orca",
+"info": "Small pod hugging coastline; brief milling.",
+"date": "2025-08-22",
+"latitude": -36.9,
+"longitude": 175.0,
+"area": "New Zealand (Auckland/Hauraki Gulf)",
+"source": "https://www.facebook.com/groups/635589416580474/
+",
+"behaviors": ["milling","traveling"]
+},
+{
+"id": "NZ-BOP-2025-08-24-1003",
+"name": "Bay of Plenty — off Tauranga (NZ)",
+"species": "Humpback",
+"info": "Single humpback traveling east; long dives.",
+"date": "2025-08-24",
+"latitude": -37.61,
+"longitude": 176.24,
+"area": "New Zealand (Bay of Plenty)",
+"source": "https://www.facebook.com/skipscatroutes/
+",
+"behaviors": ["traveling","fluking"]
+},
+{
+"id": "NZ-KAI-2025-08-25-1004",
+"name": "Kaikōura — Peninsula (NZ)",
+"species": "Humpback",
+"info": "Migrating humpback passing south in offshore current.",
+"date": "2025-08-25",
+"latitude": -42.43,
+"longitude": 173.68,
+"area": "New Zealand (Kaikōura Coast)",
+"source": "https://whalewatch.co.nz/report/
+",
+"behaviors": ["traveling"]
+},
+
+{
+"id": "RUS-KAM-AV-2025-08-18-1101",
+"name": "Kamchatka — Avacha Bay (RU)",
+"species": "Humpback",
+"info": "Feeding humpbacks near bay mouth; frequent blows.",
+"date": "2025-08-18",
+"latitude": 52.9,
+"longitude": 158.8,
+"area": "Russia (Kamchatka)",
+"source": "https://wildlifeofkamchatka.com/reports/
+",
+"behaviors": ["feeding","blows"]
+},
+{
+"id": "RUS-KUR-2025-08-22-1102",
+"name": "Kuril Islands — Iturup offshore (RU)",
+"species": "Humpback",
+"info": "Lunge-feeding along current lines near shelf break.",
+"date": "2025-08-22",
+"latitude": 44.8,
+"longitude": 148.0,
+"area": "Russia (Kuril Islands)",
+"source": "https://www.kurils-tour.com/news/
+",
+"behaviors": ["lunge feeding","group feeding"]
+},
+
+{
+"id": "JPN-HKD-NEM-2025-08-12-1201",
+"name": "Hokkaidō — Nemuro Strait (JP)",
+"species": "Orca",
+"info": "Small pod transiting outer strait in late season.",
+"date": "2025-08-12",
+"latitude": 44.2,
+"longitude": 145.5,
+"area": "Japan (Shiretoko/Rausu)",
+"source": "https://www.myeasternhokkaido.com/shiretoko-nature-cruise/
+",
+"behaviors": ["traveling","surfacing"]
+},
+{
+"id": "JPN-HKD-SHK-2025-08-16-1202",
+"name": "Shiretoko — Sea of Okhotsk (JP)",
+"species": "Orca",
+"info": "Brief spyhop observed from cruise vessel.",
+"date": "2025-08-16",
+"latitude": 44.05,
+"longitude": 145.2,
+"area": "Japan (Shiretoko)",
+"source": "https://www.shiretoko-nature-cruise.com/en/blog/
+",
+"behaviors": ["spyhopping","traveling"]
+}
 ]
