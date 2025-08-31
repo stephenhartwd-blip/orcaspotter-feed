@@ -1,9 +1,4 @@
-// Last-3-weeks-only (Aug 10–31, 2025) humpback + orca sightings.
-// Combined: filtered keepers from your earlier file + many fresh additions.
-// Note: same schema you use; not writing a .json file, just code here.
 
-const sightings = [
-  // —— KEEPERS FROM YOUR EARLY FILE (filtered to Aug 10–31) ——
   {
     "id": "AK-GLA-2025-08-21-020",
     "name": "Glacier Bay NP — Lower Bay (AK)",
