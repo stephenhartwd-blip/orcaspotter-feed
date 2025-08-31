@@ -1,3706 +1,898 @@
 [
   {
-    "id": "CA-BC-SALISH-2025-08-23-001",
-    "name": "Canada (British Columbia/Queen Charlotte Strait) — Queen Charlotte Strait",
+    "id": "CA-20250810-100",
+    "name": "California — Monterey Bay (US)",
     "species": "Humpback",
-    "info": "Humpback traveling near queen charlotte strait.",
-    "date": "2025-08-23",
-    "latitude": 50.76387,
-    "longitude": -127.37646,
-    "area": "Canada (British Columbia/Queen Charlotte Strait)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "trumpeting",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-15-002",
-    "name": "Canada (British Columbia/English Bay) — English Bay / Burrard Inlet entrance",
-    "species": "Humpback",
-    "info": "Humpback surface-active near english bay / burrard inlet entrance.",
-    "date": "2025-08-15",
-    "latitude": 49.28501,
-    "longitude": -123.13267,
-    "area": "Canada (British Columbia/English Bay)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "lunge feeding",
-      "fluking",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-18-003",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Turn Point",
-    "species": "Humpback",
-    "info": "Humpback traveling near haro strait near turn point.",
-    "date": "2025-08-18",
-    "latitude": 48.69245,
-    "longitude": -123.22941,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "breaching",
-      "pectoral slapping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-11-004",
-    "name": "Canada (British Columbia/Nootka Sound) — Nootka Sound outer",
-    "species": "Humpback",
-    "info": "Humpback feeding near nootka sound outer.",
-    "date": "2025-08-11",
-    "latitude": 49.58575,
-    "longitude": -126.62525,
-    "area": "Canada (British Columbia/Nootka Sound)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "kelping",
-      "pectoral slapping",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-21-005",
-    "name": "Canada (British Columbia/Quatsino Sound) — Quatsino Sound outer",
-    "species": "Humpback",
-    "info": "Humpback feeding near quatsino sound outer.",
-    "date": "2025-08-21",
-    "latitude": 50.34855,
-    "longitude": -127.87142,
-    "area": "Canada (British Columbia/Quatsino Sound)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "fluking",
-      "pectoral slapping",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-24-006",
-    "name": "Canada (British Columbia/Barkley Sound) — Barkley Sound / Bamfield line",
-    "species": "Orca",
-    "info": "Orca surface-active near barkley sound / bamfield line.",
-    "date": "2025-08-24",
-    "latitude": 48.84129,
-    "longitude": -125.16419,
-    "area": "Canada (British Columbia/Barkley Sound)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "trumpeting",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-22-007",
-    "name": "Canada (British Columbia/Saanich Inlet) — Saanich Inlet mouth",
-    "species": "Orca",
-    "info": "Orca breaching near saanich inlet mouth.",
-    "date": "2025-08-22",
-    "latitude": 48.7,
-    "longitude": -123.53384,
-    "area": "Canada (British Columbia/Saanich Inlet)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "lunge feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-14-008",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass",
-    "species": "Humpback",
-    "info": "Humpback feeding near active pass.",
-    "date": "2025-08-14",
-    "latitude": 48.87988,
-    "longitude": -123.30723,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "spyhopping",
-      "fluking",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-25-009",
-    "name": "Canada (British Columbia/Nootka Sound) — Nootka Sound outer",
-    "species": "Orca",
-    "info": "Orca traveling near nootka sound outer.",
-    "date": "2025-08-25",
-    "latitude": 49.58946,
-    "longitude": -126.6442,
-    "area": "Canada (British Columbia/Nootka Sound)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "pectoral slapping",
-      "lunge feeding",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-29-010",
-    "name": "Canada (British Columbia/Quatsino Sound) — Quatsino Sound outer",
-    "species": "Orca",
-    "info": "Orca surface-active near quatsino sound outer.",
-    "date": "2025-08-29",
-    "latitude": 50.35532,
-    "longitude": -127.85761,
-    "area": "Canada (British Columbia/Quatsino Sound)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "kelping",
-      "breaching",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-13-011",
-    "name": "Canada (British Columbia/Malaspina Strait) — Malaspina Strait mid-channel",
-    "species": "Orca",
-    "info": "Orca breaching near malaspina strait mid-channel.",
-    "date": "2025-08-13",
-    "latitude": 49.62132,
-    "longitude": -123.98302,
-    "area": "Canada (British Columbia/Malaspina Strait)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "trumpeting",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-30-012",
-    "name": "Canada (British Columbia/Gulf Islands) — Porlier Pass",
-    "species": "Orca",
-    "info": "Orca feeding near porlier pass.",
-    "date": "2025-08-30",
-    "latitude": 49.00057,
-    "longitude": -123.59357,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "trumpeting",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-10-013",
-    "name": "Canada (British Columbia/Strait of Georgia) — Strait of Georgia off Bowen",
-    "species": "Orca",
-    "info": "Orca traveling near strait of georgia off bowen.",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
     "date": "2025-08-10",
-    "latitude": 49.43897,
-    "longitude": -123.37727,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "kelping",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-27-014",
-    "name": "Canada (British Columbia/Gulf Islands) — Trincomali Channel",
-    "species": "Humpback",
-    "info": "Humpback feeding near trincomali channel.",
-    "date": "2025-08-27",
-    "latitude": 48.97137,
-    "longitude": -123.43888,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "breaching",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-22-015",
-    "name": "Canada (British Columbia/Strait of Georgia) — Strait of Georgia off Bowen",
-    "species": "Humpback",
-    "info": "Humpback breaching near strait of georgia off bowen.",
-    "date": "2025-08-22",
-    "latitude": 49.47262,
-    "longitude": -123.42607,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "lunge feeding",
-      "trumpeting",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-28-016",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass west mouth",
-    "species": "Humpback",
-    "info": "Humpback feeding near active pass west mouth.",
-    "date": "2025-08-28",
-    "latitude": 48.84681,
-    "longitude": -123.53519,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "kelping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-31-017",
-    "name": "Canada (British Columbia/English Bay) — English Bay / Burrard Inlet entrance",
-    "species": "Orca",
-    "info": "Orca surface-active near english bay / burrard inlet entrance.",
-    "date": "2025-08-31",
-    "latitude": 49.29077,
-    "longitude": -123.1406,
-    "area": "Canada (British Columbia/English Bay)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "breaching",
-      "trumpeting",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-13-018",
-    "name": "Canada (British Columbia/Nanaimo) — Nanaimo / Departure Bay offshore",
-    "species": "Humpback",
-    "info": "Humpback traveling near nanaimo / departure bay offshore.",
-    "date": "2025-08-13",
-    "latitude": 49.22961,
-    "longitude": -123.91482,
-    "area": "Canada (British Columbia/Nanaimo)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "fluking",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-13-019",
-    "name": "Canada (British Columbia/Barkley Sound) — Barkley Sound / Bamfield line",
-    "species": "Orca",
-    "info": "Orca feeding near barkley sound / bamfield line.",
-    "date": "2025-08-13",
-    "latitude": 48.82723,
-    "longitude": -125.17181,
-    "area": "Canada (British Columbia/Barkley Sound)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "traveling",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-13-020",
-    "name": "Canada (British Columbia/Nanaimo) — Nanaimo / Departure Bay offshore",
-    "species": "Humpback",
-    "info": "Humpback traveling near nanaimo / departure bay offshore.",
-    "date": "2025-08-13",
-    "latitude": 49.21892,
-    "longitude": -123.94251,
-    "area": "Canada (British Columbia/Nanaimo)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "breaching",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-25-021",
-    "name": "Canada (British Columbia/Queen Charlotte Strait) — Queen Charlotte Strait",
-    "species": "Orca",
-    "info": "Orca feeding near queen charlotte strait.",
-    "date": "2025-08-25",
-    "latitude": 50.7842,
-    "longitude": -127.3166,
-    "area": "Canada (British Columbia/Queen Charlotte Strait)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "surface feeding",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-16-022",
-    "name": "Canada (British Columbia/Gulf Islands) — Plumper Sound",
-    "species": "Humpback",
-    "info": "Humpback breaching near plumper sound.",
-    "date": "2025-08-16",
-    "latitude": 48.74789,
-    "longitude": -123.24979,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "tail slapping",
-      "spyhopping",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-26-023",
-    "name": "Canada (British Columbia/Nanaimo) — Nanaimo / Departure Bay offshore",
-    "species": "Orca",
-    "info": "Orca feeding near nanaimo / departure bay offshore.",
-    "date": "2025-08-26",
-    "latitude": 49.22555,
-    "longitude": -123.93547,
-    "area": "Canada (British Columbia/Nanaimo)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "traveling",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-17-024",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Trial Island",
-    "species": "Humpback",
-    "info": "Humpback traveling near haro strait near trial island.",
-    "date": "2025-08-17",
-    "latitude": 48.54078,
-    "longitude": -123.25305,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "spyhopping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-22-025",
-    "name": "Canada (British Columbia/Johnstone Strait) — Johnstone Strait / Blackney Passage",
-    "species": "Humpback",
-    "info": "Humpback feeding near johnstone strait / blackney passage.",
-    "date": "2025-08-22",
-    "latitude": 50.58223,
-    "longitude": -126.73854,
-    "area": "Canada (British Columbia/Johnstone Strait)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "lunge feeding",
-      "pectoral slapping",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-27-026",
-    "name": "Canada (British Columbia/Barkley Sound) — Barkley Sound / Bamfield line",
-    "species": "Orca",
-    "info": "Orca feeding near barkley sound / bamfield line.",
-    "date": "2025-08-27",
-    "latitude": 48.82787,
-    "longitude": -125.1376,
-    "area": "Canada (British Columbia/Barkley Sound)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "fluking",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-19-027",
-    "name": "Canada (British Columbia/Malaspina Strait) — Malaspina Strait mid-channel",
-    "species": "Orca",
-    "info": "Orca traveling near malaspina strait mid-channel.",
-    "date": "2025-08-19",
-    "latitude": 49.63115,
-    "longitude": -123.98487,
-    "area": "Canada (British Columbia/Malaspina Strait)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "tail slapping",
-      "surface feeding",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-27-028",
-    "name": "Canada (British Columbia/Barkley Sound) — Barkley Sound / Bamfield line",
-    "species": "Orca",
-    "info": "Orca feeding near barkley sound / bamfield line.",
-    "date": "2025-08-27",
-    "latitude": 48.81785,
-    "longitude": -125.15497,
-    "area": "Canada (British Columbia/Barkley Sound)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "tail slapping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-12-029",
-    "name": "Canada (British Columbia/Saanich Inlet) — Saanich Inlet mouth",
-    "species": "Orca",
-    "info": "Orca surface-active near saanich inlet mouth.",
-    "date": "2025-08-12",
-    "latitude": 48.68225,
-    "longitude": -123.54637,
-    "area": "Canada (British Columbia/Saanich Inlet)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "trumpeting",
-      "fluking",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-27-030",
-    "name": "Canada (British Columbia/Saanich Inlet) — Saanich Inlet mouth",
-    "species": "Orca",
-    "info": "Orca traveling near saanich inlet mouth.",
-    "date": "2025-08-27",
-    "latitude": 48.68804,
-    "longitude": -123.54659,
-    "area": "Canada (British Columbia/Saanich Inlet)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "fluking",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-14-031",
-    "name": "Canada (British Columbia/Boundary Pass) — Boundary Pass",
-    "species": "Humpback",
-    "info": "Humpback traveling near boundary pass.",
-    "date": "2025-08-14",
-    "latitude": 48.85527,
-    "longitude": -123.04156,
-    "area": "Canada (British Columbia/Boundary Pass)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "kelping",
-      "trumpeting",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-27-032",
-    "name": "Canada (British Columbia/Juan de Fuca Strait) — Juan de Fuca Strait (East Sooke)",
-    "species": "Humpback",
-    "info": "Humpback surface-active near juan de fuca strait (east sooke).",
-    "date": "2025-08-27",
-    "latitude": 48.36386,
-    "longitude": -123.52726,
-    "area": "Canada (British Columbia/Juan de Fuca Strait)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "lunge feeding",
-      "kelping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-20-033",
-    "name": "Canada (British Columbia/Johnstone Strait) — Johnstone Strait / Blackney Passage",
-    "species": "Humpback",
-    "info": "Humpback surface-active near johnstone strait / blackney passage.",
-    "date": "2025-08-20",
-    "latitude": 50.60396,
-    "longitude": -126.76333,
-    "area": "Canada (British Columbia/Johnstone Strait)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "spyhopping",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-17-034",
-    "name": "Canada (British Columbia/Howe Sound) — Queen Charlotte Channel (Howe Sound)",
-    "species": "Humpback",
-    "info": "Humpback feeding near queen charlotte channel (howe sound).",
-    "date": "2025-08-17",
-    "latitude": 49.53205,
-    "longitude": -123.31988,
-    "area": "Canada (British Columbia/Howe Sound)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "spyhopping",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-12-035",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass west mouth",
-    "species": "Humpback",
-    "info": "Humpback breaching near active pass west mouth.",
-    "date": "2025-08-12",
-    "latitude": 48.85996,
-    "longitude": -123.49247,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "spyhopping",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-28-036",
-    "name": "Canada (British Columbia/Gulf Islands) — Trincomali Channel",
-    "species": "Humpback",
-    "info": "Humpback breaching near trincomali channel.",
-    "date": "2025-08-28",
-    "latitude": 48.94504,
-    "longitude": -123.38376,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "breaching",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-11-037",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Trial Island",
-    "species": "Humpback",
-    "info": "Humpback surface-active near haro strait near trial island.",
-    "date": "2025-08-11",
-    "latitude": 48.56896,
-    "longitude": -123.21453,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "spyhopping",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-31-038",
-    "name": "Canada (British Columbia/English Bay) — English Bay / Burrard Inlet entrance",
-    "species": "Orca",
-    "info": "Orca breaching near english bay / burrard inlet entrance.",
-    "date": "2025-08-31",
-    "latitude": 49.30181,
-    "longitude": -123.12303,
-    "area": "Canada (British Columbia/English Bay)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "pectoral slapping",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-27-039",
-    "name": "Canada (British Columbia/Johnstone Strait) — Johnstone Strait / Blackney Passage",
-    "species": "Humpback",
-    "info": "Humpback feeding near johnstone strait / blackney passage.",
-    "date": "2025-08-27",
-    "latitude": 50.59002,
-    "longitude": -126.73003,
-    "area": "Canada (British Columbia/Johnstone Strait)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "spyhopping",
-      "pectoral slapping",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-19-040",
-    "name": "Canada (British Columbia/Nanaimo) — Nanaimo / Departure Bay offshore",
-    "species": "Orca",
-    "info": "Orca feeding near nanaimo / departure bay offshore.",
-    "date": "2025-08-19",
-    "latitude": 49.23564,
-    "longitude": -123.93036,
-    "area": "Canada (British Columbia/Nanaimo)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "spyhopping",
-      "trumpeting",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-31-041",
-    "name": "Canada (British Columbia/Gulf Islands) — Porlier Pass",
-    "species": "Humpback",
-    "info": "Humpback traveling near porlier pass.",
-    "date": "2025-08-31",
-    "latitude": 49.01625,
-    "longitude": -123.61587,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "trumpeting",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-14-042",
-    "name": "Canada (British Columbia/Juan de Fuca Strait) — Juan de Fuca Strait (East Sooke)",
-    "species": "Orca",
-    "info": "Orca traveling near juan de fuca strait (east sooke).",
-    "date": "2025-08-14",
-    "latitude": 48.35552,
-    "longitude": -123.5603,
-    "area": "Canada (British Columbia/Juan de Fuca Strait)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "tail slapping",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-22-043",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Trial Island",
-    "species": "Humpback",
-    "info": "Humpback feeding near haro strait near trial island.",
-    "date": "2025-08-22",
-    "latitude": 48.56939,
-    "longitude": -123.20708,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "kelping",
-      "lunge feeding",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-26-044",
-    "name": "Canada (British Columbia/Strait of Georgia) — Strait of Georgia off Bowen",
-    "species": "Orca",
-    "info": "Orca surface-active near strait of georgia off bowen.",
-    "date": "2025-08-26",
-    "latitude": 49.42509,
-    "longitude": -123.38055,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "spyhopping",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-29-045",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Trial Island",
-    "species": "Humpback",
-    "info": "Humpback surface-active near haro strait near trial island.",
-    "date": "2025-08-29",
-    "latitude": 48.58844,
-    "longitude": -123.24527,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "trumpeting",
-      "kelping",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-30-046",
-    "name": "Canada (British Columbia/Comox — Comox Bay outer",
-    "species": "Humpback",
-    "info": "Humpback feeding near comox bay outer.",
-    "date": "2025-08-30",
-    "latitude": 49.67734,
-    "longitude": -124.92925,
-    "area": "Canada (British Columbia/Comox)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "tail slapping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-22-047",
-    "name": "Canada (British Columbia/Saanich Inlet) — Saanich Inlet mouth",
-    "species": "Humpback",
-    "info": "Humpback feeding near saanich inlet mouth.",
-    "date": "2025-08-22",
-    "latitude": 48.69785,
-    "longitude": -123.55478,
-    "area": "Canada (British Columbia/Saanich Inlet)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "surface feeding",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-28-048",
-    "name": "Canada (British Columbia/Clayoquot Sound) — Clayoquot Sound off Tofino",
-    "species": "Humpback",
-    "info": "Humpback traveling near clayoquot sound off tofino.",
-    "date": "2025-08-28",
-    "latitude": 49.15808,
-    "longitude": -125.98582,
-    "area": "Canada (British Columbia/Clayoquot Sound)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "lunge feeding",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-17-049",
-    "name": "Canada (British Columbia/Quatsino Sound) — Quatsino Sound outer",
-    "species": "Humpback",
-    "info": "Humpback breaching near quatsino sound outer.",
-    "date": "2025-08-17",
-    "latitude": 50.35896,
-    "longitude": -127.82855,
-    "area": "Canada (British Columbia/Quatsino Sound)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "spyhopping",
-      "trumpeting",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-27-050",
-    "name": "Canada (British Columbia/Gulf Islands) — Porlier Pass",
-    "species": "Orca",
-    "info": "Orca traveling near porlier pass.",
-    "date": "2025-08-27",
-    "latitude": 49.00559,
-    "longitude": -123.5898,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "fluking",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-20-051",
-    "name": "Canada (British Columbia/Gulf Islands) — Plumper Sound",
-    "species": "Humpback",
-    "info": "Humpback feeding near plumper sound.",
-    "date": "2025-08-20",
-    "latitude": 48.77755,
-    "longitude": -123.22925,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "surface feeding",
-      "traveling",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-27-052",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass west mouth",
-    "species": "Orca",
-    "info": "Orca traveling near active pass west mouth.",
-    "date": "2025-08-27",
-    "latitude": 48.85774,
-    "longitude": -123.51544,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "tail slapping",
-      "breaching",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-29-053",
-    "name": "Canada (British Columbia/Gulf Islands) — Trincomali Channel",
-    "species": "Humpback",
-    "info": "Humpback feeding near trincomali channel.",
-    "date": "2025-08-29",
-    "latitude": 48.94001,
-    "longitude": -123.40388,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "lunge feeding",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-19-054",
-    "name": "Canada (British Columbia/Gulf Islands) — Gabriola Passage approaches",
-    "species": "Humpback",
-    "info": "Humpback traveling near gabriola passage approaches.",
-    "date": "2025-08-19",
-    "latitude": 49.10288,
-    "longitude": -123.71834,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "pectoral slapping",
-      "surface feeding",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-19-055",
-    "name": "Canada (British Columbia/Discovery Passage) — Campbell River / Discovery Passage",
-    "species": "Orca",
-    "info": "Orca traveling near campbell river / discovery passage.",
-    "date": "2025-08-19",
-    "latitude": 49.998,
-    "longitude": -125.39707,
-    "area": "Canada (British Columbia/Discovery Passage)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "lunge feeding",
-      "breaching",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-23-056",
-    "name": "Canada (British Columbia/Howe Sound) — Queen Charlotte Channel (Howe Sound)",
-    "species": "Humpback",
-    "info": "Humpback surface-active near queen charlotte channel (howe sound).",
-    "date": "2025-08-23",
-    "latitude": 49.54008,
-    "longitude": -123.31672,
-    "area": "Canada (British Columbia/Howe Sound)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "breaching",
-      "trumpeting",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-30-057",
-    "name": "Canada (British Columbia/Boundary Pass) — Boundary Pass",
-    "species": "Humpback",
-    "info": "Humpback breaching near boundary pass.",
-    "date": "2025-08-30",
-    "latitude": 48.84499,
-    "longitude": -123.02837,
-    "area": "Canada (British Columbia/Boundary Pass)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "spyhopping",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-24-058",
-    "name": "Canada (British Columbia/Johnstone Strait) — Johnstone Strait / Blackney Passage",
-    "species": "Humpback",
-    "info": "Humpback feeding near johnstone strait / blackney passage.",
-    "date": "2025-08-24",
-    "latitude": 50.58229,
-    "longitude": -126.74156,
-    "area": "Canada (British Columbia/Johnstone Strait)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "pectoral slapping",
-      "lunge feeding",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-18-059",
-    "name": "Canada (British Columbia/Quatsino Sound) — Quatsino Sound outer",
-    "species": "Humpback",
-    "info": "Humpback breaching near quatsino sound outer.",
-    "date": "2025-08-18",
-    "latitude": 50.36423,
-    "longitude": -127.86727,
-    "area": "Canada (British Columbia/Quatsino Sound)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "surface feeding",
-      "fluking",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-25-060",
-    "name": "Canada (British Columbia/Saanich Inlet) — Saanich Inlet mouth",
-    "species": "Humpback",
-    "info": "Humpback feeding near saanich inlet mouth.",
-    "date": "2025-08-25",
-    "latitude": 48.70298,
-    "longitude": -123.56187,
-    "area": "Canada (British Columbia/Saanich Inlet)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-31-061",
-    "name": "Canada (British Columbia/Clayoquot Sound) — Clayoquot Sound off Tofino",
-    "species": "Humpback",
-    "info": "Humpback breaching near clayoquot sound off tofino.",
-    "date": "2025-08-31",
-    "latitude": 49.16827,
-    "longitude": -125.98309,
-    "area": "Canada (British Columbia/Clayoquot Sound)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "lunge feeding",
-      "spyhopping",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-17-062",
-    "name": "Canada (British Columbia/Sunshine Coast) — Georgia Strait off Sunshine Coast",
-    "species": "Humpback",
-    "info": "Humpback traveling near georgia strait off sunshine coast.",
-    "date": "2025-08-17",
-    "latitude": 49.34314,
-    "longitude": -123.46652,
-    "area": "Canada (British Columbia/Sunshine Coast)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "fluking",
-      "tail slapping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-18-063",
-    "name": "Canada (British Columbia/Nootka Sound) — Nootka Sound outer",
-    "species": "Orca",
-    "info": "Orca breaching near nootka sound outer.",
-    "date": "2025-08-18",
-    "latitude": 49.59195,
-    "longitude": -126.64883,
-    "area": "Canada (British Columbia/Nootka Sound)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "lunge feeding",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-27-064",
-    "name": "Canada (British Columbia/Boundary Pass) — Boundary Pass",
-    "species": "Humpback",
-    "info": "Humpback breaching near boundary pass.",
-    "date": "2025-08-27",
-    "latitude": 48.83747,
-    "longitude": -123.06301,
-    "area": "Canada (British Columbia/Boundary Pass)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "tail slapping",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-25-065",
-    "name": "Canada (British Columbia/Clayoquot Sound) — Clayoquot Sound off Tofino",
-    "species": "Humpback",
-    "info": "Humpback surface-active near clayoquot sound off tofino.",
-    "date": "2025-08-25",
-    "latitude": 49.16945,
-    "longitude": -125.9535,
-    "area": "Canada (British Columbia/Clayoquot Sound)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "kelping",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-28-066",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Turn Point",
-    "species": "Humpback",
-    "info": "Humpback traveling near haro strait near turn point.",
-    "date": "2025-08-28",
-    "latitude": 48.69074,
-    "longitude": -123.22621,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "spyhopping",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-29-067",
-    "name": "Canada (British Columbia/Strait of Georgia) — Strait of Georgia off Bowen",
-    "species": "Orca",
-    "info": "Orca feeding near strait of georgia off bowen.",
-    "date": "2025-08-29",
-    "latitude": 49.45116,
-    "longitude": -123.40556,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "trumpeting",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-30-068",
-    "name": "Canada (British Columbia/Quatsino Sound) — Quatsino Sound outer",
-    "species": "Orca",
-    "info": "Orca feeding near quatsino sound outer.",
-    "date": "2025-08-30",
-    "latitude": 50.35792,
-    "longitude": -127.86377,
-    "area": "Canada (British Columbia/Quatsino Sound)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "tail slapping",
-      "traveling",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-25-069",
-    "name": "Canada (British Columbia/Saanich Inlet) — Saanich Inlet mouth",
-    "species": "Humpback",
-    "info": "Humpback breaching near saanich inlet mouth.",
-    "date": "2025-08-25",
-    "latitude": 48.67263,
-    "longitude": -123.56503,
-    "area": "Canada (British Columbia/Saanich Inlet)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "spyhopping",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-13-070",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Trial Island",
-    "species": "Humpback",
-    "info": "Humpback feeding near haro strait near trial island.",
-    "date": "2025-08-13",
-    "latitude": 48.57489,
-    "longitude": -123.21276,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "tail slapping",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-24-071",
-    "name": "Canada (British Columbia/Queen Charlotte Strait) — Queen Charlotte Strait",
-    "species": "Humpback",
-    "info": "Humpback breaching near queen charlotte strait.",
-    "date": "2025-08-24",
-    "latitude": 50.75569,
-    "longitude": -127.38041,
-    "area": "Canada (British Columbia/Queen Charlotte Strait)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "kelping",
-      "tail slapping",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-18-072",
-    "name": "Canada (British Columbia/Clayoquot Sound) — Clayoquot Sound off Tofino",
-    "species": "Humpback",
-    "info": "Humpback traveling near clayoquot sound off tofino.",
-    "date": "2025-08-18",
-    "latitude": 49.15217,
-    "longitude": -125.9779,
-    "area": "Canada (British Columbia/Clayoquot Sound)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "spyhopping",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-25-073",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass",
-    "species": "Humpback",
-    "info": "Humpback surface-active near active pass.",
-    "date": "2025-08-25",
-    "latitude": 48.87409,
-    "longitude": -123.30715,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "tail slapping",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-20-074",
-    "name": "Canada (British Columbia/Saanich Inlet) — Saanich Inlet mouth",
-    "species": "Humpback",
-    "info": "Humpback breaching near saanich inlet mouth.",
-    "date": "2025-08-20",
-    "latitude": 48.69175,
-    "longitude": -123.53582,
-    "area": "Canada (British Columbia/Saanich Inlet)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "fluking",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-20-075",
-    "name": "Canada (British Columbia/Barkley Sound) — Barkley Sound / Bamfield line",
-    "species": "Humpback",
-    "info": "Humpback breaching near barkley sound / bamfield line.",
-    "date": "2025-08-20",
-    "latitude": 48.82471,
-    "longitude": -125.17209,
-    "area": "Canada (British Columbia/Barkley Sound)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "trumpeting",
-      "traveling",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-11-076",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Turn Point",
-    "species": "Orca",
-    "info": "Orca feeding near haro strait near turn point.",
-    "date": "2025-08-11",
-    "latitude": 48.70445,
-    "longitude": -123.23098,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "trumpeting",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-19-077",
-    "name": "Canada (British Columbia/Malaspina Strait) — Malaspina Strait mid-channel",
-    "species": "Orca",
-    "info": "Orca surface-active near malaspina strait mid-channel.",
-    "date": "2025-08-19",
-    "latitude": 49.62816,
-    "longitude": -123.99384,
-    "area": "Canada (British Columbia/Malaspina Strait)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "tail slapping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-27-078",
-    "name": "Canada (British Columbia/Clayoquot Sound) — Clayoquot Sound off Tofino",
-    "species": "Orca",
-    "info": "Orca surface-active near clayoquot sound off tofino.",
-    "date": "2025-08-27",
-    "latitude": 49.14135,
-    "longitude": -125.97213,
-    "area": "Canada (British Columbia/Clayoquot Sound)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "tail slapping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-18-079",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass",
-    "species": "Orca",
-    "info": "Orca surface-active near active pass.",
-    "date": "2025-08-18",
-    "latitude": 48.87791,
-    "longitude": -123.33362,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "fluking",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-20-080",
-    "name": "Canada (British Columbia/Sunshine Coast) — Georgia Strait off Sunshine Coast",
-    "species": "Humpback",
-    "info": "Humpback breaching near georgia strait off sunshine coast.",
-    "date": "2025-08-20",
-    "latitude": 49.33185,
-    "longitude": -123.49443,
-    "area": "Canada (British Columbia/Sunshine Coast)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-20-081",
-    "name": "Canada (British Columbia/English Bay) — English Bay / Burrard Inlet entrance",
-    "species": "Orca",
-    "info": "Orca surface-active near english bay / burrard inlet entrance.",
-    "date": "2025-08-20",
-    "latitude": 49.28359,
-    "longitude": -123.13142,
-    "area": "Canada (British Columbia/English Bay)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "surface feeding",
-      "fluking",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-25-082",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass west mouth",
-    "species": "Humpback",
-    "info": "Humpback surface-active near active pass west mouth.",
-    "date": "2025-08-25",
-    "latitude": 48.87507,
-    "longitude": -123.46044,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "lunge feeding",
-      "spyhopping",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-20-083",
-    "name": "Canada (British Columbia/Gulf Islands) — Plumper Sound",
-    "species": "Humpback",
-    "info": "Humpback traveling near plumper sound.",
-    "date": "2025-08-20",
-    "latitude": 48.79086,
-    "longitude": -123.18354,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "surface feeding",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-20-084",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass west mouth",
-    "species": "Humpback",
-    "info": "Humpback surface-active near active pass west mouth.",
-    "date": "2025-08-20",
-    "latitude": 48.85628,
-    "longitude": -123.52127,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "breaching",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-12-085",
-    "name": "Canada (British Columbia/Queen Charlotte Strait) — Queen Charlotte Strait",
-    "species": "Humpback",
-    "info": "Humpback feeding near queen charlotte strait.",
-    "date": "2025-08-12",
-    "latitude": 50.75759,
-    "longitude": -127.36612,
-    "area": "Canada (British Columbia/Queen Charlotte Strait)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "fluking",
-      "trumpeting",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-19-086",
-    "name": "Canada (British Columbia/Queen Charlotte Strait) — Queen Charlotte Strait",
-    "species": "Humpback",
-    "info": "Humpback traveling near queen charlotte strait.",
-    "date": "2025-08-19",
-    "latitude": 50.74891,
-    "longitude": -127.39247,
-    "area": "Canada (British Columbia/Queen Charlotte Strait)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "breaching",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-31-087",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Trial Island",
-    "species": "Humpback",
-    "info": "Humpback feeding near haro strait near trial island.",
-    "date": "2025-08-31",
-    "latitude": 48.55692,
-    "longitude": -123.2263,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "trumpeting",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-30-088",
-    "name": "Canada (British Columbia/Strait of Georgia) — Strait of Georgia mid-channel",
-    "species": "Orca",
-    "info": "Orca breaching near strait of georgia mid-channel.",
-    "date": "2025-08-30",
-    "latitude": 49.2022,
-    "longitude": -123.5036,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "kelping",
-      "surface feeding",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-28-089",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass west mouth",
-    "species": "Orca",
-    "info": "Orca breaching near active pass west mouth.",
-    "date": "2025-08-28",
-    "latitude": 48.83768,
-    "longitude": -123.49838,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "breaching",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-28-090",
-    "name": "Canada (British Columbia/Queen Charlotte Strait) — Queen Charlotte Strait",
-    "species": "Humpback",
-    "info": "Humpback breaching near queen charlotte strait.",
-    "date": "2025-08-28",
-    "latitude": 50.77326,
-    "longitude": -127.37475,
-    "area": "Canada (British Columbia/Queen Charlotte Strait)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "fluking",
-      "breaching",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-25-091",
-    "name": "Canada (British Columbia/Discovery Passage) — Campbell River / Discovery Passage",
-    "species": "Orca",
-    "info": "Orca breaching near campbell river / discovery passage.",
-    "date": "2025-08-25",
-    "latitude": 50.00551,
-    "longitude": -125.42058,
-    "area": "Canada (British Columbia/Discovery Passage)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "tail slapping",
-      "traveling",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-24-092",
-    "name": "Canada (British Columbia/Quatsino Sound) — Quatsino Sound outer",
-    "species": "Orca",
-    "info": "Orca traveling near quatsino sound outer.",
-    "date": "2025-08-24",
-    "latitude": 50.36636,
-    "longitude": -127.87375,
-    "area": "Canada (British Columbia/Quatsino Sound)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "surface feeding",
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-21-093",
-    "name": "Canada (British Columbia/Discovery Passage) — Campbell River / Discovery Passage",
-    "species": "Humpback",
-    "info": "Humpback breaching near campbell river / discovery passage.",
-    "date": "2025-08-21",
-    "latitude": 49.9882,
-    "longitude": -125.3796,
-    "area": "Canada (British Columbia/Discovery Passage)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "surface feeding",
-      "lunge feeding",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-17-094",
-    "name": "Canada (British Columbia/Strait of Georgia) — Strait of Georgia mid-channel",
-    "species": "Orca",
-    "info": "Orca surface-active near strait of georgia mid-channel.",
-    "date": "2025-08-17",
-    "latitude": 49.20819,
-    "longitude": -123.5007,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "breaching",
-      "fluking",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-28-095",
-    "name": "Canada (British Columbia/Howe Sound) — Queen Charlotte Channel (Howe Sound)",
-    "species": "Humpback",
-    "info": "Humpback surface-active near queen charlotte channel (howe sound).",
-    "date": "2025-08-28",
-    "latitude": 49.50191,
-    "longitude": -123.30717,
-    "area": "Canada (British Columbia/Howe Sound)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "fluking",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-19-096",
-    "name": "Canada (British Columbia/Queen Charlotte Strait) — Queen Charlotte Strait",
-    "species": "Humpback",
-    "info": "Humpback surface-active near queen charlotte strait.",
-    "date": "2025-08-19",
-    "latitude": 50.73325,
-    "longitude": -127.39874,
-    "area": "Canada (British Columbia/Queen Charlotte Strait)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "kelping",
-      "lunge feeding",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-22-097",
-    "name": "Canada (British Columbia/Boundary Pass) — Boundary Pass",
-    "species": "Humpback",
-    "info": "Humpback surface-active near boundary pass.",
-    "date": "2025-08-22",
-    "latitude": 48.85795,
-    "longitude": -123.0553,
-    "area": "Canada (British Columbia/Boundary Pass)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "lunge feeding",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-29-098",
-    "name": "Canada (British Columbia/Gulf Islands) — Trincomali Channel",
-    "species": "Humpback",
-    "info": "Humpback surface-active near trincomali channel.",
-    "date": "2025-08-29",
-    "latitude": 48.96247,
-    "longitude": -123.38517,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "spyhopping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-22-099",
-    "name": "Canada (British Columbia/Saanich Inlet) — Saanich Inlet mouth",
-    "species": "Orca",
-    "info": "Orca breaching near saanich inlet mouth.",
-    "date": "2025-08-22",
-    "latitude": 48.68857,
-    "longitude": -123.54095,
-    "area": "Canada (British Columbia/Saanich Inlet)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "breaching",
-      "pectoral slapping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-20-100",
-    "name": "Canada (British Columbia/Nanaimo) — Nanaimo / Departure Bay offshore",
-    "species": "Humpback",
-    "info": "Humpback feeding near nanaimo / departure bay offshore.",
-    "date": "2025-08-20",
-    "latitude": 49.25146,
-    "longitude": -123.90522,
-    "area": "Canada (British Columbia/Nanaimo)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "kelping",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-29-101",
-    "name": "Canada (British Columbia/Strait of Georgia) — Strait of Georgia off Bowen",
-    "species": "Humpback",
-    "info": "Humpback traveling near strait of georgia off bowen.",
-    "date": "2025-08-29",
-    "latitude": 49.43271,
-    "longitude": -123.37025,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "lunge feeding",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-10-102",
-    "name": "Canada (British Columbia/Saanich Inlet) — Saanich Inlet mouth",
-    "species": "Humpback",
-    "info": "Humpback breaching near saanich inlet mouth.",
-    "date": "2025-08-10",
-    "latitude": 48.66756,
-    "longitude": -123.57539,
-    "area": "Canada (British Columbia/Saanich Inlet)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-12-103",
-    "name": "Canada (British Columbia/Howe Sound) — Queen Charlotte Channel (Howe Sound)",
-    "species": "Humpback",
-    "info": "Humpback surface-active near queen charlotte channel (howe sound).",
-    "date": "2025-08-12",
-    "latitude": 49.52522,
-    "longitude": -123.34381,
-    "area": "Canada (British Columbia/Howe Sound)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "spyhopping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-30-104",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass west mouth",
-    "species": "Humpback",
-    "info": "Humpback traveling near active pass west mouth.",
-    "date": "2025-08-30",
-    "latitude": 48.85077,
-    "longitude": -123.5445,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "trumpeting",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-14-105",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Trial Island",
-    "species": "Humpback",
-    "info": "Humpback traveling near haro strait near trial island.",
-    "date": "2025-08-14",
-    "latitude": 48.595,
-    "longitude": -123.22802,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "breaching",
-      "kelping",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-13-106",
-    "name": "Canada (British Columbia/Strait of Georgia) — Strait of Georgia off Bowen",
-    "species": "Humpback",
-    "info": "Humpback feeding near strait of georgia off bowen.",
-    "date": "2025-08-13",
-    "latitude": 49.45351,
-    "longitude": -123.39804,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "fluking",
-      "trumpeting",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-31-107",
-    "name": "Canada (British Columbia/Gulf Islands) — Porlier Pass",
-    "species": "Humpback",
-    "info": "Humpback breaching near porlier pass.",
-    "date": "2025-08-31",
-    "latitude": 48.99982,
-    "longitude": -123.6092,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "breaching",
-      "pectoral slapping",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-21-108",
-    "name": "Canada (British Columbia/Gulf Islands) — Trincomali Channel",
-    "species": "Humpback",
-    "info": "Humpback feeding near trincomali channel.",
-    "date": "2025-08-21",
-    "latitude": 48.96292,
-    "longitude": -123.42271,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "breaching",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-29-109",
-    "name": "Canada (British Columbia/Comox — Comox Bay outer",
-    "species": "Orca",
-    "info": "Orca breaching near comox bay outer.",
-    "date": "2025-08-29",
-    "latitude": 49.69584,
-    "longitude": -124.94878,
-    "area": "Canada (British Columbia/Comox)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "pectoral slapping",
-      "spyhopping",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-13-110",
-    "name": "Canada (British Columbia/Gulf Islands) — Trincomali Channel",
-    "species": "Humpback",
-    "info": "Humpback breaching near trincomali channel.",
-    "date": "2025-08-13",
-    "latitude": 48.95012,
-    "longitude": -123.42817,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "pectoral slapping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-15-111",
-    "name": "Canada (British Columbia/Discovery Passage) — Campbell River / Discovery Passage",
-    "species": "Orca",
-    "info": "Orca breaching near campbell river / discovery passage.",
-    "date": "2025-08-15",
-    "latitude": 49.99835,
-    "longitude": -125.39779,
-    "area": "Canada (British Columbia/Discovery Passage)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "kelping",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-14-112",
-    "name": "Canada (British Columbia/Clayoquot Sound) — Clayoquot Sound off Tofino",
-    "species": "Humpback",
-    "info": "Humpback traveling near clayoquot sound off tofino.",
-    "date": "2025-08-14",
-    "latitude": 49.18407,
-    "longitude": -125.99301,
-    "area": "Canada (British Columbia/Clayoquot Sound)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "kelping",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-14-113",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass",
-    "species": "Humpback",
-    "info": "Humpback feeding near active pass.",
-    "date": "2025-08-14",
-    "latitude": 48.85403,
-    "longitude": -123.32683,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "tail slapping",
-      "pectoral slapping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-16-114",
-    "name": "Canada (British Columbia/Quatsino Sound) — Quatsino Sound outer",
-    "species": "Orca",
-    "info": "Orca traveling near quatsino sound outer.",
-    "date": "2025-08-16",
-    "latitude": 50.36835,
-    "longitude": -127.87714,
-    "area": "Canada (British Columbia/Quatsino Sound)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "kelping",
-      "fluking",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-11-115",
-    "name": "Canada (British Columbia/Gulf Islands) — Trincomali Channel",
-    "species": "Humpback",
-    "info": "Humpback traveling near trincomali channel.",
-    "date": "2025-08-11",
-    "latitude": 48.94217,
-    "longitude": -123.41018,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "traveling",
-      "lunge feeding",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-15-116",
-    "name": "Canada (British Columbia/Nanaimo) — Nanaimo / Departure Bay offshore",
-    "species": "Humpback",
-    "info": "Humpback feeding near nanaimo / departure bay offshore.",
-    "date": "2025-08-15",
-    "latitude": 49.21191,
-    "longitude": -123.95556,
-    "area": "Canada (British Columbia/Nanaimo)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "traveling",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-10-117",
-    "name": "Canada (British Columbia/Gulf Islands) — Plumper Sound",
-    "species": "Orca",
-    "info": "Orca surface-active near plumper sound.",
-    "date": "2025-08-10",
-    "latitude": 48.7585,
-    "longitude": -123.1962,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "spyhopping",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-20-118",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass",
-    "species": "Orca",
-    "info": "Orca feeding near active pass.",
-    "date": "2025-08-20",
-    "latitude": 48.8748,
-    "longitude": -123.31293,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "tail slapping",
-      "breaching",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-22-119",
-    "name": "Canada (British Columbia/Howe Sound) — Queen Charlotte Channel (Howe Sound)",
-    "species": "Humpback",
-    "info": "Humpback traveling near queen charlotte channel (howe sound).",
-    "date": "2025-08-22",
-    "latitude": 49.51726,
-    "longitude": -123.27991,
-    "area": "Canada (British Columbia/Howe Sound)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "breaching",
-      "lunge feeding",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-26-120",
-    "name": "Canada (British Columbia/Gulf Islands) — Plumper Sound",
-    "species": "Orca",
-    "info": "Orca feeding near plumper sound.",
-    "date": "2025-08-26",
-    "latitude": 48.78571,
-    "longitude": -123.227,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "trumpeting",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-16-121",
-    "name": "Canada (British Columbia/Quatsino Sound) — Quatsino Sound outer",
-    "species": "Orca",
-    "info": "Orca feeding near quatsino sound outer.",
-    "date": "2025-08-16",
-    "latitude": 50.36706,
-    "longitude": -127.84448,
-    "area": "Canada (British Columbia/Quatsino Sound)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "breaching",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-14-122",
-    "name": "Canada (British Columbia/Johnstone Strait) — Johnstone Strait / Blackney Passage",
-    "species": "Orca",
-    "info": "Orca surface-active near johnstone strait / blackney passage.",
-    "date": "2025-08-14",
-    "latitude": 50.58483,
-    "longitude": -126.75247,
-    "area": "Canada (British Columbia/Johnstone Strait)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "fluking",
-      "kelping",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-24-123",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass",
-    "species": "Humpback",
-    "info": "Humpback traveling near active pass.",
-    "date": "2025-08-24",
-    "latitude": 48.87507,
-    "longitude": -123.30262,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "trumpeting",
-      "breaching",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-24-124",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Trial Island",
-    "species": "Orca",
-    "info": "Orca traveling near haro strait near trial island.",
-    "date": "2025-08-24",
-    "latitude": 48.56313,
-    "longitude": -123.21295,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "kelping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-20-125",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass west mouth",
-    "species": "Orca",
-    "info": "Orca traveling near active pass west mouth.",
-    "date": "2025-08-20",
-    "latitude": 48.85475,
-    "longitude": -123.54143,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "traveling",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-22-126",
-    "name": "Canada (British Columbia/Malaspina Strait) — Malaspina Strait mid-channel",
-    "species": "Orca",
-    "info": "Orca surface-active near malaspina strait mid-channel.",
-    "date": "2025-08-22",
-    "latitude": 49.59707,
-    "longitude": -123.98405,
-    "area": "Canada (British Columbia/Malaspina Strait)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "pectoral slapping",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-31-127",
-    "name": "Canada (British Columbia/Quatsino Sound) — Quatsino Sound outer",
-    "species": "Orca",
-    "info": "Orca surface-active near quatsino sound outer.",
-    "date": "2025-08-31",
-    "latitude": 50.36297,
-    "longitude": -127.84624,
-    "area": "Canada (British Columbia/Quatsino Sound)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "pectoral slapping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-31-128",
-    "name": "Canada (British Columbia/Juan de Fuca Strait) — Juan de Fuca Strait (East Sooke)",
-    "species": "Orca",
-    "info": "Orca feeding near juan de fuca strait (east sooke).",
-    "date": "2025-08-31",
-    "latitude": 48.35875,
-    "longitude": -123.5326,
-    "area": "Canada (British Columbia/Juan de Fuca Strait)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "pectoral slapping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-30-129",
-    "name": "Canada (British Columbia/Gulf Islands) — Trincomali Channel",
-    "species": "Humpback",
-    "info": "Humpback breaching near trincomali channel.",
-    "date": "2025-08-30",
-    "latitude": 48.95446,
-    "longitude": -123.41295,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "tail slapping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-10-130",
-    "name": "Canada (British Columbia/Strait of Georgia) — Strait of Georgia off Bowen",
-    "species": "Orca",
-    "info": "Orca breaching near strait of georgia off bowen.",
-    "date": "2025-08-10",
-    "latitude": 49.46687,
-    "longitude": -123.38117,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "spyhopping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-19-131",
-    "name": "Canada (British Columbia/Juan de Fuca Strait) — Juan de Fuca Strait (East Sooke)",
-    "species": "Humpback",
-    "info": "Humpback traveling near juan de fuca strait (east sooke).",
-    "date": "2025-08-19",
-    "latitude": 48.34418,
-    "longitude": -123.53627,
-    "area": "Canada (British Columbia/Juan de Fuca Strait)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "surface feeding",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-15-132",
-    "name": "Canada (British Columbia/Malaspina Strait) — Malaspina Strait mid-channel",
-    "species": "Humpback",
-    "info": "Humpback feeding near malaspina strait mid-channel.",
-    "date": "2025-08-15",
-    "latitude": 49.63931,
-    "longitude": -123.96587,
-    "area": "Canada (British Columbia/Malaspina Strait)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "kelping",
-      "surface feeding",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-19-133",
-    "name": "Canada (British Columbia/Clayoquot Sound) — Clayoquot Sound off Tofino",
-    "species": "Humpback",
-    "info": "Humpback surface-active near clayoquot sound off tofino.",
-    "date": "2025-08-19",
-    "latitude": 49.17781,
-    "longitude": -126.00948,
-    "area": "Canada (British Columbia/Clayoquot Sound)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "pectoral slapping",
-      "lunge feeding",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-19-134",
-    "name": "Canada (British Columbia/Gulf Islands) — Gabriola Passage approaches",
-    "species": "Humpback",
-    "info": "Humpback surface-active near gabriola passage approaches.",
-    "date": "2025-08-19",
-    "latitude": 49.09187,
-    "longitude": -123.69988,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "pectoral slapping",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-21-135",
-    "name": "Canada (British Columbia/Malaspina Strait) — Malaspina Strait mid-channel",
-    "species": "Orca",
-    "info": "Orca traveling near malaspina strait mid-channel.",
-    "date": "2025-08-21",
-    "latitude": 49.63971,
-    "longitude": -123.97932,
-    "area": "Canada (British Columbia/Malaspina Strait)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "tail slapping",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-12-136",
-    "name": "Canada (British Columbia/Clayoquot Sound) — Clayoquot Sound off Tofino",
-    "species": "Orca",
-    "info": "Orca feeding near clayoquot sound off tofino.",
-    "date": "2025-08-12",
-    "latitude": 49.1819,
-    "longitude": -126.00049,
-    "area": "Canada (British Columbia/Clayoquot Sound)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "fluking",
-      "trumpeting",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-17-137",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass west mouth",
-    "species": "Humpback",
-    "info": "Humpback traveling near active pass west mouth.",
-    "date": "2025-08-17",
-    "latitude": 48.87789,
-    "longitude": -123.51838,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "lunge feeding",
-      "spyhopping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-14-138",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Turn Point",
-    "species": "Orca",
-    "info": "Orca surface-active near haro strait near turn point.",
-    "date": "2025-08-14",
-    "latitude": 48.72297,
-    "longitude": -123.22462,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "traveling",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-13-139",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass west mouth",
-    "species": "Humpback",
-    "info": "Humpback breaching near active pass west mouth.",
-    "date": "2025-08-13",
-    "latitude": 48.86941,
-    "longitude": -123.54495,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "trumpeting",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-27-140",
-    "name": "Canada (British Columbia/Gulf Islands) — Gabriola Passage approaches",
-    "species": "Orca",
-    "info": "Orca traveling near gabriola passage approaches.",
-    "date": "2025-08-27",
-    "latitude": 49.08734,
-    "longitude": -123.72343,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "breaching",
-      "kelping",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-26-141",
-    "name": "Canada (British Columbia/Queen Charlotte Strait) — Queen Charlotte Strait",
-    "species": "Humpback",
-    "info": "Humpback breaching near queen charlotte strait.",
-    "date": "2025-08-26",
-    "latitude": 50.74929,
-    "longitude": -127.39339,
-    "area": "Canada (British Columbia/Queen Charlotte Strait)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "lunge feeding",
-      "spyhopping",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-30-142",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass",
-    "species": "Humpback",
-    "info": "Humpback surface-active near active pass.",
-    "date": "2025-08-30",
-    "latitude": 48.87305,
-    "longitude": -123.2899,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "spyhopping",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-11-143",
-    "name": "Canada (British Columbia/Gulf Islands) — Trincomali Channel",
-    "species": "Humpback",
-    "info": "Humpback breaching near trincomali channel.",
-    "date": "2025-08-11",
-    "latitude": 48.9379,
-    "longitude": -123.40901,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "kelping",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-11-144",
-    "name": "Canada (British Columbia/Comox — Comox Bay outer",
-    "species": "Orca",
-    "info": "Orca breaching near comox bay outer.",
-    "date": "2025-08-11",
-    "latitude": 49.69434,
-    "longitude": -124.9345,
-    "area": "Canada (British Columbia/Comox)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "surface feeding",
-      "kelping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-30-145",
-    "name": "Canada (British Columbia/Nanaimo) — Nanaimo / Departure Bay offshore",
-    "species": "Orca",
-    "info": "Orca feeding near nanaimo / departure bay offshore.",
-    "date": "2025-08-30",
-    "latitude": 49.21646,
-    "longitude": -123.94826,
-    "area": "Canada (British Columbia/Nanaimo)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "trumpeting",
-      "fluking",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-24-146",
-    "name": "Canada (British Columbia/Juan de Fuca Strait) — Juan de Fuca Strait (East Sooke)",
-    "species": "Humpback",
-    "info": "Humpback surface-active near juan de fuca strait (east sooke).",
-    "date": "2025-08-24",
-    "latitude": 48.35885,
-    "longitude": -123.53265,
-    "area": "Canada (British Columbia/Juan de Fuca Strait)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "pectoral slapping",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-29-147",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Turn Point",
-    "species": "Orca",
-    "info": "Orca feeding near haro strait near turn point.",
-    "date": "2025-08-29",
-    "latitude": 48.69973,
-    "longitude": -123.24026,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "spyhopping",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-21-148",
-    "name": "Canada (British Columbia/Comox — Comox Bay outer",
-    "species": "Humpback",
-    "info": "Humpback surface-active near comox bay outer.",
-    "date": "2025-08-21",
-    "latitude": 49.67906,
-    "longitude": -124.95732,
-    "area": "Canada (British Columbia/Comox)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "kelping",
-      "spyhopping",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-26-149",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Trial Island",
-    "species": "Humpback",
-    "info": "Humpback feeding near haro strait near trial island.",
-    "date": "2025-08-26",
-    "latitude": 48.59257,
-    "longitude": -123.21048,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "breaching",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-22-150",
-    "name": "Canada (British Columbia/English Bay) — English Bay / Burrard Inlet entrance",
-    "species": "Humpback",
-    "info": "Humpback traveling near english bay / burrard inlet entrance.",
-    "date": "2025-08-22",
-    "latitude": 49.29094,
-    "longitude": -123.12723,
-    "area": "Canada (British Columbia/English Bay)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "lunge feeding",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-21-151",
-    "name": "Canada (British Columbia/Johnstone Strait) — Johnstone Strait / Blackney Passage",
-    "species": "Humpback",
-    "info": "Humpback surface-active near johnstone strait / blackney passage.",
-    "date": "2025-08-21",
-    "latitude": 50.57906,
-    "longitude": -126.7438,
-    "area": "Canada (British Columbia/Johnstone Strait)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "kelping",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-18-152",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Turn Point",
-    "species": "Orca",
-    "info": "Orca surface-active near haro strait near turn point.",
-    "date": "2025-08-18",
-    "latitude": 48.68749,
-    "longitude": -123.26927,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "trumpeting",
-      "spyhopping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-15-153",
-    "name": "Canada (British Columbia/Nanaimo) — Nanaimo / Departure Bay offshore",
-    "species": "Humpback",
-    "info": "Humpback surface-active near nanaimo / departure bay offshore.",
-    "date": "2025-08-15",
-    "latitude": 49.2046,
-    "longitude": -123.89419,
-    "area": "Canada (British Columbia/Nanaimo)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "surface feeding",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-19-154",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass",
-    "species": "Orca",
-    "info": "Orca feeding near active pass.",
-    "date": "2025-08-19",
-    "latitude": 48.89811,
-    "longitude": -123.27553,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "trumpeting",
-      "kelping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-17-155",
-    "name": "Canada (British Columbia/Clayoquot Sound) — Clayoquot Sound off Tofino",
-    "species": "Humpback",
-    "info": "Humpback surface-active near clayoquot sound off tofino.",
-    "date": "2025-08-17",
-    "latitude": 49.17076,
-    "longitude": -126.00679,
-    "area": "Canada (British Columbia/Clayoquot Sound)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "breaching",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-19-156",
-    "name": "Canada (British Columbia/English Bay) — English Bay / Burrard Inlet entrance",
-    "species": "Orca",
-    "info": "Orca surface-active near english bay / burrard inlet entrance.",
-    "date": "2025-08-19",
-    "latitude": 49.2913,
-    "longitude": -123.13659,
-    "area": "Canada (British Columbia/English Bay)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "kelping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-24-157",
-    "name": "Canada (British Columbia/Clayoquot Sound) — Clayoquot Sound off Tofino",
-    "species": "Orca",
-    "info": "Orca surface-active near clayoquot sound off tofino.",
-    "date": "2025-08-24",
-    "latitude": 49.1614,
-    "longitude": -125.95763,
-    "area": "Canada (British Columbia/Clayoquot Sound)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "surface feeding",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-11-158",
-    "name": "Canada (British Columbia/Barkley Sound) — Barkley Sound / Bamfield line",
-    "species": "Humpback",
-    "info": "Humpback traveling near barkley sound / bamfield line.",
-    "date": "2025-08-11",
-    "latitude": 48.81453,
-    "longitude": -125.14919,
-    "area": "Canada (British Columbia/Barkley Sound)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "surface feeding",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-16-159",
-    "name": "Canada (British Columbia/Malaspina Strait) — Malaspina Strait mid-channel",
-    "species": "Orca",
-    "info": "Orca breaching near malaspina strait mid-channel.",
-    "date": "2025-08-16",
-    "latitude": 49.61374,
-    "longitude": -124.00511,
-    "area": "Canada (British Columbia/Malaspina Strait)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "trumpeting",
-      "tail slapping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-11-160",
-    "name": "Canada (British Columbia/Strait of Georgia) — Strait of Georgia off Bowen",
-    "species": "Orca",
-    "info": "Orca traveling near strait of georgia off bowen.",
-    "date": "2025-08-11",
-    "latitude": 49.45554,
-    "longitude": -123.43028,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "surface feeding",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-19-161",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass",
-    "species": "Orca",
-    "info": "Orca breaching near active pass.",
-    "date": "2025-08-19",
-    "latitude": 48.87168,
-    "longitude": -123.31861,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "kelping",
-      "traveling",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-25-162",
-    "name": "Canada (British Columbia/Sunshine Coast) — Georgia Strait off Sunshine Coast",
-    "species": "Humpback",
-    "info": "Humpback surface-active near georgia strait off sunshine coast.",
-    "date": "2025-08-25",
-    "latitude": 49.35752,
-    "longitude": -123.50352,
-    "area": "Canada (British Columbia/Sunshine Coast)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "surface feeding",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-27-163",
-    "name": "Canada (British Columbia/Nanaimo) — Nanaimo / Departure Bay offshore",
-    "species": "Humpback",
-    "info": "Humpback traveling near nanaimo / departure bay offshore.",
-    "date": "2025-08-27",
-    "latitude": 49.20915,
-    "longitude": -123.92314,
-    "area": "Canada (British Columbia/Nanaimo)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "spyhopping",
-      "surface feeding",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-23-164",
-    "name": "Canada (British Columbia/Haro Strait) — Haro Strait near Turn Point",
-    "species": "Humpback",
-    "info": "Humpback feeding near haro strait near turn point.",
-    "date": "2025-08-23",
-    "latitude": 48.69084,
-    "longitude": -123.24185,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "tail slapping",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-25-165",
-    "name": "Canada (British Columbia/Strait of Georgia) — Strait of Georgia mid-channel",
-    "species": "Humpback",
-    "info": "Humpback breaching near strait of georgia mid-channel.",
-    "date": "2025-08-25",
-    "latitude": 49.22616,
-    "longitude": -123.47959,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "fluking",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-11-166",
-    "name": "Canada (British Columbia/Sunshine Coast) — Georgia Strait off Sunshine Coast",
-    "species": "Orca",
-    "info": "Orca breaching near georgia strait off sunshine coast.",
-    "date": "2025-08-11",
-    "latitude": 49.35466,
-    "longitude": -123.49991,
-    "area": "Canada (British Columbia/Sunshine Coast)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "kelping",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-18-167",
-    "name": "Canada (British Columbia/Sunshine Coast) — Georgia Strait off Sunshine Coast",
-    "species": "Humpback",
-    "info": "Humpback breaching near georgia strait off sunshine coast.",
-    "date": "2025-08-18",
-    "latitude": 49.36601,
-    "longitude": -123.48763,
-    "area": "Canada (British Columbia/Sunshine Coast)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "breaching",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-26-168",
-    "name": "Canada (British Columbia/Quatsino Sound) — Quatsino Sound outer",
-    "species": "Humpback",
-    "info": "Humpback surface-active near quatsino sound outer.",
-    "date": "2025-08-26",
-    "latitude": 50.34434,
-    "longitude": -127.88423,
-    "area": "Canada (British Columbia/Quatsino Sound)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "trumpeting",
-      "tail slapping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-20-169",
-    "name": "Canada (British Columbia/Quatsino Sound) — Quatsino Sound outer",
-    "species": "Orca",
-    "info": "Orca breaching near quatsino sound outer.",
-    "date": "2025-08-20",
-    "latitude": 50.37421,
-    "longitude": -127.85156,
-    "area": "Canada (British Columbia/Quatsino Sound)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "breaching",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-26-170",
-    "name": "Canada (British Columbia/Quatsino Sound) — Quatsino Sound outer",
-    "species": "Humpback",
-    "info": "Humpback surface-active near quatsino sound outer.",
-    "date": "2025-08-26",
-    "latitude": 50.36186,
-    "longitude": -127.8628,
-    "area": "Canada (British Columbia/Quatsino Sound)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "surface feeding",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-20-171",
-    "name": "Canada (British Columbia/Strait of Georgia) — Strait of Georgia off Bowen",
-    "species": "Orca",
-    "info": "Orca surface-active near strait of georgia off bowen.",
-    "date": "2025-08-20",
-    "latitude": 49.45073,
-    "longitude": -123.4125,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "spyhopping",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-29-172",
-    "name": "Canada (British Columbia/Clayoquot Sound) — Clayoquot Sound off Tofino",
-    "species": "Humpback",
-    "info": "Humpback surface-active near clayoquot sound off tofino.",
-    "date": "2025-08-29",
-    "latitude": 49.15888,
-    "longitude": -126.0129,
-    "area": "Canada (British Columbia/Clayoquot Sound)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "spyhopping",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-26-173",
-    "name": "Canada (British Columbia/Saanich Inlet) — Saanich Inlet mouth",
-    "species": "Humpback",
-    "info": "Humpback surface-active near saanich inlet mouth.",
-    "date": "2025-08-26",
-    "latitude": 48.7098,
-    "longitude": -123.51072,
-    "area": "Canada (British Columbia/Saanich Inlet)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "kelping",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-23-174",
-    "name": "Canada (British Columbia/Strait of Georgia) — Strait of Georgia off Bowen",
-    "species": "Orca",
-    "info": "Orca feeding near strait of georgia off bowen.",
-    "date": "2025-08-23",
-    "latitude": 49.43432,
-    "longitude": -123.39321,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "traveling",
-      "fluking"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-27-175",
-    "name": "Canada (British Columbia/Gulf Islands) — Porlier Pass",
-    "species": "Orca",
-    "info": "Orca breaching near porlier pass.",
-    "date": "2025-08-27",
-    "latitude": 49.00529,
-    "longitude": -123.57797,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://viwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "surface feeding",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-25-176",
-    "name": "Canada (British Columbia/Barkley Sound) — Barkley Sound / Bamfield line",
-    "species": "Humpback",
-    "info": "Humpback feeding near barkley sound / bamfield line.",
-    "date": "2025-08-25",
-    "latitude": 48.82517,
-    "longitude": -125.14282,
-    "area": "Canada (British Columbia/Barkley Sound)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "trumpeting",
-      "pectoral slapping",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-21-177",
-    "name": "Canada (British Columbia/Gulf Islands) — Gabriola Passage approaches",
-    "species": "Orca",
-    "info": "Orca breaching near gabriola passage approaches.",
-    "date": "2025-08-21",
-    "latitude": 49.09464,
-    "longitude": -123.70206,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "lunge feeding",
-      "fluking",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-12-178",
-    "name": "Canada (British Columbia/Juan de Fuca Strait) — Juan de Fuca Strait (East Sooke)",
-    "species": "Orca",
-    "info": "Orca breaching near juan de fuca strait (east sooke).",
-    "date": "2025-08-12",
-    "latitude": 48.35295,
-    "longitude": -123.55302,
-    "area": "Canada (British Columbia/Juan de Fuca Strait)",
-    "source": "https://princeofwhales.com/blog/",
-    "behaviors": [
-      "surface feeding",
-      "tail slapping",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-29-179",
-    "name": "Canada (British Columbia/Active Pass) — Active Pass west mouth",
-    "species": "Orca",
-    "info": "Orca feeding near active pass west mouth.",
-    "date": "2025-08-29",
-    "latitude": 48.86246,
-    "longitude": -123.5319,
-    "area": "Canada (British Columbia/Active Pass)",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "trumpeting",
-      "tail slapping",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SALISH-2025-08-13-180",
-    "name": "Canada (British Columbia/Gulf Islands) — Gabriola Passage approaches",
-    "species": "Humpback",
-    "info": "Humpback feeding near gabriola passage approaches.",
-    "date": "2025-08-13",
-    "latitude": 49.10495,
-    "longitude": -123.72512,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.5starwhales.com/blog/tag/whale-sightings/",
-    "behaviors": [
-      "spyhopping",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-19-181",
-    "name": "USA (Washington/San Juan Islands) — San Juan Channel",
-    "species": "Orca",
-    "info": "Orca traveling near san juan channel.",
-    "date": "2025-08-19",
-    "latitude": 48.60014,
-    "longitude": -123.06421,
-    "area": "USA (Washington/San Juan Islands)",
-    "source": "https://blog.island-adventures.com/",
-    "behaviors": [
-      "lunge feeding",
-      "tail slapping",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-11-182",
-    "name": "USA (California/Monterey Bay) — Monterey Bay (Soquel Canyon)",
-    "species": "Humpback",
-    "info": "Humpback surface-active near monterey bay (soquel canyon).",
-    "date": "2025-08-11",
-    "latitude": 36.77944,
-    "longitude": -121.87711,
+    "latitude": 36.8,
+    "longitude": -121.92,
     "area": "USA (California/Monterey Bay)",
-    "source": "https://gowhales.com/whale-watch-sightings/",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
     "behaviors": [
-      "spyhopping",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-28-183",
-    "name": "New Zealand (Canterbury/Kaikōura) — Kaikōura Canyon edge",
-    "species": "Orca",
-    "info": "Orca traveling near kaikōura canyon edge.",
-    "date": "2025-08-28",
-    "latitude": -42.41133,
-    "longitude": 173.73755,
-    "area": "New Zealand (Canterbury/Kaikōura)",
-    "source": "https://whalewatch.co.nz/our-nature/latest-news/category/recent-sightings",
-    "behaviors": [
-      "traveling",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-18-184",
-    "name": "USA (Alaska/Juneau) — Auke Bay / Favorite Channel",
-    "species": "Orca",
-    "info": "Orca feeding near auke bay / favorite channel.",
-    "date": "2025-08-18",
-    "latitude": 58.40135,
-    "longitude": -134.64639,
-    "area": "USA (Alaska/Juneau)",
-    "source": "https://www.harvandmarvs-juneau-whale-watching.com/",
-    "behaviors": [
-      "trumpeting",
-      "fluking"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-28-185",
-    "name": "USA (California/Monterey Bay) — Moss Landing Submarine Canyon",
-    "species": "Humpback",
-    "info": "Humpback feeding near moss landing submarine canyon.",
-    "date": "2025-08-28",
-    "latitude": 36.80105,
-    "longitude": -121.78115,
-    "area": "USA (California/Monterey Bay)",
-    "source": "https://gowhales.com/whale-watch-sightings/",
-    "behaviors": [
-      "pectoral slapping",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-15-186",
-    "name": "USA (California/Orange County) — Newport Beach offshore",
-    "species": "Orca",
-    "info": "Orca feeding near newport beach offshore.",
-    "date": "2025-08-15",
-    "latitude": 33.59014,
-    "longitude": -117.93829,
-    "area": "USA (California/Orange County)",
-    "source": "https://newportwhales.com/whale-count/",
-    "behaviors": [
-      "breaching",
-      "spyhopping",
-      "kelping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-28-187",
-    "name": "New Zealand (Canterbury/Kaikōura) — Kaikōura Canyon edge",
-    "species": "Humpback",
-    "info": "Humpback traveling near kaikōura canyon edge.",
-    "date": "2025-08-28",
-    "latitude": -42.43188,
-    "longitude": 173.70471,
-    "area": "New Zealand (Canterbury/Kaikōura)",
-    "source": "https://whalewatch.co.nz/our-nature/latest-news/category/recent-sightings",
-    "behaviors": [
-      "tail slapping",
-      "pectoral slapping",
-      "kelping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-31-188",
-    "name": "USA (Oregon/Depoe Bay) — Depoe Bay kelp line",
-    "species": "Humpback",
-    "info": "Humpback breaching near depoe bay kelp line.",
-    "date": "2025-08-31",
-    "latitude": 44.82483,
-    "longitude": -124.11747,
-    "area": "USA (Oregon/Depoe Bay)",
-    "source": "https://whalestaildepoebay.com/whale-sightings/",
-    "behaviors": [
-      "tail slapping",
-      "surface feeding",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-14-189",
-    "name": "USA (California/Monterey Bay) — Moss Landing Submarine Canyon",
-    "species": "Humpback",
-    "info": "Humpback surface-active near moss landing submarine canyon.",
-    "date": "2025-08-14",
-    "latitude": 36.82329,
-    "longitude": -121.8025,
-    "area": "USA (California/Monterey Bay)",
-    "source": "https://gowhales.com/whale-watch-sightings/",
-    "behaviors": [
-      "surface feeding",
-      "fluking"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-26-190",
-    "name": "Norway (Vesterålen/Andenes) — Andenes shelf edge",
-    "species": "Humpback",
-    "info": "Humpback surface-active near andenes shelf edge.",
-    "date": "2025-08-26",
-    "latitude": 69.32044,
-    "longitude": 16.29038,
-    "area": "Norway (Vesterålen/Andenes)",
-    "source": "https://www.seawatchfoundation.org.uk/orca-watch-3/",
-    "behaviors": [
-      "kelping",
+      "feeding",
+      "lunge feeding",
       "breaching"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-14-191",
-    "name": "New Zealand (Auckland/Hauraki Gulf) — Hauraki Gulf Marine Park",
+    "id": "CA-20250811-101",
+    "name": "California — Monterey Bay (US)",
     "species": "Humpback",
-    "info": "Humpback feeding near hauraki gulf marine park.",
-    "date": "2025-08-14",
-    "latitude": -36.63435,
-    "longitude": 175.00651,
-    "area": "New Zealand (Auckland/Hauraki Gulf)",
-    "source": "https://whalewatchingauckland.com/",
-    "behaviors": [
-      "kelping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-11-192",
-    "name": "USA (Alaska/Juneau) — Auke Bay / Favorite Channel",
-    "species": "Orca",
-    "info": "Orca surface-active near auke bay / favorite channel.",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
     "date": "2025-08-11",
-    "latitude": 58.37447,
-    "longitude": -134.61733,
-    "area": "USA (Alaska/Juneau)",
-    "source": "https://www.harvandmarvs-juneau-whale-watching.com/",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
     "behaviors": [
-      "trumpeting",
-      "fluking"
+      "feeding",
+      "breaching"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-10-193",
-    "name": "USA (California/Monterey Bay) — Santa Cruz off Pleasure Point",
-    "species": "Orca",
-    "info": "Orca feeding near santa cruz off pleasure point.",
-    "date": "2025-08-10",
-    "latitude": 36.93722,
-    "longitude": -122.04556,
+    "id": "CA-20250812-102",
+    "name": "California — Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
+    "date": "2025-08-12",
+    "latitude": 36.8,
+    "longitude": -121.92,
     "area": "USA (California/Monterey Bay)",
-    "source": "https://gowhales.com/whale-watch-sightings/",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
     "behaviors": [
-      "traveling",
-      "spyhopping",
+      "feeding",
+      "lunge feeding"
+    ]
+  },
+  {
+    "id": "CA-20250813-103",
+    "name": "California — Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
+    "date": "2025-08-13",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
+    "behaviors": [
+      "breaching",
       "tail slapping"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-19-194",
-    "name": "UK (Scotland/Pentland Firth) — Pentland Firth off John o' Groats",
+    "id": "CA-20250814-104",
+    "name": "California — Monterey Bay (US)",
     "species": "Humpback",
-    "info": "Humpback surface-active near pentland firth off john o' groats.",
-    "date": "2025-08-19",
-    "latitude": 58.64812,
-    "longitude": -3.06053,
-    "area": "UK (Scotland/Pentland Firth)",
-    "source": "https://www.seawatchfoundation.org.uk/orca-watch-3/",
-    "behaviors": [
-      "fluking",
-      "traveling"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-22-195",
-    "name": "USA (California/Orange County) — Newport Beach offshore",
-    "species": "Orca",
-    "info": "Orca traveling near newport beach offshore.",
-    "date": "2025-08-22",
-    "latitude": 33.60321,
-    "longitude": -117.87988,
-    "area": "USA (California/Orange County)",
-    "source": "https://newportwhales.com/whale-count/",
-    "behaviors": [
-      "spyhopping",
-      "fluking",
-      "kelping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-10-196",
-    "name": "Japan (Hokkaido/Nemuro Strait) — Nemuro Strait off Rausu",
-    "species": "Orca",
-    "info": "Orca breaching near nemuro strait off rausu.",
-    "date": "2025-08-10",
-    "latitude": 44.15081,
-    "longitude": 145.53406,
-    "area": "Japan (Hokkaido/Nemuro Strait)",
-    "source": "https://rausu-cruise.com/wp/",
-    "behaviors": [
-      "lunge feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-14-197",
-    "name": "Iceland (Húsavík/Skjálfandi) — Húsavík — Skjálfandi Bay",
-    "species": "Humpback",
-    "info": "Humpback breaching near húsavík — skjálfandi bay.",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
     "date": "2025-08-14",
-    "latitude": 66.0535,
-    "longitude": -17.33381,
-    "area": "Iceland (Húsavík/Skjálfandi)",
-    "source": "https://gentlegiants.is/news/",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
     "behaviors": [
-      "fluking",
-      "pectoral slapping"
+      "feeding",
+      "traveling"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-12-198",
-    "name": "USA (California/Orange County) — Dana Point offshore",
-    "species": "Orca",
-    "info": "Orca traveling near dana point offshore.",
-    "date": "2025-08-12",
-    "latitude": 33.47306,
-    "longitude": -117.81755,
-    "area": "USA (California/Orange County)",
-    "source": "https://newportwhales.com/whale-count/",
+    "id": "CA-20250815-105",
+    "name": "California — Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
+    "date": "2025-08-15",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
+    "behaviors": [
+      "feeding",
+      "breaching"
+    ]
+  },
+  {
+    "id": "CA-20250816-106",
+    "name": "California — Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
+    "date": "2025-08-16",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
     "behaviors": [
       "lunge feeding",
-      "kelping"
+      "group feeding"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-24-199",
-    "name": "Norway (Vesterålen/Andenes) — Andenes shelf edge",
+    "id": "CA-20250817-107",
+    "name": "California — Monterey Bay (US)",
     "species": "Humpback",
-    "info": "Humpback feeding near andenes shelf edge.",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
+    "date": "2025-08-17",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
+    "behaviors": [
+      "feeding",
+      "pec slapping"
+    ]
+  },
+  {
+    "id": "CA-20250818-108",
+    "name": "California — Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
+    "date": "2025-08-18",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
+    "behaviors": [
+      "feeding",
+      "breaching"
+    ]
+  },
+  {
+    "id": "CA-20250819-109",
+    "name": "California — Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
+    "date": "2025-08-19",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
+    "behaviors": [
+      "lunge feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-20250820-110",
+    "name": "California — Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
+    "date": "2025-08-20",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
+    "behaviors": [
+      "feeding",
+      "breaching"
+    ]
+  },
+  {
+    "id": "CA-20250821-111",
+    "name": "California — Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
+    "date": "2025-08-21",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
+    "behaviors": [
+      "feeding",
+      "tail slapping"
+    ]
+  },
+  {
+    "id": "CA-20250822-112",
+    "name": "California — Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
+    "date": "2025-08-22",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
+    "behaviors": [
+      "feeding",
+      "breaching"
+    ]
+  },
+  {
+    "id": "CA-20250823-113",
+    "name": "California — Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
+    "date": "2025-08-23",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-20250824-114",
+    "name": "California — Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
     "date": "2025-08-24",
-    "latitude": 69.31206,
-    "longitude": 16.24211,
-    "area": "Norway (Vesterålen/Andenes)",
-    "source": "https://www.seawatchfoundation.org.uk/orca-watch-3/",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
+    "behaviors": [
+      "lunge feeding",
+      "pec slapping"
+    ]
+  },
+  {
+    "id": "CA-20250825-115",
+    "name": "California — Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks feeding with seabirds reported by Monterey Bay Whale Watch daily log.",
+    "date": "2025-08-25",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
+    "behaviors": [
+      "feeding",
+      "breaching"
+    ]
+  },
+  {
+    "id": "CA-20250826-116",
+    "name": "California — Monterey Bay (US)",
+    "species": "Orca",
+    "info": "Bigg’s (transient) killer whales observed in Monterey Bay per daily sightings log.",
+    "date": "2025-08-26",
+    "latitude": 36.8,
+    "longitude": -121.92,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.montereybaywhalewatch.com/whalewatching/whale-sightings.php",
     "behaviors": [
       "traveling",
-      "spyhopping"
+      "foraging"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-28-200",
-    "name": "Japan (Hokkaido/Nemuro Strait) — Nemuro Strait off Rausu",
-    "species": "Orca",
-    "info": "Orca breaching near nemuro strait off rausu.",
-    "date": "2025-08-28",
-    "latitude": 44.15367,
-    "longitude": 145.52677,
-    "area": "Japan (Hokkaido/Nemuro Strait)",
-    "source": "https://rausu-cruise.com/wp/",
-    "behaviors": [
-      "kelping",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-27-201",
-    "name": "USA (California/San Diego) — San Diego Nine-Mile Bank",
+    "id": "CA-20250818-117",
+    "name": "California — Moss Landing/Monterey Bay (US)",
     "species": "Humpback",
-    "info": "Humpback feeding near san diego nine-mile bank.",
-    "date": "2025-08-27",
-    "latitude": 32.73387,
-    "longitude": -117.36139,
+    "info": "Humpback whales active; reports from Discovery Whale Watch sightings page (Monterey Bay).",
+    "date": "2025-08-18",
+    "latitude": 36.815,
+    "longitude": -121.81,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.discoverywhalewatch.com/whale-sightings/",
+    "behaviors": [
+      "feeding",
+      "breaching"
+    ]
+  },
+  {
+    "id": "CA-20250820-118",
+    "name": "California — Moss Landing/Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Humpback whales active; reports from Discovery Whale Watch sightings page (Monterey Bay).",
+    "date": "2025-08-20",
+    "latitude": 36.815,
+    "longitude": -121.81,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.discoverywhalewatch.com/whale-sightings/",
+    "behaviors": [
+      "feeding",
+      "breaching"
+    ]
+  },
+  {
+    "id": "CA-20250823-119",
+    "name": "California — Moss Landing/Monterey Bay (US)",
+    "species": "Humpback",
+    "info": "Humpback whales active; reports from Discovery Whale Watch sightings page (Monterey Bay).",
+    "date": "2025-08-23",
+    "latitude": 36.815,
+    "longitude": -121.81,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://www.discoverywhalewatch.com/whale-sightings/",
+    "behaviors": [
+      "feeding",
+      "breaching"
+    ]
+  },
+  {
+    "id": "CA-20250811-120",
+    "name": "California — Newport/OC waters (US)",
+    "species": "Humpback",
+    "info": "Humpback(s) recorded on the daily whale count off Newport/Orange County.",
+    "date": "2025-08-11",
+    "latitude": 33.59,
+    "longitude": -117.94,
+    "area": "USA (California/Newport–Orange County)",
+    "source": "https://newportwhales.com/whale-count",
+    "behaviors": [
+      "surfacing",
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-20250813-121",
+    "name": "California — Newport/OC waters (US)",
+    "species": "Humpback",
+    "info": "Humpback(s) recorded on the daily whale count off Newport/Orange County.",
+    "date": "2025-08-13",
+    "latitude": 33.59,
+    "longitude": -117.94,
+    "area": "USA (California/Newport–Orange County)",
+    "source": "https://newportwhales.com/whale-count",
+    "behaviors": [
+      "surfacing",
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-20250820-122",
+    "name": "California — Newport/OC waters (US)",
+    "species": "Humpback",
+    "info": "Humpback(s) recorded on the daily whale count off Newport/Orange County.",
+    "date": "2025-08-20",
+    "latitude": 33.59,
+    "longitude": -117.94,
+    "area": "USA (California/Newport–Orange County)",
+    "source": "https://newportwhales.com/whale-count",
+    "behaviors": [
+      "surfacing",
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-20250824-123",
+    "name": "California — Newport/OC waters (US)",
+    "species": "Humpback",
+    "info": "Humpback(s) recorded on the daily whale count off Newport/Orange County.",
+    "date": "2025-08-24",
+    "latitude": 33.59,
+    "longitude": -117.94,
+    "area": "USA (California/Newport–Orange County)",
+    "source": "https://newportwhales.com/whale-count",
+    "behaviors": [
+      "surfacing",
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-20250812-124",
+    "name": "California — San Diego offshore (US)",
+    "species": "Humpback",
+    "info": "Humpback whale noted on daily sightings blog for San Diego Whale Watch.",
+    "date": "2025-08-12",
+    "latitude": 32.72,
+    "longitude": -117.35,
     "area": "USA (California/San Diego)",
     "source": "https://sdwhalewatch.com/category/sightings/",
     "behaviors": [
-      "tail slapping",
-      "kelping",
+      "surfacing",
       "traveling"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-19-202",
-    "name": "Iceland (Reykjavík/Faxaflói) — Reykjavík — Faxaflói Bay",
-    "species": "Orca",
-    "info": "Orca surface-active near reykjavík — faxaflói bay.",
+    "id": "CA-20250819-125",
+    "name": "California — San Diego offshore (US)",
+    "species": "Humpback",
+    "info": "Humpback whale noted on daily sightings blog for San Diego Whale Watch.",
     "date": "2025-08-19",
-    "latitude": 64.17915,
-    "longitude": -22.13435,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "spyhopping",
-      "kelping",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-27-203",
-    "name": "USA (California/Orange County) — Newport Beach offshore",
-    "species": "Orca",
-    "info": "Orca surface-active near newport beach offshore.",
-    "date": "2025-08-27",
-    "latitude": 33.57772,
-    "longitude": -117.89395,
-    "area": "USA (California/Orange County)",
-    "source": "https://newportwhales.com/whale-count/",
-    "behaviors": [
-      "fluking",
-      "traveling"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-12-204",
-    "name": "Iceland (Reykjavík/Faxaflói) — Reykjavík — Faxaflói Bay",
-    "species": "Humpback",
-    "info": "Humpback feeding near reykjavík — faxaflói bay.",
-    "date": "2025-08-12",
-    "latitude": 64.18504,
-    "longitude": -22.15032,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "breaching",
-      "fluking",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-16-205",
-    "name": "USA (Washington/Haro Strait) — Haro Strait (USA side)",
-    "species": "Humpback",
-    "info": "Humpback surface-active near haro strait (usa side).",
-    "date": "2025-08-16",
-    "latitude": 48.60733,
-    "longitude": -123.19343,
-    "area": "USA (Washington/Haro Strait)",
-    "source": "https://blog.island-adventures.com/",
-    "behaviors": [
-      "kelping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-25-206",
-    "name": "USA (California/Orange County) — Dana Point offshore",
-    "species": "Humpback",
-    "info": "Humpback feeding near dana point offshore.",
-    "date": "2025-08-25",
-    "latitude": 33.43391,
-    "longitude": -117.71723,
-    "area": "USA (California/Orange County)",
-    "source": "https://newportwhales.com/whale-count/",
-    "behaviors": [
-      "lunge feeding",
-      "breaching"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-19-207",
-    "name": "Norway (Vesterålen/Andenes) — Andenes shelf edge",
-    "species": "Orca",
-    "info": "Orca breaching near andenes shelf edge.",
-    "date": "2025-08-19",
-    "latitude": 69.30158,
-    "longitude": 16.16993,
-    "area": "Norway (Vesterålen/Andenes)",
-    "source": "https://www.seawatchfoundation.org.uk/orca-watch-3/",
-    "behaviors": [
-      "spyhopping",
-      "fluking",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-23-208",
-    "name": "USA (Alaska/Icy Strait) — Icy Strait (Point Adolphus)",
-    "species": "Orca",
-    "info": "Orca traveling near icy strait (point adolphus).",
-    "date": "2025-08-23",
-    "latitude": 58.28983,
-    "longitude": -135.48904,
-    "area": "USA (Alaska/Icy Strait)",
-    "source": "https://www.harvandmarvs-juneau-whale-watching.com/",
-    "behaviors": [
-      "lunge feeding",
-      "pectoral slapping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-17-209",
-    "name": "UK (Scotland/Pentland Firth) — Pentland Firth off John o' Groats",
-    "species": "Orca",
-    "info": "Orca surface-active near pentland firth off john o' groats.",
-    "date": "2025-08-17",
-    "latitude": 58.67313,
-    "longitude": -3.15914,
-    "area": "UK (Scotland/Pentland Firth)",
-    "source": "https://www.seawatchfoundation.org.uk/orca-watch-3/",
-    "behaviors": [
-      "surface feeding",
-      "lunge feeding",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-15-210",
-    "name": "UK (Scotland/Pentland Firth) — Pentland Firth off John o' Groats",
-    "species": "Orca",
-    "info": "Orca breaching near pentland firth off john o' groats.",
-    "date": "2025-08-15",
-    "latitude": 58.64993,
-    "longitude": -3.04233,
-    "area": "UK (Scotland/Pentland Firth)",
-    "source": "https://www.seawatchfoundation.org.uk/orca-watch-3/",
-    "behaviors": [
-      "fluking",
-      "kelping",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-10-211",
-    "name": "USA (California/Orange County) — Newport Beach offshore",
-    "species": "Humpback",
-    "info": "Humpback surface-active near newport beach offshore.",
-    "date": "2025-08-10",
-    "latitude": 33.58143,
-    "longitude": -117.94162,
-    "area": "USA (California/Orange County)",
-    "source": "https://newportwhales.com/whale-count/",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-21-212",
-    "name": "USA (California/Monterey Bay) — Santa Cruz off Pleasure Point",
-    "species": "Humpback",
-    "info": "Humpback traveling near santa cruz off pleasure point.",
-    "date": "2025-08-21",
-    "latitude": 36.91478,
-    "longitude": -121.98566,
-    "area": "USA (California/Monterey Bay)",
-    "source": "https://gowhales.com/whale-watch-sightings/",
-    "behaviors": [
-      "trumpeting",
-      "fluking"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-27-213",
-    "name": "Norway (Vesterålen/Andenes) — Andenes shelf edge",
-    "species": "Orca",
-    "info": "Orca surface-active near andenes shelf edge.",
-    "date": "2025-08-27",
-    "latitude": 69.34275,
-    "longitude": 16.31817,
-    "area": "Norway (Vesterålen/Andenes)",
-    "source": "https://www.seawatchfoundation.org.uk/orca-watch-3/",
-    "behaviors": [
-      "traveling",
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-15-214",
-    "name": "USA (Washington/San Juan Islands) — San Juan Channel",
-    "species": "Orca",
-    "info": "Orca traveling near san juan channel.",
-    "date": "2025-08-15",
-    "latitude": 48.55434,
-    "longitude": -123.00895,
-    "area": "USA (Washington/San Juan Islands)",
-    "source": "https://blog.island-adventures.com/",
-    "behaviors": [
-      "trumpeting",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-21-215",
-    "name": "USA (California/Monterey Bay) — Moss Landing Submarine Canyon",
-    "species": "Orca",
-    "info": "Orca surface-active near moss landing submarine canyon.",
-    "date": "2025-08-21",
-    "latitude": 36.7731,
-    "longitude": -121.78024,
-    "area": "USA (California/Monterey Bay)",
-    "source": "https://gowhales.com/whale-watch-sightings/",
-    "behaviors": [
-      "tail slapping",
-      "spyhopping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-22-216",
-    "name": "Iceland (Húsavík/Skjálfandi) — Húsavík — Skjálfandi Bay",
-    "species": "Humpback",
-    "info": "Humpback surface-active near húsavík — skjálfandi bay.",
-    "date": "2025-08-22",
-    "latitude": 66.08379,
-    "longitude": -17.38654,
-    "area": "Iceland (Húsavík/Skjálfandi)",
-    "source": "https://gentlegiants.is/news/",
-    "behaviors": [
-      "breaching",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-26-217",
-    "name": "Japan (Hokkaido/Nemuro Strait) — Nemuro Strait off Rausu",
-    "species": "Humpback",
-    "info": "Humpback traveling near nemuro strait off rausu.",
-    "date": "2025-08-26",
-    "latitude": 44.14833,
-    "longitude": 145.56721,
-    "area": "Japan (Hokkaido/Nemuro Strait)",
-    "source": "https://rausu-cruise.com/wp/",
-    "behaviors": [
-      "spyhopping",
-      "pectoral slapping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-27-218",
-    "name": "USA (California/San Diego) — San Diego Nine-Mile Bank",
-    "species": "Orca",
-    "info": "Orca traveling near san diego nine-mile bank.",
-    "date": "2025-08-27",
-    "latitude": 32.76364,
-    "longitude": -117.35292,
+    "latitude": 32.72,
+    "longitude": -117.35,
     "area": "USA (California/San Diego)",
     "source": "https://sdwhalewatch.com/category/sightings/",
     "behaviors": [
-      "traveling",
-      "breaching",
-      "tail slapping"
+      "surfacing",
+      "traveling"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-28-219",
-    "name": "USA (California/Orange County) — Newport Beach offshore",
+    "id": "CA-20250825-126",
+    "name": "California — San Diego offshore (US)",
     "species": "Humpback",
-    "info": "Humpback feeding near newport beach offshore.",
-    "date": "2025-08-28",
-    "latitude": 33.56113,
-    "longitude": -117.87367,
-    "area": "USA (California/Orange County)",
-    "source": "https://newportwhales.com/whale-count/",
-    "behaviors": [
-      "breaching",
-      "tail slapping",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-11-220",
-    "name": "UK (Scotland/Pentland Firth) — Pentland Firth off John o' Groats",
-    "species": "Orca",
-    "info": "Orca traveling near pentland firth off john o' groats.",
-    "date": "2025-08-11",
-    "latitude": 58.63967,
-    "longitude": -2.99896,
-    "area": "UK (Scotland/Pentland Firth)",
-    "source": "https://www.seawatchfoundation.org.uk/orca-watch-3/",
-    "behaviors": [
-      "surface feeding",
-      "breaching",
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-25-221",
-    "name": "Iceland (Reykjavík/Faxaflói) — Reykjavík — Faxaflói Bay",
-    "species": "Orca",
-    "info": "Orca feeding near reykjavík — faxaflói bay.",
+    "info": "Humpback whale noted on daily sightings blog for San Diego Whale Watch.",
     "date": "2025-08-25",
-    "latitude": 64.19349,
-    "longitude": -22.10059,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
+    "latitude": 32.72,
+    "longitude": -117.35,
+    "area": "USA (California/San Diego)",
+    "source": "https://sdwhalewatch.com/category/sightings/",
     "behaviors": [
-      "traveling",
-      "tail slapping",
-      "fluking"
+      "surfacing",
+      "traveling"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-17-222",
-    "name": "USA (Alaska/Icy Strait) — Icy Strait (Point Adolphus)",
-    "species": "Orca",
-    "info": "Orca traveling near icy strait (point adolphus).",
-    "date": "2025-08-17",
-    "latitude": 58.28155,
-    "longitude": -135.48056,
-    "area": "USA (Alaska/Icy Strait)",
-    "source": "https://www.harvandmarvs-juneau-whale-watching.com/",
-    "behaviors": [
-      "kelping",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-12-223",
-    "name": "USA (California/Monterey Bay) — Monterey Bay (Soquel Canyon)",
+    "id": "AK-20250822-100",
+    "name": "Alaska — Juneau (US)",
     "species": "Humpback",
-    "info": "Humpback traveling near monterey bay (soquel canyon).",
-    "date": "2025-08-12",
-    "latitude": 36.79494,
-    "longitude": -121.88505,
-    "area": "USA (California/Monterey Bay)",
-    "source": "https://gowhales.com/whale-watch-sightings/",
-    "behaviors": [
-      "pectoral slapping",
-      "kelping",
-      "breaching"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-27-224",
-    "name": "USA (Oregon/Newport) — Newport offshore (Yaquina Head)",
-    "species": "Humpback",
-    "info": "Humpback surface-active near newport offshore (yaquina head).",
-    "date": "2025-08-27",
-    "latitude": 44.69518,
-    "longitude": -124.13249,
-    "area": "USA (Oregon/Newport)",
-    "source": "https://whalestaildepoebay.com/whale-sightings/",
-    "behaviors": [
-      "spyhopping",
-      "fluking"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-22-225",
-    "name": "USA (California/Monterey Bay) — Moss Landing Submarine Canyon",
-    "species": "Orca",
-    "info": "Orca traveling near moss landing submarine canyon.",
+    "info": "Bubble‑net feeding observed near Juneau per recent post (Juneau Tours & Whale Watch/others).",
     "date": "2025-08-22",
-    "latitude": 36.78702,
-    "longitude": -121.80036,
-    "area": "USA (California/Monterey Bay)",
-    "source": "https://gowhales.com/whale-watch-sightings/",
+    "latitude": 58.3,
+    "longitude": -134.72,
+    "area": "USA (Alaska/Juneau–Stephens Passage)",
+    "source": "https://www.instagram.com/reel/DMjgshdRwyK/",
     "behaviors": [
-      "traveling",
-      "tail slapping",
-      "spyhopping"
+      "bubble-net feeding",
+      "lunge feeding",
+      "group feeding"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-19-226",
-    "name": "Japan (Hokkaido/Nemuro Strait) — Nemuro Strait off Rausu",
+    "id": "AK-20250829-101",
+    "name": "Alaska — Juneau (US)",
     "species": "Humpback",
-    "info": "Humpback breaching near nemuro strait off rausu.",
-    "date": "2025-08-19",
-    "latitude": 44.18761,
-    "longitude": 145.55998,
-    "area": "Japan (Hokkaido/Nemuro Strait)",
-    "source": "https://rausu-cruise.com/wp/",
+    "info": "Bubble‑net feeding observed near Juneau per recent post (Juneau Tours & Whale Watch/others).",
+    "date": "2025-08-29",
+    "latitude": 58.3,
+    "longitude": -134.72,
+    "area": "USA (Alaska/Juneau–Stephens Passage)",
+    "source": "https://www.instagram.com/reel/DMjgshdRwyK/",
     "behaviors": [
-      "surface feeding",
-      "kelping",
-      "tail slapping"
+      "bubble-net feeding",
+      "lunge feeding",
+      "group feeding"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-17-227",
-    "name": "New Zealand (Canterbury/Kaikōura) — Kaikōura Canyon edge",
-    "species": "Orca",
-    "info": "Orca surface-active near kaikōura canyon edge.",
+    "id": "AK-20250817-102",
+    "name": "Alaska — Juneau (US)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks observed; bubble‑net feeding reported in late August near Auke Bay/Stephens Passage.",
     "date": "2025-08-17",
-    "latitude": -42.43037,
-    "longitude": 173.71054,
-    "area": "New Zealand (Canterbury/Kaikōura)",
-    "source": "https://whalewatch.co.nz/our-nature/latest-news/category/recent-sightings",
+    "latitude": 58.38,
+    "longitude": -134.64,
+    "area": "USA (Alaska/Juneau–Auke Bay)",
+    "source": "https://www.instagram.com/reel/DMjgshdRwyK/",
     "behaviors": [
-      "breaching",
-      "pectoral slapping",
-      "tail slapping"
+      "bubble-net feeding",
+      "fluking"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-24-228",
-    "name": "Norway (Vesterålen/Andenes) — Andenes shelf edge",
+    "id": "AK-20250824-103",
+    "name": "Alaska — Juneau (US)",
     "species": "Humpback",
-    "info": "Humpback breaching near andenes shelf edge.",
+    "info": "Multiple humpbacks observed; bubble‑net feeding reported in late August near Auke Bay/Stephens Passage.",
     "date": "2025-08-24",
-    "latitude": 69.3069,
-    "longitude": 16.15409,
-    "area": "Norway (Vesterålen/Andenes)",
-    "source": "https://www.seawatchfoundation.org.uk/orca-watch-3/",
+    "latitude": 58.38,
+    "longitude": -134.64,
+    "area": "USA (Alaska/Juneau–Auke Bay)",
+    "source": "https://www.instagram.com/reel/DMjgshdRwyK/",
     "behaviors": [
-      "pectoral slapping",
-      "spyhopping",
-      "kelping"
+      "bubble-net feeding",
+      "fluking"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-20-229",
-    "name": "Iceland (Reykjavík/Faxaflói) — Reykjavík — Faxaflói Bay",
+    "id": "AK-20250820-104",
+    "name": "Alaska — Resurrection Bay/Kenai Fjords (US)",
     "species": "Humpback",
-    "info": "Humpback feeding near reykjavík — faxaflói bay.",
+    "info": "Humpback whales active in Resurrection Bay/Kenai Fjords; tour logs indicate regular sightings through late August.",
     "date": "2025-08-20",
-    "latitude": 64.24289,
-    "longitude": -22.01028,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
+    "latitude": 59.85,
+    "longitude": -149.47,
+    "area": "USA (Alaska/Resurrection Bay)",
+    "source": "https://www.alaskacollection.com/day-tours/kenai-fjords-tours/tours/captains-choice-national-park-tour/",
     "behaviors": [
-      "pectoral slapping",
-      "lunge feeding",
-      "fluking"
+      "feeding",
+      "surfacing"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-18-230",
-    "name": "USA (Alaska/Seward) — Resurrection Bay",
-    "species": "Orca",
-    "info": "Orca surface-active near resurrection bay.",
-    "date": "2025-08-18",
-    "latitude": 59.85804,
-    "longitude": -149.31909,
-    "area": "USA (Alaska/Seward)",
-    "source": "https://www.harvandmarvs-juneau-whale-watching.com/",
-    "behaviors": [
-      "pectoral slapping",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-24-231",
-    "name": "USA (Alaska/Icy Strait) — Icy Strait (Point Adolphus)",
+    "id": "AK-20250824-105",
+    "name": "Alaska — Resurrection Bay/Kenai Fjords (US)",
     "species": "Humpback",
-    "info": "Humpback breaching near icy strait (point adolphus).",
+    "info": "Humpback whales active in Resurrection Bay/Kenai Fjords; tour logs indicate regular sightings through late August.",
     "date": "2025-08-24",
-    "latitude": 58.29181,
-    "longitude": -135.43504,
-    "area": "USA (Alaska/Icy Strait)",
-    "source": "https://www.harvandmarvs-juneau-whale-watching.com/",
+    "latitude": 59.85,
+    "longitude": -149.47,
+    "area": "USA (Alaska/Resurrection Bay)",
+    "source": "https://www.alaskacollection.com/day-tours/kenai-fjords-tours/tours/captains-choice-national-park-tour/",
     "behaviors": [
-      "fluking",
-      "lunge feeding"
+      "feeding",
+      "surfacing"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-18-232",
-    "name": "USA (California/Monterey Bay) — Monterey Bay (Soquel Canyon)",
+    "id": "AK-20250821-106",
+    "name": "Alaska — Resurrection Bay/Kenai Fjords (US)",
     "species": "Orca",
-    "info": "Orca feeding near monterey bay (soquel canyon).",
-    "date": "2025-08-18",
-    "latitude": 36.82714,
-    "longitude": -121.91042,
-    "area": "USA (California/Monterey Bay)",
-    "source": "https://gowhales.com/whale-watch-sightings/",
+    "info": "Transient orcas encountered by local tour boats near Seward (late August).",
+    "date": "2025-08-21",
+    "latitude": 59.76,
+    "longitude": -149.4,
+    "area": "USA (Alaska/Kenai Fjords)",
+    "source": "https://www.instagram.com/whale.wildlife.alaska/",
     "behaviors": [
-      "tail slapping",
-      "lunge feeding"
+      "traveling",
+      "foraging"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-27-233",
-    "name": "Iceland (Reykjavík/Faxaflói) — Reykjavík — Faxaflói Bay",
+    "id": "AK-20250823-107",
+    "name": "Alaska — Resurrection Bay/Kenai Fjords (US)",
     "species": "Orca",
-    "info": "Orca traveling near reykjavík — faxaflói bay.",
-    "date": "2025-08-27",
-    "latitude": 64.17204,
-    "longitude": -22.0095,
-    "area": "Iceland (Reykjavík/Faxaflói)",
-    "source": "https://elding.is/whale-diary",
+    "info": "Transient orcas encountered by local tour boats near Seward (late August).",
+    "date": "2025-08-23",
+    "latitude": 59.76,
+    "longitude": -149.4,
+    "area": "USA (Alaska/Kenai Fjords)",
+    "source": "https://www.instagram.com/whale.wildlife.alaska/",
     "behaviors": [
-      "trumpeting",
-      "kelping",
-      "spyhopping"
+      "traveling",
+      "foraging"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-15-234",
-    "name": "USA (Alaska/Icy Strait) — Icy Strait (Point Adolphus)",
+    "id": "OR-20250823-100",
+    "name": "Oregon — Port Orford (US)",
     "species": "Humpback",
-    "info": "Humpback traveling near icy strait (point adolphus).",
-    "date": "2025-08-15",
-    "latitude": 58.31537,
-    "longitude": -135.4255,
-    "area": "USA (Alaska/Icy Strait)",
-    "source": "https://www.harvandmarvs-juneau-whale-watching.com/",
+    "info": "Humpbacks reported off Port Orford by South Coast Tours (late August).",
+    "date": "2025-08-23",
+    "latitude": 42.739,
+    "longitude": -124.496,
+    "area": "USA (Oregon/Port Orford)",
+    "source": "https://www.instagram.com/south_coast_tours/",
     "behaviors": [
-      "lunge feeding",
-      "pectoral slapping"
+      "traveling",
+      "surfacing"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-18-235",
-    "name": "UK (Scotland/Pentland Firth) — Pentland Firth off John o' Groats",
-    "species": "Orca",
-    "info": "Orca feeding near pentland firth off john o' groats.",
-    "date": "2025-08-18",
-    "latitude": 58.66892,
-    "longitude": -3.09057,
-    "area": "UK (Scotland/Pentland Firth)",
-    "source": "https://www.seawatchfoundation.org.uk/orca-watch-3/",
+    "id": "OR-20250829-101",
+    "name": "Oregon — Port Orford (US)",
+    "species": "Humpback",
+    "info": "Humpback whales observed offshore near Port Orford; social video post shows multiple blows.",
+    "date": "2025-08-29",
+    "latitude": 42.745,
+    "longitude": -124.52,
+    "area": "USA (Oregon/Port Orford)",
+    "source": "https://www.instagram.com/p/DNBcp-tvwr8/",
     "behaviors": [
       "breaching",
-      "traveling",
-      "kelping"
+      "surfacing"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-31-236",
-    "name": "New Zealand (Auckland/Hauraki Gulf) — Hauraki Gulf Marine Park",
-    "species": "Humpback",
-    "info": "Humpback feeding near hauraki gulf marine park.",
-    "date": "2025-08-31",
-    "latitude": -36.59505,
-    "longitude": 175.01994,
-    "area": "New Zealand (Auckland/Hauraki Gulf)",
-    "source": "https://whalewatchingauckland.com/",
+    "id": "MX-20250829-100",
+    "name": "Baja California Sur — La Ventana (MX)",
+    "species": "Orca",
+    "info": "Orca pod including a calf observed off La Ventana (Sea of Cortez).",
+    "date": "2025-08-29",
+    "latitude": 24.04,
+    "longitude": -109.99,
+    "area": "Mexico (Baja California Sur/La Ventana)",
+    "source": "https://www.instagram.com/p/DNrQV8wZEvK/",
     "behaviors": [
-      "pectoral slapping",
-      "spyhopping",
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "MX-20250810-101",
+    "name": "Baja California Sur — Cerralvo/La Ventana (MX)",
+    "species": "Orca",
+    "info": "Operator-announced orca activity period in La Ventana/Cerralvo region; orcas present in August.",
+    "date": "2025-08-10",
+    "latitude": 24.15,
+    "longitude": -109.89,
+    "area": "Mexico (Baja California Sur/Isla Cerralvo area)",
+    "source": "https://www.instagram.com/p/DNLw6wlNk3E/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "MX-20250820-102",
+    "name": "Baja California Sur — La Paz offshore (MX)",
+    "species": "Orca",
+    "info": "Sea of Cortez operators reporting seasonal orca activity; late-summer encounters offshore La Paz.",
+    "date": "2025-08-20",
+    "latitude": 24.15,
+    "longitude": -110.2,
+    "area": "Mexico (Baja California Sur/La Paz)",
+    "source": "https://cortezclub.com/mobula-and-orca-season-in-the-sea-of-cortez-a-natural-spectacle-you-cant-miss/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "NZ-20250818-100",
+    "name": "Kaikōura — offshore (NZ)",
+    "species": "Humpback",
+    "info": "Four humpbacks and dusky dolphins reported on Kaikōura trip (user post).",
+    "date": "2025-08-18",
+    "latitude": -42.436,
+    "longitude": 173.68,
+    "area": "New Zealand (Kaikōura)",
+    "source": "https://www.instagram.com/reel/DNhkITuRc85/",
+    "behaviors": [
+      "traveling",
       "fluking"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-19-237",
-    "name": "USA (Alaska/Icy Strait) — Icy Strait (Point Adolphus)",
-    "species": "Humpback",
-    "info": "Humpback breaching near icy strait (point adolphus).",
-    "date": "2025-08-19",
-    "latitude": 58.28814,
-    "longitude": -135.48199,
-    "area": "USA (Alaska/Icy Strait)",
-    "source": "https://www.harvandmarvs-juneau-whale-watching.com/",
+    "id": "NZ-20250822-101",
+    "name": "Hauraki Gulf — Coromandel coast (NZ)",
+    "species": "Orca",
+    "info": "Orca pod filmed cruising Hauraki–Coromandel coastline.",
+    "date": "2025-08-22",
+    "latitude": -36.8,
+    "longitude": 175.6,
+    "area": "New Zealand (Auckland/Coromandel/Hauraki Gulf)",
+    "source": "https://www.facebook.com/thecoromandelgoodforyoursoul/videos/orca-encounters-in-hauraki-coromandel/1297187192060240/",
     "behaviors": [
-      "surface feeding",
-      "pectoral slapping"
+      "traveling",
+      "foraging"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-19-238",
-    "name": "Iceland (Húsavík/Skjálfandi) — Húsavík — Skjálfandi Bay",
+    "id": "JP-20250825-100",
+    "name": "Rausu — Nemuro Strait (JP)",
+    "species": "Orca",
+    "info": "Resident killer whales sighted off Rausu (Nemuro Strait) in late August.",
+    "date": "2025-08-25",
+    "latitude": 44.041,
+    "longitude": 145.282,
+    "area": "Japan (Hokkaidō/Shiretoko–Rausu)",
+    "source": "https://www.instagram.com/p/DNx0za24hA4/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "JP-20250820-101",
+    "name": "Rausu — Nemuro Strait (JP)",
     "species": "Humpback",
-    "info": "Humpback traveling near húsavík — skjálfandi bay.",
-    "date": "2025-08-19",
-    "latitude": 66.05187,
-    "longitude": -17.37314,
+    "info": "Pelagic cetaceans observed; operator diary notes non‑orca day amid active whale season.",
+    "date": "2025-08-20",
+    "latitude": 44.05,
+    "longitude": 145.3,
+    "area": "Japan (Hokkaidō/Shiretoko–Rausu)",
+    "source": "https://rausu-cruise.com/wp/2025/08/20/%E3%82%B7%E3%83%A3%E3%83%81%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%82%88/",
+    "behaviors": [
+      "surfacing",
+      "traveling"
+    ]
+  },
+  {
+    "id": "NE-20250821-100",
+    "name": "Reykjavík — Faxaflói Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpbacks surface‑feeding and fluking reported on late‑August tours (Elding diary).",
+    "date": "2025-08-21",
+    "latitude": 64.2,
+    "longitude": -22.1,
+    "area": "Iceland (Reykjavík/Faxaflói)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "surface feeding",
+      "fluking"
+    ]
+  },
+  {
+    "id": "NE-20250830-101",
+    "name": "Reykjavík — Faxaflói Bay (IS)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks active across outer bay; late‑Aug daily diary.",
+    "date": "2025-08-30",
+    "latitude": 64.25,
+    "longitude": -22.22,
+    "area": "Iceland (Reykjavík/Faxaflói)",
+    "source": "https://www.whalesafari.is/sightings",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "NE-20250824-102",
+    "name": "Húsavík — Skjálfandi Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpbacks with frequent fluke dives in Skjálfandi Bay late August.",
+    "date": "2025-08-24",
+    "latitude": 66.05,
+    "longitude": -17.34,
     "area": "Iceland (Húsavík/Skjálfandi)",
-    "source": "https://gentlegiants.is/news/",
+    "source": "https://gentlegiants.is/news/2025/08/24/",
     "behaviors": [
       "fluking",
-      "pectoral slapping",
-      "breaching"
+      "blows"
     ]
   },
   {
-    "id": "MULTI-REGION-2025-08-27-239",
-    "name": "USA (California/Monterey Bay) — Moss Landing Submarine Canyon",
-    "species": "Humpback",
-    "info": "Humpback feeding near moss landing submarine canyon.",
-    "date": "2025-08-27",
-    "latitude": 36.78685,
-    "longitude": -121.79978,
-    "area": "USA (California/Monterey Bay)",
-    "source": "https://gowhales.com/whale-watch-sightings/",
-    "behaviors": [
-      "trumpeting",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "MULTI-REGION-2025-08-22-240",
-    "name": "USA (Alaska/Juneau) — Auke Bay / Favorite Channel",
+    "id": "NE-20250810-103",
+    "name": "Andenes — Vesterålen (NO)",
     "species": "Orca",
-    "info": "Orca traveling near auke bay / favorite channel.",
-    "date": "2025-08-22",
-    "latitude": 58.41138,
-    "longitude": -134.68501,
-    "area": "USA (Alaska/Juneau)",
-    "source": "https://www.harvandmarvs-juneau-whale-watching.com/",
+    "info": "Orcas encountered near Andenes; operator social post mid‑August.",
+    "date": "2025-08-10",
+    "latitude": 69.33,
+    "longitude": 16.12,
+    "area": "Norway (Vesterålen/Andenes)",
+    "source": "https://www.instagram.com/p/DNLJQqksyHW/",
     "behaviors": [
-      "surface feeding",
-      "spyhopping"
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "NE-20250807-104",
+    "name": "Lofoten — Moskenesøy (NO)",
+    "species": "Orca",
+    "info": "Orca pod filmed near Lofoten islands (early August within 3‑week window).",
+    "date": "2025-08-07",
+    "latitude": 68.02,
+    "longitude": 13.25,
+    "area": "Norway (Lofoten Islands)",
+    "source": "https://www.instagram.com/reel/DNGA2KUoXCH/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "NE-20250829-105",
+    "name": "Værøy — Lofoten (NO)",
+    "species": "Orca",
+    "info": "Orca sightings reported around Værøy at end of August.",
+    "date": "2025-08-29",
+    "latitude": 67.67,
+    "longitude": 12.68,
+    "area": "Norway (Lofoten/Værøy)",
+    "source": "https://www.instagram.com/p/DN8li6zijdD/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-BC-VAN-20250812-001",
+    "name": "Vancouver — English Bay (CA)",
+    "species": "Orca",
+    "info": "Transient Bigg’s Orcas observed in English Bay near downtown Vancouver.",
+    "date": "2025-08-12",
+    "latitude": 49.289,
+    "longitude": -123.16189,
+    "area": "Canada (BC/English Bay)",
+    "source": "https://whalesanddolphinsbc.com/sightings",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-BC-VAN-20250815-002",
+    "name": "Strait of Georgia near Nanaimo (CA)",
+    "species": "Humpback",
+    "info": "Pairs of humpbacks surfacing with tail slaps near Nanaimo waters.",
+    "date": "2025-08-15",
+    "latitude": 49.2,
+    "longitude": -123.93687,
+    "area": "Canada (BC/Strait of Georgia)",
+    "source": "https://whalesanddolphinsbc.com/sightings",
+    "behaviors": [
+      "surfacing",
+      "tail slapping"
+    ]
+  },
+  {
+    "id": "CA-BC-VAN-20250817-003",
+    "name": "Juan de Fuca Strait — Victoria (CA)",
+    "species": "Humpback",
+    "info": "Humpbacks breaching and trumpeting off Victoria waterfront.",
+    "date": "2025-08-17",
+    "latitude": 48.4,
+    "longitude": -123.35677,
+    "area": "Canada (BC/Juan de Fuca Strait)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "breaching",
+      "trumpeting"
+    ]
+  },
+  {
+    "id": "CA-BC-VAN-20250818-004",
+    "name": "Howe Sound — Gambier Island (CA)",
+    "species": "Orca",
+    "info": "Multiple Bigg’s Orca pods (T60s, T124s) traveling along Gambier Island east shore.",
+    "date": "2025-08-18",
+    "latitude": 49.45,
+    "longitude": -123.35691,
+    "area": "Canada (BC/Howe Sound)",
+    "source": "https://www.facebook.com/groups/372308232860762/",
+    "behaviors": [
+      "traveling",
+      "social"
+    ]
+  },
+  {
+    "id": "CA-BC-VAN-20250820-005",
+    "name": "Discovery Passage — Campbell River (CA)",
+    "species": "Humpback",
+    "info": "Humpback whales lunge feeding with seabirds off Campbell River.",
+    "date": "2025-08-20",
+    "latitude": 50.03,
+    "longitude": -125.25699,
+    "area": "Canada (BC/Discovery Passage)",
+    "source": "https://whalesanddolphinsbc.com/sightings",
+    "behaviors": [
+      "lunge feeding",
+      "feeding"
+    ]
+  },
+  {
+    "id": "CA-BC-VAN-20250821-006",
+    "name": "Strait of Georgia near Sechelt (CA)",
+    "species": "Humpback",
+    "info": "Humpbacks breaching and pec slapping off Sunshine Coast near Sechelt.",
+    "date": "2025-08-21",
+    "latitude": 49.47,
+    "longitude": -123.75691,
+    "area": "Canada (BC/Sunshine Coast)",
+    "source": "https://whalesanddolphinsbc.com/sightings",
+    "behaviors": [
+      "breaching",
+      "pec slapping"
+    ]
+  },
+  {
+    "id": "CA-BC-VAN-20250822-007",
+    "name": "Juan de Fuca Strait near East Sooke (CA)",
+    "species": "Orca",
+    "info": "Bigg’s Orcas breaching near East Sooke Park coastline.",
+    "date": "2025-08-22",
+    "latitude": 48.35,
+    "longitude": -123.55676,
+    "area": "Canada (BC/Juan de Fuca Strait)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "breaching",
+      "fluke slapping"
+    ]
+  },
+  {
+    "id": "CA-BC-VAN-20250823-008",
+    "name": "Georgia Strait near Gibsons (CA)",
+    "species": "Humpback",
+    "info": "Humpbacks performing tail lobs and rolling near Gibsons.",
+    "date": "2025-08-23",
+    "latitude": 49.38,
+    "longitude": -123.5069,
+    "area": "Canada (BC/Georgia Strait)",
+    "source": "https://whalesanddolphinsbc.com/sightings",
+    "behaviors": [
+      "tail-lobbing",
+      "rolling"
+    ]
+  },
+  {
+    "id": "CA-BC-VAN-20250824-009",
+    "name": "Active Pass — Gulf Islands (CA)",
+    "species": "Orca",
+    "info": "Transient Orca pod traveling westbound through Active Pass.",
+    "date": "2025-08-24",
+    "latitude": 48.87,
+    "longitude": -123.37683,
+    "area": "Canada (BC/Active Pass)",
+    "source": "https://whalesanddolphinsbc.com/sightings",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-BC-VAN-20250825-010",
+    "name": "Malaspina Strait — Sunshine Coast (CA)",
+    "species": "Humpback",
+    "info": "Mom and calf humpback rolling mid-channel near Powell River.",
+    "date": "2025-08-25",
+    "latitude": 49.8,
+    "longitude": -124.40696,
+    "area": "Canada (BC/Malaspina Strait)",
+    "source": "https://whalesanddolphinsbc.com/sightings",
+    "behaviors": [
+      "rolling",
+      "playing"
     ]
   }
 ]
