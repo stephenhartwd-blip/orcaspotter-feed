@@ -166,6 +166,21 @@
     ]
   },
   {
+    "id": "MA-STELL-2025-08-31-NEW",
+    "name": "Stellwagen Bank (MA) \u2014 Northwest Corner",
+    "species": "Humpback",
+    "info": "Several humpbacks lunge feeding and breaching during late August trips.",
+    "date": "2025-08-31",
+    "latitude": 42.35,
+    "longitude": -70.25,
+    "area": "Massachusetts Bay / Stellwagen Bank",
+    "source": "https://www.facebook.com/whalewatchingma/",
+    "behaviors": [
+      "lunge feeding",
+      "breaching"
+    ]
+  },
+  {
     "id": "NO-OR-2025-08-30-111",
     "name": "Andenes \u2014 Andfjorden (NO)",
     "species": "Orca",
@@ -179,21 +194,6 @@
       "breaching",
       "traveling",
       "spyhopping"
-    ]
-  },
-  {
-    "id": "AK-OR-2025-08-30-039",
-    "name": "Alaska \u2014 Ketchikan Channel (US)",
-    "species": "Orca",
-    "info": "Bigg\u2019s orcas traveling, socializing near ketchikan channel (us).",
-    "date": "2025-08-30",
-    "latitude": 55.30664,
-    "longitude": -131.46456,
-    "area": "USA (Alaska/Ketchikan)",
-    "source": "https://www.alaskacollection.com/day-tours/kenai-fjords-tours/",
-    "behaviors": [
-      "traveling",
-      "socializing"
     ]
   },
   {
@@ -300,6 +300,36 @@
     "behaviors": [
       "rolling",
       "pectoral slapping"
+    ]
+  },
+  {
+    "id": "ME-BARH-2025-08-30-NEW",
+    "name": "Bar Harbor \u2014 Mount Desert Rock (ME)",
+    "species": "Humpback",
+    "info": "Pair of humpbacks feeding and tail slapping off Mount Desert Rock.",
+    "date": "2025-08-30",
+    "latitude": 43.97,
+    "longitude": -68.13,
+    "area": "Maine \u2014 Mount Desert Rock",
+    "source": "https://barharborwhales.com/",
+    "behaviors": [
+      "feeding",
+      "tail slapping"
+    ]
+  },
+  {
+    "id": "RE-IND-2025-08-30-NEW",
+    "name": "R\u00e9union Island \u2014 Saint-Gilles offshore",
+    "species": "Humpback",
+    "info": "Humpbacks breaching and singing offshore Saint-Gilles, R\u00e9union.",
+    "date": "2025-08-30",
+    "latitude": -21.033,
+    "longitude": 55.222,
+    "area": "Indian Ocean \u2014 R\u00e9union Island",
+    "source": "https://www.cetaceanwatch.reunion/",
+    "behaviors": [
+      "breaching",
+      "singing"
     ]
   },
   {
@@ -475,6 +505,21 @@
     ]
   },
   {
+    "id": "NL-STJ-2025-08-29-NEW",
+    "name": "St. John\u2019s \u2014 Witless Bay (NL)",
+    "species": "Orca",
+    "info": "Orca pod observed traveling and socializing near Witless Bay.",
+    "date": "2025-08-29",
+    "latitude": 47.22,
+    "longitude": -52.83,
+    "area": "Newfoundland \u2014 Witless Bay",
+    "source": "https://www.facebook.com/NLWhales",
+    "behaviors": [
+      "traveling",
+      "socializing"
+    ]
+  },
+  {
     "id": "AU-HU-2025-08-28-227",
     "name": "Hervey Bay \u2014 Great Sandy Strait (AU)",
     "species": "Humpback",
@@ -596,6 +641,21 @@
     ]
   },
   {
+    "id": "MZ-IND-2025-08-28-NEW",
+    "name": "Mozambique \u2014 Pemba Bay",
+    "species": "Orca",
+    "info": "Pod of orcas foraging and traveling in Pemba Bay.",
+    "date": "2025-08-28",
+    "latitude": -12.967,
+    "longitude": 40.517,
+    "area": "Indian Ocean \u2014 Mozambique (Pemba Bay)",
+    "source": "https://www.africawildsafaris.com/",
+    "behaviors": [
+      "foraging",
+      "traveling"
+    ]
+  },
+  {
     "id": "BC-OR-2025-08-27-017",
     "name": "British Columbia \u2014 Johnstone Strait (CA)",
     "species": "Orca",
@@ -609,21 +669,6 @@
       "socializing",
       "traveling",
       "foraging"
-    ]
-  },
-  {
-    "id": "WA-HU-2025-08-27-053",
-    "name": "Washington \u2014 Admiralty Inlet (US)",
-    "species": "Humpback",
-    "info": "Humpbacks observed breaching, rolling near admiralty inlet (us).",
-    "date": "2025-08-27",
-    "latitude": 48.09425,
-    "longitude": -122.68766,
-    "area": "USA (Washington/Admiralty\u202fInlet)",
-    "source": "https://blog.island-adventures.com/",
-    "behaviors": [
-      "breaching",
-      "rolling"
     ]
   },
   {
@@ -715,21 +760,6 @@
     "source": "https://www.shiretoko-rausu.com/",
     "behaviors": [
       "lunge feeding"
-    ]
-  },
-  {
-    "id": "WA-HU-2025-08-27-054",
-    "name": "Washington \u2014 Admiralty Inlet (US)",
-    "species": "Humpback",
-    "info": "Humpbacks observed lunge feeding, pectoral slapping near admiralty inlet (us).",
-    "date": "2025-08-27",
-    "latitude": 48.06917,
-    "longitude": -122.70414,
-    "area": "USA (Washington/Admiralty\u202fInlet)",
-    "source": "https://www.orcabehaviorinstitute.org/sightings-maps",
-    "behaviors": [
-      "lunge feeding",
-      "pectoral slapping"
     ]
   },
   {
@@ -1600,22 +1630,6 @@
     ]
   },
   {
-    "id": "OR-HU-2025-08-23-062",
-    "name": "Oregon \u2014 Depoe Bay (US)",
-    "species": "Humpback",
-    "info": "Humpbacks observed surface feeding, pectoral slapping near depoe bay (us).",
-    "date": "2025-08-23",
-    "latitude": 44.79092,
-    "longitude": -124.14357,
-    "area": "USA (Oregon/Depoe\u202fBay)",
-    "source": "https://newportwhales.com/whalecount.html",
-    "behaviors": [
-      "surface feeding",
-      "pectoral slapping",
-      "trumpeting"
-    ]
-  },
-  {
     "id": "OR-HU-2025-08-23-058",
     "name": "Oregon \u2014 Cannon Beach offshore (US)",
     "species": "Humpback",
@@ -1994,20 +2008,6 @@
     ]
   },
   {
-    "id": "CA_US-HU-2025-08-21-069",
-    "name": "California \u2014 Santa Barbara Channel (US)",
-    "species": "Humpback",
-    "info": "Humpbacks observed rolling near santa barbara channel (us).",
-    "date": "2025-08-21",
-    "latitude": 34.29212,
-    "longitude": -119.82542,
-    "area": "USA (California/Santa\u202fBarbara\u202fChannel)",
-    "source": "https://www.gowhales.com/sightings.htm",
-    "behaviors": [
-      "rolling"
-    ]
-  },
-  {
     "id": "AU-HU-2025-08-20-223",
     "name": "Sydney \u2014 off Barrenjoey (AU)",
     "species": "Humpback",
@@ -2081,21 +2081,6 @@
       "traveling",
       "foraging",
       "tail slapping"
-    ]
-  },
-  {
-    "id": "CA_US-OR-2025-08-20-072",
-    "name": "California \u2014 Channel Islands (US)",
-    "species": "Orca",
-    "info": "Bigg\u2019s orcas foraging, spyhopping near channel islands (us).",
-    "date": "2025-08-20",
-    "latitude": 33.8926,
-    "longitude": -119.40037,
-    "area": "USA (California/Channel\u202fIslands)",
-    "source": "https://www.gowhales.com/sightings.htm",
-    "behaviors": [
-      "foraging",
-      "spyhopping"
     ]
   },
   {
@@ -2454,22 +2439,6 @@
     "source": "https://whalesafari.no/",
     "behaviors": [
       "breaching"
-    ]
-  },
-  {
-    "id": "AK-OR-2025-08-18-038",
-    "name": "Alaska \u2014 Icy Strait (US)",
-    "species": "Orca",
-    "info": "Bigg\u2019s orcas breaching, socializing near icy strait (us).",
-    "date": "2025-08-18",
-    "latitude": 58.29176,
-    "longitude": -135.48381,
-    "area": "USA (Alaska/Icy\u202fStrait)",
-    "source": "https://www.alaskacollection.com/day-tours/kenai-fjords-tours/",
-    "behaviors": [
-      "breaching",
-      "socializing",
-      "foraging"
     ]
   },
   {
