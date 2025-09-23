@@ -1296,5 +1296,63 @@
     "behaviors": [
       "traveling"
     ]
+  },
+  {
+    "id": "CL-MAG-PSG-2025-09-22-100",
+    "name": "Patagonia \u2014 Magellan Strait (CL)",
+    "species": "Humpback",
+    "info": "Humpbacks feeding in channels of the Magellan Strait.",
+    "date": "2025-09-23",
+    "latitude": -53.6,
+    "longitude": -70.9,
+    "area": "Chile (Magellan Strait)",
+    "source": "https://www.whalesound.com/en/whale-watching-patagonia",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-AK-JNU-2025-09-20-102",
+    "name": "Juneau \u2014 Stephens Passage (US-AK)",
+    "species": "Humpback",
+    "info": "Humpbacks bubble-net feeding observed near Juneau.",
+    "date": "2025-09-23",
+    "latitude": 58.38,
+    "longitude": -134.65,
+    "area": "SE Alaska (Juneau)",
+    "source": "https://www.stepintoalaska.com/excursions/discover-alaskas-whales/",
+    "behaviors": [
+      "bubble-net feeding"
+    ]
+  },
+  {
+    "id": "US-AK-KEN-2025-09-19-103",
+    "name": "Kenai Fjords \u2014 Resurrection Bay (US-AK)",
+    "species": "Orca",
+    "info": "Bigg\u2019s orcas traveling near Resurrection Bay.",
+    "date": "2025-09-23",
+    "latitude": 60.0,
+    "longitude": -149.5,
+    "area": "Alaska (Kenai Fjords)",
+    "source": "https://alaskacollection.com/day-tours/kenai-fjords-tours/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "JP-OGS-2025-09-16-106",
+    "name": "Japan \u2014 Ogasawara Islands (JP)",
+    "species": "Humpback",
+    "info": "Humpbacks migrating offshore Ogasawara Islands.",
+    "date": "2025-09-23",
+    "latitude": 27.1,
+    "longitude": 142.2,
+    "area": "Japan (Ogasawara Islands)",
+    "source": "https://www.ogasawarakaiun.co.jp/whale-watching/",
+    "behaviors": [
+      "traveling",
+      "breaching"
+    ]
   }
 ]
