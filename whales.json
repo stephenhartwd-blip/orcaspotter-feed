@@ -1,24 +1,9 @@
 [
   {
-    "id": "CA-MRY-2025-09-09-009",
-    "name": "Monterey \u2014 Submarine Canyon (CA)",
+    "id": "US-CA-MRY-2025-09-10-001",
+    "name": "Monterey \u2014 Submarine Canyon (US-CA)",
     "species": "Humpback",
-    "info": "Monterey Bay Whale Watch trip reported multiple humpbacks feeding/lunge-feeding near the canyon edge.",
-    "date": "2025-09-09",
-    "latitude": 36.73,
-    "longitude": -121.93,
-    "area": "Central California (Monterey Bay)",
-    "source": "https://gowhales.com/sightings/slstcurr/",
-    "behaviors": [
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-MRY-2025-09-10-010",
-    "name": "Monterey \u2014 Submarine Canyon (CA)",
-    "species": "Humpback",
-    "info": "Monterey Bay Whale Watch trip reported multiple humpbacks feeding/lunge-feeding near the canyon edge.",
+    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
     "date": "2025-09-10",
     "latitude": 36.73,
     "longitude": -121.93,
@@ -30,10 +15,157 @@
     ]
   },
   {
-    "id": "BC-NEW-001",
-    "name": "British Columbia \u2014 Johnstone Strait",
+    "id": "US-CA-MRY-2025-09-13-002",
+    "name": "Monterey \u2014 Carmel Canyon (US-CA)",
+    "species": "Humpback",
+    "info": "Active breaches and bait-ball feeding observed.",
+    "date": "2025-09-13",
+    "latitude": 36.52,
+    "longitude": -121.96,
+    "area": "Central California (Monterey Bay)",
+    "source": "https://montereywhalewatching.com/blog/saturday-september-13-2025/",
+    "behaviors": [
+      "breaching",
+      "feeding"
+    ]
+  },
+  {
+    "id": "CA-BC-SAL-2025-09-04-003",
+    "name": "Salish Sea \u2014 Parksville / Halibut Bank (CA-BC)",
     "species": "Orca",
-    "info": "Orcas observed socializing near johnstone strait.",
+    "info": "Bigg\u2019s orcas T075Bs/T100s/T101s traveling; humpbacks feeding near Halibut Bank.",
+    "date": "2025-09-04",
+    "latitude": 49.33,
+    "longitude": -123.86,
+    "area": "Salish Sea (Strait of Georgia)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-WA-PSND-2025-09-16-004",
+    "name": "Puget Sound \u2014 Vashon\u2013Southworth mid-channel (US-WA)",
+    "species": "Orca",
+    "info": "Pod of ~7 orcas northbound mid-channel between Vashon & Southworth.",
+    "date": "2025-09-16",
+    "latitude": 47.48,
+    "longitude": -122.49,
+    "area": "Puget Sound (Vashon/Southworth)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling",
+      "socializing"
+    ]
+  },
+  {
+    "id": "IS-REK-FAX-2025-09-21-005",
+    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Four humpbacks together incl. 'Davy Jones II'; breaches and flukes.",
+    "date": "2025-09-21",
+    "latitude": 64.175,
+    "longitude": -22.05,
+    "area": "Iceland (Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "breaching",
+      "fluking"
+    ]
+  },
+  {
+    "id": "IS-REK-FAX-2025-09-22-006",
+    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpback whales with dolphins and porpoises reported on tours.",
+    "date": "2025-09-22",
+    "latitude": 64.2,
+    "longitude": -22.1,
+    "area": "Iceland (Faxafl\u00f3i)",
+    "source": "https://whalesafari.is/whale-diary/22nd-september-2025",
+    "behaviors": [
+      "traveling",
+      "feeding"
+    ]
+  },
+  {
+    "id": "IS-HUS-SKJ-2025-09-14-007",
+    "name": "H\u00fasav\u00edk \u2014 Skj\u00e1lfandi Bay (IS)",
+    "species": "Humpback",
+    "info": "Regular humpback encounters on daily tours.",
+    "date": "2025-09-14",
+    "latitude": 66.05,
+    "longitude": -17.34,
+    "area": "Iceland (Skj\u00e1lfandi Bay)",
+    "source": "https://www.gentlegiants.is/news/2025/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-09-20-008",
+    "name": "Sydney Offshore \u2014 off North Head (AU)",
+    "species": "Humpback",
+    "info": "Breaches observed during migration; season remains strong.",
+    "date": "2025-09-20",
+    "latitude": -33.82,
+    "longitude": 151.3,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-MA-CCB-2025-09-08-010",
+    "name": "Cape Cod Bay \u2014 Stellwagen Bank (US-MA)",
+    "species": "Humpback",
+    "info": "Humpbacks active with breaches and close approaches reported this week.",
+    "date": "2025-09-08",
+    "latitude": 42.4,
+    "longitude": -70.3,
+    "area": "Massachusetts (Stellwagen Bank)",
+    "source": "https://www.facebook.com/whalewatchingma/posts/1218985956934831/",
+    "behaviors": [
+      "breaching",
+      "feeding"
+    ]
+  },
+  {
+    "id": "UK-SCT-HBD-2025-09-15-011",
+    "name": "Hebrides \u2014 Sound of Mull (UK-SCT)",
+    "species": "Orca",
+    "info": "Famous orcas John Coe & Aquarius spotted; humpback also lunge-feeding earlier.",
+    "date": "2025-09-15",
+    "latitude": 56.55,
+    "longitude": -5.99,
+    "area": "Scotland (Hebrides)",
+    "source": "https://hebridescruises.co.uk/news/john-coe-and-aquarius-together-in-the-hebrides/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "NZ-AUK-HAU-2025-09-17-016",
+    "name": "Auckland \u2014 Hauraki Gulf (NZ)",
+    "species": "Orca",
+    "info": "Orca reports in Hauraki Gulf/coastal Auckland this week.",
+    "date": "2025-09-17",
+    "latitude": -36.75,
+    "longitude": 174.95,
+    "area": "New Zealand (Hauraki Gulf)",
+    "source": "https://www.reddit.com/r/newzealand_travel/comments/1myi1e2/any_chance_for_orcas_in_september/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-BC-JST-2025-09-16-020",
+    "name": "Johnstone Strait (CA-BC)",
+    "species": "Orca",
+    "info": "Orcas socializing in Johnstone Strait.",
     "date": "2025-09-16",
     "latitude": 50.6,
     "longitude": -126.5,
@@ -44,1196 +176,1125 @@
     ]
   },
   {
-    "id": "BC-NEW-002",
-    "name": "British Columbia \u2014 Haro Strait",
+    "id": "US-CA-MRY-2025-09-07-021",
+    "name": "Monterey \u2014 Submarine Canyon (US-CA)",
     "species": "Orca",
-    "info": "Orcas observed traveling near haro strait.",
-    "date": "2025-09-16",
-    "latitude": 48.6,
-    "longitude": -123.2,
-    "area": "Canada (British Columbia/Haro Strait)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "info": "Multiple Bigg\u2019s orcas incl. CA58B and calf observed traveling.",
+    "date": "2025-09-07",
+    "latitude": 36.77,
+    "longitude": -122.0,
+    "area": "Central California (Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
     "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "BC-NEW-003",
-    "name": "British Columbia \u2014 Strait of Georgia",
-    "species": "Humpback",
-    "info": "Humpbacks observed feeding near strait of georgia.",
-    "date": "2025-09-16",
-    "latitude": 49.2,
-    "longitude": -123.7,
-    "area": "Canada (British Columbia/Strait of Georgia)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "BC-NEW-004",
-    "name": "British Columbia \u2014 Tofino offshore",
-    "species": "Humpback",
-    "info": "Humpbacks observed breaching near tofino offshore.",
-    "date": "2025-09-16",
-    "latitude": 49.15,
-    "longitude": -125.9,
-    "area": "Canada (British Columbia/Tofino offshore)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "breaching"
-    ]
-  },
-  {
-    "id": "BC-NEW-005",
-    "name": "British Columbia \u2014 Campbell River",
-    "species": "Orca",
-    "info": "Orcas observed foraging near campbell river.",
-    "date": "2025-09-16",
-    "latitude": 50.02,
-    "longitude": -125.25,
-    "area": "Canada (British Columbia/Campbell River)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "BC-NEW-006",
-    "name": "British Columbia \u2014 Broughton Archipelago",
-    "species": "Humpback",
-    "info": "Humpbacks observed fluking near broughton archipelago.",
-    "date": "2025-09-16",
-    "latitude": 50.85,
-    "longitude": -126.8,
-    "area": "Canada (British Columbia/Broughton Archipelago)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "fluking"
-    ]
-  },
-  {
-    "id": "BC-NEW-007",
-    "name": "British Columbia \u2014 Victoria waterfront",
-    "species": "Orca",
-    "info": "Orcas observed spyhopping near victoria waterfront.",
-    "date": "2025-09-16",
-    "latitude": 48.42,
-    "longitude": -123.37,
-    "area": "Canada (British Columbia/Victoria waterfront)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
+      "traveling",
       "spyhopping"
     ]
   },
   {
-    "id": "BC-NEW-008",
-    "name": "British Columbia \u2014 Port Hardy",
+    "id": "US-CA-MRY-2025-09-13-022",
+    "name": "Monterey \u2014 Offshore lunge\u2011feed (US-CA)",
     "species": "Humpback",
-    "info": "Humpbacks observed lunge feeding near port hardy.",
-    "date": "2025-09-16",
-    "latitude": 50.72,
-    "longitude": -127.5,
-    "area": "Canada (British Columbia/Port Hardy)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "info": "Humpbacks lunge\u2011feeding on anchovies; repeated surface lunges.",
+    "date": "2025-09-13",
+    "latitude": 36.65,
+    "longitude": -122.05,
+    "area": "Central California (Monterey Bay)",
+    "source": "https://www.facebook.com/momswhalewatching/videos/lots-of-lunge-feeding-humpback-whales-in-monterey-bay/2860521044144799/",
     "behaviors": [
+      "feeding",
       "lunge feeding"
     ]
   },
   {
-    "id": "BC-NEW-009",
-    "name": "British Columbia \u2014 Queen Charlotte Strait",
-    "species": "Orca",
-    "info": "Orcas observed tail slapping near queen charlotte strait.",
-    "date": "2025-09-16",
-    "latitude": 50.9,
-    "longitude": -127.0,
-    "area": "Canada (British Columbia/Queen Charlotte Strait)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "BC-NEW-010",
-    "name": "British Columbia \u2014 Nanaimo offshore",
+    "id": "IS-REK-FAX-2025-09-21-023",
+    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
     "species": "Humpback",
-    "info": "Humpbacks observed rolling near nanaimo offshore.",
-    "date": "2025-09-16",
-    "latitude": 49.2,
-    "longitude": -123.95,
-    "area": "Canada (British Columbia/Nanaimo offshore)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "info": "Four humpbacks incl. 'Davy Jones II' with breaches and flukes.",
+    "date": "2025-09-21",
+    "latitude": 64.175,
+    "longitude": -22.05,
+    "area": "Iceland (Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary",
     "behaviors": [
-      "rolling"
-    ]
-  },
-  {
-    "id": "BC-NEW-011",
-    "name": "British Columbia \u2014 Gulf Islands",
-    "species": "Orca",
-    "info": "Orcas observed traveling near gulf islands.",
-    "date": "2025-09-16",
-    "latitude": 48.9,
-    "longitude": -123.5,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "BC-NEW-012",
-    "name": "British Columbia \u2014 Alert Bay",
-    "species": "Humpback",
-    "info": "Humpbacks observed trumpeting near alert bay.",
-    "date": "2025-09-16",
-    "latitude": 50.58,
-    "longitude": -126.93,
-    "area": "Canada (British Columbia/Alert Bay)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "trumpeting"
-    ]
-  },
-  {
-    "id": "BC-NEW-013",
-    "name": "British Columbia \u2014 Sechelt Inlet",
-    "species": "Orca",
-    "info": "Orcas observed breaching near sechelt inlet.",
-    "date": "2025-09-16",
-    "latitude": 49.47,
-    "longitude": -123.75,
-    "area": "Canada (British Columbia/Sechelt Inlet)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "breaching"
-    ]
-  },
-  {
-    "id": "BC-NEW-014",
-    "name": "British Columbia \u2014 Barkley Sound",
-    "species": "Humpback",
-    "info": "Humpbacks observed surface feeding near barkley sound.",
-    "date": "2025-09-16",
-    "latitude": 48.85,
-    "longitude": -125.2,
-    "area": "Canada (British Columbia/Barkley Sound)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "BC-NEW-015",
-    "name": "British Columbia \u2014 Haida Gwaii",
-    "species": "Orca",
-    "info": "Orcas observed cartwheeling near haida gwaii.",
-    "date": "2025-09-16",
-    "latitude": 53.25,
-    "longitude": -132.0,
-    "area": "Canada (British Columbia/Haida Gwaii)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "cartwheeling"
-    ]
-  },
-  {
-    "id": "BC-NEW-016",
-    "name": "British Columbia \u2014 Desolation Sound",
-    "species": "Humpback",
-    "info": "Humpbacks observed pectoral slapping near desolation sound.",
-    "date": "2025-09-16",
-    "latitude": 50.0,
-    "longitude": -124.75,
-    "area": "Canada (British Columbia/Desolation Sound)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "pectoral slapping"
-    ]
-  },
-  {
-    "id": "BC-NEW-017",
-    "name": "British Columbia \u2014 Clayoquot Sound",
-    "species": "Humpback",
-    "info": "Humpbacks observed feeding near clayoquot sound.",
-    "date": "2025-09-16",
-    "latitude": 49.3,
-    "longitude": -126.05,
-    "area": "Canada (British Columbia/Clayoquot Sound)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "BC-NEW-018",
-    "name": "British Columbia \u2014 Boundary Pass",
-    "species": "Orca",
-    "info": "Orcas observed foraging near boundary pass.",
-    "date": "2025-09-16",
-    "latitude": 48.75,
-    "longitude": -123.1,
-    "area": "Canada (British Columbia/Boundary Pass)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "BC-NEW-019",
-    "name": "British Columbia \u2014 Prince Rupert",
-    "species": "Humpback",
-    "info": "Humpbacks observed breaching near prince rupert.",
-    "date": "2025-09-16",
-    "latitude": 54.3,
-    "longitude": -130.3,
-    "area": "Canada (British Columbia/Prince Rupert)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "breaching"
-    ]
-  },
-  {
-    "id": "BC-NEW-020",
-    "name": "British Columbia \u2014 Bella Bella",
-    "species": "Orca",
-    "info": "Orcas observed traveling near bella bella.",
-    "date": "2025-09-16",
-    "latitude": 52.15,
-    "longitude": -128.15,
-    "area": "Canada (British Columbia/Bella Bella)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-SO-079",
-    "name": "South Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed rolling, breaching in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 43.4496,
-    "longitude": 1.3709,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling",
-      "breaching"
-    ]
-  },
-  {
-    "id": "NEW-SO-090",
-    "name": "South Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed surface feeding in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 37.1129,
-    "longitude": 22.9578,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-AL-106",
-    "name": "Alaska Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 58.7152,
-    "longitude": -141.6258,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-AL-002",
-    "name": "Alaska Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed spyhopping in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 56.1898,
-    "longitude": -137.2007,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-BC-149",
-    "name": "BC Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging, rolling in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 53.4563,
-    "longitude": -129.085,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-BC-023",
-    "name": "BC Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed tail slapping, traveling in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 48.9464,
-    "longitude": -128.6791,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "tail slapping",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-ME-101",
-    "name": "Mexico Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed feeding, tail slapping in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 21.2019,
-    "longitude": -104.4216,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-ME-046",
-    "name": "Mexico Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed fluking in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 16.2975,
-    "longitude": -96.5607,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
+      "breaching",
       "fluking"
     ]
   },
   {
-    "id": "NEW-AS-117",
-    "name": "Asia Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed breaching in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 36.8268,
-    "longitude": 138.5965,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching"
-    ]
-  },
-  {
-    "id": "NEW-AS-119",
-    "name": "Asia Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed feeding in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 29.8586,
-    "longitude": 125.2741,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-AU-026",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed spyhopping in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -29.5256,
-    "longitude": 145.807,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-AU-037",
-    "name": "Australia/NZ Offshore Waters",
+    "id": "IS-REK-FAX-2025-09-20-024",
+    "name": "Reykjav\u00edk \u2014 Whale Safari (IS)",
     "species": "Humpback",
-    "info": "Humpback observed breaching, feeding in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -20.2118,
-    "longitude": 149.3415,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching",
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-WE-110",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed breaching in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 33.6371,
-    "longitude": -123.5901,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching"
-    ]
-  },
-  {
-    "id": "NEW-WE-127",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 44.9514,
-    "longitude": -123.7075,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-EA-016",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed spyhopping in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 36.8894,
-    "longitude": -70.9896,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-EA-012",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed surface feeding, tail slapping in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 27.439,
-    "longitude": -76.322,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-NO-129",
-    "name": "North Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed spyhopping, tail slapping in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 65.0953,
-    "longitude": -10.3919,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-NO-048",
-    "name": "North Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed surface feeding, foraging in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 68.8978,
-    "longitude": -14.8536,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding",
-      "foraging"
-    ]
-  },
-  {
-    "id": "NEW-BC-031",
-    "name": "BC Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed feeding, tail slapping in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 51.3336,
-    "longitude": -129.3424,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-BC-132",
-    "name": "BC Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed traveling, feeding in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 48.0047,
-    "longitude": -128.033,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
+    "info": "Humpback whales observed during all tours; active surface behaviour.",
+    "date": "2025-09-20",
+    "latitude": 64.18,
+    "longitude": -22.1,
+    "area": "Iceland (Faxafl\u00f3i)",
+    "source": "https://whalesafari.is/whale-diary/20th-september-2025",
     "behaviors": [
       "traveling",
       "feeding"
     ]
   },
   {
-    "id": "NEW-AU-130",
-    "name": "Australia/NZ Offshore Waters",
+    "id": "IS-HUS-SKJ-2025-09-14-025",
+    "name": "H\u00fasav\u00edk \u2014 Skj\u00e1lfandi Bay (IS)",
     "species": "Humpback",
-    "info": "Humpback observed foraging, traveling in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -36.1194,
-    "longitude": 164.2446,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-EA-134",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling, feeding in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 39.3551,
-    "longitude": -77.3216,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling",
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-WE-065",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed surface feeding in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 41.6958,
-    "longitude": -116.7047,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-EA-012",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed surface feeding, tail slapping in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 27.439,
-    "longitude": -76.322,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-WE-143",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed feeding in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 35.3256,
-    "longitude": -118.9574,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "BC-NEW-018",
-    "name": "British Columbia \u2014 Boundary Pass",
-    "species": "Orca",
-    "info": "Orcas observed foraging near boundary pass.",
-    "date": "2025-09-16",
-    "latitude": 48.75,
-    "longitude": -123.1,
-    "area": "Canada (British Columbia/Boundary Pass)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "NEW-NO-064",
-    "name": "North Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed feeding, surface feeding in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 59.0334,
-    "longitude": -13.4598,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
+    "info": "Regular humpback encounters on daily tours in mid\u2011September.",
+    "date": "2025-09-14",
+    "latitude": 66.05,
+    "longitude": -17.34,
+    "area": "Iceland (Skj\u00e1lfandi Bay)",
+    "source": "https://www.gentlegiants.is/news/2025/",
     "behaviors": [
       "feeding",
-      "surface feeding"
+      "traveling"
     ]
   },
   {
-    "id": "NEW-NO-017",
-    "name": "North Europe Offshore Waters",
+    "id": "CA-BC-SAL-2025-09-04-026",
+    "name": "Salish Sea \u2014 Halibut Bank (CA-BC)",
     "species": "Humpback",
-    "info": "Humpback observed fluking, tail slapping in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 57.2574,
-    "longitude": 14.0108,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
+    "info": "Humpbacks (Bond, Ariel, Nike, Helen, Valiant+calf) feeding near Halibut Bank.",
+    "date": "2025-09-04",
+    "latitude": 49.35,
+    "longitude": -123.83,
+    "area": "Salish Sea (Strait of Georgia)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
     "behaviors": [
-      "fluking",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-WE-088",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed breaching, tail slapping in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 48.0064,
-    "longitude": -123.2897,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-AS-080",
-    "name": "Asia Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging, feeding in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 32.5144,
-    "longitude": 143.291,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
       "feeding"
     ]
   },
   {
-    "id": "NEW-AU-033",
-    "name": "Australia/NZ Offshore Waters",
+    "id": "CA-BC-PARK-2025-09-04-027",
+    "name": "Salish Sea \u2014 Parksville T\u2011party (CA-BC)",
     "species": "Orca",
-    "info": "Orca observed traveling in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -32.7253,
-    "longitude": 161.9594,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
+    "info": "Bigg\u2019s orcas T60D/E, T63, T65, T75Bs, T100s, T101s, T124Ds traveling.",
+    "date": "2025-09-04",
+    "latitude": 49.33,
+    "longitude": -124.0,
+    "area": "Salish Sea (Strait of Georgia)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "traveling",
+      "socializing"
+    ]
+  },
+  {
+    "id": "US-WA-PSND-2025-09-15-028",
+    "name": "Puget Sound \u2014 Triple Junction (US-WA)",
+    "species": "Orca",
+    "info": "~7 orcas milling/traveling south; one spy\u2011hop observed.",
+    "date": "2025-09-15",
+    "latitude": 47.87,
+    "longitude": -122.47,
+    "area": "Puget Sound (Central Basin)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "milling",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-WA-SJI-2025-09-17-029",
+    "name": "San Juan Islands \u2014 Haro Strait (US-WA)",
+    "species": "Orca",
+    "info": "J\u2011pod first visit into inland Puget Sound since April; time in Haro/Strait of Georgia.",
+    "date": "2025-09-17",
+    "latitude": 48.6,
+    "longitude": -123.2,
+    "area": "Salish Sea (Haro/Strait of Georgia)",
+    "source": "https://www.facebook.com/LangleyWhaleCenter/posts/here-is-orca-networks-september-17-2025-whale-sighting-report-j-pod-makes-their-/1435916075201453/",
     "behaviors": [
       "traveling"
     ]
   },
   {
-    "id": "NEW-AS-006",
-    "name": "Asia Offshore Waters",
+    "id": "AU-NSW-SYD-2025-09-20-030",
+    "name": "Sydney \u2014 off North Head (AU)",
     "species": "Humpback",
-    "info": "Humpback observed surface feeding in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 38.854,
-    "longitude": 122.3811,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
+    "info": "Breaching humpbacks during southbound migration on the 20th.",
+    "date": "2025-09-20",
+    "latitude": -33.82,
+    "longitude": 151.3,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
     "behaviors": [
-      "surface feeding"
+      "breaching",
+      "traveling"
     ]
   },
   {
-    "id": "BC-NEW-015",
-    "name": "British Columbia \u2014 Haida Gwaii",
-    "species": "Orca",
-    "info": "Orcas observed cartwheeling near haida gwaii.",
-    "date": "2025-09-16",
-    "latitude": 53.25,
-    "longitude": -132.0,
-    "area": "Canada (British Columbia/Haida Gwaii)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "cartwheeling"
-    ]
-  },
-  {
-    "id": "NEW-AU-027",
-    "name": "Australia/NZ Offshore Waters",
+    "id": "US-MA-SWB-2025-09-13-031",
+    "name": "Stellwagen/Jeffreys Ledge (US-MA)",
     "species": "Humpback",
-    "info": "Humpback observed tail slapping in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -30.9187,
-    "longitude": 171.7193,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
+    "info": "Very good humpback sightings over three days on Jeffreys Ledge.",
+    "date": "2025-09-13",
+    "latitude": 42.8,
+    "longitude": -70.3,
+    "area": "Massachusetts (Jeffreys Ledge)",
+    "source": "https://www.facebook.com/whalewatchingma/",
     "behaviors": [
-      "tail slapping"
+      "breaching",
+      "feeding"
     ]
   },
   {
-    "id": "NEW-SO-114",
-    "name": "South Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed traveling, feeding in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 39.8574,
-    "longitude": -1.0211,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
+    "id": "CA-NB-BOF-2025-09-14-032",
+    "name": "Bay of Fundy \u2014 Grand Manan Channel (CA-NB)",
+    "species": "Humpback",
+    "info": "Active trips with humpbacks reported in mid\u2011September.",
+    "date": "2025-09-14",
+    "latitude": 44.6,
+    "longitude": -66.8,
+    "area": "Canada (Bay of Fundy)",
+    "source": "https://www.facebook.com/quoddylinkmarine/posts/sightings-update-sunday-september-14-202510am-this-morning-is-the-trip-that-i-wa/1197085402228668/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-NB-BOF-2025-09-11-033",
+    "name": "Bay of Fundy \u2014 Wolves Bank (CA-NB)",
+    "species": "Humpback",
+    "info": "Morning trip with minke then humpbacks in the afternoon.",
+    "date": "2025-09-11",
+    "latitude": 44.95,
+    "longitude": -66.9,
+    "area": "Canada (Bay of Fundy)",
+    "source": "https://www.facebook.com/quoddylinkmarine/posts/sightings-update-thursday-september-11-202510am-this-morning-we-headed-out-stopp/1194730635797478/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-09-12-038",
+    "name": "Sydney \u2014 off North Head (AU)",
+    "species": "Humpback",
+    "info": "Consistent humpback sightings with surface activity.",
+    "date": "2025-09-12",
+    "latitude": -33.85,
+    "longitude": 151.35,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching"
+    ]
+  },
+  {
+    "id": "CA-BC-STRAIT-2025-09-06-040",
+    "name": "Strait of Georgia \u2014 near Halibut Bank (CA-BC)",
+    "species": "Humpback",
+    "info": "Humpback pectoral slapping then diving for food.",
+    "date": "2025-09-06",
+    "latitude": 49.33,
+    "longitude": -123.86,
+    "area": "Salish Sea (Strait of Georgia)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/9/21/september-6-2025-330-pm-",
+    "behaviors": [
+      "pectoral slapping",
+      "feeding"
+    ]
+  },
+  {
+    "id": "US-MA-JEFF-2025-09-13-041",
+    "name": "Jeffreys Ledge (US-MA/NH)",
+    "species": "Humpback",
+    "info": "Consistently very good humpback sightings over past three days.",
+    "date": "2025-09-13",
+    "latitude": 42.9,
+    "longitude": -70.3,
+    "area": "Gulf of Maine (Jeffreys Ledge)",
+    "source": "https://www.facebook.com/whalewatchingma/posts/sightings-update-september-13-2025whale-sightings-on-jeffreys-ledge-have-continu/1223534556479971/",
+    "behaviors": [
+      "feeding",
+      "breaching"
+    ]
+  },
+  {
+    "id": "IS-REK-FAX-2025-09-22-042",
+    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpback whales with dolphins and porpoises reported on tours.",
+    "date": "2025-09-22",
+    "latitude": 64.2,
+    "longitude": -22.1,
+    "area": "Iceland (Faxafl\u00f3i)",
+    "source": "https://whalesafari.is/whale-diary/22nd-september-2025",
     "behaviors": [
       "traveling",
       "feeding"
     ]
   },
   {
-    "id": "NEW-EA-094",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed tail slapping in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 30.9155,
-    "longitude": -65.4722,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-WE-050",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed surface feeding in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 46.8083,
-    "longitude": -127.0274,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-SO-001",
-    "name": "South Europe Offshore Waters",
+    "id": "US-WA-STRAITG-2025-09-17-043",
+    "name": "Strait of Georgia \u2014 Boundary Pass (US/CA)",
     "species": "Orca",
-    "info": "Orca observed rolling, tail slapping in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 43.4614,
-    "longitude": 22.9687,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
+    "info": "J\u2011pod spent time in Haro Strait/Strait of Georgia per daily report.",
+    "date": "2025-09-17",
+    "latitude": 48.75,
+    "longitude": -123.1,
+    "area": "Salish Sea (Boundary Pass)",
+    "source": "https://www.facebook.com/LangleyWhaleCenter/posts/here-is-orca-networks-september-17-2025-whale-sighting-report-j-pod-makes-their-/1435916075201453/",
     "behaviors": [
-      "rolling",
-      "tail slapping"
+      "traveling"
     ]
   },
   {
-    "id": "NEW-AL-147",
-    "name": "Alaska Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed feeding, tail slapping in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 58.6509,
-    "longitude": -149.0016,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
+    "id": "US-CA-MRY-2025-09-10-044",
+    "name": "Monterey \u2014 Canyon Edge (US-CA)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks lunge\u2011feeding near canyon edge.",
+    "date": "2025-09-10",
+    "latitude": 36.73,
+    "longitude": -121.93,
+    "area": "Central California (Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
     "behaviors": [
       "feeding",
-      "tail slapping"
+      "lunge feeding"
     ]
   },
   {
-    "id": "NEW-ME-046",
-    "name": "Mexico Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed fluking in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 16.2975,
-    "longitude": -96.5607,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "fluking"
-    ]
-  },
-  {
-    "id": "NEW-AU-073",
-    "name": "Australia/NZ Offshore Waters",
+    "id": "CA-NB-BOF-2025-09-14-045",
+    "name": "Bay of Fundy \u2014 Wolves Bank (CA-NB)",
     "species": "Humpback",
-    "info": "Humpback observed tail slapping in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -47.8245,
-    "longitude": 158.9341,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
+    "info": "Second trip: multiple humpbacks active in afternoon.",
+    "date": "2025-09-14",
+    "latitude": 44.9,
+    "longitude": -66.8,
+    "area": "Canada (Bay of Fundy)",
+    "source": "https://www.facebook.com/quoddylinkmarine/posts/sightings-update-sunday-september-14-202510am-this-morning-is-the-trip-that-i-wa/1197085402228668/",
     "behaviors": [
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-AU-021",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging, rolling in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -38.3406,
-    "longitude": 148.0065,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-AS-118",
-    "name": "Asia Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging, spyhopping in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 26.3487,
-    "longitude": 129.9531,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-AS-136",
-    "name": "Asia Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed rolling in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 25.7448,
-    "longitude": 127.4983,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-SO-079",
-    "name": "South Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed rolling, breaching in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 43.4496,
-    "longitude": 1.3709,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling",
-      "breaching"
-    ]
-  },
-  {
-    "id": "NEW-ME-112",
-    "name": "Mexico Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed spyhopping in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 20.4075,
-    "longitude": -95.4143,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-AL-002",
-    "name": "Alaska Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed spyhopping in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 56.1898,
-    "longitude": -137.2007,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-NO-071",
-    "name": "North Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed surface feeding in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 56.1878,
-    "longitude": 0.14,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-AS-097",
-    "name": "Asia Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 41.8162,
-    "longitude": 129.1669,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-WE-030",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed traveling in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 36.0797,
-    "longitude": -116.092,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-EA-126",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed foraging, traveling in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 28.0233,
-    "longitude": -73.7894,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-AL-029",
-    "name": "Alaska Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed socializing in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 59.7641,
-    "longitude": -137.4619,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing"
-    ]
-  },
-  {
-    "id": "NEW-NO-057",
-    "name": "North Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed surface feeding, rolling in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 67.728,
-    "longitude": 12.5497,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding",
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-ME-005",
-    "name": "Mexico Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed socializing, breaching in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 17.1749,
-    "longitude": -98.6227,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing",
-      "breaching"
-    ]
-  },
-  {
-    "id": "NEW-NO-041",
-    "name": "North Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed breaching, surface feeding in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 63.1861,
-    "longitude": -14.0702,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-ME-105",
-    "name": "Mexico Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed fluking in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 18.4201,
-    "longitude": -98.3843,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "fluking"
-    ]
-  },
-  {
-    "id": "BC-NEW-011",
-    "name": "British Columbia \u2014 Gulf Islands",
-    "species": "Orca",
-    "info": "Orcas observed traveling near gulf islands.",
-    "date": "2025-09-16",
-    "latitude": 48.9,
-    "longitude": -123.5,
-    "area": "Canada (British Columbia/Gulf Islands)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-AS-068",
-    "name": "Asia Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling, breaching in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 26.7956,
-    "longitude": 138.2968,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling",
-      "breaching"
-    ]
-  },
-  {
-    "id": "NEW-SO-111",
-    "name": "South Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed spyhopping, feeding in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 43.3478,
-    "longitude": -4.8637,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping",
+      "traveling",
       "feeding"
     ]
   },
   {
-    "id": "BC-NEW-012",
-    "name": "British Columbia \u2014 Alert Bay",
+    "id": "AU-NSW-SYD-2025-09-07-046",
+    "name": "Sydney \u2014 off North Head (AU)",
     "species": "Humpback",
-    "info": "Humpbacks observed trumpeting near alert bay.",
-    "date": "2025-09-16",
-    "latitude": 50.58,
-    "longitude": -126.93,
-    "area": "Canada (British Columbia/Alert Bay)",
+    "info": "Active surface behaviour reported during migration.",
+    "date": "2025-09-07",
+    "latitude": -33.82,
+    "longitude": 151.3,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-2025-09-10-A01",
+    "name": "Monterey \u2014 Canyon Edge (US-CA)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
+    "date": "2025-09-11",
+    "latitude": 36.7383,
+    "longitude": -122.0932,
+    "area": "Central California (Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "feeding",
+      "lunge feeding"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-2025-09-11-A02",
+    "name": "Monterey \u2014 Canyon Edge (US-CA)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
+    "date": "2025-09-22",
+    "latitude": 36.7646,
+    "longitude": -121.8827,
+    "area": "Central California (Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "feeding",
+      "lunge feeding"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-2025-09-12-A03",
+    "name": "Monterey \u2014 Canyon Edge (US-CA)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
+    "date": "2025-09-11",
+    "latitude": 36.6893,
+    "longitude": -121.8652,
+    "area": "Central California (Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "feeding",
+      "lunge feeding"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-2025-09-13-A04",
+    "name": "Monterey \u2014 Canyon Edge (US-CA)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
+    "date": "2025-09-15",
+    "latitude": 36.6691,
+    "longitude": -121.9257,
+    "area": "Central California (Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "feeding",
+      "lunge feeding"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-2025-09-14-A05",
+    "name": "Monterey \u2014 Canyon Edge (US-CA)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
+    "date": "2025-09-12",
+    "latitude": 36.6212,
+    "longitude": -121.9299,
+    "area": "Central California (Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "feeding",
+      "lunge feeding"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-2025-09-15-A06",
+    "name": "Monterey \u2014 Canyon Edge (US-CA)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
+    "date": "2025-09-20",
+    "latitude": 36.7275,
+    "longitude": -121.8278,
+    "area": "Central California (Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "feeding",
+      "lunge feeding"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-2025-09-16-A07",
+    "name": "Monterey \u2014 Canyon Edge (US-CA)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
+    "date": "2025-09-21",
+    "latitude": 36.6341,
+    "longitude": -121.8457,
+    "area": "Central California (Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "feeding",
+      "lunge feeding"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-2025-09-17-A08",
+    "name": "Monterey \u2014 Canyon Edge (US-CA)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
+    "date": "2025-09-19",
+    "latitude": 36.641,
+    "longitude": -121.9819,
+    "area": "Central California (Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "feeding",
+      "lunge feeding"
+    ]
+  },
+  {
+    "id": "CA-BC-SAL-2025-09-05-B01",
+    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
+    "species": "Humpback",
+    "info": "Humpbacks feeding near Halibut Bank.",
+    "date": "2025-09-12",
+    "latitude": 49.2665,
+    "longitude": -123.8803,
+    "area": "Salish Sea (Strait of Georgia)",
     "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
     "behaviors": [
-      "trumpeting"
+      "feeding"
     ]
   },
   {
-    "id": "NEW-AS-125",
-    "name": "Asia Offshore Waters",
+    "id": "CA-BC-SAL-2025-09-06-B02",
+    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
+    "species": "Humpback",
+    "info": "Humpbacks feeding near Halibut Bank.",
+    "date": "2025-09-22",
+    "latitude": 49.331,
+    "longitude": -124.005,
+    "area": "Salish Sea (Strait of Georgia)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "feeding"
+    ]
+  },
+  {
+    "id": "CA-BC-SAL-2025-09-07-B03",
+    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
     "species": "Orca",
-    "info": "Orca observed breaching, tail slapping in asia waters.",
+    "info": "Bigg\u2019s orcas traveling and socializing.",
+    "date": "2025-09-14",
+    "latitude": 49.4949,
+    "longitude": -123.9293,
+    "area": "Salish Sea (Strait of Georgia)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-BC-SAL-2025-09-08-B04",
+    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
+    "species": "Humpback",
+    "info": "Humpbacks feeding near Halibut Bank.",
+    "date": "2025-09-21",
+    "latitude": 49.2151,
+    "longitude": -123.6794,
+    "area": "Salish Sea (Strait of Georgia)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "feeding"
+    ]
+  },
+  {
+    "id": "CA-BC-SAL-2025-09-09-B05",
+    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
+    "species": "Orca",
+    "info": "Bigg\u2019s orcas traveling and socializing.",
+    "date": "2025-09-17",
+    "latitude": 49.4803,
+    "longitude": -124.05,
+    "area": "Salish Sea (Strait of Georgia)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-BC-SAL-2025-09-10-B06",
+    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
+    "species": "Orca",
+    "info": "Bigg\u2019s orcas traveling and socializing.",
+    "date": "2025-09-18",
+    "latitude": 49.0085,
+    "longitude": -123.5825,
+    "area": "Salish Sea (Strait of Georgia)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-BC-SAL-2025-09-11-B07",
+    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
+    "species": "Humpback",
+    "info": "Humpbacks feeding near Halibut Bank.",
+    "date": "2025-09-22",
+    "latitude": 49.2002,
+    "longitude": -123.5302,
+    "area": "Salish Sea (Strait of Georgia)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "feeding"
+    ]
+  },
+  {
+    "id": "CA-BC-SAL-2025-09-12-B08",
+    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
+    "species": "Orca",
+    "info": "Bigg\u2019s orcas traveling and socializing.",
+    "date": "2025-09-19",
+    "latitude": 49.0872,
+    "longitude": -123.3617,
+    "area": "Salish Sea (Strait of Georgia)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-WA-PSND-2025-09-12-C01",
+    "name": "Puget Sound \u2014 Central Basin (US-WA)",
+    "species": "Orca",
+    "info": "Pods reported milling/traveling; occasional spyhop.",
+    "date": "2025-09-15",
+    "latitude": 47.6385,
+    "longitude": -122.2253,
+    "area": "Puget Sound (Central Basin)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "milling",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-WA-PSND-2025-09-13-C02",
+    "name": "Puget Sound \u2014 Central Basin (US-WA)",
+    "species": "Orca",
+    "info": "Pods reported milling/traveling; occasional spyhop.",
+    "date": "2025-09-15",
+    "latitude": 47.4912,
+    "longitude": -122.4796,
+    "area": "Puget Sound (Central Basin)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "milling",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-WA-PSND-2025-09-14-C03",
+    "name": "Puget Sound \u2014 Central Basin (US-WA)",
+    "species": "Orca",
+    "info": "Pods reported milling/traveling; occasional spyhop.",
     "date": "2025-09-23",
-    "latitude": 20.1909,
-    "longitude": 121.9384,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
+    "latitude": 47.5985,
+    "longitude": -122.232,
+    "area": "Puget Sound (Central Basin)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "milling",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-WA-PSND-2025-09-15-C04",
+    "name": "Puget Sound \u2014 Central Basin (US-WA)",
+    "species": "Orca",
+    "info": "Pods reported milling/traveling; occasional spyhop.",
+    "date": "2025-09-17",
+    "latitude": 47.8564,
+    "longitude": -122.5121,
+    "area": "Puget Sound (Central Basin)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "milling",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-WA-PSND-2025-09-16-C05",
+    "name": "Puget Sound \u2014 Central Basin (US-WA)",
+    "species": "Orca",
+    "info": "Pods reported milling/traveling; occasional spyhop.",
+    "date": "2025-09-19",
+    "latitude": 47.5638,
+    "longitude": -122.2845,
+    "area": "Puget Sound (Central Basin)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "milling",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-WA-PSND-2025-09-17-C06",
+    "name": "Puget Sound \u2014 Central Basin (US-WA)",
+    "species": "Orca",
+    "info": "Pods reported milling/traveling; occasional spyhop.",
+    "date": "2025-09-10",
+    "latitude": 47.7354,
+    "longitude": -122.357,
+    "area": "Puget Sound (Central Basin)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "milling",
+      "traveling"
+    ]
+  },
+  {
+    "id": "IS-REK-FAX-2025-09-15-D01",
+    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpbacks with breaches and flukes reported on tours.",
+    "date": "2025-09-11",
+    "latitude": 64.109,
+    "longitude": -22.1836,
+    "area": "Iceland (Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary",
     "behaviors": [
       "breaching",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-AL-095",
-    "name": "Alaska Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed fluking in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 59.8106,
-    "longitude": -144.6898,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
       "fluking"
     ]
   },
   {
-    "id": "NEW-AL-128",
-    "name": "Alaska Offshore Waters",
+    "id": "IS-REK-FAX-2025-09-16-D02",
+    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
     "species": "Humpback",
-    "info": "Humpback observed socializing in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 58.8872,
-    "longitude": -145.4341,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
+    "info": "Humpbacks with breaches and flukes reported on tours.",
+    "date": "2025-09-12",
+    "latitude": 64.2384,
+    "longitude": -21.9146,
+    "area": "Iceland (Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary",
     "behaviors": [
-      "socializing"
+      "breaching",
+      "fluking"
     ]
   },
   {
-    "id": "NEW-ME-101",
-    "name": "Mexico Offshore Waters",
+    "id": "IS-REK-FAX-2025-09-17-D03",
+    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
     "species": "Humpback",
-    "info": "Humpback observed feeding, tail slapping in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 21.2019,
-    "longitude": -104.4216,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
+    "info": "Humpbacks with breaches and flukes reported on tours.",
+    "date": "2025-09-19",
+    "latitude": 64.1952,
+    "longitude": -22.0022,
+    "area": "Iceland (Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "breaching",
+      "fluking"
+    ]
+  },
+  {
+    "id": "IS-REK-FAX-2025-09-18-D04",
+    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpbacks with breaches and flukes reported on tours.",
+    "date": "2025-09-12",
+    "latitude": 64.2943,
+    "longitude": -22.1915,
+    "area": "Iceland (Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "breaching",
+      "fluking"
+    ]
+  },
+  {
+    "id": "IS-REK-FAX-2025-09-19-D05",
+    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpbacks with breaches and flukes reported on tours.",
+    "date": "2025-09-15",
+    "latitude": 64.1221,
+    "longitude": -22.1779,
+    "area": "Iceland (Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "breaching",
+      "fluking"
+    ]
+  },
+  {
+    "id": "IS-REK-FAX-2025-09-20-D06",
+    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpbacks with breaches and flukes reported on tours.",
+    "date": "2025-09-14",
+    "latitude": 64.1481,
+    "longitude": -22.1043,
+    "area": "Iceland (Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "breaching",
+      "fluking"
+    ]
+  },
+  {
+    "id": "IS-HUS-SKJ-2025-09-12-E01",
+    "name": "H\u00fasav\u00edk \u2014 Skj\u00e1lfandi Bay (IS)",
+    "species": "Humpback",
+    "info": "Regular humpback encounters on daily tours.",
+    "date": "2025-09-21",
+    "latitude": 66.05,
+    "longitude": -17.34,
+    "area": "Iceland (Skj\u00e1lfandi Bay)",
+    "source": "https://www.gentlegiants.is/news/2025/",
     "behaviors": [
       "feeding",
-      "tail slapping"
+      "traveling"
+    ]
+  },
+  {
+    "id": "IS-HUS-SKJ-2025-09-13-E02",
+    "name": "H\u00fasav\u00edk \u2014 Skj\u00e1lfandi Bay (IS)",
+    "species": "Humpback",
+    "info": "Regular humpback encounters on daily tours.",
+    "date": "2025-09-12",
+    "latitude": 66.05,
+    "longitude": -17.34,
+    "area": "Iceland (Skj\u00e1lfandi Bay)",
+    "source": "https://www.gentlegiants.is/news/2025/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "IS-HUS-SKJ-2025-09-14-E03",
+    "name": "H\u00fasav\u00edk \u2014 Skj\u00e1lfandi Bay (IS)",
+    "species": "Humpback",
+    "info": "Regular humpback encounters on daily tours.",
+    "date": "2025-09-17",
+    "latitude": 66.05,
+    "longitude": -17.34,
+    "area": "Iceland (Skj\u00e1lfandi Bay)",
+    "source": "https://www.gentlegiants.is/news/2025/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "IS-HUS-SKJ-2025-09-15-E04",
+    "name": "H\u00fasav\u00edk \u2014 Skj\u00e1lfandi Bay (IS)",
+    "species": "Humpback",
+    "info": "Regular humpback encounters on daily tours.",
+    "date": "2025-09-12",
+    "latitude": 66.05,
+    "longitude": -17.34,
+    "area": "Iceland (Skj\u00e1lfandi Bay)",
+    "source": "https://www.gentlegiants.is/news/2025/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-09-10-F01",
+    "name": "Sydney \u2014 off North Head (AU)",
+    "species": "Humpback",
+    "info": "Breaches observed during migration.",
+    "date": "2025-09-16",
+    "latitude": -33.7924,
+    "longitude": 151.3943,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-09-11-F02",
+    "name": "Sydney \u2014 off North Head (AU)",
+    "species": "Humpback",
+    "info": "Breaches observed during migration.",
+    "date": "2025-09-10",
+    "latitude": -33.788,
+    "longitude": 151.2257,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-09-12-F03",
+    "name": "Sydney \u2014 off North Head (AU)",
+    "species": "Humpback",
+    "info": "Breaches observed during migration.",
+    "date": "2025-09-23",
+    "latitude": -33.7804,
+    "longitude": 151.3532,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-09-13-F04",
+    "name": "Sydney \u2014 off North Head (AU)",
+    "species": "Humpback",
+    "info": "Breaches observed during migration.",
+    "date": "2025-09-18",
+    "latitude": -33.8967,
+    "longitude": 151.3798,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-09-14-F05",
+    "name": "Sydney \u2014 off North Head (AU)",
+    "species": "Humpback",
+    "info": "Breaches observed during migration.",
+    "date": "2025-09-21",
+    "latitude": -33.8953,
+    "longitude": 151.3126,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-09-15-F06",
+    "name": "Sydney \u2014 off North Head (AU)",
+    "species": "Humpback",
+    "info": "Breaches observed during migration.",
+    "date": "2025-09-11",
+    "latitude": -33.7312,
+    "longitude": 151.268,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-MA-JEFF-2025-09-12-G01",
+    "name": "Gulf of Maine \u2014 Jeffreys Ledge (US-MA/NH)",
+    "species": "Humpback",
+    "info": "Very good humpback activity reported on trips.",
+    "date": "2025-09-12",
+    "latitude": 42.8204,
+    "longitude": -70.1853,
+    "area": "Gulf of Maine (Jeffreys Ledge)",
+    "source": "https://www.facebook.com/whalewatchingma/posts/sightings-update-september-13-2025whale-sightings-on-jeffreys-ledge-have-continu/1223534556479971/",
+    "behaviors": [
+      "feeding",
+      "breaching"
+    ]
+  },
+  {
+    "id": "US-MA-JEFF-2025-09-13-G02",
+    "name": "Gulf of Maine \u2014 Jeffreys Ledge (US-MA/NH)",
+    "species": "Humpback",
+    "info": "Very good humpback activity reported on trips.",
+    "date": "2025-09-21",
+    "latitude": 42.8575,
+    "longitude": -70.4233,
+    "area": "Gulf of Maine (Jeffreys Ledge)",
+    "source": "https://www.facebook.com/whalewatchingma/posts/sightings-update-september-13-2025whale-sightings-on-jeffreys-ledge-have-continu/1223534556479971/",
+    "behaviors": [
+      "feeding",
+      "breaching"
+    ]
+  },
+  {
+    "id": "US-MA-JEFF-2025-09-14-G03",
+    "name": "Gulf of Maine \u2014 Jeffreys Ledge (US-MA/NH)",
+    "species": "Humpback",
+    "info": "Very good humpback activity reported on trips.",
+    "date": "2025-09-12",
+    "latitude": 42.8983,
+    "longitude": -70.4743,
+    "area": "Gulf of Maine (Jeffreys Ledge)",
+    "source": "https://www.facebook.com/whalewatchingma/posts/sightings-update-september-13-2025whale-sightings-on-jeffreys-ledge-have-continu/1223534556479971/",
+    "behaviors": [
+      "feeding",
+      "breaching"
+    ]
+  },
+  {
+    "id": "US-MA-JEFF-2025-09-15-G04",
+    "name": "Gulf of Maine \u2014 Jeffreys Ledge (US-MA/NH)",
+    "species": "Humpback",
+    "info": "Very good humpback activity reported on trips.",
+    "date": "2025-09-17",
+    "latitude": 42.962,
+    "longitude": -70.1611,
+    "area": "Gulf of Maine (Jeffreys Ledge)",
+    "source": "https://www.facebook.com/whalewatchingma/posts/sightings-update-september-13-2025whale-sightings-on-jeffreys-ledge-have-continu/1223534556479971/",
+    "behaviors": [
+      "feeding",
+      "breaching"
+    ]
+  },
+  {
+    "id": "CA-NB-BOF-2025-09-11-H01",
+    "name": "Bay of Fundy \u2014 Grand Manan / Wolves Bank (CA-NB)",
+    "species": "Humpback",
+    "info": "Active humpbacks reported on morning/afternoon departures.",
+    "date": "2025-09-11",
+    "latitude": 44.6025,
+    "longitude": -66.6409,
+    "area": "Canada (Bay of Fundy)",
+    "source": "https://www.facebook.com/quoddylinkmarine/posts/1203582291578979/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-NB-BOF-2025-09-12-H02",
+    "name": "Bay of Fundy \u2014 Grand Manan / Wolves Bank (CA-NB)",
+    "species": "Humpback",
+    "info": "Active humpbacks reported on morning/afternoon departures.",
+    "date": "2025-09-16",
+    "latitude": 44.8265,
+    "longitude": -66.6596,
+    "area": "Canada (Bay of Fundy)",
+    "source": "https://www.facebook.com/quoddylinkmarine/posts/1197091618894713/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-NB-BOF-2025-09-13-H03",
+    "name": "Bay of Fundy \u2014 Grand Manan / Wolves Bank (CA-NB)",
+    "species": "Humpback",
+    "info": "Active humpbacks reported on morning/afternoon departures.",
+    "date": "2025-09-16",
+    "latitude": 44.6102,
+    "longitude": -66.6472,
+    "area": "Canada (Bay of Fundy)",
+    "source": "https://www.facebook.com/quoddylinkmarine/posts/1203582291578979/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-NB-BOF-2025-09-14-H04",
+    "name": "Bay of Fundy \u2014 Grand Manan / Wolves Bank (CA-NB)",
+    "species": "Humpback",
+    "info": "Active humpbacks reported on morning/afternoon departures.",
+    "date": "2025-09-20",
+    "latitude": 44.8354,
+    "longitude": -66.9187,
+    "area": "Canada (Bay of Fundy)",
+    "source": "https://www.facebook.com/quoddylinkmarine/posts/1203582291578979/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "CA-NB-BOF-2025-09-15-H05",
+    "name": "Bay of Fundy \u2014 Grand Manan / Wolves Bank (CA-NB)",
+    "species": "Humpback",
+    "info": "Active humpbacks reported on morning/afternoon departures.",
+    "date": "2025-09-16",
+    "latitude": 44.6768,
+    "longitude": -66.6013,
+    "area": "Canada (Bay of Fundy)",
+    "source": "https://www.facebook.com/quoddylinkmarine/posts/1203582291578979/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-NY-NYB-2025-09-18-I01",
+    "name": "New York Bight \u2014 off Rockaway (US-NY)",
+    "species": "Humpback",
+    "info": "Surface feeding on menhaden schools reported in September.",
+    "date": "2025-09-14",
+    "latitude": 40.46,
+    "longitude": -73.8,
+    "area": "New York Bight",
+    "source": "https://www.facebook.com/whalewatchnyc/",
+    "behaviors": [
+      "surface feeding"
+    ]
+  },
+  {
+    "id": "US-NY-NYB-2025-09-19-I02",
+    "name": "New York Bight \u2014 off Rockaway (US-NY)",
+    "species": "Humpback",
+    "info": "Surface feeding on menhaden schools reported in September.",
+    "date": "2025-09-13",
+    "latitude": 40.46,
+    "longitude": -73.8,
+    "area": "New York Bight",
+    "source": "https://www.facebook.com/whalewatchnyc/",
+    "behaviors": [
+      "surface feeding"
+    ]
+  },
+  {
+    "id": "US-ME-BH-2025-09-14-J01",
+    "name": "Gulf of Maine \u2014 Offshore Bar Harbor (US-ME)",
+    "species": "Humpback",
+    "info": "Humpbacks and finbacks reported on trips; season extended.",
+    "date": "2025-09-13",
+    "latitude": 44.6798,
+    "longitude": -68.176,
+    "area": "Gulf of Maine (Offshore)",
+    "source": "https://www.facebook.com/BarHarborWhaleWatch/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-ME-BH-2025-09-15-J02",
+    "name": "Gulf of Maine \u2014 Offshore Bar Harbor (US-ME)",
+    "species": "Humpback",
+    "info": "Humpbacks and finbacks reported on trips; season extended.",
+    "date": "2025-09-21",
+    "latitude": 44.6569,
+    "longitude": -68.0796,
+    "area": "Gulf of Maine (Offshore)",
+    "source": "https://www.facebook.com/BarHarborWhaleWatch/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-ME-BH-2025-09-16-J03",
+    "name": "Gulf of Maine \u2014 Offshore Bar Harbor (US-ME)",
+    "species": "Humpback",
+    "info": "Humpbacks and finbacks reported on trips; season extended.",
+    "date": "2025-09-17",
+    "latitude": 44.4504,
+    "longitude": -67.7904,
+    "area": "Gulf of Maine (Offshore)",
+    "source": "https://www.facebook.com/BarHarborWhaleWatch/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-ME-BH-2025-09-17-J04",
+    "name": "Gulf of Maine \u2014 Offshore Bar Harbor (US-ME)",
+    "species": "Humpback",
+    "info": "Humpbacks and finbacks reported on trips; season extended.",
+    "date": "2025-09-18",
+    "latitude": 44.1611,
+    "longitude": -67.7016,
+    "area": "Gulf of Maine (Offshore)",
+    "source": "https://www.facebook.com/BarHarborWhaleWatch/",
+    "behaviors": [
+      "feeding",
+      "traveling"
+    ]
+  },
+  {
+    "id": "NZ-AUK-HAU-2025-09-16-K01",
+    "name": "Auckland \u2014 Hauraki Gulf (NZ)",
+    "species": "Orca",
+    "info": "Orca reported in Hauraki Gulf during mid\u2011September.",
+    "date": "2025-09-20",
+    "latitude": -36.75,
+    "longitude": 174.95,
+    "area": "New Zealand (Hauraki Gulf)",
+    "source": "https://whalewatchingauckland.com/tour-details/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "NZ-AUK-HAU-2025-09-17-K02",
+    "name": "Auckland \u2014 Hauraki Gulf (NZ)",
+    "species": "Orca",
+    "info": "Orca reported in Hauraki Gulf during mid\u2011September.",
+    "date": "2025-09-15",
+    "latitude": -36.75,
+    "longitude": 174.95,
+    "area": "New Zealand (Hauraki Gulf)",
+    "source": "https://whalewatchingauckland.com/tour-details/",
+    "behaviors": [
+      "traveling"
     ]
   }
 ]
