@@ -310,18 +310,46 @@
     ]
   },
   {
-    "id": "NEW-SO-001",
+    "id": "NEW-SO-079",
     "name": "South Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling, tail slapping in south europe waters.",
+    "species": "Humpback",
+    "info": "Humpback observed rolling, breaching in south europe waters.",
     "date": "2025-09-23",
-    "latitude": 43.4614,
-    "longitude": 22.9687,
+    "latitude": 43.4496,
+    "longitude": 1.3709,
     "area": "South Europe",
     "source": "https://example-whale-source.org",
     "behaviors": [
       "rolling",
-      "tail slapping"
+      "breaching"
+    ]
+  },
+  {
+    "id": "NEW-SO-090",
+    "name": "South Europe Offshore Waters",
+    "species": "Orca",
+    "info": "Orca observed surface feeding in south europe waters.",
+    "date": "2025-09-23",
+    "latitude": 37.1129,
+    "longitude": 22.9578,
+    "area": "South Europe",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "surface feeding"
+    ]
+  },
+  {
+    "id": "NEW-AL-106",
+    "name": "Alaska Offshore Waters",
+    "species": "Orca",
+    "info": "Orca observed rolling in alaska waters.",
+    "date": "2025-09-23",
+    "latitude": 58.7152,
+    "longitude": -141.6258,
+    "area": "Alaska",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "rolling"
     ]
   },
   {
@@ -339,296 +367,17 @@
     ]
   },
   {
-    "id": "NEW-SO-003",
-    "name": "South Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed surface feeding in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 44.9053,
-    "longitude": 1.1186,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-BC-004",
+    "id": "NEW-BC-149",
     "name": "BC Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed foraging, spyhopping in bc waters.",
+    "species": "Humpback",
+    "info": "Humpback observed foraging, rolling in bc waters.",
     "date": "2025-09-23",
-    "latitude": 49.1576,
-    "longitude": -129.0379,
+    "latitude": 53.4563,
+    "longitude": -129.085,
     "area": "British Columbia",
     "source": "https://example-whale-source.org",
     "behaviors": [
       "foraging",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-ME-005",
-    "name": "Mexico Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed socializing, breaching in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 17.1749,
-    "longitude": -98.6227,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing",
-      "breaching"
-    ]
-  },
-  {
-    "id": "NEW-AS-006",
-    "name": "Asia Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed surface feeding in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 38.854,
-    "longitude": 122.3811,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-SO-007",
-    "name": "South Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed surface feeding, fluking in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 38.0886,
-    "longitude": 21.3177,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding",
-      "fluking"
-    ]
-  },
-  {
-    "id": "NEW-AU-008",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed feeding, traveling in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -23.8536,
-    "longitude": 156.5693,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-WE-009",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed feeding in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 47.2687,
-    "longitude": -125.7034,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-SO-010",
-    "name": "South Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed traveling, fluking in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 44.6701,
-    "longitude": 17.9516,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "traveling",
-      "fluking"
-    ]
-  },
-  {
-    "id": "NEW-EA-011",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed traveling in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 41.3086,
-    "longitude": -77.1801,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-EA-012",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed surface feeding, tail slapping in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 27.439,
-    "longitude": -76.322,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-AS-013",
-    "name": "Asia Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed socializing, tail slapping in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 30.3264,
-    "longitude": 143.5262,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-AS-014",
-    "name": "Asia Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed tail slapping, rolling in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 31.3014,
-    "longitude": 142.3775,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "tail slapping",
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-AS-015",
-    "name": "Asia Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed socializing in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 44.9658,
-    "longitude": 123.4824,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing"
-    ]
-  },
-  {
-    "id": "NEW-EA-016",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed spyhopping in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 36.8894,
-    "longitude": -70.9896,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-NO-017",
-    "name": "North Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed fluking, tail slapping in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 57.2574,
-    "longitude": 14.0108,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "fluking",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-EA-018",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed breaching, spyhopping in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 39.5687,
-    "longitude": -69.647,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-NO-019",
-    "name": "North Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging, traveling in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 67.9925,
-    "longitude": 7.3511,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-ME-020",
-    "name": "Mexico Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed tail slapping, traveling in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 22.5554,
-    "longitude": -99.4629,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "tail slapping",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-AU-021",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging, rolling in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -38.3406,
-    "longitude": 148.0065,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-WE-022",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed breaching, rolling in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 43.2125,
-    "longitude": -115.9859,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching",
       "rolling"
     ]
   },
@@ -648,33 +397,60 @@
     ]
   },
   {
-    "id": "NEW-SO-024",
-    "name": "South Europe Offshore Waters",
+    "id": "NEW-ME-101",
+    "name": "Mexico Offshore Waters",
     "species": "Humpback",
-    "info": "Humpback observed socializing, rolling in south europe waters.",
+    "info": "Humpback observed feeding, tail slapping in mexico waters.",
     "date": "2025-09-23",
-    "latitude": 43.6627,
-    "longitude": 0.9411,
-    "area": "South Europe",
+    "latitude": 21.2019,
+    "longitude": -104.4216,
+    "area": "Mexico/Sea of Cortez",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "socializing",
-      "rolling"
+      "feeding",
+      "tail slapping"
     ]
   },
   {
-    "id": "NEW-NO-025",
-    "name": "North Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed spyhopping, surface feeding in north europe waters.",
+    "id": "NEW-ME-046",
+    "name": "Mexico Offshore Waters",
+    "species": "Orca",
+    "info": "Orca observed fluking in mexico waters.",
     "date": "2025-09-23",
-    "latitude": 59.0453,
-    "longitude": 15.7973,
-    "area": "North Europe",
+    "latitude": 16.2975,
+    "longitude": -96.5607,
+    "area": "Mexico/Sea of Cortez",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "spyhopping",
-      "surface feeding"
+      "fluking"
+    ]
+  },
+  {
+    "id": "NEW-AS-117",
+    "name": "Asia Offshore Waters",
+    "species": "Orca",
+    "info": "Orca observed breaching in asia waters.",
+    "date": "2025-09-23",
+    "latitude": 36.8268,
+    "longitude": 138.5965,
+    "area": "Asia Pacific",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "breaching"
+    ]
+  },
+  {
+    "id": "NEW-AS-119",
+    "name": "Asia Offshore Waters",
+    "species": "Orca",
+    "info": "Orca observed feeding in asia waters.",
+    "date": "2025-09-23",
+    "latitude": 29.8586,
+    "longitude": 125.2741,
+    "area": "Asia Pacific",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "feeding"
     ]
   },
   {
@@ -688,148 +464,6 @@
     "area": "Australia / New Zealand",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-AU-027",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed tail slapping in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -30.9187,
-    "longitude": 171.7193,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-WE-028",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed feeding in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 33.6307,
-    "longitude": -120.929,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-AL-029",
-    "name": "Alaska Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed socializing in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 59.7641,
-    "longitude": -137.4619,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing"
-    ]
-  },
-  {
-    "id": "NEW-WE-030",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed traveling in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 36.0797,
-    "longitude": -116.092,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-BC-031",
-    "name": "BC Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed feeding, tail slapping in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 51.3336,
-    "longitude": -129.3424,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-WE-032",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed socializing in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 45.5402,
-    "longitude": -116.7762,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing"
-    ]
-  },
-  {
-    "id": "NEW-AU-033",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed traveling in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -32.7253,
-    "longitude": 161.9594,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-AU-034",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed tail slapping in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -43.6355,
-    "longitude": 153.675,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-AU-035",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed spyhopping in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -21.662,
-    "longitude": 151.2989,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-SO-036",
-    "name": "South Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed breaching, spyhopping in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 35.2705,
-    "longitude": -7.4893,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching",
       "spyhopping"
     ]
   },
@@ -849,144 +483,74 @@
     ]
   },
   {
-    "id": "NEW-AL-038",
-    "name": "Alaska Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed feeding in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 56.5159,
-    "longitude": -143.0449,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-ME-039",
-    "name": "Mexico Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 18.9433,
-    "longitude": -109.9183,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "NEW-AL-040",
-    "name": "Alaska Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed fluking in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 60.0421,
-    "longitude": -141.2813,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "fluking"
-    ]
-  },
-  {
-    "id": "NEW-NO-041",
-    "name": "North Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed breaching, surface feeding in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 63.1861,
-    "longitude": -14.0702,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-WE-042",
+    "id": "NEW-WE-110",
     "name": "West Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed socializing in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 48.6586,
-    "longitude": -126.2972,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing"
-    ]
-  },
-  {
-    "id": "NEW-AL-043",
-    "name": "Alaska Offshore Waters",
     "species": "Orca",
-    "info": "Orca observed breaching in alaska waters.",
+    "info": "Orca observed breaching in west coast americas waters.",
     "date": "2025-09-23",
-    "latitude": 58.4661,
-    "longitude": -143.3733,
-    "area": "Alaska",
+    "latitude": 33.6371,
+    "longitude": -123.5901,
+    "area": "West Coast Americas",
     "source": "https://example-whale-source.org",
     "behaviors": [
       "breaching"
     ]
   },
   {
-    "id": "NEW-WE-044",
+    "id": "NEW-WE-127",
     "name": "West Coast Americas Offshore Waters",
     "species": "Orca",
-    "info": "Orca observed fluking, traveling in west coast americas waters.",
+    "info": "Orca observed rolling in west coast americas waters.",
     "date": "2025-09-23",
-    "latitude": 46.9766,
-    "longitude": -119.3759,
+    "latitude": 44.9514,
+    "longitude": -123.7075,
     "area": "West Coast Americas",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "fluking",
-      "traveling"
+      "rolling"
     ]
   },
   {
-    "id": "NEW-WE-045",
-    "name": "West Coast Americas Offshore Waters",
+    "id": "NEW-EA-016",
+    "name": "East Coast Americas Offshore Waters",
     "species": "Humpback",
-    "info": "Humpback observed fluking in west coast americas waters.",
+    "info": "Humpback observed spyhopping in east coast americas waters.",
     "date": "2025-09-23",
-    "latitude": 35.1527,
-    "longitude": -126.6841,
-    "area": "West Coast Americas",
+    "latitude": 36.8894,
+    "longitude": -70.9896,
+    "area": "East Coast Americas",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "fluking"
+      "spyhopping"
     ]
   },
   {
-    "id": "NEW-ME-046",
-    "name": "Mexico Offshore Waters",
+    "id": "NEW-EA-012",
+    "name": "East Coast Americas Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed surface feeding, tail slapping in east coast americas waters.",
+    "date": "2025-09-23",
+    "latitude": 27.439,
+    "longitude": -76.322,
+    "area": "East Coast Americas",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "surface feeding",
+      "tail slapping"
+    ]
+  },
+  {
+    "id": "NEW-NO-129",
+    "name": "North Europe Offshore Waters",
     "species": "Orca",
-    "info": "Orca observed fluking in mexico waters.",
+    "info": "Orca observed spyhopping, tail slapping in north europe waters.",
     "date": "2025-09-23",
-    "latitude": 16.2975,
-    "longitude": -96.5607,
-    "area": "Mexico/Sea of Cortez",
+    "latitude": 65.0953,
+    "longitude": -10.3919,
+    "area": "North Europe",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "fluking"
-    ]
-  },
-  {
-    "id": "NEW-AS-047",
-    "name": "Asia Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed tail slapping in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 30.4216,
-    "longitude": 121.5548,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
+      "spyhopping",
       "tail slapping"
     ]
   },
@@ -1006,14 +570,262 @@
     ]
   },
   {
-    "id": "NEW-ME-049",
-    "name": "Mexico Offshore Waters",
+    "id": "NEW-BC-031",
+    "name": "BC Offshore Waters",
     "species": "Humpback",
-    "info": "Humpback observed tail slapping in mexico waters.",
+    "info": "Humpback observed feeding, tail slapping in bc waters.",
     "date": "2025-09-23",
-    "latitude": 19.7397,
-    "longitude": -97.1493,
-    "area": "Mexico/Sea of Cortez",
+    "latitude": 51.3336,
+    "longitude": -129.3424,
+    "area": "British Columbia",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "feeding",
+      "tail slapping"
+    ]
+  },
+  {
+    "id": "NEW-BC-132",
+    "name": "BC Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed traveling, feeding in bc waters.",
+    "date": "2025-09-23",
+    "latitude": 48.0047,
+    "longitude": -128.033,
+    "area": "British Columbia",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "traveling",
+      "feeding"
+    ]
+  },
+  {
+    "id": "NEW-AU-130",
+    "name": "Australia/NZ Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed foraging, traveling in australia/nz waters.",
+    "date": "2025-09-23",
+    "latitude": -36.1194,
+    "longitude": 164.2446,
+    "area": "Australia / New Zealand",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "foraging",
+      "traveling"
+    ]
+  },
+  {
+    "id": "NEW-EA-134",
+    "name": "East Coast Americas Offshore Waters",
+    "species": "Orca",
+    "info": "Orca observed rolling, feeding in east coast americas waters.",
+    "date": "2025-09-23",
+    "latitude": 39.3551,
+    "longitude": -77.3216,
+    "area": "East Coast Americas",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "rolling",
+      "feeding"
+    ]
+  },
+  {
+    "id": "NEW-WE-065",
+    "name": "West Coast Americas Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed surface feeding in west coast americas waters.",
+    "date": "2025-09-23",
+    "latitude": 41.6958,
+    "longitude": -116.7047,
+    "area": "West Coast Americas",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "surface feeding"
+    ]
+  },
+  {
+    "id": "NEW-EA-012",
+    "name": "East Coast Americas Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed surface feeding, tail slapping in east coast americas waters.",
+    "date": "2025-09-23",
+    "latitude": 27.439,
+    "longitude": -76.322,
+    "area": "East Coast Americas",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "surface feeding",
+      "tail slapping"
+    ]
+  },
+  {
+    "id": "NEW-WE-143",
+    "name": "West Coast Americas Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed feeding in west coast americas waters.",
+    "date": "2025-09-23",
+    "latitude": 35.3256,
+    "longitude": -118.9574,
+    "area": "West Coast Americas",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "feeding"
+    ]
+  },
+  {
+    "id": "BC-NEW-018",
+    "name": "British Columbia \u2014 Boundary Pass",
+    "species": "Orca",
+    "info": "Orcas observed foraging near boundary pass.",
+    "date": "2025-09-16",
+    "latitude": 48.75,
+    "longitude": -123.1,
+    "area": "Canada (British Columbia/Boundary Pass)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "foraging"
+    ]
+  },
+  {
+    "id": "NEW-NO-064",
+    "name": "North Europe Offshore Waters",
+    "species": "Orca",
+    "info": "Orca observed feeding, surface feeding in north europe waters.",
+    "date": "2025-09-23",
+    "latitude": 59.0334,
+    "longitude": -13.4598,
+    "area": "North Europe",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "feeding",
+      "surface feeding"
+    ]
+  },
+  {
+    "id": "NEW-NO-017",
+    "name": "North Europe Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed fluking, tail slapping in north europe waters.",
+    "date": "2025-09-23",
+    "latitude": 57.2574,
+    "longitude": 14.0108,
+    "area": "North Europe",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "fluking",
+      "tail slapping"
+    ]
+  },
+  {
+    "id": "NEW-WE-088",
+    "name": "West Coast Americas Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed breaching, tail slapping in west coast americas waters.",
+    "date": "2025-09-23",
+    "latitude": 48.0064,
+    "longitude": -123.2897,
+    "area": "West Coast Americas",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "breaching",
+      "tail slapping"
+    ]
+  },
+  {
+    "id": "NEW-AS-080",
+    "name": "Asia Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed foraging, feeding in asia waters.",
+    "date": "2025-09-23",
+    "latitude": 32.5144,
+    "longitude": 143.291,
+    "area": "Asia Pacific",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "foraging",
+      "feeding"
+    ]
+  },
+  {
+    "id": "NEW-AU-033",
+    "name": "Australia/NZ Offshore Waters",
+    "species": "Orca",
+    "info": "Orca observed traveling in australia/nz waters.",
+    "date": "2025-09-23",
+    "latitude": -32.7253,
+    "longitude": 161.9594,
+    "area": "Australia / New Zealand",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "NEW-AS-006",
+    "name": "Asia Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed surface feeding in asia waters.",
+    "date": "2025-09-23",
+    "latitude": 38.854,
+    "longitude": 122.3811,
+    "area": "Asia Pacific",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "surface feeding"
+    ]
+  },
+  {
+    "id": "BC-NEW-015",
+    "name": "British Columbia \u2014 Haida Gwaii",
+    "species": "Orca",
+    "info": "Orcas observed cartwheeling near haida gwaii.",
+    "date": "2025-09-16",
+    "latitude": 53.25,
+    "longitude": -132.0,
+    "area": "Canada (British Columbia/Haida Gwaii)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "cartwheeling"
+    ]
+  },
+  {
+    "id": "NEW-AU-027",
+    "name": "Australia/NZ Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed tail slapping in australia/nz waters.",
+    "date": "2025-09-23",
+    "latitude": -30.9187,
+    "longitude": 171.7193,
+    "area": "Australia / New Zealand",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "tail slapping"
+    ]
+  },
+  {
+    "id": "NEW-SO-114",
+    "name": "South Europe Offshore Waters",
+    "species": "Orca",
+    "info": "Orca observed traveling, feeding in south europe waters.",
+    "date": "2025-09-23",
+    "latitude": 39.8574,
+    "longitude": -1.0211,
+    "area": "South Europe",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "traveling",
+      "feeding"
+    ]
+  },
+  {
+    "id": "NEW-EA-094",
+    "name": "East Coast Americas Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed tail slapping in east coast americas waters.",
+    "date": "2025-09-23",
+    "latitude": 30.9155,
+    "longitude": -65.4722,
+    "area": "East Coast Americas",
     "source": "https://example-whale-source.org",
     "behaviors": [
       "tail slapping"
@@ -1034,323 +846,47 @@
     ]
   },
   {
-    "id": "NEW-NO-051",
-    "name": "North Europe Offshore Waters",
+    "id": "NEW-SO-001",
+    "name": "South Europe Offshore Waters",
     "species": "Orca",
-    "info": "Orca observed breaching, spyhopping in north europe waters.",
+    "info": "Orca observed rolling, tail slapping in south europe waters.",
     "date": "2025-09-23",
-    "latitude": 61.1105,
-    "longitude": -17.3414,
-    "area": "North Europe",
+    "latitude": 43.4614,
+    "longitude": 22.9687,
+    "area": "South Europe",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "breaching",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-ME-052",
-    "name": "Mexico Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed socializing, tail slapping in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 15.664,
-    "longitude": -112.752,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing",
+      "rolling",
       "tail slapping"
     ]
   },
   {
-    "id": "NEW-ME-053",
-    "name": "Mexico Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed foraging, rolling in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 23.4486,
-    "longitude": -100.7347,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-AL-054",
+    "id": "NEW-AL-147",
     "name": "Alaska Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed traveling, spyhopping in alaska waters.",
+    "species": "Orca",
+    "info": "Orca observed feeding, tail slapping in alaska waters.",
     "date": "2025-09-23",
-    "latitude": 55.7626,
-    "longitude": -147.2492,
+    "latitude": 58.6509,
+    "longitude": -149.0016,
     "area": "Alaska",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "traveling",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-BC-055",
-    "name": "BC Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed feeding, spyhopping in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 53.3302,
-    "longitude": -125.859,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
       "feeding",
-      "spyhopping"
+      "tail slapping"
     ]
   },
   {
-    "id": "NEW-EA-056",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed breaching, fluking in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 28.6366,
-    "longitude": -79.764,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching",
-      "fluking"
-    ]
-  },
-  {
-    "id": "NEW-NO-057",
-    "name": "North Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed surface feeding, rolling in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 67.728,
-    "longitude": 12.5497,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding",
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-WE-058",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed spyhopping in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 47.8979,
-    "longitude": -120.8446,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-AL-059",
-    "name": "Alaska Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed rolling in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 58.9541,
-    "longitude": -135.2806,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-WE-060",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed traveling, foraging in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 38.4405,
-    "longitude": -126.0004,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "traveling",
-      "foraging"
-    ]
-  },
-  {
-    "id": "NEW-ME-061",
-    "name": "Mexico Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed spyhopping, foraging in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 20.7897,
-    "longitude": -104.5676,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping",
-      "foraging"
-    ]
-  },
-  {
-    "id": "NEW-AU-062",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed fluking in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -21.1355,
-    "longitude": 169.7494,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "fluking"
-    ]
-  },
-  {
-    "id": "NEW-BC-063",
-    "name": "BC Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed rolling, feeding in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 52.4134,
-    "longitude": -128.7683,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling",
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-NO-064",
-    "name": "North Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed feeding, surface feeding in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 59.0334,
-    "longitude": -13.4598,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-WE-065",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed surface feeding in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 41.6958,
-    "longitude": -116.7047,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-EA-066",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed socializing in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 41.4465,
-    "longitude": -71.5447,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing"
-    ]
-  },
-  {
-    "id": "NEW-BC-067",
-    "name": "BC Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed surface feeding in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 50.0221,
-    "longitude": -128.1828,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-AS-068",
-    "name": "Asia Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling, breaching in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 26.7956,
-    "longitude": 138.2968,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling",
-      "breaching"
-    ]
-  },
-  {
-    "id": "NEW-ME-069",
+    "id": "NEW-ME-046",
     "name": "Mexico Offshore Waters",
     "species": "Orca",
     "info": "Orca observed fluking in mexico waters.",
     "date": "2025-09-23",
-    "latitude": 20.6753,
-    "longitude": -99.7576,
+    "latitude": 16.2975,
+    "longitude": -96.5607,
     "area": "Mexico/Sea of Cortez",
     "source": "https://example-whale-source.org",
     "behaviors": [
       "fluking"
-    ]
-  },
-  {
-    "id": "NEW-AS-070",
-    "name": "Asia Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed socializing in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 44.2851,
-    "longitude": 138.4321,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing"
-    ]
-  },
-  {
-    "id": "NEW-NO-071",
-    "name": "North Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed surface feeding in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 56.1878,
-    "longitude": 0.14,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-BC-072",
-    "name": "BC Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed traveling in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 54.9179,
-    "longitude": -127.7897,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "traveling"
     ]
   },
   {
@@ -1368,78 +904,47 @@
     ]
   },
   {
-    "id": "NEW-BC-074",
-    "name": "BC Offshore Waters",
+    "id": "NEW-AU-021",
+    "name": "Australia/NZ Offshore Waters",
     "species": "Humpback",
-    "info": "Humpback observed breaching, rolling in bc waters.",
+    "info": "Humpback observed foraging, rolling in australia/nz waters.",
     "date": "2025-09-23",
-    "latitude": 54.7389,
-    "longitude": -123.2807,
-    "area": "British Columbia",
+    "latitude": -38.3406,
+    "longitude": 148.0065,
+    "area": "Australia / New Zealand",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "breaching",
+      "foraging",
       "rolling"
     ]
   },
   {
-    "id": "NEW-AS-075",
-    "name": "Asia Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed fluking, feeding in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 35.0744,
-    "longitude": 144.4036,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "fluking",
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-AS-076",
+    "id": "NEW-AS-118",
     "name": "Asia Offshore Waters",
     "species": "Humpback",
-    "info": "Humpback observed breaching, foraging in asia waters.",
+    "info": "Humpback observed foraging, spyhopping in asia waters.",
     "date": "2025-09-23",
-    "latitude": 35.2783,
-    "longitude": 133.5169,
+    "latitude": 26.3487,
+    "longitude": 129.9531,
     "area": "Asia Pacific",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "breaching",
-      "foraging"
+      "foraging",
+      "spyhopping"
     ]
   },
   {
-    "id": "NEW-AL-077",
-    "name": "Alaska Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed socializing, breaching in alaska waters.",
+    "id": "NEW-AS-136",
+    "name": "Asia Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed rolling in asia waters.",
     "date": "2025-09-23",
-    "latitude": 56.2816,
-    "longitude": -147.249,
-    "area": "Alaska",
+    "latitude": 25.7448,
+    "longitude": 127.4983,
+    "area": "Asia Pacific",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "socializing",
-      "breaching"
-    ]
-  },
-  {
-    "id": "NEW-AL-078",
-    "name": "Alaska Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling, socializing in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 56.1431,
-    "longitude": -147.5398,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling",
-      "socializing"
+      "rolling"
     ]
   },
   {
@@ -1458,246 +963,45 @@
     ]
   },
   {
-    "id": "NEW-AS-080",
-    "name": "Asia Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging, feeding in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 32.5144,
-    "longitude": 143.291,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-AS-081",
-    "name": "Asia Offshore Waters",
+    "id": "NEW-ME-112",
+    "name": "Mexico Offshore Waters",
     "species": "Orca",
-    "info": "Orca observed breaching, spyhopping in asia waters.",
+    "info": "Orca observed spyhopping in mexico waters.",
     "date": "2025-09-23",
-    "latitude": 36.5185,
-    "longitude": 139.2667,
-    "area": "Asia Pacific",
+    "latitude": 20.4075,
+    "longitude": -95.4143,
+    "area": "Mexico/Sea of Cortez",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "breaching",
       "spyhopping"
     ]
   },
   {
-    "id": "NEW-AL-082",
+    "id": "NEW-AL-002",
     "name": "Alaska Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed socializing in alaska waters.",
+    "species": "Humpback",
+    "info": "Humpback observed spyhopping in alaska waters.",
     "date": "2025-09-23",
-    "latitude": 58.1102,
-    "longitude": -138.32,
+    "latitude": 56.1898,
+    "longitude": -137.2007,
     "area": "Alaska",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "socializing"
+      "spyhopping"
     ]
   },
   {
-    "id": "NEW-EA-083",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 42.3352,
-    "longitude": -70.1548,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "NEW-EA-084",
-    "name": "East Coast Americas Offshore Waters",
+    "id": "NEW-NO-071",
+    "name": "North Europe Offshore Waters",
     "species": "Orca",
-    "info": "Orca observed breaching, traveling in east coast americas waters.",
+    "info": "Orca observed surface feeding in north europe waters.",
     "date": "2025-09-23",
-    "latitude": 30.715,
-    "longitude": -69.7852,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-AS-085",
-    "name": "Asia Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed fluking in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 29.5721,
-    "longitude": 126.0176,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "fluking"
-    ]
-  },
-  {
-    "id": "NEW-ME-086",
-    "name": "Mexico Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed traveling in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 19.2694,
-    "longitude": -113.0574,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-BC-087",
-    "name": "BC Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed socializing in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 48.7486,
-    "longitude": -129.893,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing"
-    ]
-  },
-  {
-    "id": "NEW-WE-088",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed breaching, tail slapping in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 48.0064,
-    "longitude": -123.2897,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-WE-089",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed surface feeding, socializing in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 39.7686,
-    "longitude": -125.1013,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding",
-      "socializing"
-    ]
-  },
-  {
-    "id": "NEW-SO-090",
-    "name": "South Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed surface feeding in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 37.1129,
-    "longitude": 22.9578,
-    "area": "South Europe",
+    "latitude": 56.1878,
+    "longitude": 0.14,
+    "area": "North Europe",
     "source": "https://example-whale-source.org",
     "behaviors": [
       "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-AL-091",
-    "name": "Alaska Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed socializing in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 59.0035,
-    "longitude": -148.6575,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing"
-    ]
-  },
-  {
-    "id": "NEW-AS-092",
-    "name": "Asia Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed breaching in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 22.6891,
-    "longitude": 130.0779,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching"
-    ]
-  },
-  {
-    "id": "NEW-AU-093",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -20.7288,
-    "longitude": 170.3028,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-EA-094",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed tail slapping in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 30.9155,
-    "longitude": -65.4722,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-AL-095",
-    "name": "Alaska Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed fluking in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 59.8106,
-    "longitude": -144.6898,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "fluking"
-    ]
-  },
-  {
-    "id": "NEW-ME-096",
-    "name": "Mexico Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed tail slapping in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 18.3476,
-    "longitude": -109.9643,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "tail slapping"
     ]
   },
   {
@@ -1715,13 +1019,42 @@
     ]
   },
   {
-    "id": "NEW-AL-098",
+    "id": "NEW-WE-030",
+    "name": "West Coast Americas Offshore Waters",
+    "species": "Humpback",
+    "info": "Humpback observed traveling in west coast americas waters.",
+    "date": "2025-09-23",
+    "latitude": 36.0797,
+    "longitude": -116.092,
+    "area": "West Coast Americas",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "NEW-EA-126",
+    "name": "East Coast Americas Offshore Waters",
+    "species": "Orca",
+    "info": "Orca observed foraging, traveling in east coast americas waters.",
+    "date": "2025-09-23",
+    "latitude": 28.0233,
+    "longitude": -73.7894,
+    "area": "East Coast Americas",
+    "source": "https://example-whale-source.org",
+    "behaviors": [
+      "foraging",
+      "traveling"
+    ]
+  },
+  {
+    "id": "NEW-AL-029",
     "name": "Alaska Offshore Waters",
     "species": "Humpback",
     "info": "Humpback observed socializing in alaska waters.",
     "date": "2025-09-23",
-    "latitude": 57.8865,
-    "longitude": -148.3029,
+    "latitude": 59.7641,
+    "longitude": -137.4619,
     "area": "Alaska",
     "source": "https://example-whale-source.org",
     "behaviors": [
@@ -1729,89 +1062,48 @@
     ]
   },
   {
-    "id": "NEW-SO-099",
-    "name": "South Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed spyhopping, surface feeding in south europe waters.",
+    "id": "NEW-NO-057",
+    "name": "North Europe Offshore Waters",
+    "species": "Orca",
+    "info": "Orca observed surface feeding, rolling in north europe waters.",
     "date": "2025-09-23",
-    "latitude": 41.0098,
-    "longitude": -1.1246,
-    "area": "South Europe",
+    "latitude": 67.728,
+    "longitude": 12.5497,
+    "area": "North Europe",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "spyhopping",
-      "surface feeding"
+      "surface feeding",
+      "rolling"
     ]
   },
   {
-    "id": "NEW-BC-100",
-    "name": "BC Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed spyhopping in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 54.9722,
-    "longitude": -126.8226,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-ME-101",
+    "id": "NEW-ME-005",
     "name": "Mexico Offshore Waters",
     "species": "Humpback",
-    "info": "Humpback observed feeding, tail slapping in mexico waters.",
+    "info": "Humpback observed socializing, breaching in mexico waters.",
     "date": "2025-09-23",
-    "latitude": 21.2019,
-    "longitude": -104.4216,
+    "latitude": 17.1749,
+    "longitude": -98.6227,
     "area": "Mexico/Sea of Cortez",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "feeding",
-      "tail slapping"
+      "socializing",
+      "breaching"
     ]
   },
   {
-    "id": "NEW-EA-102",
-    "name": "East Coast Americas Offshore Waters",
+    "id": "NEW-NO-041",
+    "name": "North Europe Offshore Waters",
     "species": "Orca",
-    "info": "Orca observed surface feeding in east coast americas waters.",
+    "info": "Orca observed breaching, surface feeding in north europe waters.",
     "date": "2025-09-23",
-    "latitude": 40.2268,
-    "longitude": -69.0856,
-    "area": "East Coast Americas",
+    "latitude": 63.1861,
+    "longitude": -14.0702,
+    "area": "North Europe",
     "source": "https://example-whale-source.org",
     "behaviors": [
+      "breaching",
       "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-WE-103",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed surface feeding in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 49.3128,
-    "longitude": -118.5695,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-SO-104",
-    "name": "South Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed tail slapping in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 35.741,
-    "longitude": 17.3514,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "tail slapping"
     ]
   },
   {
@@ -1829,72 +1121,31 @@
     ]
   },
   {
-    "id": "NEW-AL-106",
-    "name": "Alaska Offshore Waters",
+    "id": "BC-NEW-011",
+    "name": "British Columbia \u2014 Gulf Islands",
     "species": "Orca",
-    "info": "Orca observed rolling in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 58.7152,
-    "longitude": -141.6258,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
+    "info": "Orcas observed traveling near gulf islands.",
+    "date": "2025-09-16",
+    "latitude": 48.9,
+    "longitude": -123.5,
+    "area": "Canada (British Columbia/Gulf Islands)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
     "behaviors": [
-      "rolling"
+      "traveling"
     ]
   },
   {
-    "id": "NEW-SO-107",
-    "name": "South Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed breaching in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 42.2606,
-    "longitude": 0.2355,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching"
-    ]
-  },
-  {
-    "id": "NEW-NO-108",
-    "name": "North Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed socializing in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 62.3786,
-    "longitude": -5.4293,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing"
-    ]
-  },
-  {
-    "id": "NEW-AL-109",
-    "name": "Alaska Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed tail slapping in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 59.9417,
-    "longitude": -147.9111,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-WE-110",
-    "name": "West Coast Americas Offshore Waters",
+    "id": "NEW-AS-068",
+    "name": "Asia Offshore Waters",
     "species": "Orca",
-    "info": "Orca observed breaching in west coast americas waters.",
+    "info": "Orca observed rolling, breaching in asia waters.",
     "date": "2025-09-23",
-    "latitude": 33.6371,
-    "longitude": -123.5901,
-    "area": "West Coast Americas",
+    "latitude": 26.7956,
+    "longitude": 138.2968,
+    "area": "Asia Pacific",
     "source": "https://example-whale-source.org",
     "behaviors": [
+      "rolling",
       "breaching"
     ]
   },
@@ -1914,189 +1165,17 @@
     ]
   },
   {
-    "id": "NEW-ME-112",
-    "name": "Mexico Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed spyhopping in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 20.4075,
-    "longitude": -95.4143,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-EA-113",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed traveling in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 25.1429,
-    "longitude": -68.5442,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-SO-114",
-    "name": "South Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed traveling, feeding in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 39.8574,
-    "longitude": -1.0211,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "traveling",
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-BC-115",
-    "name": "BC Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 48.2342,
-    "longitude": -127.3885,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-ME-116",
-    "name": "Mexico Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed feeding in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 18.2763,
-    "longitude": -105.5139,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-AS-117",
-    "name": "Asia Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed breaching in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 36.8268,
-    "longitude": 138.5965,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching"
-    ]
-  },
-  {
-    "id": "NEW-AS-118",
-    "name": "Asia Offshore Waters",
+    "id": "BC-NEW-012",
+    "name": "British Columbia \u2014 Alert Bay",
     "species": "Humpback",
-    "info": "Humpback observed foraging, spyhopping in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 26.3487,
-    "longitude": 129.9531,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
+    "info": "Humpbacks observed trumpeting near alert bay.",
+    "date": "2025-09-16",
+    "latitude": 50.58,
+    "longitude": -126.93,
+    "area": "Canada (British Columbia/Alert Bay)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
     "behaviors": [
-      "foraging",
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-AS-119",
-    "name": "Asia Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed feeding in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 29.8586,
-    "longitude": 125.2741,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-NO-120",
-    "name": "North Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed feeding, surface feeding in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 55.7251,
-    "longitude": -6.7828,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-AU-121",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed spyhopping in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -36.1183,
-    "longitude": 169.8916,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-AS-122",
-    "name": "Asia Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed rolling in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 42.3631,
-    "longitude": 131.6116,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-AS-123",
-    "name": "Asia Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed breaching, socializing in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 24.3555,
-    "longitude": 132.3015,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching",
-      "socializing"
-    ]
-  },
-  {
-    "id": "NEW-AL-124",
-    "name": "Alaska Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 60.1667,
-    "longitude": -147.7592,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging"
+      "trumpeting"
     ]
   },
   {
@@ -2115,32 +1194,17 @@
     ]
   },
   {
-    "id": "NEW-EA-126",
-    "name": "East Coast Americas Offshore Waters",
+    "id": "NEW-AL-095",
+    "name": "Alaska Offshore Waters",
     "species": "Orca",
-    "info": "Orca observed foraging, traveling in east coast americas waters.",
+    "info": "Orca observed fluking in alaska waters.",
     "date": "2025-09-23",
-    "latitude": 28.0233,
-    "longitude": -73.7894,
-    "area": "East Coast Americas",
+    "latitude": 59.8106,
+    "longitude": -144.6898,
+    "area": "Alaska",
     "source": "https://example-whale-source.org",
     "behaviors": [
-      "foraging",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-WE-127",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 44.9514,
-    "longitude": -123.7075,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling"
+      "fluking"
     ]
   },
   {
@@ -2158,322 +1222,18 @@
     ]
   },
   {
-    "id": "NEW-NO-129",
-    "name": "North Europe Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed spyhopping, tail slapping in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 65.0953,
-    "longitude": -10.3919,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping",
-      "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-AU-130",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging, traveling in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -36.1194,
-    "longitude": 164.2446,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NEW-EA-131",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed tail slapping, foraging in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 40.7165,
-    "longitude": -73.7851,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "tail slapping",
-      "foraging"
-    ]
-  },
-  {
-    "id": "NEW-BC-132",
-    "name": "BC Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed traveling, feeding in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 48.0047,
-    "longitude": -128.033,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "traveling",
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-SO-133",
-    "name": "South Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 42.6687,
-    "longitude": 8.0359,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "NEW-EA-134",
-    "name": "East Coast Americas Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling, feeding in east coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 39.3551,
-    "longitude": -77.3216,
-    "area": "East Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling",
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-NO-135",
-    "name": "North Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed breaching in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 64.5351,
-    "longitude": -17.7792,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "breaching"
-    ]
-  },
-  {
-    "id": "NEW-AS-136",
-    "name": "Asia Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed rolling in asia waters.",
-    "date": "2025-09-23",
-    "latitude": 25.7448,
-    "longitude": 127.4983,
-    "area": "Asia Pacific",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-ME-137",
+    "id": "NEW-ME-101",
     "name": "Mexico Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling in mexico waters.",
+    "species": "Humpback",
+    "info": "Humpback observed feeding, tail slapping in mexico waters.",
     "date": "2025-09-23",
-    "latitude": 15.0614,
-    "longitude": -95.9637,
+    "latitude": 21.2019,
+    "longitude": -104.4216,
     "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-ME-138",
-    "name": "Mexico Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed rolling in mexico waters.",
-    "date": "2025-09-23",
-    "latitude": 20.7325,
-    "longitude": -105.4277,
-    "area": "Mexico/Sea of Cortez",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-BC-139",
-    "name": "BC Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed fluking, surface feeding in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 54.6441,
-    "longitude": -124.5983,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "fluking",
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-AU-140",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed rolling in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -33.8394,
-    "longitude": 157.7307,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-SO-141",
-    "name": "South Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging, fluking in south europe waters.",
-    "date": "2025-09-23",
-    "latitude": 36.3805,
-    "longitude": 27.1858,
-    "area": "South Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
-      "fluking"
-    ]
-  },
-  {
-    "id": "NEW-AL-142",
-    "name": "Alaska Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed socializing in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 60.5376,
-    "longitude": -135.2851,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing"
-    ]
-  },
-  {
-    "id": "NEW-WE-143",
-    "name": "West Coast Americas Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed feeding in west coast americas waters.",
-    "date": "2025-09-23",
-    "latitude": 35.3256,
-    "longitude": -118.9574,
-    "area": "West Coast Americas",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-AU-144",
-    "name": "Australia/NZ Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed surface feeding in australia/nz waters.",
-    "date": "2025-09-23",
-    "latitude": -30.5114,
-    "longitude": 174.6126,
-    "area": "Australia / New Zealand",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "surface feeding"
-    ]
-  },
-  {
-    "id": "NEW-AL-145",
-    "name": "Alaska Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed spyhopping in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 59.5953,
-    "longitude": -141.7274,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "spyhopping"
-    ]
-  },
-  {
-    "id": "NEW-AL-146",
-    "name": "Alaska Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging, feeding in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 58.8773,
-    "longitude": -146.1978,
-    "area": "Alaska",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-AL-147",
-    "name": "Alaska Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed feeding, tail slapping in alaska waters.",
-    "date": "2025-09-23",
-    "latitude": 58.6509,
-    "longitude": -149.0016,
-    "area": "Alaska",
     "source": "https://example-whale-source.org",
     "behaviors": [
       "feeding",
       "tail slapping"
-    ]
-  },
-  {
-    "id": "NEW-BC-148",
-    "name": "BC Offshore Waters",
-    "species": "Orca",
-    "info": "Orca observed traveling, feeding in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 52.6678,
-    "longitude": -127.2423,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "traveling",
-      "feeding"
-    ]
-  },
-  {
-    "id": "NEW-BC-149",
-    "name": "BC Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed foraging, rolling in bc waters.",
-    "date": "2025-09-23",
-    "latitude": 53.4563,
-    "longitude": -129.085,
-    "area": "British Columbia",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "foraging",
-      "rolling"
-    ]
-  },
-  {
-    "id": "NEW-NO-150",
-    "name": "North Europe Offshore Waters",
-    "species": "Humpback",
-    "info": "Humpback observed socializing in north europe waters.",
-    "date": "2025-09-23",
-    "latitude": 57.5707,
-    "longitude": -3.0436,
-    "area": "North Europe",
-    "source": "https://example-whale-source.org",
-    "behaviors": [
-      "socializing"
     ]
   }
 ]
