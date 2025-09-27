@@ -1354,5 +1354,121 @@
       "traveling",
       "breaching"
     ]
+  },
+  {
+    "id": "NZ-AUK-HAU-2025-09-17-016",
+    "name": "Auckland \u2014 Hauraki Gulf (NZ)",
+    "species": "Orca",
+    "info": "Orca reports in Hauraki Gulf/coastal Auckland this week.",
+    "date": "2025-09-17",
+    "latitude": -36.7,
+    "longitude": 175.0,
+    "area": "New Zealand (Hauraki Gulf)",
+    "source": "https://www.reddit.com/r/newzealand_travel/comments/1myi1e2/any_chance_for_orcas_in_september/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "NZ-AUK-HAU-2025-09-16-K01",
+    "name": "Auckland \u2014 Hauraki Gulf (NZ)",
+    "species": "Orca",
+    "info": "Orca reported in Hauraki Gulf during mid\u2011September.",
+    "date": "2025-09-20",
+    "latitude": -36.7,
+    "longitude": 175.0,
+    "area": "New Zealand (Hauraki Gulf)",
+    "source": "https://whalewatchingauckland.com/tour-details/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "NZ-AUK-HAU-2025-09-17-K02",
+    "name": "Auckland \u2014 Hauraki Gulf (NZ)",
+    "species": "Orca",
+    "info": "Orca reported in Hauraki Gulf during mid\u2011September.",
+    "date": "2025-09-15",
+    "latitude": -36.7,
+    "longitude": 175.0,
+    "area": "New Zealand (Hauraki Gulf)",
+    "source": "https://whalewatchingauckland.com/tour-details/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-09-20-008",
+    "name": "Sydney Offshore \u2014 off North Head (AU)",
+    "species": "Humpback",
+    "info": "Breaches observed during migration; season remains strong.",
+    "date": "2025-09-20",
+    "latitude": -33.87,
+    "longitude": 151.35,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-09-20-030",
+    "name": "Sydney \u2014 off North Head (AU)",
+    "species": "Humpback",
+    "info": "Breaching humpbacks during southbound migration on the 20th.",
+    "date": "2025-09-20",
+    "latitude": -33.87,
+    "longitude": 151.35,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-09-12-038",
+    "name": "Sydney \u2014 off North Head (AU)",
+    "species": "Humpback",
+    "info": "Consistent humpback sightings with surface activity.",
+    "date": "2025-09-12",
+    "latitude": -33.85,
+    "longitude": 151.35,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-09-10-F01",
+    "name": "Sydney \u2014 off North Head (AU)",
+    "species": "Humpback",
+    "info": "Breaches observed during migration.",
+    "date": "2025-09-16",
+    "latitude": -33.7924,
+    "longitude": 151.3943,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-09-12-F03",
+    "name": "Sydney \u2014 off North Head (AU)",
+    "species": "Humpback",
+    "info": "Breaches observed during migration.",
+    "date": "2025-09-23",
+    "latitude": -33.7304,
+    "longitude": 151.4032,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "traveling"
+    ]
   }
 ]
