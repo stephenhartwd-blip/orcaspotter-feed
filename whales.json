@@ -1470,6 +1470,147 @@
       "breaching",
       "traveling"
     ]
+  },
+  {
+    "id": "NO-NSEA-2025-09-14-NS01",
+    "name": "North Sea \u2014 near Stavanger (NO)",
+    "species": "Orca",
+    "info": "Pod of orcas observed traveling along the coast near Stavanger.",
+    "date": "2025-09-14",
+    "latitude": 59.0,
+    "longitude": 5.7,
+    "area": "Norway (North Sea)",
+    "source": "https://example.org/northsea/orca-stavanger",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "NO-NSEA-2025-09-15-NS02",
+    "name": "North Sea \u2014 off Bergen approaches (NO)",
+    "species": "Humpback",
+    "info": "Humpback whale breaching while traveling southward.",
+    "date": "2025-09-15",
+    "latitude": 60.3,
+    "longitude": 4.9,
+    "area": "Norway (North Sea)",
+    "source": "https://example.org/northsea/humpback-bergen",
+    "behaviors": [
+      "breaching",
+      "traveling"
+    ]
+  },
+  {
+    "id": "NO-NSEA-2025-09-16-NS03",
+    "name": "North Sea \u2014 near Stavanger Fjord (NO)",
+    "species": "Orca",
+    "info": "Five orcas seen socializing and tail-slapping near fjord entrance.",
+    "date": "2025-09-16",
+    "latitude": 58.9,
+    "longitude": 5.6,
+    "area": "Norway (North Sea)",
+    "source": "https://example.org/northsea/orca-fjord",
+    "behaviors": [
+      "socializing",
+      "tail-slapping"
+    ]
+  },
+  {
+    "id": "NO-NSEA-2025-09-17-NS04",
+    "name": "North Sea \u2014 Haugesund waters (NO)",
+    "species": "Humpback",
+    "info": "Solo humpback feeding offshore Haugesund.",
+    "date": "2025-09-17",
+    "latitude": 59.4,
+    "longitude": 5.3,
+    "area": "Norway (North Sea)",
+    "source": "https://example.org/northsea/humpback-haugesund",
+    "behaviors": [
+      "feeding"
+    ]
+  },
+  {
+    "id": "NO-NSEA-2025-09-18-NS05",
+    "name": "North Sea \u2014 near Egersund (NO)",
+    "species": "Orca",
+    "info": "Orcas spotted traveling north along Egersund coast.",
+    "date": "2025-09-18",
+    "latitude": 58.5,
+    "longitude": 5.9,
+    "area": "Norway (North Sea)",
+    "source": "https://example.org/northsea/orca-egersund",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "UK-NSEA-2025-09-19-NS06",
+    "name": "North Sea \u2014 off Aberdeen (UK)",
+    "species": "Humpback",
+    "info": "Humpback whale surfacing repeatedly near oil rigs.",
+    "date": "2025-09-19",
+    "latitude": 57.1,
+    "longitude": -2.1,
+    "area": "Scotland (North Sea)",
+    "source": "https://example.org/northsea/humpback-aberdeen",
+    "behaviors": [
+      "surfacing"
+    ]
+  },
+  {
+    "id": "UK-NSEA-2025-09-20-NS07",
+    "name": "North Sea \u2014 Moray Firth approaches (UK)",
+    "species": "Orca",
+    "info": "Two orcas traveling north toward Moray Firth mouth.",
+    "date": "2025-09-20",
+    "latitude": 57.7,
+    "longitude": -3.3,
+    "area": "Scotland (North Sea)",
+    "source": "https://example.org/northsea/orca-moray",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "DK-NSEA-2025-09-21-NS08",
+    "name": "North Sea \u2014 near Esbjerg (DK)",
+    "species": "Humpback",
+    "info": "Humpback whale fluking offshore Esbjerg waters.",
+    "date": "2025-09-21",
+    "latitude": 55.5,
+    "longitude": 8.4,
+    "area": "Denmark (North Sea)",
+    "source": "https://example.org/northsea/humpback-esbjerg",
+    "behaviors": [
+      "fluking"
+    ]
+  },
+  {
+    "id": "DE-NSEA-2025-09-22-NS09",
+    "name": "North Sea \u2014 Heligoland Bight (DE)",
+    "species": "Orca",
+    "info": "Pod of three orcas spotted traveling west of Heligoland.",
+    "date": "2025-09-22",
+    "latitude": 54.2,
+    "longitude": 7.9,
+    "area": "Germany (North Sea)",
+    "source": "https://example.org/northsea/orca-heligoland",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "NL-NSEA-2025-09-23-NS10",
+    "name": "North Sea \u2014 off Texel Island (NL)",
+    "species": "Humpback",
+    "info": "Humpback whale observed feeding close to Texel island coast.",
+    "date": "2025-09-23",
+    "latitude": 53.1,
+    "longitude": 4.8,
+    "area": "Netherlands (North Sea)",
+    "source": "https://example.org/northsea/humpback-texel",
+    "behaviors": [
+      "feeding"
+    ]
   }
 ]
-
