@@ -1097,5 +1097,78 @@
     "behaviors": [
       "distant blows"
     ]
+  },
+  {
+    "id": "NZ-OR-7b87b279",
+    "name": "New Zealand \u2014 Mission Bay, Auckland (NZ)",
+    "species": "Orca",
+    "info": "Orca reported near Mission Bay with same-day post in Cetacean Spotting NZ group.",
+    "date": "2025-09-29",
+    "latitude": -36.848,
+    "longitude": 174.83,
+    "area": "New Zealand (Auckland/Hauraki Gulf)",
+    "source": "https://www.facebook.com/groups/554312507954499/posts/24426787306947018/",
+    "behaviors": [
+      "traveling",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "NZ-OR-d2ce3cb9",
+    "name": "New Zealand \u2014 St Heliers, Auckland (NZ)",
+    "species": "Orca",
+    "info": "Kayaker video/report of orca off St Heliers posted within 24 hours.",
+    "date": "2025-09-28",
+    "latitude": -36.856,
+    "longitude": 174.86,
+    "area": "New Zealand (Auckland/Hauraki Gulf)",
+    "source": "https://www.facebook.com/groups/NorthShoreNZ/posts/10163641920386399/",
+    "behaviors": [
+      "foraging",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "NZ-OR-59f6a5d4",
+    "name": "New Zealand \u2014 Hauraki Gulf (NZ)",
+    "species": "Orca",
+    "info": "Group post listing orca among species observed in Hauraki Gulf on Sept 20, 2025.",
+    "date": "2025-09-20",
+    "latitude": -36.75,
+    "longitude": 175.0,
+    "area": "New Zealand (Auckland/Hauraki Gulf)",
+    "source": "https://www.facebook.com/groups/554312507954499/posts/brydes-vertical-lunge-hauraki-gulf-20-sep-2025/24817062201252858/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "NZ-OR-526d61bb",
+    "name": "New Zealand \u2014 Whangapar\u0101oa Peninsula (NZ)",
+    "species": "Orca",
+    "info": "Real-time update of orca off Whangapar\u0101oa coast.",
+    "date": "2025-09-28",
+    "latitude": -36.62,
+    "longitude": 174.82,
+    "area": "New Zealand (Hauraki Gulf/Whangapar\u0101oa)",
+    "source": "https://www.facebook.com/groups/554312507954499/posts/8985952044790461/",
+    "behaviors": [
+      "traveling",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "NZ-OR-d1ce0b88",
+    "name": "New Zealand \u2014 Mission Bay, Auckland (NZ)",
+    "species": "Orca",
+    "info": "Follow-up thread asking whether orca still present at Mission Bay the same day.",
+    "date": "2025-09-29",
+    "latitude": -36.848,
+    "longitude": 174.83,
+    "area": "New Zealand (Auckland/Hauraki Gulf)",
+    "source": "https://www.facebook.com/groups/554312507954499/posts/24427178300241252/",
+    "behaviors": [
+      "traveling"
+    ]
   }
 ]
