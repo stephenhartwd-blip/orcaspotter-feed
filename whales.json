@@ -1,4 +1,3 @@
-
 [
   {
     "id": "US-WA-PSND-2025-09-16-004",
@@ -923,6 +922,180 @@
     "source": "https://www.norwegian.travel/magazine/whale-watching-in-norway",
     "behaviors": [
       "breaching"
+    ]
+  },
+  {
+    "id": "IS-HU-8e2df077",
+    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
+    "date": "2025-09-29",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "fluke dives",
+      "foraging"
+    ]
+  },
+  {
+    "id": "IS-HU-fc6d79fb",
+    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
+    "date": "2025-09-28",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "fluke dives"
+    ]
+  },
+  {
+    "id": "IS-HU-aced3ad0",
+    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
+    "date": "2025-09-27",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "fluke dives"
+    ]
+  },
+  {
+    "id": "IS-HU-c4bb3a20",
+    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
+    "date": "2025-09-25",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "fluke dives",
+      "breaching"
+    ]
+  },
+  {
+    "id": "IS-HU-fd8145ae",
+    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
+    "date": "2025-09-24",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "fluke dives"
+    ]
+  },
+  {
+    "id": "IS-HU-417bc2e1",
+    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
+    "date": "2025-09-22",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "breaching",
+      "logging"
+    ]
+  },
+  {
+    "id": "IS-HU-927e99d9",
+    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
+    "date": "2025-09-21",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "fluke dives",
+      "grouping"
+    ]
+  },
+  {
+    "id": "IS-HU-4dcfeb98",
+    "name": "Iceland \u2014 Skj\u00e1lfandi Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpback whales noted in Skj\u00e1lfandi Bay operator news post.",
+    "date": "2025-09-28",
+    "latitude": 66.045,
+    "longitude": -17.338,
+    "area": "Iceland (H\u00fasav\u00edk/Skj\u00e1lfandi Bay)",
+    "source": "https://www.gentlegiants.is/news/2025/09/28/when-the-ocean-throws-a-rare-party/",
+    "behaviors": [
+      "foraging",
+      "tail slaps"
+    ]
+  },
+  {
+    "id": "IS-HU-0d6a3613",
+    "name": "Iceland \u2014 Skj\u00e1lfandi Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpback whales returning to Skj\u00e1lfandi Bay per operator news post.",
+    "date": "2025-09-25",
+    "latitude": 66.045,
+    "longitude": -17.338,
+    "area": "Iceland (H\u00fasav\u00edk/Skj\u00e1lfandi Bay)",
+    "source": "https://www.gentlegiants.is/news/2025/09/25/hellos-to-the-september-whales/",
+    "behaviors": [
+      "fluke dives"
+    ]
+  },
+  {
+    "id": "IS-HU-d31ff16d",
+    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Humpback whale(s) reported during whale watching cruise (daily diary).",
+    "date": "2025-09-21",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "source": "https://seatrips.is/daily-diary-september-21-2025/",
+    "behaviors": [
+      "foraging"
+    ]
+  },
+  {
+    "id": "IS-HU-ee10d7a8",
+    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Multiple humpback whales reported across tours.",
+    "date": "2025-09-20",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "fluke dives",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "IS-HU-6acca255",
+    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "species": "Humpback",
+    "info": "Multiple humpback whales reported across tours.",
+    "date": "2025-09-19",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "distant blows"
     ]
   }
 ]
