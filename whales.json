@@ -1170,5 +1170,149 @@
     "behaviors": [
       "traveling"
     ]
+  },
+  {
+    "id": "US-HU-a318a70c",
+    "name": "USA \u2014 Santa Barbara Channel (CA)",
+    "species": "Humpback",
+    "info": "Humpbacks reported on Channel trips (operator sightings).",
+    "date": "2025-09-22",
+    "latitude": 34.285,
+    "longitude": -119.865,
+    "area": "USA (California/Santa Barbara Channel)",
+    "source": "https://condorexpress.com/category/sightings/",
+    "behaviors": [
+      "foraging",
+      "breaching"
+    ]
+  },
+  {
+    "id": "US-HU-7a3b87aa",
+    "name": "USA \u2014 Dana Point (CA)",
+    "species": "Humpback",
+    "info": "Humpback sighting reported off Dana Point during coastal cruise.",
+    "date": "2025-09-21",
+    "latitude": 33.463,
+    "longitude": -117.715,
+    "area": "USA (California/Orange County)",
+    "source": "https://danawharf.com/whale-watching/whale-watching-report/",
+    "behaviors": [
+      "traveling",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-OR-75aa8083",
+    "name": "USA \u2014 Edmonds Ferry Lanes, Puget Sound (WA)",
+    "species": "Orca",
+    "info": "Orcas traveling northbound off Edmonds; multiple public reports.",
+    "date": "2025-09-20",
+    "latitude": 47.812,
+    "longitude": -122.432,
+    "area": "USA (Washington/Puget Sound)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-OR-10f323bd",
+    "name": "USA \u2014 Deception Pass (WA)",
+    "species": "Orca",
+    "info": "Bigg\u2019s orcas reported near Deception Pass on afternoon flood.",
+    "date": "2025-09-26",
+    "latitude": 48.4049,
+    "longitude": -122.6473,
+    "area": "USA (Washington/Deception Pass)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "US-OR-2894da29",
+    "name": "USA \u2014 Resurrection Bay, Seward (AK)",
+    "species": "Orca",
+    "info": "Orcas reported near Bear Glacier & Cheval Narrows.",
+    "date": "2025-09-24",
+    "latitude": 60.02,
+    "longitude": -149.44,
+    "area": "USA (Alaska/Kenai Fjords)",
+    "source": "https://alaskacollection.com/day-tours/kenai-fjords-tours/sightings/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-HU-911aa42d",
+    "name": "USA \u2014 Sitka Sound (AK)",
+    "species": "Humpback",
+    "info": "Humpbacks feeding near Outer Coast/Salisbury Sound.",
+    "date": "2025-09-19",
+    "latitude": 57.205,
+    "longitude": -135.7,
+    "area": "USA (Alaska/Sitka)",
+    "source": "https://www.facebook.com/visitsitka/",
+    "behaviors": [
+      "foraging"
+    ]
+  },
+  {
+    "id": "US-HU-52ffeede",
+    "name": "USA \u2014 Stellwagen Bank (MA)",
+    "species": "Humpback",
+    "info": "Multiple humpbacks actively feeding per operator update.",
+    "date": "2025-09-23",
+    "latitude": 42.425,
+    "longitude": -70.2,
+    "area": "USA (Massachusetts/Stellwagen Bank)",
+    "source": "https://www.7seaswhalewatch.com/sightings/",
+    "behaviors": [
+      "foraging",
+      "lunge feeding"
+    ]
+  },
+  {
+    "id": "US-HU-35f6bcc8",
+    "name": "USA \u2014 Off Portland Head (ME)",
+    "species": "Humpback",
+    "info": "Offshore humpback reported east of Portland Head Light.",
+    "date": "2025-09-21",
+    "latitude": 43.616,
+    "longitude": -70.075,
+    "area": "USA (Maine/Casco Bay approaches)",
+    "source": "https://www.facebook.com/BarHarborWhaleWatch/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-HU-d99a34df",
+    "name": "USA \u2014 Moss Landing (CA)",
+    "species": "Humpback",
+    "info": "Humpbacks lunge-feeding near canyon head off Moss Landing.",
+    "date": "2025-09-22",
+    "latitude": 36.8065,
+    "longitude": -121.7923,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "lunge feeding"
+    ]
+  },
+  {
+    "id": "US-OR-b26e4174",
+    "name": "USA \u2014 Admiralty Inlet, Port Townsend (WA)",
+    "species": "Orca",
+    "info": "Orcas transiting southbound through Admiralty Inlet.",
+    "date": "2025-09-26",
+    "latitude": 48.117,
+    "longitude": -122.76,
+    "area": "USA (Washington/Admiralty Inlet)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling"
+    ]
   }
 ]
