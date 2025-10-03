@@ -1314,5 +1314,49 @@
     "behaviors": [
       "traveling"
     ]
+  },
+  {
+    "id": "CA-BC-IND-2025-09-25-001",
+    "name": "Indian Arm \u2014 Belcarra (CA-BC)",
+    "species": "Orca",
+    "info": "Two Bigg\u2019s orcas traveling northbound near Belcarra shoreline.",
+    "date": "2025-09-25",
+    "latitude": 49.31,
+    "longitude": -122.92,
+    "area": "Canada (BC/Indian Arm)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "CA-BC-IND-2025-09-28-002",
+    "name": "Indian Arm \u2014 Deep Cove (CA-BC)",
+    "species": "Orca",
+    "info": "Pod of 4 orcas observed socializing and breaching near Deep Cove.",
+    "date": "2025-09-28",
+    "latitude": 49.33,
+    "longitude": -122.95,
+    "area": "Canada (BC/Indian Arm)",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "breaching",
+      "socializing"
+    ]
+  },
+  {
+    "id": "CA-BC-IND-2025-09-30-003",
+    "name": "Indian Arm \u2014 Jug Island (CA-BC)",
+    "species": "Orca",
+    "info": "Solitary male orca seen slowly traveling south past Jug Island.",
+    "date": "2025-09-30",
+    "latitude": 49.35,
+    "longitude": -122.88,
+    "area": "Canada (BC/Indian Arm)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling"
+    ]
   }
 ]
