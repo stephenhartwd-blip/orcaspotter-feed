@@ -1358,6 +1358,36 @@
     "behaviors": [
       "traveling"
     ]
+  },
+  {
+    "id": "JP-HKD-RAU-2025-09-30-001",
+    "name": "Rausu \u2014 Nemuro Strait, Shiretoko Peninsula (JP)",
+    "species": "Orca",
+    "info": "Two rare white orcas observed within a larger pod (~20\u201330) near Rausu; widely reported by passengers on a Shiretoko Nature Cruise.",
+    "date": "2025-09-30",
+    "latitude": 44.02,
+    "longitude": 145.19,
+    "area": "Japan (Hokkaid\u014d/Rausu)",
+    "source": "https://www.threads.com/%40thebrainypedia/post/DPPFmm5ErOb/tourists-aboard-the-shiretoko-nature-cruise-off-the-coast-of-rausu-hokkaido-in",
+    "behaviors": [
+      "traveling",
+      "socializing",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "JP-HKD-RAU-2025-09-24-002",
+    "name": "Rausu \u2014 Nemuro Strait, Shiretoko Peninsula (JP)",
+    "species": "Orca",
+    "info": "Photographer report of orcas in September off Rausu/Shiretoko; images show young and subadult individuals surfacing close to vessels.",
+    "date": "2025-09-24",
+    "latitude": 44.02,
+    "longitude": 145.19,
+    "area": "Japan (Hokkaid\u014d/Rausu)",
+    "source": "https://www.instagram.com/p/DJOszhRyP_G/",
+    "behaviors": [
+      "traveling",
+      "surfacing"
+    ]
   }
 ]
-
