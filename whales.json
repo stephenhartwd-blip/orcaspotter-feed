@@ -1389,5 +1389,68 @@
       "traveling",
       "surfacing"
     ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-10-03-001",
+    "name": "Sydney Offshore \u2014 off South Head (AU)",
+    "species": "Humpback",
+    "info": "Multiple active humpbacks with repeated breaches observed on a mid-day cruise; operator report within last 24 hours.",
+    "date": "2025-10-03",
+    "latitude": -33.842,
+    "longitude": 151.282,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.whalewatchingsydney.com.au/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "tail slapping",
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-QLD-GC-2025-09-30-001",
+    "name": "Gold Coast \u2014 Kirra Beach (AU)",
+    "species": "Humpback",
+    "info": "Mother-calf pair; calf disentangled from shark nets off Kirra Beach during rescue operation.",
+    "date": "2025-09-30",
+    "latitude": -28.166,
+    "longitude": 153.534,
+    "area": "Australia (QLD/Gold Coast)",
+    "source": "https://www.couriermail.com.au/news/gold-coast/rescue-operation-underway-to-save-whale-off-gold-coast-beach/news-story/b41e7adb3afd541cdd6ba32f28e137a5",
+    "behaviors": [
+      "with calf",
+      "resting",
+      "entanglement-rescue"
+    ]
+  },
+  {
+    "id": "AU-WA-FRE-2025-10-01-001",
+    "name": "Fremantle \u2014 Rottnest Channel (AU)",
+    "species": "Humpback",
+    "info": "\u2018Breaching Humpback calves\u2019 reported with multiple pods moving through sighting grounds off Perth/Fremantle.",
+    "date": "2025-10-01",
+    "latitude": -32.055,
+    "longitude": 115.746,
+    "area": "Australia (WA/Perth-Fremantle)",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "breaching",
+      "with calf",
+      "traveling"
+    ]
+  },
+  {
+    "id": "AU-WA-DUN-2025-09-24-001",
+    "name": "Geographe Bay \u2014 off Dunsborough (AU)",
+    "species": "Humpback",
+    "info": "Active humpbacks moving through Geographe Bay during southbound migration; multiple pods observed.",
+    "date": "2025-09-24",
+    "latitude": -33.6,
+    "longitude": 115.1,
+    "area": "Australia (WA/Dunsborough-Geographe Bay)",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "traveling",
+      "fluking"
+    ]
   }
 ]
