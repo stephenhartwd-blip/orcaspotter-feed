@@ -1268,5 +1268,156 @@
       "nearshore",
       "surface activity"
     ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-10-07-WS-1",
+    "name": "Sydney Offshore — Northern run",
+    "species": "Humpback",
+    "info": "Breaching humpbacks reported on mid-day cruise; consistent pods throughout the day.",
+    "date": "2025-10-07",
+    "latitude": -33.9,
+    "longitude": 151.3,
+    "area": "Australia (New South Wales, Sydney)",
+    "source": "https://www.whalewatchingsydney.com.au/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "travelling"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-2025-10-03-WS-2",
+    "name": "Sydney Offshore — Shelf line",
+    "species": "Humpback",
+    "info": "Ecstatic breaching into swell on the 12pm cruise; more activity expected later.",
+    "date": "2025-10-03",
+    "latitude": -33.95,
+    "longitude": 151.35,
+    "area": "Australia (New South Wales, Sydney)",
+    "source": "https://www.whalewatchingsydney.com.au/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-WA-FRE-2025-10-03-WWWA-1",
+    "name": "Fremantle — Humpback Grounds",
+    "species": "Humpback",
+    "info": "‘Humpback Whale Defence’ encounter described on the Daily Whale blog.",
+    "date": "2025-10-03",
+    "latitude": -32.055,
+    "longitude": 115.736,
+    "area": "Australia (Western Australia, Fremantle/Perth)",
+    "source": "https://whalewatchwesternaustralia.com/category/blog/",
+    "behaviors": [
+      "tail slap",
+      "breaching",
+      "with calf"
+    ]
+  },
+  {
+    "id": "AU-WA-FRE-2025-10-02-WWWA-2",
+    "name": "Fremantle — Southbound Pods",
+    "species": "Humpback",
+    "info": "Multiple pods moving south; consistent sightings on early October departures.",
+    "date": "2025-10-02",
+    "latitude": -32.07,
+    "longitude": 115.72,
+    "area": "Australia (Western Australia, Fremantle/Perth)",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "travelling",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-WA-FRE-2025-10-01-WWWA-3",
+    "name": "Rottnest Channel — Mother & Calf",
+    "species": "Humpback",
+    "info": "Mother–calf pairs transiting Rottnest Channel reported by local operators.",
+    "date": "2025-10-01",
+    "latitude": -31.997,
+    "longitude": 115.438,
+    "area": "Australia (Western Australia, Rottnest Channel)",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "with calf",
+      "travelling"
+    ]
+  },
+  {
+    "id": "NZ-WGN-HBR-2025-10-06-WEL-ORC-1",
+    "name": "Wellington Harbour — Evans Bay",
+    "species": "Orca",
+    "info": "Orcas filmed from Roseneath looking into Evans Bay; multiple animals close to shore.",
+    "date": "2025-10-06",
+    "latitude": -41.3,
+    "longitude": 174.806,
+    "area": "New Zealand (Wellington Harbour)",
+    "source": "https://www.facebook.com/wellingtonnz/videos/orcas-around-wellington-harbour/403166417421655/",
+    "behaviors": [
+      "foraging",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "NZ-AKL-WHV-2025-10-05-ORC-2",
+    "name": "Auckland — Westhaven Marina",
+    "species": "Orca",
+    "info": "Orcas filmed inside Westhaven Marina; very close to pontoons and seawall.",
+    "date": "2025-10-05",
+    "latitude": -36.842,
+    "longitude": 174.75,
+    "area": "New Zealand (Auckland, Waitematā Harbour)",
+    "source": "https://www.facebook.com/OrcasAreAmazing/videos/when-you-dont-even-need-to-step-on-a-boat-to-see-orcas-this-close-westhaven-mari/2876546569171580/",
+    "behaviors": [
+      "nearshore",
+      "foraging"
+    ]
+  },
+  {
+    "id": "NZ-WGN-HBR-2025-10-04-HB-3",
+    "name": "Wellington Harbour — Chaffers Passage",
+    "species": "Humpback",
+    "info": "Lone humpback exiting through Chaffers Passage toward Cook Strait.",
+    "date": "2025-10-04",
+    "latitude": -41.291,
+    "longitude": 174.786,
+    "area": "New Zealand (Wellington Harbour)",
+    "source": "https://www.facebook.com/groups/554312507954499/posts/23903607935931627/",
+    "behaviors": [
+      "travelling",
+      "blows"
+    ]
+  },
+  {
+    "id": "NZ-AKL-HG-2025-10-03-ORC-4",
+    "name": "Hauraki Gulf — Rangitoto Channel",
+    "species": "Orca",
+    "info": "Orca observed near Rangitoto Lighthouse; approached small vessels calmly.",
+    "date": "2025-10-03",
+    "latitude": -36.788,
+    "longitude": 174.856,
+    "area": "New Zealand (Auckland, Hauraki Gulf)",
+    "source": "https://www.nzherald.co.nz/nz/three-aucklanders-encounter-curious-juvenile-orca-on-morning-fishing-trip/XSLOQNU73JATZM7SUI5J627CDU/",
+    "behaviors": [
+      "curious approach",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "NZ-WGN-PLM-2025-10-02-ORC-5",
+    "name": "Porirua/Plimmerton — Coast Run",
+    "species": "Orca",
+    "info": "Pod transiting south past Plimmerton on consecutive days per local watch group.",
+    "date": "2025-10-02",
+    "latitude": -41.071,
+    "longitude": 174.868,
+    "area": "New Zealand (Wellington region, Porirua/Plimmerton)",
+    "source": "https://www.facebook.com/groups/1449950725311866/posts/2744217239218535/",
+    "behaviors": [
+      "travelling",
+      "foraging"
+    ]
   }
 ]
