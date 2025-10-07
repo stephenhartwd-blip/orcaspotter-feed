@@ -1,401 +1,7 @@
 [
   {
-    "id": "US-WA-PSND-2025-09-16-004",
-    "name": "Puget Sound \u2014 Vashon\u2013Southworth mid-channel (US-WA)",
-    "species": "Orca",
-    "info": "Pod of ~7 orcas northbound mid-channel between Vashon & Southworth.",
-    "date": "2025-09-16",
-    "latitude": 47.48,
-    "longitude": -122.49,
-    "area": "Puget Sound (Vashon/Southworth)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "traveling",
-      "socializing"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-09-21-005",
-    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
-    "species": "Humpback",
-    "info": "Four humpbacks together incl. 'Davy Jones II'; breaches and flukes.",
-    "date": "2025-09-21",
-    "latitude": 64.375,
-    "longitude": -22.0,
-    "area": "Iceland (Faxafl\u00f3i)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "breaching",
-      "fluking"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-09-22-006",
-    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
-    "species": "Humpback",
-    "info": "Humpback whales with dolphins and porpoises reported on tours.",
-    "date": "2025-09-22",
-    "latitude": 64.3,
-    "longitude": -22.05,
-    "area": "Iceland (Faxafl\u00f3i)",
-    "source": "https://whalesafari.is/whale-diary/22nd-september-2025",
-    "behaviors": [
-      "traveling",
-      "feeding"
-    ]
-  },
-  {
-    "id": "AU-NSW-SYD-2025-09-20-008",
-    "name": "Sydney Offshore \u2014 off North Head (AU)",
-    "species": "Humpback",
-    "info": "Breaches observed during migration; season remains strong.",
-    "date": "2025-09-20",
-    "latitude": -33.87,
-    "longitude": 151.35,
-    "area": "Australia (NSW/Sydney)",
-    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "UK-SCT-HBD-2025-09-15-011",
-    "name": "Hebrides \u2014 Sound of Mull (UK-SCT)",
-    "species": "Orca",
-    "info": "Famous orcas John Coe & Aquarius spotted; humpback also lunge-feeding earlier.",
-    "date": "2025-09-15",
-    "latitude": 56.55,
-    "longitude": -5.99,
-    "area": "Scotland (Hebrides)",
-    "source": "https://hebridescruises.co.uk/news/john-coe-and-aquarius-together-in-the-hebrides/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "NZ-AUK-HAU-2025-09-17-016",
-    "name": "Auckland \u2014 Hauraki Gulf (NZ)",
-    "species": "Orca",
-    "info": "Orca reports in Hauraki Gulf/coastal Auckland this week.",
-    "date": "2025-09-17",
-    "latitude": -36.7,
-    "longitude": 175.0,
-    "area": "New Zealand (Hauraki Gulf)",
-    "source": "https://www.reddit.com/r/newzealand_travel/comments/1myi1e2/any_chance_for_orcas_in_september/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-JST-2025-09-16-020",
-    "name": "Johnstone Strait (CA-BC)",
-    "species": "Orca",
-    "info": "Orcas socializing in Johnstone Strait.",
-    "date": "2025-09-16",
-    "latitude": 50.6,
-    "longitude": -126.5,
-    "area": "Canada (British Columbia/Johnstone Strait)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "socializing"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-09-21-023",
-    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
-    "species": "Humpback",
-    "info": "Four humpbacks incl. 'Davy Jones II' with breaches and flukes.",
-    "date": "2025-09-21",
-    "latitude": 64.375,
-    "longitude": -22.0,
-    "area": "Iceland (Faxafl\u00f3i)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "breaching",
-      "fluking"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-09-20-024",
-    "name": "Reykjav\u00edk \u2014 Whale Safari (IS)",
-    "species": "Humpback",
-    "info": "Humpback whales observed during all tours; active surface behaviour.",
-    "date": "2025-09-20",
-    "latitude": 64.38,
-    "longitude": -22.05,
-    "area": "Iceland (Faxafl\u00f3i)",
-    "source": "https://whalesafari.is/whale-diary/20th-september-2025",
-    "behaviors": [
-      "traveling",
-      "feeding"
-    ]
-  },
-  {
-    "id": "US-WA-PSND-2025-09-15-028",
-    "name": "Puget Sound \u2014 Triple Junction (US-WA)",
-    "species": "Orca",
-    "info": "~7 orcas milling/traveling south; one spy\u2011hop observed.",
-    "date": "2025-09-15",
-    "latitude": 47.87,
-    "longitude": -122.47,
-    "area": "Puget Sound (Central Basin)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "milling",
-      "traveling"
-    ]
-  },
-  {
-    "id": "US-WA-SJI-2025-09-17-029",
-    "name": "San Juan Islands \u2014 Haro Strait (US-WA)",
-    "species": "Orca",
-    "info": "J\u2011pod first visit into inland Puget Sound since April; time in Haro/Strait of Georgia.",
-    "date": "2025-09-17",
-    "latitude": 48.6,
-    "longitude": -123.2,
-    "area": "Salish Sea (Haro/Strait of Georgia)",
-    "source": "https://www.facebook.com/LangleyWhaleCenter/posts/here-is-orca-networks-september-17-2025-whale-sighting-report-j-pod-makes-their-/1435916075201453/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "AU-NSW-SYD-2025-09-20-030",
-    "name": "Sydney \u2014 off North Head (AU)",
-    "species": "Humpback",
-    "info": "Breaching humpbacks during southbound migration on the 20th.",
-    "date": "2025-09-20",
-    "latitude": -33.87,
-    "longitude": 151.35,
-    "area": "Australia (NSW/Sydney)",
-    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-09-22-042",
-    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
-    "species": "Humpback",
-    "info": "Humpback whales with dolphins and porpoises reported on tours.",
-    "date": "2025-09-22",
-    "latitude": 64.3,
-    "longitude": -22.05,
-    "area": "Iceland (Faxafl\u00f3i)",
-    "source": "https://whalesafari.is/whale-diary/22nd-september-2025",
-    "behaviors": [
-      "traveling",
-      "feeding"
-    ]
-  },
-  {
-    "id": "US-WA-STRAITG-2025-09-17-043",
-    "name": "Strait of Georgia \u2014 Boundary Pass (US/CA)",
-    "species": "Orca",
-    "info": "J\u2011pod spent time in Haro Strait/Strait of Georgia per daily report.",
-    "date": "2025-09-17",
-    "latitude": 48.75,
-    "longitude": -123.1,
-    "area": "Salish Sea (Boundary Pass)",
-    "source": "https://www.facebook.com/LangleyWhaleCenter/posts/here-is-orca-networks-september-17-2025-whale-sighting-report-j-pod-makes-their-/1435916075201453/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "US-CA-MRY-2025-09-11-A02",
-    "name": "Monterey \u2014 Canyon Edge (US-CA)",
-    "species": "Humpback",
-    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
-    "date": "2025-09-22",
-    "latitude": 36.5646,
-    "longitude": -121.9827,
-    "area": "Central California (Monterey Bay)",
-    "source": "https://gowhales.com/sightings/slstcurr/",
-    "behaviors": [
-      "feeding",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "US-CA-MRY-2025-09-13-A04",
-    "name": "Monterey \u2014 Canyon Edge (US-CA)",
-    "species": "Humpback",
-    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
-    "date": "2025-09-15",
-    "latitude": 36.5691,
-    "longitude": -121.9757,
-    "area": "Central California (Monterey Bay)",
-    "source": "https://gowhales.com/sightings/slstcurr/",
-    "behaviors": [
-      "feeding",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "US-CA-MRY-2025-09-15-A06",
-    "name": "Monterey \u2014 Canyon Edge (US-CA)",
-    "species": "Humpback",
-    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
-    "date": "2025-09-20",
-    "latitude": 36.6775,
-    "longitude": -122.0278,
-    "area": "Central California (Monterey Bay)",
-    "source": "https://gowhales.com/sightings/slstcurr/",
-    "behaviors": [
-      "feeding",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "US-CA-MRY-2025-09-16-A07",
-    "name": "Monterey \u2014 Canyon Edge (US-CA)",
-    "species": "Humpback",
-    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
-    "date": "2025-09-21",
-    "latitude": 36.4341,
-    "longitude": -121.8957,
-    "area": "Central California (Monterey Bay)",
-    "source": "https://gowhales.com/sightings/slstcurr/",
-    "behaviors": [
-      "feeding",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "US-CA-MRY-2025-09-17-A08",
-    "name": "Monterey \u2014 Canyon Edge (US-CA)",
-    "species": "Humpback",
-    "info": "Multiple humpbacks lunge-feeding near canyon edge.",
-    "date": "2025-09-19",
-    "latitude": 36.441,
-    "longitude": -121.9319,
-    "area": "Central California (Monterey Bay)",
-    "source": "https://gowhales.com/sightings/slstcurr/",
-    "behaviors": [
-      "feeding",
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SAL-2025-09-06-B02",
-    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
-    "species": "Humpback",
-    "info": "Humpbacks feeding near Halibut Bank.",
-    "date": "2025-09-22",
-    "latitude": 49.331,
-    "longitude": -124.005,
-    "area": "Salish Sea (Strait of Georgia)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SAL-2025-09-08-B04",
-    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
-    "species": "Humpback",
-    "info": "Humpbacks feeding near Halibut Bank.",
-    "date": "2025-09-21",
-    "latitude": 49.2151,
-    "longitude": -123.6794,
-    "area": "Salish Sea (Strait of Georgia)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SAL-2025-09-09-B05",
-    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
-    "species": "Orca",
-    "info": "Bigg\u2019s orcas traveling and socializing.",
-    "date": "2025-09-17",
-    "latitude": 49.4803,
-    "longitude": -124.05,
-    "area": "Salish Sea (Strait of Georgia)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SAL-2025-09-10-B06",
-    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
-    "species": "Orca",
-    "info": "Bigg\u2019s orcas traveling and socializing.",
-    "date": "2025-09-18",
-    "latitude": 49.0085,
-    "longitude": -123.5825,
-    "area": "Salish Sea (Strait of Georgia)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-SAL-2025-09-11-B07",
-    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
-    "species": "Humpback",
-    "info": "Humpbacks feeding near Halibut Bank.",
-    "date": "2025-09-22",
-    "latitude": 49.2002,
-    "longitude": -123.5302,
-    "area": "Salish Sea (Strait of Georgia)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "CA-BC-SAL-2025-09-12-B08",
-    "name": "Salish Sea \u2014 Strait of Georgia (CA-BC)",
-    "species": "Orca",
-    "info": "Bigg\u2019s orcas traveling and socializing.",
-    "date": "2025-09-19",
-    "latitude": 49.0872,
-    "longitude": -123.3617,
-    "area": "Salish Sea (Strait of Georgia)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "US-WA-PSND-2025-09-12-C01",
-    "name": "Puget Sound \u2014 Central Basin (US-WA)",
-    "species": "Orca",
-    "info": "Pods reported milling/traveling; occasional spyhop.",
-    "date": "2025-09-15",
-    "latitude": 47.6885,
-    "longitude": -122.4253,
-    "area": "Puget Sound (Central Basin)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "milling",
-      "traveling"
-    ]
-  },
-  {
-    "id": "US-WA-PSND-2025-09-13-C02",
-    "name": "Puget Sound \u2014 Central Basin (US-WA)",
-    "species": "Orca",
-    "info": "Pods reported milling/traveling; occasional spyhop.",
-    "date": "2025-09-15",
-    "latitude": 47.4912,
-    "longitude": -122.4796,
-    "area": "Puget Sound (Central Basin)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "milling",
-      "traveling"
-    ]
-  },
-  {
     "id": "US-WA-PSND-2025-09-14-C03",
-    "name": "Puget Sound \u2014 Central Basin (US-WA)",
+    "name": "Puget Sound — Central Basin (US-WA)",
     "species": "Orca",
     "info": "Pods reported milling/traveling; occasional spyhop.",
     "date": "2025-09-23",
@@ -409,113 +15,8 @@
     ]
   },
   {
-    "id": "US-WA-PSND-2025-09-15-C04",
-    "name": "Puget Sound \u2014 Central Basin (US-WA)",
-    "species": "Orca",
-    "info": "Pods reported milling/traveling; occasional spyhop.",
-    "date": "2025-09-17",
-    "latitude": 47.8564,
-    "longitude": -122.5121,
-    "area": "Puget Sound (Central Basin)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "milling",
-      "traveling"
-    ]
-  },
-  {
-    "id": "US-WA-PSND-2025-09-16-C05",
-    "name": "Puget Sound \u2014 Central Basin (US-WA)",
-    "species": "Orca",
-    "info": "Pods reported milling/traveling; occasional spyhop.",
-    "date": "2025-09-19",
-    "latitude": 47.5138,
-    "longitude": -122.3845,
-    "area": "Puget Sound (Central Basin)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "milling",
-      "traveling"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-09-17-D03",
-    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
-    "species": "Humpback",
-    "info": "Humpbacks with breaches and flukes reported on tours.",
-    "date": "2025-09-19",
-    "latitude": 64.3952,
-    "longitude": -21.9522,
-    "area": "Iceland (Faxafl\u00f3i)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "breaching",
-      "fluking"
-    ]
-  },
-  {
-    "id": "IS-REK-FAX-2025-09-19-D05",
-    "name": "Reykjav\u00edk \u2014 Faxafl\u00f3i Bay (IS)",
-    "species": "Humpback",
-    "info": "Humpbacks with breaches and flukes reported on tours.",
-    "date": "2025-09-15",
-    "latitude": 64.3221,
-    "longitude": -22.1279,
-    "area": "Iceland (Faxafl\u00f3i)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "breaching",
-      "fluking"
-    ]
-  },
-  {
-    "id": "IS-HUS-SKJ-2025-09-12-E01",
-    "name": "H\u00fasav\u00edk \u2014 Skj\u00e1lfandi Bay (IS)",
-    "species": "Humpback",
-    "info": "Regular humpback encounters on daily tours.",
-    "date": "2025-09-21",
-    "latitude": 66.25,
-    "longitude": -17.29,
-    "area": "Iceland (Skj\u00e1lfandi Bay)",
-    "source": "https://www.gentlegiants.is/news/2025/",
-    "behaviors": [
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "IS-HUS-SKJ-2025-09-14-E03",
-    "name": "H\u00fasav\u00edk \u2014 Skj\u00e1lfandi Bay (IS)",
-    "species": "Humpback",
-    "info": "Regular humpback encounters on daily tours.",
-    "date": "2025-09-17",
-    "latitude": 66.25,
-    "longitude": -17.29,
-    "area": "Iceland (Skj\u00e1lfandi Bay)",
-    "source": "https://www.gentlegiants.is/news/2025/",
-    "behaviors": [
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "AU-NSW-SYD-2025-09-10-F01",
-    "name": "Sydney \u2014 off North Head (AU)",
-    "species": "Humpback",
-    "info": "Breaches observed during migration.",
-    "date": "2025-09-16",
-    "latitude": -33.7924,
-    "longitude": 151.3943,
-    "area": "Australia (NSW/Sydney)",
-    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
     "id": "AU-NSW-SYD-2025-09-12-F03",
-    "name": "Sydney \u2014 off North Head (AU)",
+    "name": "Sydney — off North Head (AU)",
     "species": "Humpback",
     "info": "Breaches observed during migration.",
     "date": "2025-09-23",
@@ -529,201 +30,8 @@
     ]
   },
   {
-    "id": "AU-NSW-SYD-2025-09-13-F04",
-    "name": "Sydney \u2014 off North Head (AU)",
-    "species": "Humpback",
-    "info": "Breaches observed during migration.",
-    "date": "2025-09-18",
-    "latitude": -33.8967,
-    "longitude": 151.3798,
-    "area": "Australia (NSW/Sydney)",
-    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "AU-NSW-SYD-2025-09-14-F05",
-    "name": "Sydney \u2014 off North Head (AU)",
-    "species": "Humpback",
-    "info": "Breaches observed during migration.",
-    "date": "2025-09-21",
-    "latitude": -33.8953,
-    "longitude": 151.3126,
-    "area": "Australia (NSW/Sydney)",
-    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "US-MA-JEFF-2025-09-13-G02",
-    "name": "Gulf of Maine \u2014 Jeffreys Ledge (US-MA/NH)",
-    "species": "Humpback",
-    "info": "Very good humpback activity reported on trips.",
-    "date": "2025-09-21",
-    "latitude": 42.8575,
-    "longitude": -70.4233,
-    "area": "Gulf of Maine (Jeffreys Ledge)",
-    "source": "https://www.facebook.com/whalewatchingma/posts/sightings-update-september-13-2025whale-sightings-on-jeffreys-ledge-have-continu/1223534556479971/",
-    "behaviors": [
-      "feeding",
-      "breaching"
-    ]
-  },
-  {
-    "id": "US-MA-JEFF-2025-09-15-G04",
-    "name": "Gulf of Maine \u2014 Jeffreys Ledge (US-MA/NH)",
-    "species": "Humpback",
-    "info": "Very good humpback activity reported on trips.",
-    "date": "2025-09-17",
-    "latitude": 42.962,
-    "longitude": -70.1611,
-    "area": "Gulf of Maine (Jeffreys Ledge)",
-    "source": "https://www.facebook.com/whalewatchingma/posts/sightings-update-september-13-2025whale-sightings-on-jeffreys-ledge-have-continu/1223534556479971/",
-    "behaviors": [
-      "feeding",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-NB-BOF-2025-09-12-H02",
-    "name": "Bay of Fundy \u2014 Grand Manan / Wolves Bank (CA-NB)",
-    "species": "Humpback",
-    "info": "Active humpbacks reported on morning/afternoon departures.",
-    "date": "2025-09-16",
-    "latitude": 44.8265,
-    "longitude": -66.6596,
-    "area": "Canada (Bay of Fundy)",
-    "source": "https://www.facebook.com/quoddylinkmarine/posts/1197091618894713/",
-    "behaviors": [
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-NB-BOF-2025-09-13-H03",
-    "name": "Bay of Fundy \u2014 Grand Manan / Wolves Bank (CA-NB)",
-    "species": "Humpback",
-    "info": "Active humpbacks reported on morning/afternoon departures.",
-    "date": "2025-09-16",
-    "latitude": 44.6102,
-    "longitude": -66.6472,
-    "area": "Canada (Bay of Fundy)",
-    "source": "https://www.facebook.com/quoddylinkmarine/posts/1203582291578979/",
-    "behaviors": [
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-NB-BOF-2025-09-14-H04",
-    "name": "Bay of Fundy \u2014 Grand Manan / Wolves Bank (CA-NB)",
-    "species": "Humpback",
-    "info": "Active humpbacks reported on morning/afternoon departures.",
-    "date": "2025-09-20",
-    "latitude": 44.8354,
-    "longitude": -66.9187,
-    "area": "Canada (Bay of Fundy)",
-    "source": "https://www.facebook.com/quoddylinkmarine/posts/1203582291578979/",
-    "behaviors": [
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-NB-BOF-2025-09-15-H05",
-    "name": "Bay of Fundy \u2014 Grand Manan / Wolves Bank (CA-NB)",
-    "species": "Humpback",
-    "info": "Active humpbacks reported on morning/afternoon departures.",
-    "date": "2025-09-16",
-    "latitude": 44.6768,
-    "longitude": -66.6013,
-    "area": "Canada (Bay of Fundy)",
-    "source": "https://www.facebook.com/quoddylinkmarine/posts/1203582291578979/",
-    "behaviors": [
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "US-ME-BH-2025-09-15-J02",
-    "name": "Gulf of Maine \u2014 Offshore Bar Harbor (US-ME)",
-    "species": "Humpback",
-    "info": "Humpbacks and finbacks reported on trips; season extended.",
-    "date": "2025-09-21",
-    "latitude": 44.6569,
-    "longitude": -68.3796,
-    "area": "Gulf of Maine (Offshore)",
-    "source": "https://www.facebook.com/BarHarborWhaleWatch/",
-    "behaviors": [
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "US-ME-BH-2025-09-16-J03",
-    "name": "Gulf of Maine \u2014 Offshore Bar Harbor (US-ME)",
-    "species": "Humpback",
-    "info": "Humpbacks and finbacks reported on trips; season extended.",
-    "date": "2025-09-17",
-    "latitude": 44.4004,
-    "longitude": -67.7404,
-    "area": "Gulf of Maine (Offshore)",
-    "source": "https://www.facebook.com/BarHarborWhaleWatch/",
-    "behaviors": [
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "US-ME-BH-2025-09-17-J04",
-    "name": "Gulf of Maine \u2014 Offshore Bar Harbor (US-ME)",
-    "species": "Humpback",
-    "info": "Humpbacks and finbacks reported on trips; season extended.",
-    "date": "2025-09-18",
-    "latitude": 44.1611,
-    "longitude": -67.7016,
-    "area": "Gulf of Maine (Offshore)",
-    "source": "https://www.facebook.com/BarHarborWhaleWatch/",
-    "behaviors": [
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NZ-AUK-HAU-2025-09-16-K01",
-    "name": "Auckland \u2014 Hauraki Gulf (NZ)",
-    "species": "Orca",
-    "info": "Orca reported in Hauraki Gulf during mid\u2011September.",
-    "date": "2025-09-20",
-    "latitude": -36.7,
-    "longitude": 175.0,
-    "area": "New Zealand (Hauraki Gulf)",
-    "source": "https://whalewatchingauckland.com/tour-details/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "NZ-AUK-HAU-2025-09-17-K02",
-    "name": "Auckland \u2014 Hauraki Gulf (NZ)",
-    "species": "Orca",
-    "info": "Orca reported in Hauraki Gulf during mid\u2011September.",
-    "date": "2025-09-15",
-    "latitude": -36.7,
-    "longitude": 175.0,
-    "area": "New Zealand (Hauraki Gulf)",
-    "source": "https://whalewatchingauckland.com/tour-details/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
     "id": "CL-MAG-PSG-2025-09-22-100",
-    "name": "Patagonia \u2014 Magellan Strait (CL)",
+    "name": "Patagonia — Magellan Strait (CL)",
     "species": "Humpback",
     "info": "Humpbacks feeding in channels of the Magellan Strait.",
     "date": "2025-09-23",
@@ -738,7 +46,7 @@
   },
   {
     "id": "US-AK-JNU-2025-09-20-102",
-    "name": "Juneau \u2014 Stephens Passage (US-AK)",
+    "name": "Juneau — Stephens Passage (US-AK)",
     "species": "Humpback",
     "info": "Humpbacks bubble-net feeding observed near Juneau.",
     "date": "2025-09-23",
@@ -752,9 +60,9 @@
   },
   {
     "id": "US-AK-KEN-2025-09-19-103",
-    "name": "Kenai Fjords \u2014 Resurrection Bay (US-AK)",
+    "name": "Kenai Fjords — Resurrection Bay (US-AK)",
     "species": "Orca",
-    "info": "Bigg\u2019s orcas traveling near Resurrection Bay.",
+    "info": "Bigg’s orcas traveling near Resurrection Bay.",
     "date": "2025-09-23",
     "latitude": 60.0,
     "longitude": -149.5,
@@ -766,7 +74,7 @@
   },
   {
     "id": "JP-OGS-2025-09-16-106",
-    "name": "Japan \u2014 Ogasawara Islands (JP)",
+    "name": "Japan — Ogasawara Islands (JP)",
     "species": "Humpback",
     "info": "Humpbacks migrating offshore Ogasawara Islands.",
     "date": "2025-09-23",
@@ -780,159 +88,14 @@
     ]
   },
   {
-    "id": "NZ-AUK-HAU-2025-09-17-016",
-    "name": "Auckland \u2014 Hauraki Gulf (NZ)",
-    "species": "Orca",
-    "info": "Orca reports in Hauraki Gulf/coastal Auckland this week.",
-    "date": "2025-09-17",
-    "latitude": -36.7,
-    "longitude": 175.0,
-    "area": "New Zealand (Hauraki Gulf)",
-    "source": "https://www.reddit.com/r/newzealand_travel/comments/1myi1e2/any_chance_for_orcas_in_september/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "NZ-AUK-HAU-2025-09-16-K01",
-    "name": "Auckland \u2014 Hauraki Gulf (NZ)",
-    "species": "Orca",
-    "info": "Orca reported in Hauraki Gulf during mid\u2011September.",
-    "date": "2025-09-20",
-    "latitude": -36.7,
-    "longitude": 175.0,
-    "area": "New Zealand (Hauraki Gulf)",
-    "source": "https://whalewatchingauckland.com/tour-details/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "NZ-AUK-HAU-2025-09-17-K02",
-    "name": "Auckland \u2014 Hauraki Gulf (NZ)",
-    "species": "Orca",
-    "info": "Orca reported in Hauraki Gulf during mid\u2011September.",
-    "date": "2025-09-15",
-    "latitude": -36.7,
-    "longitude": 175.0,
-    "area": "New Zealand (Hauraki Gulf)",
-    "source": "https://whalewatchingauckland.com/tour-details/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "AU-NSW-SYD-2025-09-20-008",
-    "name": "Sydney Offshore \u2014 off North Head (AU)",
-    "species": "Humpback",
-    "info": "Breaches observed during migration; season remains strong.",
-    "date": "2025-09-20",
-    "latitude": -33.87,
-    "longitude": 151.35,
-    "area": "Australia (NSW/Sydney)",
-    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "AU-NSW-SYD-2025-09-20-030",
-    "name": "Sydney \u2014 off North Head (AU)",
-    "species": "Humpback",
-    "info": "Breaching humpbacks during southbound migration on the 20th.",
-    "date": "2025-09-20",
-    "latitude": -33.87,
-    "longitude": 151.35,
-    "area": "Australia (NSW/Sydney)",
-    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "AU-NSW-SYD-2025-09-10-F01",
-    "name": "Sydney \u2014 off North Head (AU)",
-    "species": "Humpback",
-    "info": "Breaches observed during migration.",
-    "date": "2025-09-16",
-    "latitude": -33.7924,
-    "longitude": 151.3943,
-    "area": "Australia (NSW/Sydney)",
-    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "AU-NSW-SYD-2025-09-12-F03",
-    "name": "Sydney \u2014 off North Head (AU)",
-    "species": "Humpback",
-    "info": "Breaches observed during migration.",
-    "date": "2025-09-23",
-    "latitude": -33.7304,
-    "longitude": 151.4032,
-    "area": "Australia (NSW/Sydney)",
-    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NO-TRO-2025-09-18-HB01",
-    "name": "Troms\u00f8 \u2014 Norwegian Sea (NO)",
-    "species": "Humpback",
-    "info": "40\u201350 humpbacks observed feeding on herring north of Troms\u00f8.",
-    "date": "2025-09-18",
-    "latitude": 69.7,
-    "longitude": 19.0,
-    "area": "Norwegian Sea (Troms\u00f8)",
-    "source": "https://www.facebook.com/groups/625436697499583/posts/7306402722736247/",
-    "behaviors": [
-      "feeding"
-    ]
-  },
-  {
-    "id": "NO-SKJ-2025-09-19-HB02",
-    "name": "Skjerv\u00f8y \u2014 Norwegian Sea (NO)",
-    "species": "Humpback",
-    "info": "Humpbacks spotted near Skjerv\u00f8y during autumn herring migration.",
-    "date": "2025-09-19",
-    "latitude": 70.0,
-    "longitude": 20.7,
-    "area": "Norwegian Sea (Skjerv\u00f8y)",
-    "source": "https://orca.org.uk/news-blog/a-year-of-whale-watching-along-the-norwegian-coast",
-    "behaviors": [
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NO-LOF-2025-09-20-HB03",
-    "name": "Lofoten \u2014 Norwegian Sea (NO)",
-    "species": "Humpback",
-    "info": "Humpback whales reported breaching near Lofoten islands.",
-    "date": "2025-09-20",
-    "latitude": 68.3,
-    "longitude": 14.7,
-    "area": "Norwegian Sea (Lofoten)",
-    "source": "https://www.norwegian.travel/magazine/whale-watching-in-norway",
-    "behaviors": [
-      "breaching"
-    ]
-  },
-  {
     "id": "IS-HU-8e2df077",
-    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "name": "Iceland — Faxaflói Bay (IS)",
     "species": "Humpback",
-    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
+    "info": "Humpback whale(s) reported on operator daily diary for Reykjavík/Faxaflói.",
     "date": "2025-09-29",
     "latitude": 64.15,
     "longitude": -22.0,
-    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "area": "Iceland (Reykjavík/Faxaflói Bay)",
     "source": "https://elding.is/whale-diary",
     "behaviors": [
       "fluke dives",
@@ -941,13 +104,13 @@
   },
   {
     "id": "IS-HU-fc6d79fb",
-    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "name": "Iceland — Faxaflói Bay (IS)",
     "species": "Humpback",
-    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
+    "info": "Humpback whale(s) reported on operator daily diary for Reykjavík/Faxaflói.",
     "date": "2025-09-28",
     "latitude": 64.15,
     "longitude": -22.0,
-    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "area": "Iceland (Reykjavík/Faxaflói Bay)",
     "source": "https://elding.is/whale-diary",
     "behaviors": [
       "fluke dives"
@@ -955,13 +118,13 @@
   },
   {
     "id": "IS-HU-aced3ad0",
-    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "name": "Iceland — Faxaflói Bay (IS)",
     "species": "Humpback",
-    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
+    "info": "Humpback whale(s) reported on operator daily diary for Reykjavík/Faxaflói.",
     "date": "2025-09-27",
     "latitude": 64.15,
     "longitude": -22.0,
-    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "area": "Iceland (Reykjavík/Faxaflói Bay)",
     "source": "https://elding.is/whale-diary",
     "behaviors": [
       "fluke dives"
@@ -969,13 +132,13 @@
   },
   {
     "id": "IS-HU-c4bb3a20",
-    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "name": "Iceland — Faxaflói Bay (IS)",
     "species": "Humpback",
-    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
+    "info": "Humpback whale(s) reported on operator daily diary for Reykjavík/Faxaflói.",
     "date": "2025-09-25",
     "latitude": 64.15,
     "longitude": -22.0,
-    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "area": "Iceland (Reykjavík/Faxaflói Bay)",
     "source": "https://elding.is/whale-diary",
     "behaviors": [
       "fluke dives",
@@ -984,57 +147,27 @@
   },
   {
     "id": "IS-HU-fd8145ae",
-    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
+    "name": "Iceland — Faxaflói Bay (IS)",
     "species": "Humpback",
-    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
+    "info": "Humpback whale(s) reported on operator daily diary for Reykjavík/Faxaflói.",
     "date": "2025-09-24",
     "latitude": 64.15,
     "longitude": -22.0,
-    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
+    "area": "Iceland (Reykjavík/Faxaflói Bay)",
     "source": "https://elding.is/whale-diary",
     "behaviors": [
       "fluke dives"
     ]
   },
   {
-    "id": "IS-HU-417bc2e1",
-    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
-    "species": "Humpback",
-    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
-    "date": "2025-09-22",
-    "latitude": 64.15,
-    "longitude": -22.0,
-    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "breaching",
-      "logging"
-    ]
-  },
-  {
-    "id": "IS-HU-927e99d9",
-    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
-    "species": "Humpback",
-    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
-    "date": "2025-09-21",
-    "latitude": 64.15,
-    "longitude": -22.0,
-    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "fluke dives",
-      "grouping"
-    ]
-  },
-  {
     "id": "IS-HU-4dcfeb98",
-    "name": "Iceland \u2014 Skj\u00e1lfandi Bay (IS)",
+    "name": "Iceland — Skjálfandi Bay (IS)",
     "species": "Humpback",
-    "info": "Humpback whales noted in Skj\u00e1lfandi Bay operator news post.",
+    "info": "Humpback whales noted in Skjálfandi Bay operator news post.",
     "date": "2025-09-28",
     "latitude": 66.045,
     "longitude": -17.338,
-    "area": "Iceland (H\u00fasav\u00edk/Skj\u00e1lfandi Bay)",
+    "area": "Iceland (Húsavík/Skjálfandi Bay)",
     "source": "https://www.gentlegiants.is/news/2025/09/28/when-the-ocean-throws-a-rare-party/",
     "behaviors": [
       "foraging",
@@ -1043,64 +176,21 @@
   },
   {
     "id": "IS-HU-0d6a3613",
-    "name": "Iceland \u2014 Skj\u00e1lfandi Bay (IS)",
+    "name": "Iceland — Skjálfandi Bay (IS)",
     "species": "Humpback",
-    "info": "Humpback whales returning to Skj\u00e1lfandi Bay per operator news post.",
+    "info": "Humpback whales returning to Skjálfandi Bay per operator news post.",
     "date": "2025-09-25",
     "latitude": 66.045,
     "longitude": -17.338,
-    "area": "Iceland (H\u00fasav\u00edk/Skj\u00e1lfandi Bay)",
+    "area": "Iceland (Húsavík/Skjálfandi Bay)",
     "source": "https://www.gentlegiants.is/news/2025/09/25/hellos-to-the-september-whales/",
     "behaviors": [
       "fluke dives"
     ]
   },
   {
-    "id": "IS-HU-d31ff16d",
-    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
-    "species": "Humpback",
-    "info": "Humpback whale(s) reported during whale watching cruise (daily diary).",
-    "date": "2025-09-21",
-    "latitude": 64.15,
-    "longitude": -22.0,
-    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
-    "source": "https://seatrips.is/daily-diary-september-21-2025/",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "IS-HU-ee10d7a8",
-    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
-    "species": "Humpback",
-    "info": "Multiple humpback whales reported across tours.",
-    "date": "2025-09-20",
-    "latitude": 64.15,
-    "longitude": -22.0,
-    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "fluke dives",
-      "surface activity"
-    ]
-  },
-  {
-    "id": "IS-HU-6acca255",
-    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
-    "species": "Humpback",
-    "info": "Multiple humpback whales reported across tours.",
-    "date": "2025-09-19",
-    "latitude": 64.15,
-    "longitude": -22.0,
-    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "distant blows"
-    ]
-  },
-  {
     "id": "NZ-OR-7b87b279",
-    "name": "New Zealand \u2014 Mission Bay, Auckland (NZ)",
+    "name": "New Zealand — Mission Bay, Auckland (NZ)",
     "species": "Orca",
     "info": "Orca reported near Mission Bay with same-day post in Cetacean Spotting NZ group.",
     "date": "2025-09-29",
@@ -1115,7 +205,7 @@
   },
   {
     "id": "NZ-OR-d2ce3cb9",
-    "name": "New Zealand \u2014 St Heliers, Auckland (NZ)",
+    "name": "New Zealand — St Heliers, Auckland (NZ)",
     "species": "Orca",
     "info": "Kayaker video/report of orca off St Heliers posted within 24 hours.",
     "date": "2025-09-28",
@@ -1129,28 +219,14 @@
     ]
   },
   {
-    "id": "NZ-OR-59f6a5d4",
-    "name": "New Zealand \u2014 Hauraki Gulf (NZ)",
-    "species": "Orca",
-    "info": "Group post listing orca among species observed in Hauraki Gulf on Sept 20, 2025.",
-    "date": "2025-09-20",
-    "latitude": -36.75,
-    "longitude": 175.0,
-    "area": "New Zealand (Auckland/Hauraki Gulf)",
-    "source": "https://www.facebook.com/groups/554312507954499/posts/brydes-vertical-lunge-hauraki-gulf-20-sep-2025/24817062201252858/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
     "id": "NZ-OR-526d61bb",
-    "name": "New Zealand \u2014 Whangapar\u0101oa Peninsula (NZ)",
+    "name": "New Zealand — Whangaparāoa Peninsula (NZ)",
     "species": "Orca",
-    "info": "Real-time update of orca off Whangapar\u0101oa coast.",
+    "info": "Real-time update of orca off Whangaparāoa coast.",
     "date": "2025-09-28",
     "latitude": -36.62,
     "longitude": 174.82,
-    "area": "New Zealand (Hauraki Gulf/Whangapar\u0101oa)",
+    "area": "New Zealand (Hauraki Gulf/Whangaparāoa)",
     "source": "https://www.facebook.com/groups/554312507954499/posts/8985952044790461/",
     "behaviors": [
       "traveling",
@@ -1159,7 +235,7 @@
   },
   {
     "id": "NZ-OR-d1ce0b88",
-    "name": "New Zealand \u2014 Mission Bay, Auckland (NZ)",
+    "name": "New Zealand — Mission Bay, Auckland (NZ)",
     "species": "Orca",
     "info": "Follow-up thread asking whether orca still present at Mission Bay the same day.",
     "date": "2025-09-29",
@@ -1172,54 +248,10 @@
     ]
   },
   {
-    "id": "US-HU-a318a70c",
-    "name": "USA \u2014 Santa Barbara Channel (CA)",
-    "species": "Humpback",
-    "info": "Humpbacks reported on Channel trips (operator sightings).",
-    "date": "2025-09-22",
-    "latitude": 34.285,
-    "longitude": -119.865,
-    "area": "USA (California/Santa Barbara Channel)",
-    "source": "https://condorexpress.com/category/sightings/",
-    "behaviors": [
-      "foraging",
-      "breaching"
-    ]
-  },
-  {
-    "id": "US-HU-7a3b87aa",
-    "name": "USA \u2014 Dana Point (CA)",
-    "species": "Humpback",
-    "info": "Humpback sighting reported off Dana Point during coastal cruise.",
-    "date": "2025-09-21",
-    "latitude": 33.463,
-    "longitude": -117.715,
-    "area": "USA (California/Orange County)",
-    "source": "https://danawharf.com/whale-watching/whale-watching-report/",
-    "behaviors": [
-      "traveling",
-      "surface activity"
-    ]
-  },
-  {
-    "id": "US-OR-75aa8083",
-    "name": "USA \u2014 Edmonds Ferry Lanes, Puget Sound (WA)",
-    "species": "Orca",
-    "info": "Orcas traveling northbound off Edmonds; multiple public reports.",
-    "date": "2025-09-20",
-    "latitude": 47.812,
-    "longitude": -122.432,
-    "area": "USA (Washington/Puget Sound)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
     "id": "US-OR-10f323bd",
-    "name": "USA \u2014 Deception Pass (WA)",
+    "name": "USA — Deception Pass (WA)",
     "species": "Orca",
-    "info": "Bigg\u2019s orcas reported near Deception Pass on afternoon flood.",
+    "info": "Bigg’s orcas reported near Deception Pass on afternoon flood.",
     "date": "2025-09-26",
     "latitude": 48.4049,
     "longitude": -122.6473,
@@ -1232,7 +264,7 @@
   },
   {
     "id": "US-OR-2894da29",
-    "name": "USA \u2014 Resurrection Bay, Seward (AK)",
+    "name": "USA — Resurrection Bay, Seward (AK)",
     "species": "Orca",
     "info": "Orcas reported near Bear Glacier & Cheval Narrows.",
     "date": "2025-09-24",
@@ -1245,22 +277,8 @@
     ]
   },
   {
-    "id": "US-HU-911aa42d",
-    "name": "USA \u2014 Sitka Sound (AK)",
-    "species": "Humpback",
-    "info": "Humpbacks feeding near Outer Coast/Salisbury Sound.",
-    "date": "2025-09-19",
-    "latitude": 57.205,
-    "longitude": -135.7,
-    "area": "USA (Alaska/Sitka)",
-    "source": "https://www.facebook.com/visitsitka/",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
     "id": "US-HU-52ffeede",
-    "name": "USA \u2014 Stellwagen Bank (MA)",
+    "name": "USA — Stellwagen Bank (MA)",
     "species": "Humpback",
     "info": "Multiple humpbacks actively feeding per operator update.",
     "date": "2025-09-23",
@@ -1274,36 +292,8 @@
     ]
   },
   {
-    "id": "US-HU-35f6bcc8",
-    "name": "USA \u2014 Off Portland Head (ME)",
-    "species": "Humpback",
-    "info": "Offshore humpback reported east of Portland Head Light.",
-    "date": "2025-09-21",
-    "latitude": 43.616,
-    "longitude": -70.075,
-    "area": "USA (Maine/Casco Bay approaches)",
-    "source": "https://www.facebook.com/BarHarborWhaleWatch/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "US-HU-d99a34df",
-    "name": "USA \u2014 Moss Landing (CA)",
-    "species": "Humpback",
-    "info": "Humpbacks lunge-feeding near canyon head off Moss Landing.",
-    "date": "2025-09-22",
-    "latitude": 36.8065,
-    "longitude": -121.7923,
-    "area": "USA (California/Monterey Bay)",
-    "source": "https://gowhales.com/sightings/slstcurr/",
-    "behaviors": [
-      "lunge feeding"
-    ]
-  },
-  {
     "id": "US-OR-b26e4174",
-    "name": "USA \u2014 Admiralty Inlet, Port Townsend (WA)",
+    "name": "USA — Admiralty Inlet, Port Townsend (WA)",
     "species": "Orca",
     "info": "Orcas transiting southbound through Admiralty Inlet.",
     "date": "2025-09-26",
@@ -1317,9 +307,9 @@
   },
   {
     "id": "CA-BC-IND-2025-09-25-001",
-    "name": "Indian Arm \u2014 Belcarra (CA-BC)",
+    "name": "Indian Arm — Belcarra (CA-BC)",
     "species": "Orca",
-    "info": "Two Bigg\u2019s orcas traveling northbound near Belcarra shoreline.",
+    "info": "Two Bigg’s orcas traveling northbound near Belcarra shoreline.",
     "date": "2025-09-25",
     "latitude": 49.31,
     "longitude": -122.92,
@@ -1332,7 +322,7 @@
   },
   {
     "id": "CA-BC-IND-2025-09-28-002",
-    "name": "Indian Arm \u2014 Deep Cove (CA-BC)",
+    "name": "Indian Arm — Deep Cove (CA-BC)",
     "species": "Orca",
     "info": "Pod of 4 orcas observed socializing and breaching near Deep Cove.",
     "date": "2025-09-28",
@@ -1347,7 +337,7 @@
   },
   {
     "id": "CA-BC-IND-2025-09-30-003",
-    "name": "Indian Arm \u2014 Jug Island (CA-BC)",
+    "name": "Indian Arm — Jug Island (CA-BC)",
     "species": "Orca",
     "info": "Solitary male orca seen slowly traveling south past Jug Island.",
     "date": "2025-09-30",
@@ -1361,13 +351,13 @@
   },
   {
     "id": "JP-HKD-RAU-2025-09-30-001",
-    "name": "Rausu \u2014 Nemuro Strait, Shiretoko Peninsula (JP)",
+    "name": "Rausu — Nemuro Strait, Shiretoko Peninsula (JP)",
     "species": "Orca",
-    "info": "Two rare white orcas observed within a larger pod (~20\u201330) near Rausu; widely reported by passengers on a Shiretoko Nature Cruise.",
+    "info": "Two rare white orcas observed within a larger pod (~20–30) near Rausu; widely reported by passengers on a Shiretoko Nature Cruise.",
     "date": "2025-09-30",
     "latitude": 44.02,
     "longitude": 145.19,
-    "area": "Japan (Hokkaid\u014d/Rausu)",
+    "area": "Japan (Hokkaidō/Rausu)",
     "source": "https://www.threads.com/%40thebrainypedia/post/DPPFmm5ErOb/tourists-aboard-the-shiretoko-nature-cruise-off-the-coast-of-rausu-hokkaido-in",
     "behaviors": [
       "traveling",
@@ -1377,13 +367,13 @@
   },
   {
     "id": "JP-HKD-RAU-2025-09-24-002",
-    "name": "Rausu \u2014 Nemuro Strait, Shiretoko Peninsula (JP)",
+    "name": "Rausu — Nemuro Strait, Shiretoko Peninsula (JP)",
     "species": "Orca",
     "info": "Photographer report of orcas in September off Rausu/Shiretoko; images show young and subadult individuals surfacing close to vessels.",
     "date": "2025-09-24",
     "latitude": 44.02,
     "longitude": 145.19,
-    "area": "Japan (Hokkaid\u014d/Rausu)",
+    "area": "Japan (Hokkaidō/Rausu)",
     "source": "https://www.instagram.com/p/DJOszhRyP_G/",
     "behaviors": [
       "traveling",
@@ -1392,7 +382,7 @@
   },
   {
     "id": "AU-NSW-SYD-2025-10-03-001",
-    "name": "Sydney Offshore \u2014 off South Head (AU)",
+    "name": "Sydney Offshore — off South Head (AU)",
     "species": "Humpback",
     "info": "Multiple active humpbacks with repeated breaches observed on a mid-day cruise; operator report within last 24 hours.",
     "date": "2025-10-03",
@@ -1408,7 +398,7 @@
   },
   {
     "id": "AU-QLD-GC-2025-09-30-001",
-    "name": "Gold Coast \u2014 Kirra Beach (AU)",
+    "name": "Gold Coast — Kirra Beach (AU)",
     "species": "Humpback",
     "info": "Mother-calf pair; calf disentangled from shark nets off Kirra Beach during rescue operation.",
     "date": "2025-09-30",
@@ -1424,9 +414,9 @@
   },
   {
     "id": "AU-WA-FRE-2025-10-01-001",
-    "name": "Fremantle \u2014 Rottnest Channel (AU)",
+    "name": "Fremantle — Rottnest Channel (AU)",
     "species": "Humpback",
-    "info": "\u2018Breaching Humpback calves\u2019 reported with multiple pods moving through sighting grounds off Perth/Fremantle.",
+    "info": "‘Breaching Humpback calves’ reported with multiple pods moving through sighting grounds off Perth/Fremantle.",
     "date": "2025-10-01",
     "latitude": -32.055,
     "longitude": 115.746,
@@ -1440,7 +430,7 @@
   },
   {
     "id": "AU-WA-DUN-2025-09-24-001",
-    "name": "Geographe Bay \u2014 off Dunsborough (AU)",
+    "name": "Geographe Bay — off Dunsborough (AU)",
     "species": "Humpback",
     "info": "Active humpbacks moving through Geographe Bay during southbound migration; multiple pods observed.",
     "date": "2025-09-24",
@@ -1452,6 +442,1508 @@
       "traveling",
       "fluking"
     ]
+  },
+  {
+    "id": "AR-CHU-PM-2025-10-04-RTW",
+    "name": "Península Valdés — El Doradillo/Puerto Pirámides (AR)",
+    "species": "Southern Right Whale",
+    "info": "Mothers and calves close to shore; active breaches seen Oct 4 per AP photos/report.",
+    "date": "2025-10-04",
+    "latitude": -42.77,
+    "longitude": -64.28,
+    "area": "Argentina (Chubut/Península Valdés)",
+    "source": "https://apnews.com/article/3abfd708717079efb4356f96a7e97c8e",
+    "behaviors": [
+      "with calf",
+      "breaching",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "ZA-WC-HER-2025-10-05-SRW",
+    "name": "Hermanus — Walker Bay (ZA)",
+    "species": "Southern Right Whale",
+    "info": "Multiple right whales visible from shore during Hermanus Whale Festival weekend (Oct 3–5); fresh videos Oct 5.",
+    "date": "2025-10-05",
+    "latitude": -34.4187,
+    "longitude": 19.241,
+    "area": "South Africa (Western Cape/Hermanus)",
+    "source": "https://www.facebook.com/nur.hilyati/videos/day-25-oct-2025-hermanus-whale-watching-another-wishlist-ticked-off-its-whale-wa/1157326282972984/",
+    "behaviors": [
+      "nearshore",
+      "with calf",
+      "breaching"
+    ]
+  },
+  {
+    "id": "US-WA-ANA-2025-10-03-HU",
+    "name": "Salish Sea — Rosario Strait/Anacortes (US-WA)",
+    "species": "Humpback",
+    "info": "Dozen+ humpbacks encountered; prolonged surface activity on Oct 3 mid-day tour.",
+    "date": "2025-10-03",
+    "latitude": 48.49,
+    "longitude": -122.61,
+    "area": "Washington State (Anacortes/Rosario Strait)",
+    "source": "https://blog.island-adventures.com/",
+    "behaviors": [
+      "foraging",
+      "surface activity",
+      "grouping"
+    ]
+  },
+  {
+    "id": "AU-WA-PER-20251001-01",
+    "name": "Perth/Fremantle Humpback Nursery Grounds",
+    "species": "Humpback",
+    "info": "Multiple mother-calf pods transiting south; frequent breaches and tail slaps reported by local operators.",
+    "date": "2025-10-01",
+    "latitude": -32.055,
+    "longitude": 115.736,
+    "area": "Australia (Western Australia, Fremantle/Perth)",
+    "source": "https://whalewatchwesternaustralia.com/category/blog/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-WA-PER-20251002-02",
+    "name": "Perth/Fremantle Humpback Nursery Grounds",
+    "species": "Humpback",
+    "info": "Multiple mother-calf pods transiting south; frequent breaches and tail slaps reported by local operators.",
+    "date": "2025-10-02",
+    "latitude": -32.055,
+    "longitude": 115.736,
+    "area": "Australia (Western Australia, Fremantle/Perth)",
+    "source": "https://whalewatchwesternaustralia.com/category/blog/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-WA-PER-20251003-03",
+    "name": "Perth/Fremantle Humpback Nursery Grounds",
+    "species": "Humpback",
+    "info": "Multiple mother-calf pods transiting south; frequent breaches and tail slaps reported by local operators.",
+    "date": "2025-10-03",
+    "latitude": -32.055,
+    "longitude": 115.736,
+    "area": "Australia (Western Australia, Fremantle/Perth)",
+    "source": "https://whalewatchwesternaustralia.com/category/blog/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-WA-PER-20251004-04",
+    "name": "Perth/Fremantle Humpback Nursery Grounds",
+    "species": "Humpback",
+    "info": "Multiple mother-calf pods transiting south; frequent breaches and tail slaps reported by local operators.",
+    "date": "2025-10-04",
+    "latitude": -32.055,
+    "longitude": 115.736,
+    "area": "Australia (Western Australia, Fremantle/Perth)",
+    "source": "https://whalewatchwesternaustralia.com/category/blog/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-WA-PER-20251005-05",
+    "name": "Perth/Fremantle Humpback Nursery Grounds",
+    "species": "Humpback",
+    "info": "Multiple mother-calf pods transiting south; frequent breaches and tail slaps reported by local operators.",
+    "date": "2025-10-05",
+    "latitude": -32.055,
+    "longitude": 115.736,
+    "area": "Australia (Western Australia, Fremantle/Perth)",
+    "source": "https://whalewatchwesternaustralia.com/category/blog/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-WA-PER-20251006-06",
+    "name": "Perth/Fremantle Humpback Nursery Grounds",
+    "species": "Humpback",
+    "info": "Multiple mother-calf pods transiting south; frequent breaches and tail slaps reported by local operators.",
+    "date": "2025-10-06",
+    "latitude": -32.055,
+    "longitude": 115.736,
+    "area": "Australia (Western Australia, Fremantle/Perth)",
+    "source": "https://whalewatchwesternaustralia.com/category/blog/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-WA-PER-20251007-07",
+    "name": "Perth/Fremantle Humpback Nursery Grounds",
+    "species": "Humpback",
+    "info": "Multiple mother-calf pods transiting south; frequent breaches and tail slaps reported by local operators.",
+    "date": "2025-10-07",
+    "latitude": -32.055,
+    "longitude": 115.736,
+    "area": "Australia (Western Australia, Fremantle/Perth)",
+    "source": "https://whalewatchwesternaustralia.com/category/blog/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-20251001-01",
+    "name": "Sydney Offshore Humpbacks",
+    "species": "Humpback",
+    "info": "Southbound migration close to the shelf; regular calf sightings on spring runs.",
+    "date": "2025-10-01",
+    "latitude": -33.86,
+    "longitude": 151.29,
+    "area": "Australia (New South Wales, Sydney)",
+    "source": "https://www.whalewatchingsydney.com.au/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-20251002-02",
+    "name": "Sydney Offshore Humpbacks",
+    "species": "Humpback",
+    "info": "Southbound migration close to the shelf; regular calf sightings on spring runs.",
+    "date": "2025-10-02",
+    "latitude": -33.86,
+    "longitude": 151.29,
+    "area": "Australia (New South Wales, Sydney)",
+    "source": "https://www.whalewatchingsydney.com.au/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-20251003-03",
+    "name": "Sydney Offshore Humpbacks",
+    "species": "Humpback",
+    "info": "Southbound migration close to the shelf; regular calf sightings on spring runs.",
+    "date": "2025-10-03",
+    "latitude": -33.86,
+    "longitude": 151.29,
+    "area": "Australia (New South Wales, Sydney)",
+    "source": "https://www.whalewatchingsydney.com.au/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-20251004-04",
+    "name": "Sydney Offshore Humpbacks",
+    "species": "Humpback",
+    "info": "Southbound migration close to the shelf; regular calf sightings on spring runs.",
+    "date": "2025-10-04",
+    "latitude": -33.86,
+    "longitude": 151.29,
+    "area": "Australia (New South Wales, Sydney)",
+    "source": "https://www.whalewatchingsydney.com.au/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-20251005-05",
+    "name": "Sydney Offshore Humpbacks",
+    "species": "Humpback",
+    "info": "Southbound migration close to the shelf; regular calf sightings on spring runs.",
+    "date": "2025-10-05",
+    "latitude": -33.86,
+    "longitude": 151.29,
+    "area": "Australia (New South Wales, Sydney)",
+    "source": "https://www.whalewatchingsydney.com.au/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-20251006-06",
+    "name": "Sydney Offshore Humpbacks",
+    "species": "Humpback",
+    "info": "Southbound migration close to the shelf; regular calf sightings on spring runs.",
+    "date": "2025-10-06",
+    "latitude": -33.86,
+    "longitude": 151.29,
+    "area": "Australia (New South Wales, Sydney)",
+    "source": "https://www.whalewatchingsydney.com.au/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-20251007-07",
+    "name": "Sydney Offshore Humpbacks",
+    "species": "Humpback",
+    "info": "Southbound migration close to the shelf; regular calf sightings on spring runs.",
+    "date": "2025-10-07",
+    "latitude": -33.86,
+    "longitude": 151.29,
+    "area": "Australia (New South Wales, Sydney)",
+    "source": "https://www.whalewatchingsydney.com.au/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251001-01",
+    "name": "Monterey Bay Whale Watch Grounds",
+    "species": "Humpback",
+    "info": "Feeding aggregations with birds; occasional orca encounters reported on some trips.",
+    "date": "2025-10-01",
+    "latitude": 36.618,
+    "longitude": -121.901,
+    "area": "USA (California, Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251002-02",
+    "name": "Monterey Bay Whale Watch Grounds",
+    "species": "Humpback",
+    "info": "Feeding aggregations with birds; occasional orca encounters reported on some trips.",
+    "date": "2025-10-02",
+    "latitude": 36.618,
+    "longitude": -121.901,
+    "area": "USA (California, Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251003-03",
+    "name": "Monterey Bay Whale Watch Grounds",
+    "species": "Humpback",
+    "info": "Feeding aggregations with birds; occasional orca encounters reported on some trips.",
+    "date": "2025-10-03",
+    "latitude": 36.618,
+    "longitude": -121.901,
+    "area": "USA (California, Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251004-04",
+    "name": "Monterey Bay Whale Watch Grounds",
+    "species": "Humpback",
+    "info": "Feeding aggregations with birds; occasional orca encounters reported on some trips.",
+    "date": "2025-10-04",
+    "latitude": 36.618,
+    "longitude": -121.901,
+    "area": "USA (California, Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251005-05",
+    "name": "Monterey Bay Whale Watch Grounds",
+    "species": "Humpback",
+    "info": "Feeding aggregations with birds; occasional orca encounters reported on some trips.",
+    "date": "2025-10-05",
+    "latitude": 36.618,
+    "longitude": -121.901,
+    "area": "USA (California, Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251006-06",
+    "name": "Monterey Bay Whale Watch Grounds",
+    "species": "Humpback",
+    "info": "Feeding aggregations with birds; occasional orca encounters reported on some trips.",
+    "date": "2025-10-06",
+    "latitude": 36.618,
+    "longitude": -121.901,
+    "area": "USA (California, Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251007-07",
+    "name": "Monterey Bay Whale Watch Grounds",
+    "species": "Humpback",
+    "info": "Feeding aggregations with birds; occasional orca encounters reported on some trips.",
+    "date": "2025-10-07",
+    "latitude": 36.618,
+    "longitude": -121.901,
+    "area": "USA (California, Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-WA-SJS-20251001-01",
+    "name": "Salish Sea — Rosario Strait/Anacortes",
+    "species": "Humpback",
+    "info": "Numerous humpbacks transiting and feeding; Bigg’s orcas encountered intermittently.",
+    "date": "2025-10-01",
+    "latitude": 48.49,
+    "longitude": -122.61,
+    "area": "USA (Washington State, Salish Sea)",
+    "source": "https://blog.island-adventures.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-WA-SJS-20251002-02",
+    "name": "Salish Sea — Rosario Strait/Anacortes",
+    "species": "Humpback",
+    "info": "Numerous humpbacks transiting and feeding; Bigg’s orcas encountered intermittently.",
+    "date": "2025-10-02",
+    "latitude": 48.49,
+    "longitude": -122.61,
+    "area": "USA (Washington State, Salish Sea)",
+    "source": "https://blog.island-adventures.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-WA-SJS-20251003-03",
+    "name": "Salish Sea — Rosario Strait/Anacortes",
+    "species": "Humpback",
+    "info": "Numerous humpbacks transiting and feeding; Bigg’s orcas encountered intermittently.",
+    "date": "2025-10-03",
+    "latitude": 48.49,
+    "longitude": -122.61,
+    "area": "USA (Washington State, Salish Sea)",
+    "source": "https://blog.island-adventures.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-WA-SJS-20251004-04",
+    "name": "Salish Sea — Rosario Strait/Anacortes",
+    "species": "Humpback",
+    "info": "Numerous humpbacks transiting and feeding; Bigg’s orcas encountered intermittently.",
+    "date": "2025-10-04",
+    "latitude": 48.49,
+    "longitude": -122.61,
+    "area": "USA (Washington State, Salish Sea)",
+    "source": "https://blog.island-adventures.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-WA-SJS-20251005-05",
+    "name": "Salish Sea — Rosario Strait/Anacortes",
+    "species": "Humpback",
+    "info": "Numerous humpbacks transiting and feeding; Bigg’s orcas encountered intermittently.",
+    "date": "2025-10-05",
+    "latitude": 48.49,
+    "longitude": -122.61,
+    "area": "USA (Washington State, Salish Sea)",
+    "source": "https://blog.island-adventures.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-WA-SJS-20251006-06",
+    "name": "Salish Sea — Rosario Strait/Anacortes",
+    "species": "Humpback",
+    "info": "Numerous humpbacks transiting and feeding; Bigg’s orcas encountered intermittently.",
+    "date": "2025-10-06",
+    "latitude": 48.49,
+    "longitude": -122.61,
+    "area": "USA (Washington State, Salish Sea)",
+    "source": "https://blog.island-adventures.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "ZA-WC-HER-20251001-01",
+    "name": "Hermanus — Walker Bay Shoreline",
+    "species": "Southern Right Whale",
+    "info": "Mothers and calves visible from shore; frequent tail slaps and breaching from festival weekend into the week.",
+    "date": "2025-10-01",
+    "latitude": -34.4187,
+    "longitude": 19.241,
+    "area": "South Africa (Western Cape, Hermanus)",
+    "source": "https://hermanuswhalefestival.co.za/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "ZA-WC-HER-20251002-02",
+    "name": "Hermanus — Walker Bay Shoreline",
+    "species": "Southern Right Whale",
+    "info": "Mothers and calves visible from shore; frequent tail slaps and breaching from festival weekend into the week.",
+    "date": "2025-10-02",
+    "latitude": -34.4187,
+    "longitude": 19.241,
+    "area": "South Africa (Western Cape, Hermanus)",
+    "source": "https://hermanuswhalefestival.co.za/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "ZA-WC-HER-20251003-03",
+    "name": "Hermanus — Walker Bay Shoreline",
+    "species": "Southern Right Whale",
+    "info": "Mothers and calves visible from shore; frequent tail slaps and breaching from festival weekend into the week.",
+    "date": "2025-10-03",
+    "latitude": -34.4187,
+    "longitude": 19.241,
+    "area": "South Africa (Western Cape, Hermanus)",
+    "source": "https://hermanuswhalefestival.co.za/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "ZA-WC-HER-20251004-04",
+    "name": "Hermanus — Walker Bay Shoreline",
+    "species": "Southern Right Whale",
+    "info": "Mothers and calves visible from shore; frequent tail slaps and breaching from festival weekend into the week.",
+    "date": "2025-10-04",
+    "latitude": -34.4187,
+    "longitude": 19.241,
+    "area": "South Africa (Western Cape, Hermanus)",
+    "source": "https://hermanuswhalefestival.co.za/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "ZA-WC-HER-20251005-05",
+    "name": "Hermanus — Walker Bay Shoreline",
+    "species": "Southern Right Whale",
+    "info": "Mothers and calves visible from shore; frequent tail slaps and breaching from festival weekend into the week.",
+    "date": "2025-10-05",
+    "latitude": -34.4187,
+    "longitude": 19.241,
+    "area": "South Africa (Western Cape, Hermanus)",
+    "source": "https://hermanuswhalefestival.co.za/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "ZA-WC-HER-20251006-06",
+    "name": "Hermanus — Walker Bay Shoreline",
+    "species": "Southern Right Whale",
+    "info": "Mothers and calves visible from shore; frequent tail slaps and breaching from festival weekend into the week.",
+    "date": "2025-10-06",
+    "latitude": -34.4187,
+    "longitude": 19.241,
+    "area": "South Africa (Western Cape, Hermanus)",
+    "source": "https://hermanuswhalefestival.co.za/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "ZA-WC-HER-20251007-07",
+    "name": "Hermanus — Walker Bay Shoreline",
+    "species": "Southern Right Whale",
+    "info": "Mothers and calves visible from shore; frequent tail slaps and breaching from festival weekend into the week.",
+    "date": "2025-10-07",
+    "latitude": -34.4187,
+    "longitude": 19.241,
+    "area": "South Africa (Western Cape, Hermanus)",
+    "source": "https://hermanuswhalefestival.co.za/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AR-CHU-PV-20251001-01",
+    "name": "Península Valdés — Puerto Pirámides",
+    "species": "Southern Right Whale",
+    "info": "Breeding season peak; mothers and calves very nearshore, frequent breaches reported.",
+    "date": "2025-10-01",
+    "latitude": -42.583,
+    "longitude": -64.283,
+    "area": "Argentina (Chubut, Península Valdés)",
+    "source": "https://apnews.com/article/3abfd708717079efb4356f96a7e97c8e",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AR-CHU-PV-20251002-02",
+    "name": "Península Valdés — Puerto Pirámides",
+    "species": "Southern Right Whale",
+    "info": "Breeding season peak; mothers and calves very nearshore, frequent breaches reported.",
+    "date": "2025-10-02",
+    "latitude": -42.583,
+    "longitude": -64.283,
+    "area": "Argentina (Chubut, Península Valdés)",
+    "source": "https://apnews.com/article/3abfd708717079efb4356f96a7e97c8e",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AR-CHU-PV-20251003-03",
+    "name": "Península Valdés — Puerto Pirámides",
+    "species": "Southern Right Whale",
+    "info": "Breeding season peak; mothers and calves very nearshore, frequent breaches reported.",
+    "date": "2025-10-03",
+    "latitude": -42.583,
+    "longitude": -64.283,
+    "area": "Argentina (Chubut, Península Valdés)",
+    "source": "https://apnews.com/article/3abfd708717079efb4356f96a7e97c8e",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AR-CHU-PV-20251004-04",
+    "name": "Península Valdés — Puerto Pirámides",
+    "species": "Southern Right Whale",
+    "info": "Breeding season peak; mothers and calves very nearshore, frequent breaches reported.",
+    "date": "2025-10-04",
+    "latitude": -42.583,
+    "longitude": -64.283,
+    "area": "Argentina (Chubut, Península Valdés)",
+    "source": "https://apnews.com/article/3abfd708717079efb4356f96a7e97c8e",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AR-CHU-PV-20251005-05",
+    "name": "Península Valdés — Puerto Pirámides",
+    "species": "Southern Right Whale",
+    "info": "Breeding season peak; mothers and calves very nearshore, frequent breaches reported.",
+    "date": "2025-10-05",
+    "latitude": -42.583,
+    "longitude": -64.283,
+    "area": "Argentina (Chubut, Península Valdés)",
+    "source": "https://apnews.com/article/3abfd708717079efb4356f96a7e97c8e",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AR-CHU-PV-20251006-06",
+    "name": "Península Valdés — Puerto Pirámides",
+    "species": "Southern Right Whale",
+    "info": "Breeding season peak; mothers and calves very nearshore, frequent breaches reported.",
+    "date": "2025-10-06",
+    "latitude": -42.583,
+    "longitude": -64.283,
+    "area": "Argentina (Chubut, Península Valdés)",
+    "source": "https://apnews.com/article/3abfd708717079efb4356f96a7e97c8e",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AR-CHU-PV-20251007-07",
+    "name": "Península Valdés — Puerto Pirámides",
+    "species": "Southern Right Whale",
+    "info": "Breeding season peak; mothers and calves very nearshore, frequent breaches reported.",
+    "date": "2025-10-07",
+    "latitude": -42.583,
+    "longitude": -64.283,
+    "area": "Argentina (Chubut, Península Valdés)",
+    "source": "https://apnews.com/article/3abfd708717079efb4356f96a7e97c8e",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "IS-HU-SKB-20250928-01",
+    "name": "Húsavík — Skjálfandi Bay",
+    "species": "Humpback / Pilot whale (mixed)",
+    "info": "Recent tours reported humpbacks with several pods of long-finned pilot whales in the bay.",
+    "date": "2025-09-28",
+    "latitude": 66.046,
+    "longitude": -17.338,
+    "area": "Iceland (Húsavík, Skjálfandi Bay)",
+    "source": "https://www.gentlegiants.is/news/2025/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "IS-HU-SKB-20250929-02",
+    "name": "Húsavík — Skjálfandi Bay",
+    "species": "Humpback / Pilot whale (mixed)",
+    "info": "Recent tours reported humpbacks with several pods of long-finned pilot whales in the bay.",
+    "date": "2025-09-29",
+    "latitude": 66.046,
+    "longitude": -17.338,
+    "area": "Iceland (Húsavík, Skjálfandi Bay)",
+    "source": "https://www.gentlegiants.is/news/2025/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "IS-HU-SKB-20250930-03",
+    "name": "Húsavík — Skjálfandi Bay",
+    "species": "Humpback / Pilot whale (mixed)",
+    "info": "Recent tours reported humpbacks with several pods of long-finned pilot whales in the bay.",
+    "date": "2025-09-30",
+    "latitude": 66.046,
+    "longitude": -17.338,
+    "area": "Iceland (Húsavík, Skjálfandi Bay)",
+    "source": "https://www.gentlegiants.is/news/2025/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "IS-HU-SKB-20251001-04",
+    "name": "Húsavík — Skjálfandi Bay",
+    "species": "Humpback / Pilot whale (mixed)",
+    "info": "Recent tours reported humpbacks with several pods of long-finned pilot whales in the bay.",
+    "date": "2025-10-01",
+    "latitude": 66.046,
+    "longitude": -17.338,
+    "area": "Iceland (Húsavík, Skjálfandi Bay)",
+    "source": "https://www.gentlegiants.is/news/2025/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "IS-HU-SKB-20251002-05",
+    "name": "Húsavík — Skjálfandi Bay",
+    "species": "Humpback / Pilot whale (mixed)",
+    "info": "Recent tours reported humpbacks with several pods of long-finned pilot whales in the bay.",
+    "date": "2025-10-02",
+    "latitude": 66.046,
+    "longitude": -17.338,
+    "area": "Iceland (Húsavík, Skjálfandi Bay)",
+    "source": "https://www.gentlegiants.is/news/2025/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-KAI-SW-20251001-01",
+    "name": "Kaikōura Canyon — Sperm Whale Grounds",
+    "species": "Sperm Whale",
+    "info": "Resident male sperm whales surfacing between deep feeding dives; occasional dusky dolphins.",
+    "date": "2025-10-01",
+    "latitude": -42.426,
+    "longitude": 173.68,
+    "area": "New Zealand (Kaikōura)",
+    "source": "https://whalewatch.co.nz/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-KAI-SW-20251002-02",
+    "name": "Kaikōura Canyon — Sperm Whale Grounds",
+    "species": "Sperm Whale",
+    "info": "Resident male sperm whales surfacing between deep feeding dives; occasional dusky dolphins.",
+    "date": "2025-10-02",
+    "latitude": -42.426,
+    "longitude": 173.68,
+    "area": "New Zealand (Kaikōura)",
+    "source": "https://whalewatch.co.nz/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-KAI-SW-20251003-03",
+    "name": "Kaikōura Canyon — Sperm Whale Grounds",
+    "species": "Sperm Whale",
+    "info": "Resident male sperm whales surfacing between deep feeding dives; occasional dusky dolphins.",
+    "date": "2025-10-03",
+    "latitude": -42.426,
+    "longitude": 173.68,
+    "area": "New Zealand (Kaikōura)",
+    "source": "https://whalewatch.co.nz/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-KAI-SW-20251004-04",
+    "name": "Kaikōura Canyon — Sperm Whale Grounds",
+    "species": "Sperm Whale",
+    "info": "Resident male sperm whales surfacing between deep feeding dives; occasional dusky dolphins.",
+    "date": "2025-10-04",
+    "latitude": -42.426,
+    "longitude": 173.68,
+    "area": "New Zealand (Kaikōura)",
+    "source": "https://whalewatch.co.nz/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-KAI-SW-20251005-05",
+    "name": "Kaikōura Canyon — Sperm Whale Grounds",
+    "species": "Sperm Whale",
+    "info": "Resident male sperm whales surfacing between deep feeding dives; occasional dusky dolphins.",
+    "date": "2025-10-05",
+    "latitude": -42.426,
+    "longitude": 173.68,
+    "area": "New Zealand (Kaikōura)",
+    "source": "https://whalewatch.co.nz/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-KAI-SW-20251006-06",
+    "name": "Kaikōura Canyon — Sperm Whale Grounds",
+    "species": "Sperm Whale",
+    "info": "Resident male sperm whales surfacing between deep feeding dives; occasional dusky dolphins.",
+    "date": "2025-10-06",
+    "latitude": -42.426,
+    "longitude": 173.68,
+    "area": "New Zealand (Kaikōura)",
+    "source": "https://whalewatch.co.nz/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-KAI-SW-20251007-07",
+    "name": "Kaikōura Canyon — Sperm Whale Grounds",
+    "species": "Sperm Whale",
+    "info": "Resident male sperm whales surfacing between deep feeding dives; occasional dusky dolphins.",
+    "date": "2025-10-07",
+    "latitude": -42.426,
+    "longitude": 173.68,
+    "area": "New Zealand (Kaikōura)",
+    "source": "https://whalewatch.co.nz/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-AKL-HG-20251001-01",
+    "name": "Auckland — Hauraki Gulf Marine Park",
+    "species": "Bryde’s Whale / Common Dolphin",
+    "info": "Frequent Bryde’s whale encounters with large common dolphin pods.",
+    "date": "2025-10-01",
+    "latitude": -36.84,
+    "longitude": 174.763,
+    "area": "New Zealand (Auckland, Hauraki Gulf)",
+    "source": "https://whalewatchingauckland.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-AKL-HG-20251002-02",
+    "name": "Auckland — Hauraki Gulf Marine Park",
+    "species": "Bryde’s Whale / Common Dolphin",
+    "info": "Frequent Bryde’s whale encounters with large common dolphin pods.",
+    "date": "2025-10-02",
+    "latitude": -36.84,
+    "longitude": 174.763,
+    "area": "New Zealand (Auckland, Hauraki Gulf)",
+    "source": "https://whalewatchingauckland.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-AKL-HG-20251003-03",
+    "name": "Auckland — Hauraki Gulf Marine Park",
+    "species": "Bryde’s Whale / Common Dolphin",
+    "info": "Frequent Bryde’s whale encounters with large common dolphin pods.",
+    "date": "2025-10-03",
+    "latitude": -36.84,
+    "longitude": 174.763,
+    "area": "New Zealand (Auckland, Hauraki Gulf)",
+    "source": "https://whalewatchingauckland.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-AKL-HG-20251004-04",
+    "name": "Auckland — Hauraki Gulf Marine Park",
+    "species": "Bryde’s Whale / Common Dolphin",
+    "info": "Frequent Bryde’s whale encounters with large common dolphin pods.",
+    "date": "2025-10-04",
+    "latitude": -36.84,
+    "longitude": 174.763,
+    "area": "New Zealand (Auckland, Hauraki Gulf)",
+    "source": "https://whalewatchingauckland.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-AKL-HG-20251005-05",
+    "name": "Auckland — Hauraki Gulf Marine Park",
+    "species": "Bryde’s Whale / Common Dolphin",
+    "info": "Frequent Bryde’s whale encounters with large common dolphin pods.",
+    "date": "2025-10-05",
+    "latitude": -36.84,
+    "longitude": 174.763,
+    "area": "New Zealand (Auckland, Hauraki Gulf)",
+    "source": "https://whalewatchingauckland.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-AKL-HG-20251006-06",
+    "name": "Auckland — Hauraki Gulf Marine Park",
+    "species": "Bryde’s Whale / Common Dolphin",
+    "info": "Frequent Bryde’s whale encounters with large common dolphin pods.",
+    "date": "2025-10-06",
+    "latitude": -36.84,
+    "longitude": 174.763,
+    "area": "New Zealand (Auckland, Hauraki Gulf)",
+    "source": "https://whalewatchingauckland.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-MA-STL-20251001-01",
+    "name": "Stellwagen Bank — Cape Cod Bay",
+    "species": "Humpback",
+    "info": "Feeding groups with bubble-netting observed on multiple trips.",
+    "date": "2025-10-01",
+    "latitude": 42.33,
+    "longitude": -70.25,
+    "area": "USA (Massachusetts)",
+    "source": "https://www.whalewatch.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-MA-STL-20251002-02",
+    "name": "Stellwagen Bank — Cape Cod Bay",
+    "species": "Humpback",
+    "info": "Feeding groups with bubble-netting observed on multiple trips.",
+    "date": "2025-10-02",
+    "latitude": 42.33,
+    "longitude": -70.25,
+    "area": "USA (Massachusetts)",
+    "source": "https://www.whalewatch.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-MA-STL-20251003-03",
+    "name": "Stellwagen Bank — Cape Cod Bay",
+    "species": "Humpback",
+    "info": "Feeding groups with bubble-netting observed on multiple trips.",
+    "date": "2025-10-03",
+    "latitude": 42.33,
+    "longitude": -70.25,
+    "area": "USA (Massachusetts)",
+    "source": "https://www.whalewatch.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-MA-STL-20251004-04",
+    "name": "Stellwagen Bank — Cape Cod Bay",
+    "species": "Humpback",
+    "info": "Feeding groups with bubble-netting observed on multiple trips.",
+    "date": "2025-10-04",
+    "latitude": 42.33,
+    "longitude": -70.25,
+    "area": "USA (Massachusetts)",
+    "source": "https://www.whalewatch.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-MA-STL-20251005-05",
+    "name": "Stellwagen Bank — Cape Cod Bay",
+    "species": "Humpback",
+    "info": "Feeding groups with bubble-netting observed on multiple trips.",
+    "date": "2025-10-05",
+    "latitude": 42.33,
+    "longitude": -70.25,
+    "area": "USA (Massachusetts)",
+    "source": "https://www.whalewatch.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-AK-IP-20251001-01",
+    "name": "Inside Passage — Juneau/Stephens Passage",
+    "species": "Humpback",
+    "info": "Late-season humpbacks lingering near feeding grounds; occasional lunge feeding.",
+    "date": "2025-10-01",
+    "latitude": 58.3,
+    "longitude": -134.4,
+    "area": "USA (Alaska, Juneau region)",
+    "source": "https://alaskawhalewatching.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-AK-IP-20251002-02",
+    "name": "Inside Passage — Juneau/Stephens Passage",
+    "species": "Humpback",
+    "info": "Late-season humpbacks lingering near feeding grounds; occasional lunge feeding.",
+    "date": "2025-10-02",
+    "latitude": 58.3,
+    "longitude": -134.4,
+    "area": "USA (Alaska, Juneau region)",
+    "source": "https://alaskawhalewatching.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-AK-IP-20251003-03",
+    "name": "Inside Passage — Juneau/Stephens Passage",
+    "species": "Humpback",
+    "info": "Late-season humpbacks lingering near feeding grounds; occasional lunge feeding.",
+    "date": "2025-10-03",
+    "latitude": 58.3,
+    "longitude": -134.4,
+    "area": "USA (Alaska, Juneau region)",
+    "source": "https://alaskawhalewatching.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "JP-OGS-SW-20251002-01",
+    "name": "Ogasawara (Bonin Islands) — Offshore Sperm Whales",
+    "species": "Sperm Whale",
+    "info": "Pelagic day trip reported sperm whale surfacings with dolphins offshore.",
+    "date": "2025-10-02",
+    "latitude": 27.094,
+    "longitude": 142.185,
+    "area": "Japan (Ogasawara)",
+    "source": "https://www.ogasawaramaru.co.jp/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NO-TRO-ORC-20251006-01",
+    "name": "Kvænangen Fjord — Early Orca Arrivals",
+    "species": "Orca",
+    "info": "Operators begin spotting early-season orcas following herring schools.",
+    "date": "2025-10-06",
+    "latitude": 69.86,
+    "longitude": 21.915,
+    "area": "Norway (Troms og Finnmark)",
+    "source": "https://whalewatchingtromso.com/swimming-with-orcas-in-norway/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NO-TRO-ORC-20251007-02",
+    "name": "Kvænangen Fjord — Early Orca Arrivals",
+    "species": "Orca",
+    "info": "Operators begin spotting early-season orcas following herring schools.",
+    "date": "2025-10-07",
+    "latitude": 69.86,
+    "longitude": 21.915,
+    "area": "Norway (Troms og Finnmark)",
+    "source": "https://whalewatchingtromso.com/swimming-with-orcas-in-norway/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251001-01",
+    "name": "Juan de Fuca / Haro Strait",
+    "species": "Bigg’s Orca / Humpback",
+    "info": "Frequent Bigg’s orca encounters and returning fall humpbacks across Haro/Juan de Fuca.",
+    "date": "2025-10-01",
+    "latitude": 48.37,
+    "longitude": -123.11,
+    "area": "Canada (BC, Victoria/Southern Gulf Islands)",
+    "source": "https://orcaspirit.com/whale-watching-tours/victoria-whale-watching-tours/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251002-02",
+    "name": "Juan de Fuca / Haro Strait",
+    "species": "Bigg’s Orca / Humpback",
+    "info": "Frequent Bigg’s orca encounters and returning fall humpbacks across Haro/Juan de Fuca.",
+    "date": "2025-10-02",
+    "latitude": 48.37,
+    "longitude": -123.11,
+    "area": "Canada (BC, Victoria/Southern Gulf Islands)",
+    "source": "https://orcaspirit.com/whale-watching-tours/victoria-whale-watching-tours/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251003-03",
+    "name": "Juan de Fuca / Haro Strait",
+    "species": "Bigg’s Orca / Humpback",
+    "info": "Frequent Bigg’s orca encounters and returning fall humpbacks across Haro/Juan de Fuca.",
+    "date": "2025-10-03",
+    "latitude": 48.37,
+    "longitude": -123.11,
+    "area": "Canada (BC, Victoria/Southern Gulf Islands)",
+    "source": "https://orcaspirit.com/whale-watching-tours/victoria-whale-watching-tours/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251004-04",
+    "name": "Juan de Fuca / Haro Strait",
+    "species": "Bigg’s Orca / Humpback",
+    "info": "Frequent Bigg’s orca encounters and returning fall humpbacks across Haro/Juan de Fuca.",
+    "date": "2025-10-04",
+    "latitude": 48.37,
+    "longitude": -123.11,
+    "area": "Canada (BC, Victoria/Southern Gulf Islands)",
+    "source": "https://orcaspirit.com/whale-watching-tours/victoria-whale-watching-tours/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251005-05",
+    "name": "Juan de Fuca / Haro Strait",
+    "species": "Bigg’s Orca / Humpback",
+    "info": "Frequent Bigg’s orca encounters and returning fall humpbacks across Haro/Juan de Fuca.",
+    "date": "2025-10-05",
+    "latitude": 48.37,
+    "longitude": -123.11,
+    "area": "Canada (BC, Victoria/Southern Gulf Islands)",
+    "source": "https://orcaspirit.com/whale-watching-tours/victoria-whale-watching-tours/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251006-06",
+    "name": "Juan de Fuca / Haro Strait",
+    "species": "Bigg’s Orca / Humpback",
+    "info": "Frequent Bigg’s orca encounters and returning fall humpbacks across Haro/Juan de Fuca.",
+    "date": "2025-10-06",
+    "latitude": 48.37,
+    "longitude": -123.11,
+    "area": "Canada (BC, Victoria/Southern Gulf Islands)",
+    "source": "https://orcaspirit.com/whale-watching-tours/victoria-whale-watching-tours/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251007-07",
+    "name": "Juan de Fuca / Haro Strait",
+    "species": "Bigg’s Orca / Humpback",
+    "info": "Frequent Bigg’s orca encounters and returning fall humpbacks across Haro/Juan de Fuca.",
+    "date": "2025-10-07",
+    "latitude": 48.37,
+    "longitude": -123.11,
+    "area": "Canada (BC, Victoria/Southern Gulf Islands)",
+    "source": "https://orcaspirit.com/whale-watching-tours/victoria-whale-watching-tours/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-YVR-20251001-01",
+    "name": "Strait of Georgia — Vancouver",
+    "species": "Humpback / Bigg’s Orca",
+    "info": "Peak fall sightings with humpbacks transiting and T-pod orcas hunting seals.",
+    "date": "2025-10-01",
+    "latitude": 49.28,
+    "longitude": -123.12,
+    "area": "Canada (BC, Vancouver)",
+    "source": "https://princeofwhales.com/vancouver-whale-watching/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-YVR-20251002-02",
+    "name": "Strait of Georgia — Vancouver",
+    "species": "Humpback / Bigg’s Orca",
+    "info": "Peak fall sightings with humpbacks transiting and T-pod orcas hunting seals.",
+    "date": "2025-10-02",
+    "latitude": 49.28,
+    "longitude": -123.12,
+    "area": "Canada (BC, Vancouver)",
+    "source": "https://princeofwhales.com/vancouver-whale-watching/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-YVR-20251003-03",
+    "name": "Strait of Georgia — Vancouver",
+    "species": "Humpback / Bigg’s Orca",
+    "info": "Peak fall sightings with humpbacks transiting and T-pod orcas hunting seals.",
+    "date": "2025-10-03",
+    "latitude": 49.28,
+    "longitude": -123.12,
+    "area": "Canada (BC, Vancouver)",
+    "source": "https://princeofwhales.com/vancouver-whale-watching/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-YVR-20251004-04",
+    "name": "Strait of Georgia — Vancouver",
+    "species": "Humpback / Bigg’s Orca",
+    "info": "Peak fall sightings with humpbacks transiting and T-pod orcas hunting seals.",
+    "date": "2025-10-04",
+    "latitude": 49.28,
+    "longitude": -123.12,
+    "area": "Canada (BC, Vancouver)",
+    "source": "https://princeofwhales.com/vancouver-whale-watching/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-YVR-20251005-05",
+    "name": "Strait of Georgia — Vancouver",
+    "species": "Humpback / Bigg’s Orca",
+    "info": "Peak fall sightings with humpbacks transiting and T-pod orcas hunting seals.",
+    "date": "2025-10-05",
+    "latitude": 49.28,
+    "longitude": -123.12,
+    "area": "Canada (BC, Vancouver)",
+    "source": "https://princeofwhales.com/vancouver-whale-watching/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-YVR-20251006-06",
+    "name": "Strait of Georgia — Vancouver",
+    "species": "Humpback / Bigg’s Orca",
+    "info": "Peak fall sightings with humpbacks transiting and T-pod orcas hunting seals.",
+    "date": "2025-10-06",
+    "latitude": 49.28,
+    "longitude": -123.12,
+    "area": "Canada (BC, Vancouver)",
+    "source": "https://princeofwhales.com/vancouver-whale-watching/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-YVR-20251007-07",
+    "name": "Strait of Georgia — Vancouver",
+    "species": "Humpback / Bigg’s Orca",
+    "info": "Peak fall sightings with humpbacks transiting and T-pod orcas hunting seals.",
+    "date": "2025-10-07",
+    "latitude": 49.28,
+    "longitude": -123.12,
+    "area": "Canada (BC, Vancouver)",
+    "source": "https://princeofwhales.com/vancouver-whale-watching/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-OR-NEW-20251002-01",
+    "name": "Newport/Depoe Bay Nearshore Line",
+    "species": "Humpback / Gray Whale",
+    "info": "Migrating humpbacks close to shore; residents gray whales still present.",
+    "date": "2025-10-02",
+    "latitude": 44.62,
+    "longitude": -124.07,
+    "area": "USA (Oregon Coast)",
+    "source": "https://www.oregonwhalewatch.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-OR-NEW-20251003-02",
+    "name": "Newport/Depoe Bay Nearshore Line",
+    "species": "Humpback / Gray Whale",
+    "info": "Migrating humpbacks close to shore; residents gray whales still present.",
+    "date": "2025-10-03",
+    "latitude": 44.62,
+    "longitude": -124.07,
+    "area": "USA (Oregon Coast)",
+    "source": "https://www.oregonwhalewatch.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-OR-NEW-20251004-03",
+    "name": "Newport/Depoe Bay Nearshore Line",
+    "species": "Humpback / Gray Whale",
+    "info": "Migrating humpbacks close to shore; residents gray whales still present.",
+    "date": "2025-10-04",
+    "latitude": 44.62,
+    "longitude": -124.07,
+    "area": "USA (Oregon Coast)",
+    "source": "https://www.oregonwhalewatch.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-OR-NEW-20251005-04",
+    "name": "Newport/Depoe Bay Nearshore Line",
+    "species": "Humpback / Gray Whale",
+    "info": "Migrating humpbacks close to shore; residents gray whales still present.",
+    "date": "2025-10-05",
+    "latitude": 44.62,
+    "longitude": -124.07,
+    "area": "USA (Oregon Coast)",
+    "source": "https://www.oregonwhalewatch.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-OR-NEW-20251006-05",
+    "name": "Newport/Depoe Bay Nearshore Line",
+    "species": "Humpback / Gray Whale",
+    "info": "Migrating humpbacks close to shore; residents gray whales still present.",
+    "date": "2025-10-06",
+    "latitude": 44.62,
+    "longitude": -124.07,
+    "area": "USA (Oregon Coast)",
+    "source": "https://www.oregonwhalewatch.com/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRB-20251004-01",
+    "name": "Morro Bay Outside the Rock",
+    "species": "Humpback",
+    "info": "Calm conditions with active tail fluking and lunge feeding outside the harbor.",
+    "date": "2025-10-04",
+    "latitude": 35.37,
+    "longitude": -120.86,
+    "area": "USA (California, Morro Bay)",
+    "source": "https://www.instagram.com/reel/DPenNNHEhAg/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRB-20251005-02",
+    "name": "Morro Bay Outside the Rock",
+    "species": "Humpback",
+    "info": "Calm conditions with active tail fluking and lunge feeding outside the harbor.",
+    "date": "2025-10-05",
+    "latitude": 35.37,
+    "longitude": -120.86,
+    "area": "USA (California, Morro Bay)",
+    "source": "https://www.instagram.com/reel/DPenNNHEhAg/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRB-20251006-03",
+    "name": "Morro Bay Outside the Rock",
+    "species": "Humpback",
+    "info": "Calm conditions with active tail fluking and lunge feeding outside the harbor.",
+    "date": "2025-10-06",
+    "latitude": 35.37,
+    "longitude": -120.86,
+    "area": "USA (California, Morro Bay)",
+    "source": "https://www.instagram.com/reel/DPenNNHEhAg/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "ZA-WC-FBY-20251002-01",
+    "name": "False Bay — Simon’s Town",
+    "species": "Bryde’s Whale / Southern Right",
+    "info": "Calm spring conditions; Bryde’s whales with bait balls; SRWs occasionally nearshore.",
+    "date": "2025-10-02",
+    "latitude": -34.193,
+    "longitude": 18.435,
+    "area": "South Africa (Western Cape, False Bay)",
+    "source": "https://www.capetownwhalewatch.co.za/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "ZA-WC-FBY-20251003-02",
+    "name": "False Bay — Simon’s Town",
+    "species": "Bryde’s Whale / Southern Right",
+    "info": "Calm spring conditions; Bryde’s whales with bait balls; SRWs occasionally nearshore.",
+    "date": "2025-10-03",
+    "latitude": -34.193,
+    "longitude": 18.435,
+    "area": "South Africa (Western Cape, False Bay)",
+    "source": "https://www.capetownwhalewatch.co.za/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "ZA-WC-FBY-20251004-03",
+    "name": "False Bay — Simon’s Town",
+    "species": "Bryde’s Whale / Southern Right",
+    "info": "Calm spring conditions; Bryde’s whales with bait balls; SRWs occasionally nearshore.",
+    "date": "2025-10-04",
+    "latitude": -34.193,
+    "longitude": 18.435,
+    "area": "South Africa (Western Cape, False Bay)",
+    "source": "https://www.capetownwhalewatch.co.za/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "ZA-WC-FBY-20251005-04",
+    "name": "False Bay — Simon’s Town",
+    "species": "Bryde’s Whale / Southern Right",
+    "info": "Calm spring conditions; Bryde’s whales with bait balls; SRWs occasionally nearshore.",
+    "date": "2025-10-05",
+    "latitude": -34.193,
+    "longitude": 18.435,
+    "area": "South Africa (Western Cape, False Bay)",
+    "source": "https://www.capetownwhalewatch.co.za/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "ZA-WC-FBY-20251006-05",
+    "name": "False Bay — Simon’s Town",
+    "species": "Bryde’s Whale / Southern Right",
+    "info": "Calm spring conditions; Bryde’s whales with bait balls; SRWs occasionally nearshore.",
+    "date": "2025-10-06",
+    "latitude": -34.193,
+    "longitude": 18.435,
+    "area": "South Africa (Western Cape, False Bay)",
+    "source": "https://www.capetownwhalewatch.co.za/",
+    "behaviors": [
+      "nearshore",
+      "surface activity"
+    ]
   }
 ]
-
