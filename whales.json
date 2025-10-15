@@ -1040,185 +1040,6 @@
     ]
   },
   {
-    "id": "CA-BC-IND-2025-09-30-003",
-    "name": "Indian Arm \u2014 Jug Island (CA-BC)",
-    "species": "Orca",
-    "info": "Solitary male orca seen slowly traveling south past Jug Island.",
-    "date": "2025-09-30",
-    "latitude": 49.35,
-    "longitude": -122.88,
-    "area": "Canada (BC/Indian Arm)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "JP-HKD-RAU-2025-09-30-001",
-    "name": "Rausu \u2014 Nemuro Strait, Shiretoko Peninsula (JP)",
-    "species": "Orca",
-    "info": "Two rare white orcas observed within a larger pod (~20\u201330) near Rausu; widely reported by passengers on a Shiretoko Nature Cruise.",
-    "date": "2025-09-30",
-    "latitude": 44.02,
-    "longitude": 145.19,
-    "area": "Japan (Hokkaid\u014d/Rausu)",
-    "source": "https://www.threads.com/%40thebrainypedia/post/DPPFmm5ErOb/tourists-aboard-the-shiretoko-nature-cruise-off-the-coast-of-rausu-hokkaido-in",
-    "behaviors": [
-      "traveling",
-      "socializing",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "AU-QLD-GC-2025-09-30-001",
-    "name": "Gold Coast \u2014 Kirra Beach (AU)",
-    "species": "Humpback",
-    "info": "Mother-calf pair; calf disentangled from shark nets off Kirra Beach during rescue operation.",
-    "date": "2025-09-30",
-    "latitude": -28.166,
-    "longitude": 153.534,
-    "area": "Australia (QLD/Gold Coast)",
-    "source": "https://www.couriermail.com.au/news/gold-coast/rescue-operation-underway-to-save-whale-off-gold-coast-beach/news-story/b41e7adb3afd541cdd6ba32f28e137a5",
-    "behaviors": [
-      "with calf",
-      "resting",
-      "entanglement-rescue"
-    ]
-  },
-  {
-    "id": "IS-HU-8e2df077",
-    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
-    "species": "Humpback",
-    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
-    "date": "2025-09-29",
-    "latitude": 64.15,
-    "longitude": -22.0,
-    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "fluke dives",
-      "foraging"
-    ]
-  },
-  {
-    "id": "NZ-OR-7b87b279",
-    "name": "New Zealand \u2014 Mission Bay, Auckland (NZ)",
-    "species": "Orca",
-    "info": "Orca reported near Mission Bay with same-day post in Cetacean Spotting NZ group.",
-    "date": "2025-09-29",
-    "latitude": -36.848,
-    "longitude": 174.83,
-    "area": "New Zealand (Auckland/Hauraki Gulf)",
-    "source": "https://www.facebook.com/groups/554312507954499/posts/24426787306947018/",
-    "behaviors": [
-      "traveling",
-      "nearshore"
-    ]
-  },
-  {
-    "id": "NZ-OR-d1ce0b88",
-    "name": "New Zealand \u2014 Mission Bay, Auckland (NZ)",
-    "species": "Orca",
-    "info": "Follow-up thread asking whether orca still present at Mission Bay the same day.",
-    "date": "2025-09-29",
-    "latitude": -36.848,
-    "longitude": 174.83,
-    "area": "New Zealand (Auckland/Hauraki Gulf)",
-    "source": "https://www.facebook.com/groups/554312507954499/posts/24427178300241252/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "NZ-WGN-ISLBAY-20250929-ORCA",
-    "name": "Island Bay / Wellington",
-    "species": "Orca",
-    "info": "Multiple orca filmed close to shore around Island Bay on Sep 29.",
-    "date": "2025-09-29",
-    "latitude": -41.345,
-    "longitude": 174.773,
-    "area": "New Zealand (Wellington)",
-    "source": "https://www.instagram.com/reel/DPNhLQNk6Vn/",
-    "behaviors": [
-      "nearshore",
-      "traveling"
-    ]
-  },
-  {
-    "id": "IS-HU-fc6d79fb",
-    "name": "Iceland \u2014 Faxafl\u00f3i Bay (IS)",
-    "species": "Humpback",
-    "info": "Humpback whale(s) reported on operator daily diary for Reykjav\u00edk/Faxafl\u00f3i.",
-    "date": "2025-09-28",
-    "latitude": 64.15,
-    "longitude": -22.0,
-    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i Bay)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "fluke dives"
-    ]
-  },
-  {
-    "id": "IS-HU-4dcfeb98",
-    "name": "Iceland \u2014 Skj\u00e1lfandi Bay (IS)",
-    "species": "Humpback",
-    "info": "Humpback whales noted in Skj\u00e1lfandi Bay operator news post.",
-    "date": "2025-09-28",
-    "latitude": 66.045,
-    "longitude": -17.338,
-    "area": "Iceland (H\u00fasav\u00edk/Skj\u00e1lfandi Bay)",
-    "source": "https://www.gentlegiants.is/news/2025/09/28/when-the-ocean-throws-a-rare-party/",
-    "behaviors": [
-      "foraging",
-      "tail slaps"
-    ]
-  },
-  {
-    "id": "NZ-OR-d2ce3cb9",
-    "name": "New Zealand \u2014 St Heliers, Auckland (NZ)",
-    "species": "Orca",
-    "info": "Kayaker video/report of orca off St Heliers posted within 24 hours.",
-    "date": "2025-09-28",
-    "latitude": -36.856,
-    "longitude": 174.86,
-    "area": "New Zealand (Auckland/Hauraki Gulf)",
-    "source": "https://www.facebook.com/groups/NorthShoreNZ/posts/10163641920386399/",
-    "behaviors": [
-      "foraging",
-      "nearshore"
-    ]
-  },
-  {
-    "id": "NZ-OR-526d61bb",
-    "name": "New Zealand \u2014 Whangapar\u0101oa Peninsula (NZ)",
-    "species": "Orca",
-    "info": "Real-time update of orca off Whangapar\u0101oa coast.",
-    "date": "2025-09-28",
-    "latitude": -36.62,
-    "longitude": 174.82,
-    "area": "New Zealand (Hauraki Gulf/Whangapar\u0101oa)",
-    "source": "https://www.facebook.com/groups/554312507954499/posts/8985952044790461/",
-    "behaviors": [
-      "traveling",
-      "nearshore"
-    ]
-  },
-  {
-    "id": "CA-BC-IND-2025-09-28-002",
-    "name": "Indian Arm \u2014 Deep Cove (CA-BC)",
-    "species": "Orca",
-    "info": "Pod of 4 orcas observed socializing and breaching near Deep Cove.",
-    "date": "2025-09-28",
-    "latitude": 49.33,
-    "longitude": -122.95,
-    "area": "Canada (BC/Indian Arm)",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
-    "behaviors": [
-      "breaching",
-      "socializing"
-    ]
-  },
-  {
     "id": "NZ-KAI-20251010-WHITEHB",
     "name": "Kaik\u014dura \u2014 Goose Bay / South Bay",
     "species": "Humpback (White)",
@@ -1462,20 +1283,6 @@
     ]
   },
   {
-    "id": "PT-AZO-FAI-20250930-HB",
-    "name": "Azores \u2014 Faial/Pico Channel",
-    "species": "Humpback",
-    "info": "Operator diaries mention late-season humpback sightings around the channel.",
-    "date": "2025-09-30",
-    "latitude": 38.55,
-    "longitude": -28.63,
-    "area": "Portugal (Azores)",
-    "source": "https://www.facebook.com/azoreswhalewatching/",
-    "behaviors": [
-      "surface activity"
-    ]
-  },
-  {
     "id": "PT-MAD-20251002-HB",
     "name": "Madeira \u2014 Off Funchal",
     "species": "Humpback",
@@ -1546,6 +1353,186 @@
     "source": "https://www.whalewatch.com/",
     "behaviors": [
       "bubble-net feeding"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251014-VWW-BBF",
+    "name": "Victoria \u2014 Haro Strait bait ball",
+    "species": "Humpback",
+    "info": "Captain\u2019s Log 'Bait Ball Frenzy' notes active humpbacks feeding in Haro Strait on Oct 14.",
+    "date": "2025-10-14",
+    "latitude": 48.45,
+    "longitude": -123.05,
+    "area": "Canada (BC/Victoria)",
+    "source": "https://www.victoriawhalewatching.com/captains_log/",
+    "behaviors": [
+      "foraging",
+      "lunge feeding (likely)"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251014-EW-HB",
+    "name": "Victoria \u2014 Discovery/Haro Strait",
+    "species": "Humpback",
+    "info": "Eagle Wing Tours daily report lists humpback whales among sightings on Oct 14.",
+    "date": "2025-10-14",
+    "latitude": 48.42,
+    "longitude": -123.15,
+    "area": "Canada (BC/Victoria)",
+    "source": "https://eaglewingtours.com/",
+    "behaviors": [
+      "fluke dives",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251014-EW-ORC",
+    "name": "Victoria \u2014 Juan de Fuca / Discovery Island",
+    "species": "Orca",
+    "info": "Eagle Wing Tours daily report includes orcas on Oct 14.",
+    "date": "2025-10-14",
+    "latitude": 48.41,
+    "longitude": -123.18,
+    "area": "Canada (BC/Victoria)",
+    "source": "https://eaglewingtours.com/",
+    "behaviors": [
+      "traveling",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "IS-RVK-20251014-ELD-HB-2",
+    "name": "Faxafl\u00f3i Bay \u2014 off Reykjav\u00edk",
+    "species": "Humpback",
+    "info": "Elding Whale Diary (Oct 14) reports a pair of humpback whales, including 'Birdie'.",
+    "date": "2025-10-14",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary/tuesday-14-october-2025",
+    "behaviors": [
+      "fluke dives",
+      "pair"
+    ]
+  },
+  {
+    "id": "US-WA-ANA-20251010-IA-HB-2",
+    "name": "Rosario Strait / Anacortes",
+    "species": "Humpback",
+    "info": "Island Adventures blog (Oct 10) details multiple humpbacks in the Salish Sea.",
+    "date": "2025-10-10",
+    "latitude": 48.5,
+    "longitude": -122.65,
+    "area": "USA (Washington/Anacortes)",
+    "source": "https://blog.island-adventures.com/2025/10/october-10-2025.html",
+    "behaviors": [
+      "foraging",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-WA-ANA-20251010-IA-ORC",
+    "name": "San Juan Islands \u2014 Haro/Rosario",
+    "species": "Orca",
+    "info": "Island Adventures reports Bigg\u2019s orcas in the area on Oct 10.",
+    "date": "2025-10-10",
+    "latitude": 48.56,
+    "longitude": -123.05,
+    "area": "USA (Washington/Salish Sea)",
+    "source": "https://blog.island-adventures.com/2025/10/october-10-2025.html",
+    "behaviors": [
+      "traveling",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "NZ-CAN-KAI-20251014-DEK-ORC",
+    "name": "Kaik\u014dura \u2014 South Bay",
+    "species": "Orca",
+    "info": "Dolphin Encounter Kaik\u014dura posts recent reels of orca along the peninsula (Oct 14 week).",
+    "date": "2025-10-14",
+    "latitude": -42.432,
+    "longitude": 173.708,
+    "area": "New Zealand (Kaik\u014dura)",
+    "source": "https://www.facebook.com/DolphinEncounterKaikoura/",
+    "behaviors": [
+      "nearshore",
+      "foraging"
+    ]
+  },
+  {
+    "id": "NZ-CAN-KAI-20251013-DEK-ORC-2",
+    "name": "Kaik\u014dura \u2014 Peninsula",
+    "species": "Orca",
+    "info": "Operator video from Oct 13 shows a pack of orca nearshore.",
+    "date": "2025-10-13",
+    "latitude": -42.425,
+    "longitude": 173.71,
+    "area": "New Zealand (Kaik\u014dura)",
+    "source": "https://www.facebook.com/DolphinEncounterKaikoura/",
+    "behaviors": [
+      "traveling",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-20251011-WWS-HB",
+    "name": "Sydney \u2014 off South Head",
+    "species": "Humpback",
+    "info": "Whale Watching Sydney sightings page shows active southbound pods during Oct 11 weekend.",
+    "date": "2025-10-11",
+    "latitude": -33.86,
+    "longitude": 151.29,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.whalewatchingsydney.com.au/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "with calf"
+    ]
+  },
+  {
+    "id": "AU-WA-FRE-20251009-WWWA-HB",
+    "name": "Fremantle \u2014 Rottnest Channel",
+    "species": "Humpback",
+    "info": "Whale Watch Western Australia Daily Whale logs strong humpback activity first half of Oct.",
+    "date": "2025-10-09",
+    "latitude": -32.06,
+    "longitude": 115.63,
+    "area": "Australia (WA/Fremantle)",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "breaching",
+      "tail slaps"
+    ]
+  },
+  {
+    "id": "IS-RVK-20251010-ELD-HB-3",
+    "name": "Faxafl\u00f3i Bay \u2014 Reykjav\u00edk",
+    "species": "Humpback",
+    "info": "Elding Whale Diary for Oct 10 lists humpback activity on multiple tours.",
+    "date": "2025-10-10",
+    "latitude": 64.18,
+    "longitude": -22.05,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary/friday-10-october-2025",
+    "behaviors": [
+      "fluke dives",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NO-TRO-20251010-KVAEN-ORC-2",
+    "name": "Kv\u00e6nangen Fjord \u2014 Troms",
+    "species": "Orca",
+    "info": "Early-season orcas following herring schools reported by Troms\u00f8 operators.",
+    "date": "2025-10-10",
+    "latitude": 69.86,
+    "longitude": 21.92,
+    "area": "Norway (Troms og Finnmark)",
+    "source": "https://whalewatchingtromso.com/swimming-with-orcas-in-norway/",
+    "behaviors": [
+      "foraging",
+      "traveling"
     ]
   }
 ]
