@@ -1,5 +1,185 @@
 [
   {
+    "id": "IS-RVK-20251022-ELD-0900-HB",
+    "name": "Faxafl\u00f3i Bay \u2014 near Vi\u00f0ey",
+    "species": "Humpback",
+    "info": "Humpback close to Reykjav\u00edk; flukes observed.",
+    "date": "2025-10-22",
+    "latitude": 64.18,
+    "longitude": -22.05,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary/wednesday-22-october-2025",
+    "behaviors": [
+      "fluke dives",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "IS-RVK-20251022-WS-HB",
+    "name": "Faxafl\u00f3i Bay \u2014 central basin",
+    "species": "Humpback",
+    "info": "Whale Safari diary: humpback plus other species logged on Oct 22.",
+    "date": "2025-10-22",
+    "latitude": 64.17,
+    "longitude": -22.05,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i)",
+    "source": "https://whalesafari.is/whale-diary/22nd-october-2025",
+    "behaviors": [
+      "fluke dives",
+      "foraging"
+    ]
+  },
+  {
+    "id": "IS-RVK-20251021-ELD-HB",
+    "name": "Faxafl\u00f3i Bay \u2014 off Reykjav\u00edk",
+    "species": "Humpback",
+    "info": "Pair of humpbacks feeding close to coastline.",
+    "date": "2025-10-21",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "fluke dives",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251020-MBWW-0900-HB",
+    "name": "Monterey Bay \u2014 Moss Landing",
+    "species": "Humpback",
+    "info": "Humpback whales (pec slapping) \u2014 morning trip.",
+    "date": "2025-10-20",
+    "latitude": 36.8,
+    "longitude": -121.79,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "foraging",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251019-MBWW-1430-HB",
+    "name": "Monterey Bay \u2014 Moss Landing",
+    "species": "Humpback",
+    "info": "Afternoon trip: 3 humpbacks.",
+    "date": "2025-10-19",
+    "latitude": 36.8,
+    "longitude": -121.79,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "foraging",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251019-MBWW-1330-ORC",
+    "name": "Monterey Bay \u2014 Monterey Canyon rim",
+    "species": "Orca",
+    "info": "Orcas present with humpbacks.",
+    "date": "2025-10-19",
+    "latitude": 36.72,
+    "longitude": -121.94,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "foraging",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251019-MBWW-1000-ORC",
+    "name": "Monterey Bay \u2014 Soquel Canyon",
+    "species": "Orca",
+    "info": "3 orcas (CA51As & 'Jimmy').",
+    "date": "2025-10-19",
+    "latitude": 36.78,
+    "longitude": -121.9,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "foraging",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251019-MBWW-0900-ORC",
+    "name": "Monterey Bay \u2014 Soquel Canyon",
+    "species": "Orca",
+    "info": "3 orcas (CA51As & 'Jimmy') with 6 humpbacks.",
+    "date": "2025-10-19",
+    "latitude": 36.78,
+    "longitude": -121.9,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "foraging",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251019-MBWW-0900-HB",
+    "name": "Monterey Bay \u2014 Soquel Canyon",
+    "species": "Humpback",
+    "info": "6 humpbacks with orcas.",
+    "date": "2025-10-19",
+    "latitude": 36.78,
+    "longitude": -121.9,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "foraging",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251018-MBWW-1430-ORC",
+    "name": "Monterey Bay \u2014 Soquel Canyon",
+    "species": "Orca",
+    "info": "7 orcas (CA51As & CA50B 'Jimmy').",
+    "date": "2025-10-18",
+    "latitude": 36.78,
+    "longitude": -121.9,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "foraging",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251018-MBWW-1330-ORC",
+    "name": "Monterey Bay \u2014 Soquel Canyon",
+    "species": "Orca",
+    "info": "4 orcas (CA51As) with 13 humpbacks.",
+    "date": "2025-10-18",
+    "latitude": 36.78,
+    "longitude": -121.9,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://gowhales.com/sightings/slstcurr/",
+    "behaviors": [
+      "foraging",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251018-PMW-BLOG-HB",
+    "name": "Monterey Bay \u2014 General Bay",
+    "species": "Humpback",
+    "info": "Humpbacks on all trips; afternoon with orcas present.",
+    "date": "2025-10-18",
+    "latitude": 36.7,
+    "longitude": -121.95,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://montereywhalewatching.com/blog/saturday-october-18-2025/",
+    "behaviors": [
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
     "id": "CA-BC-VIC-20251018-EW-BIGGS",
     "name": "Victoria \u2014 Haro Strait / Discovery",
     "species": "Orca",
@@ -30,342 +210,25 @@
     ]
   },
   {
-    "id": "NZ-AUK-GBI-KARAKA-2025-10-16-ORC-FB",
-    "name": "Great Barrier Island \u2014 Karaka Bay",
+    "id": "US-WA-ANA-20251017-IA-ORC",
+    "name": "Juan de Fuca \u2014 offshore of Port Angeles",
     "species": "Orca",
-    "info": "Community report of orca in Karaka Bay (Great Barrier Island).",
-    "date": "2025-10-16",
-    "latitude": -36.176,
-    "longitude": 175.376,
-    "area": "New Zealand (Great Barrier Island / Karaka Bay)",
-    "source": "https://www.facebook.com/groups/635589416580474/permalink/3469784603160927/?mibextid=wwXIfrthis&rdid=m90sgjHvvNhTc5n2#",
-    "behaviors": [
-      "nearshore",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NZ-CAN-KAI-20251016-DEK-ORC-VIDEO",
-    "name": "Kaik\u014dura \u2014 South Bay",
-    "species": "Orca",
-    "info": "Dolphin Encounter Kaik\u014dura: epic orca encounter posted Oct 16.",
-    "date": "2025-10-16",
-    "latitude": -42.43,
-    "longitude": 173.71,
-    "area": "New Zealand (Kaik\u014dura)",
-    "source": "https://www.facebook.com/DolphinEncounterKaikoura/",
-    "behaviors": [
-      "nearshore",
-      "hunting"
-    ]
-  },
-  {
-    "id": "NZ-GBI-KARAKA-20251016-ORC-2",
-    "name": "Great Barrier Island \u2014 Karaka Bay",
-    "species": "Orca",
-    "info": "Community report this week of orca traveling along Karaka Bay shoreline.",
-    "date": "2025-10-16",
-    "latitude": -36.176,
-    "longitude": 175.376,
-    "area": "New Zealand (Great Barrier Island / Karaka Bay)",
-    "source": "https://www.facebook.com/groups/635589416580474/permalink/3469784603160927/",
-    "behaviors": [
-      "nearshore",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NZ-CAN-KAI-20251014-DEK-ORC",
-    "name": "Kaik\u014dura \u2014 South Bay",
-    "species": "Orca",
-    "info": "Dolphin Encounter Kaik\u014dura posts recent reels of orca along the peninsula (Oct 14 week).",
-    "date": "2025-10-14",
-    "latitude": -42.432,
-    "longitude": 173.708,
-    "area": "New Zealand (Kaik\u014dura)",
-    "source": "https://www.facebook.com/DolphinEncounterKaikoura/",
-    "behaviors": [
-      "nearshore",
-      "foraging"
-    ]
-  },
-  {
-    "id": "CA-BC-VIC-20251014-EW-ORC",
-    "name": "Victoria \u2014 Juan de Fuca / Discovery Island",
-    "species": "Orca",
-    "info": "Eagle Wing Tours daily report includes orcas on Oct 14.",
-    "date": "2025-10-14",
-    "latitude": 48.41,
-    "longitude": -123.18,
-    "area": "Canada (BC/Victoria)",
-    "source": "https://eaglewingtours.com/",
-    "behaviors": [
-      "traveling",
-      "nearshore"
-    ]
-  },
-  {
-    "id": "NZ-CAN-KAI-20251013-DEK-ORC-2",
-    "name": "Kaik\u014dura \u2014 Peninsula",
-    "species": "Orca",
-    "info": "Operator video from Oct 13 shows a pack of orca nearshore.",
-    "date": "2025-10-13",
-    "latitude": -42.425,
-    "longitude": 173.71,
-    "area": "New Zealand (Kaik\u014dura)",
-    "source": "https://www.facebook.com/DolphinEncounterKaikoura/",
-    "behaviors": [
-      "traveling",
-      "nearshore"
-    ]
-  },
-  {
-    "id": "AU-NSW-SYD-20251015-GYG-HB",
-    "name": "Sydney \u2014 off South Head",
-    "species": "Humpback",
-    "info": "Verified Oct 15 review notes 10+ whales on Sydney cruise this week.",
-    "date": "2025-10-15",
-    "latitude": -33.86,
-    "longitude": 151.29,
-    "area": "Australia (NSW/Sydney)",
-    "source": "https://www.getyourguide.com/sydney-l200/sydney-whale-watching-adventure-cruise-t691416/",
-    "behaviors": [
-      "breaching",
-      "travelling"
-    ]
-  },
-  {
-    "id": "CA-BC-VIC-20251012-VWW-ORCA",
-    "name": "Victoria \u2014 Haro Strait / Discovery Island",
-    "species": "Orca",
-    "info": "Thanksgiving Sunday with orcas reported in Captain\u2019s Log.",
-    "date": "2025-10-12",
-    "latitude": 48.44,
-    "longitude": -123.18,
-    "area": "Canada (BC/Victoria)",
-    "source": "https://www.victoriawhalewatching.com/captains_log/",
-    "behaviors": [
-      "nearshore",
-      "traveling"
-    ]
-  },
-  {
-    "id": "CA-BC-VIC-20251014-VWW-BBF",
-    "name": "Victoria \u2014 Haro Strait bait ball",
-    "species": "Humpback",
-    "info": "Captain\u2019s Log 'Bait Ball Frenzy' notes active humpbacks feeding in Haro Strait on Oct 14.",
-    "date": "2025-10-14",
-    "latitude": 48.45,
-    "longitude": -123.05,
-    "area": "Canada (BC/Victoria)",
-    "source": "https://www.victoriawhalewatching.com/captains_log/",
-    "behaviors": [
-      "foraging",
-      "lunge feeding (likely)"
-    ]
-  },
-  {
-    "id": "CA-BC-VIC-20251014-EW-HB",
-    "name": "Victoria \u2014 Discovery/Haro Strait",
-    "species": "Humpback",
-    "info": "Eagle Wing Tours daily report lists humpback whales among sightings on Oct 14.",
-    "date": "2025-10-14",
-    "latitude": 48.42,
-    "longitude": -123.15,
-    "area": "Canada (BC/Victoria)",
-    "source": "https://eaglewingtours.com/",
-    "behaviors": [
-      "fluke dives",
-      "surface activity"
-    ]
-  },
-  {
-    "id": "NZ-CAN-KAI-20251011-KK-ORC",
-    "name": "Kaik\u014dura \u2014 South Bay",
-    "species": "Orca",
-    "info": "Local operators shared clips of orca nearshore after stormy weather.",
-    "date": "2025-10-11",
-    "latitude": -42.43,
-    "longitude": 173.71,
-    "area": "New Zealand (Kaik\u014dura)",
-    "source": "https://www.facebook.com/DolphinEncounterKaikoura/",
-    "behaviors": [
-      "nearshore",
-      "foraging"
-    ]
-  },
-  {
-    "id": "NZ-KAI-20251009-KK1",
-    "name": "Kaik\u014dura \u2014 Inshore near South Bay",
-    "species": "Orca",
-    "info": "Kaikoura Kayaks video post: epic encounter with inquisitive orca 'yesterday' (within last few days).",
-    "date": "2025-10-09",
-    "latitude": -42.433,
-    "longitude": 173.707,
-    "area": "New Zealand (Kaik\u014dura)",
-    "source": "https://www.facebook.com/kaikourakayaks/videos/oooh-check-this-out-after-the-recent-stormy-weather-this-evening-we-were-rewarde/528336776897752/",
-    "behaviors": [
-      "foraging",
-      "nearshore"
-    ]
-  },
-  {
-    "id": "AU-NSW-SYD-20251011-WWS-HB",
-    "name": "Sydney \u2014 off South Head",
-    "species": "Humpback",
-    "info": "Whale Watching Sydney sightings page shows active southbound pods during Oct 11 weekend.",
-    "date": "2025-10-11",
-    "latitude": -33.86,
-    "longitude": 151.29,
-    "area": "Australia (NSW/Sydney)",
-    "source": "https://www.whalewatchingsydney.com.au/whale-sightings/",
-    "behaviors": [
-      "breaching",
-      "with calf"
-    ]
-  },
-  {
-    "id": "NZ-KAI-20251008-DEK",
-    "name": "Kaik\u014dura \u2014 Peninsula / South Bay",
-    "species": "Orca",
-    "info": "Dolphin Encounter Kaikoura reel: orca hunting close inshore 'yesterday' (within last few days).",
-    "date": "2025-10-08",
-    "latitude": -42.43,
-    "longitude": 173.708,
-    "area": "New Zealand (Kaik\u014dura)",
-    "source": "https://www.facebook.com/DolphinEncounterKaikoura/videos/harbour-on-hold-orca-on-hunt-unreal-moments-just-before-our-afternoon-departure-/8964227667028222/",
-    "behaviors": [
-      "hunting",
-      "nearshore"
-    ]
-  },
-  {
-    "id": "NZ-KAI-20251010-WHITEHB",
-    "name": "Kaik\u014dura \u2014 Goose Bay / South Bay",
-    "species": "Humpback (White)",
-    "info": "Rare white humpback whale photographed traveling with other humpbacks off Goose Bay, Kaik\u014dura on Oct 10. Identification of the individual (possibly 'Migaloo') not yet confirmed.",
-    "date": "2025-10-10",
-    "latitude": -42.43,
-    "longitude": 173.68,
-    "area": "New Zealand (Kaik\u014dura)",
-    "source": "https://www.stuff.co.nz/environment/350384529/rare-white-humpback-whale-spotted-off-kaikura",
-    "behaviors": [
-      "travelling",
-      "surface activity",
-      "with pod"
-    ]
-  },
-  {
-    "id": "CA-BC-VIC-20251010-POW-HB",
-    "name": "Victoria \u2014 Race Rocks / Juan de Fuca",
-    "species": "Humpback",
-    "info": "Multiple humpback flukes observed on tours in early October per operator updates.",
-    "date": "2025-10-10",
-    "latitude": 48.3,
+    "info": "Bigg\u2019s killer whales observed mid-day trip.",
+    "date": "2025-10-17",
+    "latitude": 48.27,
     "longitude": -123.53,
-    "area": "Canada (BC/Victoria)",
-    "source": "https://princeofwhales.com/victoria-whale-watching/",
-    "behaviors": [
-      "fluke dives",
-      "foraging"
-    ]
-  },
-  {
-    "id": "AU-WA-FRE-20251009-WWWA-HB",
-    "name": "Fremantle \u2014 Rottnest Channel",
-    "species": "Humpback",
-    "info": "Whale Watch Western Australia Daily Whale logs strong humpback activity first half of Oct.",
-    "date": "2025-10-09",
-    "latitude": -32.06,
-    "longitude": 115.63,
-    "area": "Australia (WA/Fremantle)",
-    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
-    "behaviors": [
-      "breaching",
-      "tail slaps"
-    ]
-  },
-  {
-    "id": "CA-BC-VIC-20251009-VWW1",
-    "name": "Victoria \u2014 Haro Strait / Juan de Fuca",
-    "species": "Humpback",
-    "info": "Foggy Morning Humpbacks reported in Captain\u2019s Log (Victoria Whale Watching).",
-    "date": "2025-10-09",
-    "latitude": 48.35,
-    "longitude": -123.2,
-    "area": "Canada (BC/Victoria)",
-    "source": "https://www.victoriawhalewatching.com/captains_log/",
-    "behaviors": [
-      "foraging",
-      "fluke dives"
-    ]
-  },
-  {
-    "id": "AU-WA-FRE-20251008-WWWA-CALFPLAY",
-    "name": "Perth \u2014 Humpback Resting Grounds",
-    "species": "Humpback",
-    "info": "Humpback calf playtime post (published last week): 13+ mum-calf pods socializing.",
-    "date": "2025-10-08",
-    "latitude": -32.0,
-    "longitude": 115.6,
-    "area": "Australia (WA/Perth)",
-    "source": "https://whalewatchwesternaustralia.com/humpback-whale-calf-playtime/",
-    "behaviors": [
-      "with calf",
-      "socializing",
-      "breaching"
-    ]
-  },
-  {
-    "id": "CA-BC-VIC-20251008-EW1",
-    "name": "Victoria \u2014 Juan de Fuca / Haro Strait",
-    "species": "Humpback",
-    "info": "Humpbacks encountered with additional pinnipeds and seabirds on Oct 8 daily tour.",
-    "date": "2025-10-08",
-    "latitude": 48.37,
-    "longitude": -123.11,
-    "area": "Canada (BC/Victoria)",
-    "source": "https://eaglewingtours.com/",
-    "behaviors": [
-      "foraging",
-      "surface activity"
-    ]
-  },
-  {
-    "id": "US-WA-JDF-20251015-IA-ORC",
-    "name": "Juan de Fuca \u2014 glassy calm",
-    "species": "Orca",
-    "info": "Island Adventures report: Bigg\u2019s killer whales during Oct 15 trips.",
-    "date": "2025-10-15",
-    "latitude": 48.37,
-    "longitude": -123.3,
-    "area": "USA (Washington/Juan de Fuca)",
-    "source": "https://blog.island-adventures.com/2025/10/october-15-2025.html",
+    "area": "USA (Washington/Juan de Fuca/Anacortes)",
+    "source": "https://blog.island-adventures.com/2025/10/october-17-2025.html",
     "behaviors": [
       "traveling",
-      "surface activity"
-    ]
-  },
-  {
-    "id": "US-CA-MRY-20251015-PMW-ORC",
-    "name": "Monterey Bay \u2014 Carmel Canyon",
-    "species": "Orca",
-    "info": "Princess Monterey blog Oct 15: orcas observed alongside humpbacks.",
-    "date": "2025-10-15",
-    "latitude": 36.62,
-    "longitude": -122.05,
-    "area": "USA (California/Monterey Bay)",
-    "source": "https://montereywhalewatching.com/blog/wednesday-october-15-2025/",
-    "behaviors": [
-      "traveling",
-      "foraging"
+      "nearshore"
     ]
   },
   {
     "id": "IS-RVK-20251017-ELD-HB",
-    "name": "Faxafl\u00f3i Bay \u2014 off Reykjav\u00edk",
+    "name": "Faxafl\u00f3i Bay \u2014 harbour wall",
     "species": "Humpback",
-    "info": "Elding Whale Diary Oct 17: humpbacks on multiple tours.",
+    "info": "Pair of humpbacks; frequent flukes near harbour wall.",
     "date": "2025-10-17",
     "latitude": 64.15,
     "longitude": -22.0,
@@ -408,6 +271,96 @@
     ]
   },
   {
+    "id": "NZ-CAN-KAI-20251016-DEK-ORC-VIDEO",
+    "name": "Kaik\u014dura \u2014 South Bay",
+    "species": "Orca",
+    "info": "Dolphin Encounter Kaik\u014dura: epic orca encounter posted Oct 16.",
+    "date": "2025-10-16",
+    "latitude": -42.43,
+    "longitude": 173.71,
+    "area": "New Zealand (Kaik\u014dura)",
+    "source": "https://www.facebook.com/DolphinEncounterKaikoura/",
+    "behaviors": [
+      "nearshore",
+      "hunting"
+    ]
+  },
+  {
+    "id": "NZ-AUK-GBI-KARAKA-2025-10-16-ORC-FB",
+    "name": "Great Barrier Island \u2014 Karaka Bay",
+    "species": "Orca",
+    "info": "Community report of orca in Karaka Bay (Great Barrier Island).",
+    "date": "2025-10-16",
+    "latitude": -36.176,
+    "longitude": 175.376,
+    "area": "New Zealand (Great Barrier Island / Karaka Bay)",
+    "source": "https://www.facebook.com/groups/635589416580474/permalink/3469784603160927/?mibextid=wwXIfrthis&rdid=m90sgjHvvNhTc5n2#",
+    "behaviors": [
+      "nearshore",
+      "traveling"
+    ]
+  },
+  {
+    "id": "NZ-GBI-KARAKA-20251016-ORC-2",
+    "name": "Great Barrier Island \u2014 Karaka Bay",
+    "species": "Orca",
+    "info": "Community report this week of orca traveling along Karaka Bay shoreline.",
+    "date": "2025-10-16",
+    "latitude": -36.176,
+    "longitude": 175.376,
+    "area": "New Zealand (Great Barrier Island / Karaka Bay)",
+    "source": "https://www.facebook.com/groups/635589416580474/permalink/3469784603160927/",
+    "behaviors": [
+      "nearshore",
+      "traveling"
+    ]
+  },
+  {
+    "id": "US-WA-ANA-20251015-IA-ORC",
+    "name": "Juan de Fuca \u2014 glassy calm",
+    "species": "Orca",
+    "info": "Bigg\u2019s killer whales; calm seas.",
+    "date": "2025-10-15",
+    "latitude": 48.37,
+    "longitude": -123.3,
+    "area": "USA (Washington/Juan de Fuca/Anacortes)",
+    "source": "https://blog.island-adventures.com/2025/10/october-15-2025.html",
+    "behaviors": [
+      "traveling",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "US-WA-ANA-20251015-IA-HB2",
+    "name": "Rosario Strait \u2014 north of Anacortes",
+    "species": "Humpback",
+    "info": "Multiple humpbacks in Salish Sea.",
+    "date": "2025-10-15",
+    "latitude": 48.56,
+    "longitude": -122.68,
+    "area": "USA (Washington/Juan de Fuca/Anacortes)",
+    "source": "https://islandadventureswhalereport.wordpress.com/2025/10/15/anacortes-whale-watch/",
+    "behaviors": [
+      "traveling",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "US-WA-JDF-20251015-IA-ORC",
+    "name": "Juan de Fuca \u2014 glassy calm",
+    "species": "Orca",
+    "info": "Island Adventures report: Bigg\u2019s killer whales during Oct 15 trips.",
+    "date": "2025-10-15",
+    "latitude": 48.37,
+    "longitude": -123.3,
+    "area": "USA (Washington/Juan de Fuca)",
+    "source": "https://blog.island-adventures.com/2025/10/october-15-2025.html",
+    "behaviors": [
+      "traveling",
+      "surface activity"
+    ]
+  },
+  {
     "id": "US-WA-ANA-20251015-IA-HB",
     "name": "Rosario Strait / Anacortes",
     "species": "Humpback",
@@ -420,6 +373,21 @@
     "behaviors": [
       "foraging",
       "grouping"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251015-PMW-ORC",
+    "name": "Monterey Bay \u2014 Carmel Canyon",
+    "species": "Orca",
+    "info": "Princess Monterey blog Oct 15: orcas observed alongside humpbacks.",
+    "date": "2025-10-15",
+    "latitude": 36.62,
+    "longitude": -122.05,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://montereywhalewatching.com/blog/wednesday-october-15-2025/",
+    "behaviors": [
+      "traveling",
+      "foraging"
     ]
   },
   {
@@ -438,6 +406,36 @@
     ]
   },
   {
+    "id": "US-CA-MRY-20251015-PMW-BLOG-HB",
+    "name": "Monterey Bay \u2014 Carmel Bay",
+    "species": "Humpback",
+    "info": "Multiple humpbacks throughout the day.",
+    "date": "2025-10-15",
+    "latitude": 36.6,
+    "longitude": -121.97,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://montereywhalewatching.com/blog/wednesday-october-15-2025/",
+    "behaviors": [
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "US-CA-MRY-20251015-PMW-BLOG-ORC",
+    "name": "Monterey Bay \u2014 Carmel Canyon",
+    "species": "Orca",
+    "info": "Orcas observed alongside humpbacks.",
+    "date": "2025-10-15",
+    "latitude": 36.62,
+    "longitude": -122.05,
+    "area": "USA (California/Monterey Bay)",
+    "source": "https://montereywhalewatching.com/blog/wednesday-october-15-2025/",
+    "behaviors": [
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
     "id": "IS-RVK-20251015-ELD-HB",
     "name": "Faxafl\u00f3i Bay \u2014 Environs of Vi\u00f0ey",
     "species": "Humpback",
@@ -449,6 +447,36 @@
     "source": "https://elding.is/whale-diary/wednesday-15-october-2025",
     "behaviors": [
       "fluke dives"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-20251015-GYG-HB",
+    "name": "Sydney \u2014 off South Head",
+    "species": "Humpback",
+    "info": "Verified Oct 15 review notes 10+ whales on Sydney cruise this week.",
+    "date": "2025-10-15",
+    "latitude": -33.86,
+    "longitude": 151.29,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.getyourguide.com/sydney-l200/sydney-whale-watching-adventure-cruise-t691416/",
+    "behaviors": [
+      "breaching",
+      "travelling"
+    ]
+  },
+  {
+    "id": "NZ-CAN-KAI-20251014-DEK-ORC",
+    "name": "Kaik\u014dura \u2014 South Bay",
+    "species": "Orca",
+    "info": "Dolphin Encounter Kaik\u014dura posts recent reels of orca along the peninsula (Oct 14 week).",
+    "date": "2025-10-14",
+    "latitude": -42.432,
+    "longitude": 173.708,
+    "area": "New Zealand (Kaik\u014dura)",
+    "source": "https://www.facebook.com/DolphinEncounterKaikoura/",
+    "behaviors": [
+      "nearshore",
+      "foraging"
     ]
   },
   {
@@ -467,6 +495,126 @@
     ]
   },
   {
+    "id": "IS-RVK-20251014-ELD-HB",
+    "name": "Faxafl\u00f3i Bay \u2014 off Reykjav\u00edk",
+    "species": "Humpback",
+    "info": "Pair including 'Birdie'.",
+    "date": "2025-10-14",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary/tuesday-14-october-2025",
+    "behaviors": [
+      "fluke dives",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251014-EW-ORC",
+    "name": "Victoria \u2014 Juan de Fuca / Discovery Island",
+    "species": "Orca",
+    "info": "Eagle Wing Tours daily report includes orcas on Oct 14.",
+    "date": "2025-10-14",
+    "latitude": 48.41,
+    "longitude": -123.18,
+    "area": "Canada (BC/Victoria)",
+    "source": "https://eaglewingtours.com/",
+    "behaviors": [
+      "traveling",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251014-VWW-BBF",
+    "name": "Victoria \u2014 Haro Strait bait ball",
+    "species": "Humpback",
+    "info": "Captain\u2019s Log 'Bait Ball Frenzy' notes active humpbacks feeding in Haro Strait on Oct 14.",
+    "date": "2025-10-14",
+    "latitude": 48.45,
+    "longitude": -123.05,
+    "area": "Canada (BC/Victoria)",
+    "source": "https://www.victoriawhalewatching.com/captains_log/",
+    "behaviors": [
+      "foraging",
+      "lunge feeding (likely)"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251014-EW-HB",
+    "name": "Victoria \u2014 Discovery/Haro Strait",
+    "species": "Humpback",
+    "info": "Eagle Wing Tours daily report lists humpback whales among sightings on Oct 14.",
+    "date": "2025-10-14",
+    "latitude": 48.42,
+    "longitude": -123.15,
+    "area": "Canada (BC/Victoria)",
+    "source": "https://eaglewingtours.com/",
+    "behaviors": [
+      "fluke dives",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "NZ-CAN-KAI-20251013-DEK-ORC-2",
+    "name": "Kaik\u014dura \u2014 Peninsula",
+    "species": "Orca",
+    "info": "Operator video from Oct 13 shows a pack of orca nearshore.",
+    "date": "2025-10-13",
+    "latitude": -42.425,
+    "longitude": 173.71,
+    "area": "New Zealand (Kaik\u014dura)",
+    "source": "https://www.facebook.com/DolphinEncounterKaikoura/",
+    "behaviors": [
+      "traveling",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251012-VWW-ORCA",
+    "name": "Victoria \u2014 Haro Strait / Discovery Island",
+    "species": "Orca",
+    "info": "Thanksgiving Sunday with orcas reported in Captain\u2019s Log.",
+    "date": "2025-10-12",
+    "latitude": 48.44,
+    "longitude": -123.18,
+    "area": "Canada (BC/Victoria)",
+    "source": "https://www.victoriawhalewatching.com/captains_log/",
+    "behaviors": [
+      "nearshore",
+      "traveling"
+    ]
+  },
+  {
+    "id": "NZ-CAN-KAI-20251011-KK-ORC",
+    "name": "Kaik\u014dura \u2014 South Bay",
+    "species": "Orca",
+    "info": "Local operators shared clips of orca nearshore after stormy weather.",
+    "date": "2025-10-11",
+    "latitude": -42.43,
+    "longitude": 173.71,
+    "area": "New Zealand (Kaik\u014dura)",
+    "source": "https://www.facebook.com/DolphinEncounterKaikoura/",
+    "behaviors": [
+      "nearshore",
+      "foraging"
+    ]
+  },
+  {
+    "id": "AU-NSW-SYD-20251011-WWS-HB",
+    "name": "Sydney \u2014 off South Head",
+    "species": "Humpback",
+    "info": "Whale Watching Sydney sightings page shows active southbound pods during Oct 11 weekend.",
+    "date": "2025-10-11",
+    "latitude": -33.86,
+    "longitude": 151.29,
+    "area": "Australia (NSW/Sydney)",
+    "source": "https://www.whalewatchingsydney.com.au/whale-sightings/",
+    "behaviors": [
+      "breaching",
+      "with calf"
+    ]
+  },
+  {
     "id": "US-WA-ANA-20251010-IA-ORC",
     "name": "San Juan Islands \u2014 Haro/Rosario",
     "species": "Orca",
@@ -479,50 +627,6 @@
     "behaviors": [
       "traveling",
       "nearshore"
-    ]
-  },
-  {
-    "id": "NO-TRO-20251010-KVAEN-ORC-2",
-    "name": "Kv\u00e6nangen Fjord \u2014 Troms",
-    "species": "Orca",
-    "info": "Early-season orcas following herring schools reported by Troms\u00f8 operators.",
-    "date": "2025-10-10",
-    "latitude": 69.86,
-    "longitude": 21.92,
-    "area": "Norway (Troms og Finnmark)",
-    "source": "https://whalewatchingtromso.com/swimming-with-orcas-in-norway/",
-    "behaviors": [
-      "foraging",
-      "traveling"
-    ]
-  },
-  {
-    "id": "NO-TRO-20251008-KVAEN-ORC",
-    "name": "Kv\u00e6nangen Fjord \u2014 Troms",
-    "species": "Orca",
-    "info": "Early-season orcas following herring schools; multiple operators report arrivals.",
-    "date": "2025-10-08",
-    "latitude": 69.86,
-    "longitude": 21.915,
-    "area": "Norway (Troms og Finnmark)",
-    "source": "https://whalewatchingtromso.com/swimming-with-orcas-in-norway/",
-    "behaviors": [
-      "traveling",
-      "foraging"
-    ]
-  },
-  {
-    "id": "IS-RVK-20251010-ELD-HB",
-    "name": "Faxafl\u00f3i Bay \u2014 Reykjav\u00edk",
-    "species": "Humpback",
-    "info": "Elding Whale Diary: humpback with repeated flukes on morning tour.",
-    "date": "2025-10-10",
-    "latitude": 64.15,
-    "longitude": -22.0,
-    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i)",
-    "source": "https://elding.is/whale-diary",
-    "behaviors": [
-      "fluke dives"
     ]
   },
   {
@@ -556,6 +660,51 @@
     ]
   },
   {
+    "id": "NO-TRO-20251010-KVAEN-ORC-2",
+    "name": "Kv\u00e6nangen Fjord \u2014 Troms",
+    "species": "Orca",
+    "info": "Early-season orcas following herring schools reported by Troms\u00f8 operators.",
+    "date": "2025-10-10",
+    "latitude": 69.86,
+    "longitude": 21.92,
+    "area": "Norway (Troms og Finnmark)",
+    "source": "https://whalewatchingtromso.com/swimming-with-orcas-in-norway/",
+    "behaviors": [
+      "foraging",
+      "traveling"
+    ]
+  },
+  {
+    "id": "NZ-KAI-20251010-WHITEHB",
+    "name": "Kaik\u014dura \u2014 Goose Bay / South Bay",
+    "species": "Humpback (White)",
+    "info": "Rare white humpback whale photographed traveling with other humpbacks off Goose Bay, Kaik\u014dura on Oct 10. Identification of the individual (possibly 'Migaloo') not yet confirmed.",
+    "date": "2025-10-10",
+    "latitude": -42.43,
+    "longitude": 173.68,
+    "area": "New Zealand (Kaik\u014dura)",
+    "source": "https://www.stuff.co.nz/environment/350384529/rare-white-humpback-whale-spotted-off-kaikura",
+    "behaviors": [
+      "travelling",
+      "surface activity",
+      "with pod"
+    ]
+  },
+  {
+    "id": "IS-RVK-20251010-ELD-HB",
+    "name": "Faxafl\u00f3i Bay \u2014 Reykjav\u00edk",
+    "species": "Humpback",
+    "info": "Elding Whale Diary: humpback with repeated flukes on morning tour.",
+    "date": "2025-10-10",
+    "latitude": 64.15,
+    "longitude": -22.0,
+    "area": "Iceland (Reykjav\u00edk/Faxafl\u00f3i)",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "fluke dives"
+    ]
+  },
+  {
     "id": "IS-RVK-20251010-ELD-HB-3",
     "name": "Faxafl\u00f3i Bay \u2014 Reykjav\u00edk",
     "species": "Humpback",
@@ -568,6 +717,21 @@
     "behaviors": [
       "fluke dives",
       "surface activity"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251010-POW-HB",
+    "name": "Victoria \u2014 Race Rocks / Juan de Fuca",
+    "species": "Humpback",
+    "info": "Multiple humpback flukes observed on tours in early October per operator updates.",
+    "date": "2025-10-10",
+    "latitude": 48.3,
+    "longitude": -123.53,
+    "area": "Canada (BC/Victoria)",
+    "source": "https://princeofwhales.com/victoria-whale-watching/",
+    "behaviors": [
+      "fluke dives",
+      "foraging"
     ]
   },
   {
@@ -598,6 +762,112 @@
     "behaviors": [
       "foraging",
       "fluke dives"
+    ]
+  },
+  {
+    "id": "NZ-KAI-20251009-KK1",
+    "name": "Kaik\u014dura \u2014 Inshore near South Bay",
+    "species": "Orca",
+    "info": "Kaikoura Kayaks video post: epic encounter with inquisitive orca 'yesterday' (within last few days).",
+    "date": "2025-10-09",
+    "latitude": -42.433,
+    "longitude": 173.707,
+    "area": "New Zealand (Kaik\u014dura)",
+    "source": "https://www.facebook.com/kaikourakayaks/videos/oooh-check-this-out-after-the-recent-stormy-weather-this-evening-we-were-rewarde/528336776897752/",
+    "behaviors": [
+      "foraging",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251009-VWW1",
+    "name": "Victoria \u2014 Haro Strait / Juan de Fuca",
+    "species": "Humpback",
+    "info": "Foggy Morning Humpbacks reported in Captain\u2019s Log (Victoria Whale Watching).",
+    "date": "2025-10-09",
+    "latitude": 48.35,
+    "longitude": -123.2,
+    "area": "Canada (BC/Victoria)",
+    "source": "https://www.victoriawhalewatching.com/captains_log/",
+    "behaviors": [
+      "foraging",
+      "fluke dives"
+    ]
+  },
+  {
+    "id": "AU-WA-FRE-20251009-WWWA-HB",
+    "name": "Fremantle \u2014 Rottnest Channel",
+    "species": "Humpback",
+    "info": "Whale Watch Western Australia Daily Whale logs strong humpback activity first half of Oct.",
+    "date": "2025-10-09",
+    "latitude": -32.06,
+    "longitude": 115.63,
+    "area": "Australia (WA/Fremantle)",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "breaching",
+      "tail slaps"
+    ]
+  },
+  {
+    "id": "NO-TRO-20251008-KVAEN-ORC",
+    "name": "Kv\u00e6nangen Fjord \u2014 Troms",
+    "species": "Orca",
+    "info": "Early-season orcas following herring schools; multiple operators report arrivals.",
+    "date": "2025-10-08",
+    "latitude": 69.86,
+    "longitude": 21.915,
+    "area": "Norway (Troms og Finnmark)",
+    "source": "https://whalewatchingtromso.com/swimming-with-orcas-in-norway/",
+    "behaviors": [
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "NZ-KAI-20251008-DEK",
+    "name": "Kaik\u014dura \u2014 Peninsula / South Bay",
+    "species": "Orca",
+    "info": "Dolphin Encounter Kaikoura reel: orca hunting close inshore 'yesterday' (within last few days).",
+    "date": "2025-10-08",
+    "latitude": -42.43,
+    "longitude": 173.708,
+    "area": "New Zealand (Kaik\u014dura)",
+    "source": "https://www.facebook.com/DolphinEncounterKaikoura/videos/harbour-on-hold-orca-on-hunt-unreal-moments-just-before-our-afternoon-departure-/8964227667028222/",
+    "behaviors": [
+      "hunting",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "CA-BC-VIC-20251008-EW1",
+    "name": "Victoria \u2014 Juan de Fuca / Haro Strait",
+    "species": "Humpback",
+    "info": "Humpbacks encountered with additional pinnipeds and seabirds on Oct 8 daily tour.",
+    "date": "2025-10-08",
+    "latitude": 48.37,
+    "longitude": -123.11,
+    "area": "Canada (BC/Victoria)",
+    "source": "https://eaglewingtours.com/",
+    "behaviors": [
+      "foraging",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "AU-WA-FRE-20251008-WWWA-CALFPLAY",
+    "name": "Perth \u2014 Humpback Resting Grounds",
+    "species": "Humpback",
+    "info": "Humpback calf playtime post (published last week): 13+ mum-calf pods socializing.",
+    "date": "2025-10-08",
+    "latitude": -32.0,
+    "longitude": 115.6,
+    "area": "Australia (WA/Perth)",
+    "source": "https://whalewatchwesternaustralia.com/humpback-whale-calf-playtime/",
+    "behaviors": [
+      "with calf",
+      "socializing",
+      "breaching"
     ]
   }
 ]
