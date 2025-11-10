@@ -1,1123 +1,526 @@
 [
   {
-    "id": "2025-11-02-skjervoy-orca-1",
-    "name": "Skjerv\u00f8y herring orcas 1",
+    "id": "2025-11-09-reykjavik-hb-elding-am",
+    "name": "Pair of humpbacks",
+    "species": "Humpback",
+    "info": "Elding diary: 2 humpbacks with repeated pec-slaps and fluking.",
+    "date": "2025-11-09",
+    "latitude": 64.15,
+    "longitude": -22.05,
+    "area": "Faxafl\u00f3i Bay, Iceland",
+    "source": "https://elding.is/whale-diary/sunday-9-november-2025",
+    "behaviors": [
+      "pec slaps",
+      "fluke dives"
+    ]
+  },
+  {
+    "id": "2025-11-06-reykjavik-hb-elding",
+    "name": "2 humpbacks side-by-side",
+    "species": "Humpback",
+    "info": "Elding diary: two humpbacks breaching and rolling near Vi\u00f0ey.",
+    "date": "2025-11-06",
+    "latitude": 64.17,
+    "longitude": -22.02,
+    "area": "Faxafl\u00f3i Bay, Iceland",
+    "source": "https://elding.is/whale-diary/thursday-6-november-2025",
+    "behaviors": [
+      "breaching",
+      "rolling"
+    ]
+  },
+  {
+    "id": "2025-11-02-skjervoy-orca-birth",
+    "name": "Pod incl. newborn",
     "species": "Orca",
-    "info": "Large group of orcas feeding on herring close to Skjerv\u00f8y harbour.",
+    "info": "Researchers documented a wild orca birth near Skjerv\u00f8y.",
     "date": "2025-11-02",
-    "latitude": 70.07,
-    "longitude": 20.95,
-    "area": "Skjerv\u00f8y, Troms, Norway",
-    "source": "https://www.arcticwhaletours.com/winter-whale-safari-skjervoy",
+    "latitude": 70.03,
+    "longitude": 20.98,
+    "area": "Skjerv\u00f8y, Troms Norway",
+    "source": "https://www.livescience.com/animals/orcas/incredible-first-of-their-kind-images-show-an-orca-being-born-in-norway-and-the-rest-of-its-pod-forming-a-protective-circle",
+    "behaviors": [
+      "calf",
+      "guarding circle"
+    ]
+  },
+  {
+    "id": "2025-11-04-vancouver-howesound-nr",
+    "name": "Northern Residents",
+    "species": "Orca",
+    "info": "Northern Resident orcas reported near Howe Sound / Vancouver.",
+    "date": "2025-11-04",
+    "latitude": 49.4,
+    "longitude": -123.35,
+    "area": "Howe Sound, BC",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/11/4/november-4-2025-",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-11-04-victoria-humpbacks-ew",
+    "name": "Multiple humpbacks",
+    "species": "Humpback",
+    "info": "Multiple humpbacks on tours; daily report.",
+    "date": "2025-11-04",
+    "latitude": 48.35,
+    "longitude": -123.45,
+    "area": "Juan de Fuca Strait, BC",
+    "source": "https://eaglewingtours.com/daily-sighting-report/",
     "behaviors": [
       "foraging"
     ]
   },
   {
-    "id": "2025-11-02-skjervoy-humpback-1",
-    "name": "Skjerv\u00f8y humpbacks 1",
+    "id": "2025-11-03-victoria-mix-ew",
+    "name": "Humpbacks + Bigg\u2019s",
     "species": "Humpback",
-    "info": "2-3 humpbacks lunge feeding in same herring school as orcas.",
-    "date": "2025-11-02",
-    "latitude": 70.06,
-    "longitude": 20.9,
-    "area": "Skjerv\u00f8y, Troms, Norway",
-    "source": "https://whalewatchingtromso.com/whale-watching-norway/",
+    "info": "Humpbacks and Bigg\u2019s killer whales seen same day.",
+    "date": "2025-11-03",
+    "latitude": 48.4,
+    "longitude": -123.3,
+    "area": "Haro Strait, BC",
+    "source": "https://eaglewingtours.com/daily-sighting-report/",
     "behaviors": [
-      "lunge feeding"
+      "surface activity"
     ]
   },
   {
-    "id": "2025-11-02-salish-balpch",
-    "name": "Balch Passage transients",
+    "id": "2025-11-01-victoria-hb-orc-ew",
+    "name": "Humpbacks & orcas",
     "species": "Orca",
-    "info": "Bigg\u2019s orcas milling then southbound near Fox Island / Balch Passage.",
-    "date": "2025-11-02",
-    "latitude": 47.22,
-    "longitude": -122.6,
-    "area": "Balch Passage, South Puget Sound, WA, USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "milling",
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-11-02-salish-haro",
-    "name": "Haro Strait humpback",
-    "species": "Humpback",
-    "info": "Single humpback reported west of San Juan Island.",
-    "date": "2025-11-02",
-    "latitude": 48.52,
-    "longitude": -123.18,
-    "area": "Haro Strait, Salish Sea, WA/BC",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "fluke dives"
-    ]
-  },
-  {
-    "id": "2025-11-02-victoria-racerocks",
-    "name": "Race Rocks Bigg\u2019s",
-    "species": "Orca",
-    "info": "Victoria operators reported transients off Race Rocks.",
-    "date": "2025-11-02",
-    "latitude": 48.3,
-    "longitude": -123.53,
-    "area": "Race Rocks, Juan de Fuca Strait, BC, Canada",
+    "info": "Killer whales and humpbacks; chilly fall conditions.",
+    "date": "2025-11-01",
+    "latitude": 48.42,
+    "longitude": -123.2,
+    "area": "Race Rocks, BC",
     "source": "https://eaglewingtours.com/daily-sighting-report/",
     "behaviors": [
       "traveling"
     ]
   },
   {
-    "id": "2025-11-02-kaikoura-migratory",
-    "name": "Late Kaik\u014dura humpback",
+    "id": "2025-11-07-pugetsound-srkw",
+    "name": "J/K pods inland",
+    "species": "Orca",
+    "info": "Orca Network report: SRKW Js & Ks in inland Puget Sound.",
+    "date": "2025-11-07",
+    "latitude": 47.7,
+    "longitude": -122.5,
+    "area": "Central Puget Sound, WA",
+    "source": "https://www.facebook.com/groups/564701038927716/posts/1191703459560801/",
+    "behaviors": [
+      "traveling",
+      "calls heard"
+    ]
+  },
+  {
+    "id": "2025-11-03-perth-humpbacks",
+    "name": "Mums & calves",
     "species": "Humpback",
-    "info": "Kaik\u014dura operators still seeing late migratory humpbacks close in.",
+    "info": "Whale Watch WA: mother-calf pairs off Perth.",
+    "date": "2025-11-03",
+    "latitude": -31.82,
+    "longitude": 115.69,
+    "area": "Off Hillarys, Perth WA",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "mother & calf",
+      "pec slaps"
+    ]
+  },
+  {
+    "id": "2025-11-02-perth-humpbacks",
+    "name": "Late-season flow",
+    "species": "Humpback",
+    "info": "Whale Watch WA: many late-season humpbacks migrating south.",
     "date": "2025-11-02",
-    "latitude": -42.43,
-    "longitude": 173.7,
-    "area": "Kaik\u014dura, South Island, New Zealand",
-    "source": "https://www.facebook.com/WhaleWatchKaikoura/",
+    "latitude": -31.95,
+    "longitude": 115.46,
+    "area": "Rottnest Channel, WA",
+    "source": "https://whalewatchwesternaustralia.com/the-daily-whale/",
+    "behaviors": [
+      "southbound"
+    ]
+  },
+  {
+    "id": "2025-11-02-sydney-humpbacks",
+    "name": "Season wrap-up",
+    "species": "Humpback",
+    "info": "Captain Cook notes season to Nov 9 with ongoing sightings.",
+    "date": "2025-11-02",
+    "latitude": -33.86,
+    "longitude": 151.29,
+    "area": "Sydney Heads, NSW",
+    "source": "https://www.captaincook.com.au/explore-sydney-sightseeing/whale-watching-sydney/whale-sightings/",
+    "behaviors": [
+      "breaching"
+    ]
+  },
+  {
+    "id": "2025-11-01-coromandel-orca",
+    "name": "Coastal pod",
+    "species": "Orca",
+    "info": "Reports of orca cruising Hauraki/Coromandel coastline.",
+    "date": "2025-11-01",
+    "latitude": -36.75,
+    "longitude": 175.72,
+    "area": "Hauraki Gulf / Coromandel, NZ",
+    "source": "https://www.facebook.com/thecoromandelgoodforyoursoul/videos/orca-encounters-in-hauraki-coromandel/1297187192060240/",
     "behaviors": [
       "nearshore"
     ]
   },
   {
-    "id": "2025-11-02-sydney-southbound",
-    "name": "Sydney southbound pair",
+    "id": "2025-11-03-kauai-humpback",
+    "name": "Early season arrival",
     "species": "Humpback",
-    "info": "Mother-calf pair plus escort continuing south past Manly\u2013Curl Curl.",
-    "date": "2025-11-02",
-    "latitude": -33.85,
-    "longitude": 151.3,
-    "area": "Off Manly\u2013Curl Curl, Sydney, NSW, Australia",
-    "source": "https://www.whalewatchingsydney.com.au/2025/10/28/october-2025/",
+    "info": "Continuing early-season humpback presence off west Kaua\u02bbi.",
+    "date": "2025-11-03",
+    "latitude": 21.88,
+    "longitude": -159.72,
+    "area": "West Kaua\u02bbi, HI",
+    "source": "https://www.hawaiimagazine.com/first-humpback-whale-of-2025-season-spotted-off-kauai/",
     "behaviors": [
+      "blows",
       "traveling"
     ]
   },
   {
-    "id": "2025-11-02-reykjavik-humpback",
-    "name": "Faxafl\u00f3i feeding humpbacks",
+    "id": "2025-11-05-monterey-humpbacks",
+    "name": "Scattered humpbacks",
     "species": "Humpback",
-    "info": "Morning tour saw 2\u20134 humpbacks feeding just outside Reykjav\u00edk.",
-    "date": "2025-11-02",
-    "latitude": 64.15,
-    "longitude": -22.1,
-    "area": "Faxafl\u00f3i Bay, Reykjav\u00edk, Iceland",
-    "source": "https://elding.is/whale-diary/thursday-30-october-2025",
+    "info": "Ongoing humpbacks across Monterey Bay canyons.",
+    "date": "2025-11-05",
+    "latitude": 36.77,
+    "longitude": -121.93,
+    "area": "Monterey Bay, CA",
+    "source": "https://montereywhalewatching.com/daily-sightings/",
     "behaviors": [
       "foraging"
     ]
   },
   {
-    "id": "2025-11-02-shetland-lerwick",
-    "name": "Lerwick harbour orcas",
-    "species": "Orca",
-    "info": "Orcas cruising close to Lerwick seawall, filmed from shore.",
-    "date": "2025-11-02",
-    "latitude": 60.15,
-    "longitude": -1.12,
-    "area": "Lerwick Harbour, Shetland, UK",
-    "source": "https://www.facebook.com/groups/shetlandorcasightings/",
-    "behaviors": [
-      "nearshore"
-    ]
-  },
-  {
-    "id": "2025-11-02-magellan-humpback",
-    "name": "Coloane channel humpback",
+    "id": "2025-11-04-monterey-humpbacks",
+    "name": "Humpbacks on trips",
     "species": "Humpback",
-    "info": "Patagonian expedition reported feeding humpback inside Francisco Coloane.",
-    "date": "2025-11-02",
-    "latitude": -53.7,
-    "longitude": -72.5,
-    "area": "Francisco Coloane Marine Park, Strait of Magellan, Chile",
-    "source": "https://todopatagonia.net/en/tour/whales-expedition-strait-of-magellan/",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-11-01-skjervoy-orca-bleik",
-    "name": "Bleik canyon orcas",
-    "species": "Orca",
-    "info": "Orcas seen near Bleik canyon during Andenes/Skjerv\u00f8y safari.",
-    "date": "2025-11-01",
-    "latitude": 69.3,
-    "longitude": 15.9,
-    "area": "Bleik Canyon, And\u00f8ya, Norway",
-    "source": "https://www.visit-lyngenfjord.com/activities/whale-safari-skjervoy",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-11-01-skjervoy-humpback-bleik",
-    "name": "Bleik canyon humpbacks",
-    "species": "Humpback",
-    "info": "Several humpbacks feeding among orcas on herring schools.",
-    "date": "2025-11-01",
-    "latitude": 69.28,
-    "longitude": 15.85,
-    "area": "Bleik Canyon, And\u00f8ya, Norway",
-    "source": "https://whalewatchingtromso.com/whale-watching-norway/",
+    "info": "Multiple humpbacks encountered on bay trips.",
+    "date": "2025-11-04",
+    "latitude": 36.78,
+    "longitude": -121.9,
+    "area": "Monterey Bay, CA",
+    "source": "https://montereywhalewatching.com/daily-sightings/",
     "behaviors": [
       "lunge feeding"
     ]
   },
   {
-    "id": "2025-11-01-skjervoy-orca-inner",
-    "name": "Inner fjord orca group",
+    "id": "2025-11-05-skjervoy-orca",
+    "name": "Feeding aggregation",
     "species": "Orca",
-    "info": "Smaller orca group inside Skjerv\u00f8y harbour area.",
+    "info": "Orca Channel reports daily orca groups with herring.",
+    "date": "2025-11-05",
+    "latitude": 70.06,
+    "longitude": 21.02,
+    "area": "Skjerv\u00f8y, Troms Norway",
+    "source": "https://www.facebook.com/orcachannel/",
+    "behaviors": [
+      "feeding"
+    ]
+  },
+  {
+    "id": "2025-11-01-skjervoy-orca",
+    "name": "Start of peak",
+    "species": "Orca",
+    "info": "Early-Nov groups identified during surveys.",
     "date": "2025-11-01",
-    "latitude": 70.03,
-    "longitude": 20.97,
-    "area": "Inner harbour, Skjerv\u00f8y, Norway",
-    "source": "https://www.arcticwhaletours.com/winter-whale-safari-skjervoy",
+    "latitude": 70.02,
+    "longitude": 20.95,
+    "area": "Skjerv\u00f8y, Troms Norway",
+    "source": "https://www.instagram.com/p/DQ1WZ6YDI3z/",
     "behaviors": [
       "traveling"
     ]
   },
   {
-    "id": "2025-11-01-victoria-latehump",
-    "name": "Victoria late-season humpback",
-    "species": "Humpback",
-    "info": "Late-season humpback off Saanich Peninsula.",
-    "date": "2025-11-01",
-    "latitude": 48.7,
-    "longitude": -123.4,
-    "area": "Saanich Peninsula, Vancouver Island, BC, Canada",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-11-01-salish-activepass",
-    "name": "Active Pass L pod",
-    "species": "Orca",
-    "info": "Resident/L-pod whales transiting Active Pass.",
-    "date": "2025-11-01",
-    "latitude": 48.87,
-    "longitude": -123.29,
-    "area": "Active Pass, Gulf Islands, BC, Canada",
-    "source": "https://www.facebook.com/groups/564701038927716/posts/1185084646889349/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-11-01-salish-haro-kpod",
-    "name": "Haro Strait K pod",
-    "species": "Orca",
-    "info": "K-pod whales mid-channel Haro Strait.",
-    "date": "2025-11-01",
-    "latitude": 48.52,
-    "longitude": -123.2,
-    "area": "Haro Strait, between Vancouver Island and San Juan Island",
-    "source": "https://www.facebook.com/groups/564701038927716/posts/1185084646889349/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-11-01-kaikoura-orca",
-    "name": "Kaik\u014dura coastal orcas",
-    "species": "Orca",
-    "info": "Coastal orcas moving north past Kaik\u014dura peninsula.",
-    "date": "2025-11-01",
-    "latitude": -42.4,
-    "longitude": 173.75,
-    "area": "Kaik\u014dura Peninsula, NZ",
-    "source": "https://www.instagram.com/reel/DElQ34aTDWZ/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-11-01-sydney-double",
-    "name": "Sydney humpback trio",
-    "species": "Humpback",
-    "info": "Three southbound humpbacks off Sydney heads.",
-    "date": "2025-11-01",
-    "latitude": -33.86,
-    "longitude": 151.3,
-    "area": "Sydney Heads, NSW, Australia",
-    "source": "https://www.whalewatchingsydney.com.au/whale-sightings/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-11-01-magellan-orca",
-    "name": "Strait of Magellan orcas",
-    "species": "Orca",
-    "info": "Orcas reported near Isla Dawson during whale expedition.",
-    "date": "2025-11-01",
-    "latitude": -53.9,
-    "longitude": -70.55,
-    "area": "Isla Dawson, Strait of Magellan, Chile",
-    "source": "https://moseractive.com/en_ca/whale-watching-strait-of-magellan-patagonia.html",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-11-01-shetland-east",
-    "name": "Shetland east Mainland orcas",
-    "species": "Orca",
-    "info": "Pod of 27s travelling down east coast of Mainland.",
-    "date": "2025-11-01",
-    "latitude": 60.25,
-    "longitude": -1.0,
-    "area": "East Mainland, Shetland, UK",
-    "source": "https://www.facebook.com/groups/shetlandorcasightings/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-11-01-reykjavik-humpback",
-    "name": "Reykjav\u00edk afternoon humpbacks",
-    "species": "Humpback",
-    "info": "2\u20134 humpbacks seen again on afternoon tour near Vi\u00f0ey.",
-    "date": "2025-11-01",
-    "latitude": 64.16,
-    "longitude": -22.05,
-    "area": "Vi\u00f0ey area, Faxafl\u00f3i Bay, Iceland",
-    "source": "https://elding.is/whale-diary/",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-11-01-japan-hokkaido-orca",
-    "name": "Nemuro Strait white orcas",
-    "species": "Orca",
-    "info": "Tourists off Rausu reported pale/white orcas moving north.",
-    "date": "2025-11-01",
-    "latitude": 43.98,
-    "longitude": 145.27,
-    "area": "Nemuro Strait off Rausu, Hokkaido, Japan",
-    "source": "https://www.facebook.com/groups/1212417032507986/posts/2372690616480616/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-31-salish-pittpassage",
-    "name": "Pitt Passage T137s",
-    "species": "Orca",
-    "info": "T137s milling at mouth of Pitt Passage then slowly southbound.",
-    "date": "2025-10-31",
-    "latitude": 47.23,
-    "longitude": -122.71,
-    "area": "Pitt Passage, Puget Sound, WA, USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "milling"
-    ]
-  },
-  {
-    "id": "2025-10-31-salish-foxisland",
-    "name": "Fox Island southbound group",
-    "species": "Orca",
-    "info": "3+ orcas headed south on NW side of Anderson/Fox Island.",
-    "date": "2025-10-31",
-    "latitude": 47.22,
-    "longitude": -122.63,
-    "area": "Fox Island, Puget Sound, WA, USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-31-salish-balch-6",
-    "name": "Balch Passage 6 westbound",
-    "species": "Orca",
-    "info": "Six westbound in Balch Passage close to Eagle Island.",
-    "date": "2025-10-31",
-    "latitude": 47.2,
-    "longitude": -122.61,
-    "area": "Balch Passage near Eagle Island, WA, USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-31-vancouver-trifecta-1",
-    "name": "Strait humpback 'Checkmate'",
-    "species": "Humpback",
-    "info": "Humpback 'Checkmate' still in Strait of Georgia under stormy skies.",
-    "date": "2025-10-31",
-    "latitude": 49.05,
-    "longitude": -123.35,
-    "area": "Strait of Georgia, BC, Canada",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/10/31/october-30-2025-",
-    "behaviors": [
-      "fluke dives"
-    ]
-  },
-  {
-    "id": "2025-10-31-vancouver-trifecta-2",
-    "name": "Strait humpback 'Graphite'",
-    "species": "Humpback",
-    "info": "Humpback 'Graphite' surfacing in sync with 'Checkmate'.",
-    "date": "2025-10-31",
-    "latitude": 49.04,
-    "longitude": -123.3,
-    "area": "Strait of Georgia, BC, Canada",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/10/31/october-30-2025-",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-10-31-vancouver-trifecta-3",
-    "name": "Strait humpback 'Achilles'",
-    "species": "Humpback",
-    "info": "Third humpback 'Achilles' making slow dives in Strait.",
-    "date": "2025-10-31",
-    "latitude": 49.02,
-    "longitude": -123.37,
-    "area": "Strait of Georgia, BC, Canada",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/10/31/october-30-2025-",
-    "behaviors": [
-      "slow dives"
-    ]
-  },
-  {
-    "id": "2025-10-31-sydney-mothercalf",
-    "name": "Sydney mother & calf",
-    "species": "Humpback",
-    "info": "Mother-calf pair with escort close to shore.",
-    "date": "2025-10-31",
-    "latitude": -33.87,
-    "longitude": 151.32,
-    "area": "Off Bondi\u2013Watsons Bay, Sydney, NSW, Australia",
-    "source": "https://www.whalewatchingsydney.com.au/whale-sightings/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-31-kaikoura-humpback",
-    "name": "Kaik\u014dura late humpback",
-    "species": "Humpback",
-    "info": "Late-season humpback moving north past Kaik\u014dura canyon.",
-    "date": "2025-10-31",
-    "latitude": -42.42,
-    "longitude": 173.75,
-    "area": "Kaik\u014dura Canyon, NZ",
-    "source": "https://www.facebook.com/WhaleWatchKaikoura/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-31-iceland-humpback",
-    "name": "Faxafl\u00f3i pair feeding",
-    "species": "Humpback",
-    "info": "2 humpbacks feeding close to Reykjav\u00edk harbour.",
-    "date": "2025-10-31",
-    "latitude": 64.14,
-    "longitude": -22.12,
-    "area": "Faxafl\u00f3i Bay, Reykjav\u00edk, Iceland",
-    "source": "https://elding.is/whale-diary/",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-10-31-shetland-west",
-    "name": "Shetland west coast orcas",
-    "species": "Orca",
-    "info": "Orcas reported west of Shetland moving north.",
-    "date": "2025-10-31",
-    "latitude": 60.3,
-    "longitude": -1.45,
-    "area": "West of Shetland, UK",
-    "source": "https://www.facebook.com/groups/shetlandorcasightings/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-31-magellan-humpback2",
-    "name": "Strait feeder group",
-    "species": "Humpback",
-    "info": "Group of humpbacks feeding near Santa In\u00e9s area.",
-    "date": "2025-10-31",
-    "latitude": -53.75,
-    "longitude": -72.65,
-    "area": "Near Santa In\u00e9s, Strait of Magellan, Chile",
-    "source": "https://farsouthexp.com/portfolio/patagonia-humpback-whales-trips/",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-10-31-japan-hokkaido-orca2",
-    "name": "Rausu orca group",
-    "species": "Orca",
-    "info": "Orcas encountered on Nemuro Strait cruise despite late season.",
-    "date": "2025-10-31",
-    "latitude": 44.0,
-    "longitude": 145.3,
-    "area": "Nemuro Strait off Rausu, Hokkaido, Japan",
-    "source": "https://www.e-shiretoko.com/en/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-30-orcanet-haro",
-    "name": "Haro Strait K pod (report)",
-    "species": "Orca",
-    "info": "K pod mid-channel Haro Strait per Oct 30 Orca Network report.",
-    "date": "2025-10-30",
-    "latitude": 48.52,
-    "longitude": -123.15,
-    "area": "Haro Strait, WA/BC",
-    "source": "https://www.facebook.com/groups/564701038927716/posts/1185084646889349/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-30-orcanet-active",
-    "name": "Active Pass L pod (report)",
-    "species": "Orca",
-    "info": "L pod transiting Active Pass toward Georgia Strait.",
-    "date": "2025-10-30",
-    "latitude": 48.87,
-    "longitude": -123.29,
-    "area": "Active Pass, Gulf Islands, BC",
-    "source": "https://www.facebook.com/groups/564701038927716/posts/1185084646889349/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-30-orcanet-t38c",
-    "name": "T38C & T38E group",
-    "species": "Orca",
-    "info": "T38C, T38E and companions heading south in Puget Sound.",
-    "date": "2025-10-30",
-    "latitude": 47.1,
-    "longitude": -122.55,
-    "area": "South Puget Sound, WA, USA",
-    "source": "https://www.facebook.com/groups/564701038927716/posts/1185084646889349/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-30-orcanet-t99s",
-    "name": "T99s westbound",
-    "species": "Orca",
-    "info": "T99s westbound near Eagle Island per Orca Network.",
-    "date": "2025-10-30",
-    "latitude": 47.2,
-    "longitude": -122.63,
-    "area": "Near Eagle Island, WA, USA",
-    "source": "https://www.facebook.com/groups/564701038927716/posts/1185084646889349/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-30-orcanet-t137s",
-    "name": "T137s southbound",
-    "species": "Orca",
-    "info": "T137s slowly southbound past Fox Island.",
-    "date": "2025-10-30",
-    "latitude": 47.25,
-    "longitude": -122.63,
-    "area": "Fox Island, WA, USA",
-    "source": "https://www.facebook.com/groups/564701038927716/posts/1185084646889349/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-30-orcanet-victoria10m",
-    "name": "10 mi S of Victoria orcas",
-    "species": "Orca",
-    "info": "Orcas 10 miles south of Victoria heading west.",
-    "date": "2025-10-30",
-    "latitude": 48.1,
-    "longitude": -123.4,
-    "area": "10 miles south of Victoria, BC, Canada",
-    "source": "https://www.facebook.com/groups/564701038927716/posts/1185084646889349/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-30-orcanet-bay",
-    "name": "Gulf Islands milling group",
-    "species": "Orca",
-    "info": "Orcas hunting/circling in southern Gulf Islands.",
-    "date": "2025-10-30",
-    "latitude": 48.75,
-    "longitude": -123.4,
-    "area": "Southern Gulf Islands, BC, Canada",
-    "source": "https://www.orcanetwork.org/sightings-network",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-10-30-viww-trifecta-1",
-    "name": "Trifecta humpback Graphite",
-    "species": "Humpback",
-    "info": "Graphite with distinctive white scar along dorsal.",
-    "date": "2025-10-30",
-    "latitude": 49.0,
-    "longitude": -123.4,
-    "area": "Strait of Georgia, BC, Canada",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/10/31/october-30-2025-",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-10-30-viww-trifecta-2",
-    "name": "Trifecta humpback Checkmate",
-    "species": "Humpback",
-    "info": "Checkmate giving high flukes each dive.",
-    "date": "2025-10-30",
-    "latitude": 49.02,
-    "longitude": -123.38,
-    "area": "Strait of Georgia, BC, Canada",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/10/31/october-30-2025-",
-    "behaviors": [
-      "fluke dives"
-    ]
-  },
-  {
-    "id": "2025-10-30-viww-trifecta-3",
-    "name": "Trifecta humpback Achilles",
-    "species": "Humpback",
-    "info": "Achilles travelling with Graphite and Checkmate.",
-    "date": "2025-10-30",
-    "latitude": 49.04,
-    "longitude": -123.36,
-    "area": "Strait of Georgia, BC, Canada",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/10/31/october-30-2025-",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-30-iceland-premium",
-    "name": "Reykjav\u00edk premium tour humpbacks",
-    "species": "Humpback",
-    "info": "Premium tour saw multiple humpbacks feeding close to shore.",
-    "date": "2025-10-30",
-    "latitude": 64.17,
-    "longitude": -22.05,
-    "area": "Faxafl\u00f3i Bay, Reykjav\u00edk, Iceland",
-    "source": "https://elding.is/whale-diary/thursday-30-october-2025",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-10-30-iceland-classic",
-    "name": "Reykjav\u00edk classic tour humpbacks",
-    "species": "Humpback",
-    "info": "Classic morning tour encountered 2\u20134 humpbacks.",
-    "date": "2025-10-30",
-    "latitude": 64.16,
-    "longitude": -22.12,
-    "area": "Faxafl\u00f3i Bay, Reykjav\u00edk, Iceland",
-    "source": "https://elding.is/whale-diary/thursday-30-october-2025",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-10-30-sydney-sightings",
-    "name": "Sydney southbound humpbacks",
-    "species": "Humpback",
-    "info": "Southbound humpbacks off Manly reported in October update.",
-    "date": "2025-10-30",
-    "latitude": -33.83,
-    "longitude": 151.35,
-    "area": "Off Manly, Sydney, NSW, Australia",
-    "source": "https://www.whalewatchingsydney.com.au/2025/10/28/october-2025/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-30-kaikoura-orca",
-    "name": "Kaik\u014dura orcas 'last few days'",
-    "species": "Orca",
-    "info": "Operators noted several orca sightings over the last few days.",
-    "date": "2025-10-30",
-    "latitude": -42.43,
-    "longitude": 173.72,
-    "area": "Kaik\u014dura, NZ",
-    "source": "https://www.instagram.com/reel/DElQ34aTDWZ/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-30-magellan-humpback",
-    "name": "Magellan late October humpback",
-    "species": "Humpback",
-    "info": "Humpback observed on late-October Magellan expedition.",
-    "date": "2025-10-30",
-    "latitude": -53.72,
-    "longitude": -72.55,
-    "area": "Francisco Coloane Marine Park, Chile",
-    "source": "https://todopatagonia.net/en/tour/whales-expedition-strait-of-magellan/",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-10-30-shetland-lerwick2",
-    "name": "Lerwick close-in orcas",
-    "species": "Orca",
-    "info": "Close-in orcas alongside onlookers in Lerwick.",
-    "date": "2025-10-30",
-    "latitude": 60.16,
-    "longitude": -1.13,
-    "area": "Lerwick Harbour, Shetland, UK",
-    "source": "https://www.facebook.com/bbcscotlandnews/videos/watch-a-very-close-encounter-with-orcas-in-lerwick/975428027750578/",
+    "id": "2025-11-09-outercape-marconi",
+    "name": "Adult white near Marconi",
+    "species": "Great White Shark",
+    "info": "AWSC post: white shark off Marconi Beach, Outer Cape.",
+    "date": "2025-11-09",
+    "latitude": 41.889,
+    "longitude": -69.942,
+    "area": "Marconi Beach, Cape Cod MA",
+    "source": "https://www.facebook.com/atlanticwhiteshark/posts/even-in-november-white-sharks-are-still-active-off-the-outer-cape-this-sighting-/1250189670470159/",
     "behaviors": [
       "nearshore"
     ]
   },
   {
-    "id": "2025-10-29-salish-foxisland-early",
-    "name": "Fox Island early group",
-    "species": "Orca",
-    "info": "Early group heard then seen turning around near Fox Island.",
-    "date": "2025-10-29",
-    "latitude": 47.23,
-    "longitude": -122.63,
-    "area": "Fox Island, Puget Sound, WA, USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
+    "id": "2025-11-07-ballina-tag-2187",
+    "name": "Tagged white detected",
+    "species": "Great White Shark",
+    "info": "NSW DPI receiver detected tagged white shark #2187 at Ballina.",
+    "date": "2025-11-07",
+    "latitude": -28.87,
+    "longitude": 153.57,
+    "area": "Ballina, NSW",
+    "source": "https://x.com/NSWSharkSmart",
     "behaviors": [
-      "milling"
+      "detection"
     ]
   },
   {
-    "id": "2025-10-29-salish-eagleisland",
-    "name": "Eagle Island westbound",
-    "species": "Orca",
-    "info": "6 westbound toward Eagle Island.",
-    "date": "2025-10-29",
-    "latitude": 47.21,
-    "longitude": -122.61,
-    "area": "Eagle Island, South Puget Sound, WA, USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
+    "id": "2025-11-07-byronbay-tag",
+    "name": "Tagged white ping",
+    "species": "Great White Shark",
+    "info": "NSW SharkSmart feed shows tagged white near Byron area.",
+    "date": "2025-11-07",
+    "latitude": -28.64,
+    "longitude": 153.62,
+    "area": "Byron Bay, NSW",
+    "source": "https://www.sharksmart.com.au/shark-activity",
     "behaviors": [
-      "traveling"
+      "detection"
     ]
   },
   {
-    "id": "2025-10-29-salish-pitt",
-    "name": "Mouth of Pitt Passage group",
-    "species": "Orca",
-    "info": "Group milling at mouth of Pitt Passage.",
-    "date": "2025-10-29",
-    "latitude": 47.24,
-    "longitude": -122.72,
-    "area": "Mouth of Pitt Passage, WA, USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
+    "id": "2025-11-06-cape-cod-season",
+    "name": "Late-season presence",
+    "species": "Great White Shark",
+    "info": "Cape Cod Times: whites sticking around later into November.",
+    "date": "2025-11-06",
+    "latitude": 41.9,
+    "longitude": -69.96,
+    "area": "Outer Cape Cod, MA",
+    "source": "https://www.capecodtimes.com/story/news/environment/2025/11/06/cape-cod-shark-sighting-sason-great-white-sharks/87094381007/",
     "behaviors": [
-      "milling"
+      "seasonal note"
     ]
   },
   {
-    "id": "2025-10-29-bc-georgiastrait",
-    "name": "Georgia Strait humpbacks",
-    "species": "Humpback",
-    "info": "Humpbacks seen in upper Georgia Strait and off Sooke.",
-    "date": "2025-10-29",
-    "latitude": 49.0,
-    "longitude": -123.7,
-    "area": "Upper Georgia Strait, BC, Canada",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
+    "id": "2025-11-05-treachery-nsw",
+    "name": "White shark advice",
+    "species": "Great White Shark",
+    "info": "NSW SharkSmart advisory near Treachery/Seal Rocks.",
+    "date": "2025-11-05",
+    "latitude": -32.43,
+    "longitude": 152.54,
+    "area": "Seal Rocks, NSW",
+    "source": "https://www.sharksmart.com.au/shark-activity",
     "behaviors": [
-      "traveling"
+      "advisory"
     ]
   },
   {
-    "id": "2025-10-29-victoria-sooke",
-    "name": "Sooke east tip humpback",
-    "species": "Humpback",
-    "info": "Humpback off Sooke east tip heading east.",
-    "date": "2025-10-29",
-    "latitude": 48.36,
-    "longitude": -123.67,
-    "area": "Sooke, Vancouver Island, BC, Canada",
-    "source": "https://whalesanddolphinsbc.com/preview/2025/10/preview-sightings/",
+    "id": "2025-11-05-portmacquarie",
+    "name": "Tag ping",
+    "species": "Great White Shark",
+    "info": "Detector ping north of Port Macquarie.",
+    "date": "2025-11-05",
+    "latitude": -31.41,
+    "longitude": 152.94,
+    "area": "Port Macquarie, NSW",
+    "source": "https://www.sharksmart.com.au/shark-activity",
     "behaviors": [
-      "traveling"
+      "detection"
     ]
   },
   {
-    "id": "2025-10-29-kaikoura-humpback",
-    "name": "Kaik\u014dura humpback sighting",
-    "species": "Humpback",
-    "info": "Humpback breached near tour boat south of Kaik\u014dura.",
-    "date": "2025-10-29",
-    "latitude": -42.45,
-    "longitude": 173.7,
-    "area": "South of Kaik\u014dura, NZ",
-    "source": "https://www.instagram.com/reel/DQA0gJqE9FW/",
+    "id": "2025-11-04-newcastle",
+    "name": "Tag ping",
+    "species": "Great White Shark",
+    "info": "Detector ping off Newcastle.",
+    "date": "2025-11-04",
+    "latitude": -32.93,
+    "longitude": 151.78,
+    "area": "Newcastle, NSW",
+    "source": "https://www.sharksmart.com.au/shark-activity",
     "behaviors": [
-      "breaching"
+      "detection"
     ]
   },
   {
-    "id": "2025-10-29-sydney-humpback",
-    "name": "Sydney 'humpback highway'",
-    "species": "Humpback",
-    "info": "Southbound whales filmed along NSW coast.",
-    "date": "2025-10-29",
-    "latitude": -33.9,
-    "longitude": 151.3,
-    "area": "Off Sydney, NSW, Australia",
-    "source": "https://www.facebook.com/sydney/videos/humpback-highway-along-nsw/812067341757073/",
+    "id": "2025-11-04-wollongong",
+    "name": "Tag ping",
+    "species": "Great White Shark",
+    "info": "Detector ping east of Wollongong.",
+    "date": "2025-11-04",
+    "latitude": -34.45,
+    "longitude": 150.95,
+    "area": "Wollongong, NSW",
+    "source": "https://www.sharksmart.com.au/shark-activity",
     "behaviors": [
-      "traveling"
+      "detection"
     ]
   },
   {
-    "id": "2025-10-29-iceland-humpback",
-    "name": "Reykjav\u00edk settling humpbacks",
-    "species": "Humpback",
-    "info": "2 humpbacks apparently settling in harbour area.",
-    "date": "2025-10-29",
-    "latitude": 64.17,
-    "longitude": -22.15,
-    "area": "Reykjav\u00edk harbour approaches, Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-october-25th-2025/",
+    "id": "2025-11-03-ballina-tag2",
+    "name": "Another Ballina ping",
+    "species": "Great White Shark",
+    "info": "Receiver detection at Ballina.",
+    "date": "2025-11-03",
+    "latitude": -28.87,
+    "longitude": 153.59,
+    "area": "Ballina, NSW",
+    "source": "https://www.sharksmart.com.au/shark-activity",
     "behaviors": [
-      "foraging"
+      "detection"
     ]
   },
   {
-    "id": "2025-10-29-magellan-humpback3",
-    "name": "Magellan feeder pair",
-    "species": "Humpback",
-    "info": "Pair feeding in Strait of Magellan rich upwelling zone.",
-    "date": "2025-10-29",
-    "latitude": -53.7,
-    "longitude": -72.6,
-    "area": "Strait of Magellan, Chile",
-    "source": "https://www.swoop-patagonia.com/visit/wildlife/whales",
+    "id": "2025-11-03-kiama",
+    "name": "Tag ping",
+    "species": "Great White Shark",
+    "info": "Receiver detection near Kiama.",
+    "date": "2025-11-03",
+    "latitude": -34.67,
+    "longitude": 150.87,
+    "area": "Kiama, NSW",
+    "source": "https://www.sharksmart.com.au/shark-activity",
     "behaviors": [
-      "foraging"
+      "detection"
     ]
   },
   {
-    "id": "2025-10-29-shetland-orca-coast",
-    "name": "Shetland coastal orcas",
-    "species": "Orca",
-    "info": "Orcas moving along Shetland coast, reported in local group.",
-    "date": "2025-10-29",
-    "latitude": 60.2,
-    "longitude": -1.3,
-    "area": "Shetland coast, UK",
-    "source": "https://www.facebook.com/groups/shetlandorcasightings/",
+    "id": "2025-11-03-nambucca",
+    "name": "Tag ping",
+    "species": "Great White Shark",
+    "info": "Receiver detection near Nambucca.",
+    "date": "2025-11-03",
+    "latitude": -30.65,
+    "longitude": 153.02,
+    "area": "Nambucca Heads, NSW",
+    "source": "https://www.sharksmart.com.au/shark-activity",
     "behaviors": [
-      "traveling"
+      "detection"
     ]
   },
   {
-    "id": "2025-10-29-japan-hokkaido",
-    "name": "Rausu late cruise orcas",
-    "species": "Orca",
-    "info": "Late-season cruise still encountering orcas in Nemuro Strait.",
-    "date": "2025-10-29",
-    "latitude": 43.99,
-    "longitude": 145.28,
-    "area": "Nemuro Strait off Rausu, Hokkaido, Japan",
-    "source": "https://www.e-shiretoko.com/en/",
+    "id": "2025-11-02-sealbeach-ca",
+    "name": "White offshore juvenile",
+    "species": "Great White Shark",
+    "info": "General CA white shark presence near Seal Beach.",
+    "date": "2025-11-02",
+    "latitude": 33.73,
+    "longitude": -118.08,
+    "area": "Seal Beach, CA",
+    "source": "https://wildlife.ca.gov/Conservation/Marine/White-Shark",
     "behaviors": [
-      "traveling"
+      "juvenile habitat"
     ]
   },
   {
-    "id": "2025-10-29-bc-seymour",
-    "name": "Seymour Narrows orcas",
-    "species": "Orca",
-    "info": "Killer whales reported in Seymour Narrows/Discovery Passage.",
-    "date": "2025-10-29",
-    "latitude": 50.1,
-    "longitude": -125.36,
-    "area": "Seymour Narrows, BC, Canada",
-    "source": "https://www.facebook.com/groups/490265704445045/posts/3402728003198786/",
+    "id": "2025-11-02-santacruz-ca",
+    "name": "Juvenile aggregation",
+    "species": "Great White Shark",
+    "info": "Juvenile white sharks frequent nearshore Monterey Bay.",
+    "date": "2025-11-02",
+    "latitude": 36.95,
+    "longitude": -121.99,
+    "area": "Santa Cruz, CA",
+    "source": "https://www.latimes.com/california/story/2021-02-09/great-white-shark-numbers-up-significantly-in-monterey-bay",
     "behaviors": [
-      "traveling"
+      "juveniles"
     ]
   },
   {
-    "id": "2025-10-28-salish-haro",
-    "name": "Haro Strait transients",
-    "species": "Orca",
-    "info": "Bigg\u2019s transients moving north in Haro Strait.",
-    "date": "2025-10-28",
-    "latitude": 48.55,
-    "longitude": -123.15,
-    "area": "Haro Strait, WA/BC",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-28-salish-dalco",
-    "name": "Dalco Passage humpback",
-    "species": "Humpback",
-    "info": "Humpback 'Malachite' present near Dalco Passage.",
-    "date": "2025-10-28",
-    "latitude": 47.25,
-    "longitude": -122.5,
-    "area": "Dalco Passage, Puget Sound, WA, USA",
-    "source": "https://www.facebook.com/groups/564701038927716/posts/1170246725039808/",
+    "id": "2025-11-02-gansbaai-sa",
+    "name": "Recent activity",
+    "species": "Great White Shark",
+    "info": "Marine Dynamics notes changing patterns; whites still present.",
+    "date": "2025-11-02",
+    "latitude": -34.58,
+    "longitude": 19.35,
+    "area": "Gansbaai, South Africa",
+    "source": "https://sharkwatchsa.com/ethical-shark-cage-diving-in-south-africa-why-it-matters-beyond-great-white-sharks/",
     "behaviors": [
       "nearshore"
     ]
   },
   {
-    "id": "2025-10-28-vancouver-sooke",
-    "name": "Sooke humpback",
-    "species": "Humpback",
-    "info": "Humpback seen east of Sooke heading toward Victoria.",
-    "date": "2025-10-28",
-    "latitude": 48.37,
-    "longitude": -123.55,
-    "area": "Off Sooke, Vancouver Island, BC, Canada",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
+    "id": "2025-11-02-pearlysouthafrica",
+    "name": "Kogel Bay region",
+    "species": "Great White Shark",
+    "info": "Sightings network active; region historically active.",
+    "date": "2025-11-02",
+    "latitude": -34.31,
+    "longitude": 18.89,
+    "area": "Kogel Bay, False Bay SA",
+    "source": "https://sharkspotters.org.za/safety/shark-sightings/",
     "behaviors": [
-      "traveling"
+      "sighting"
     ]
   },
   {
-    "id": "2025-10-28-sydney-update",
-    "name": "Sydney October update whales",
-    "species": "Humpback",
-    "info": "Multiple humpbacks recorded in Oct 28 update.",
-    "date": "2025-10-28",
-    "latitude": -33.82,
-    "longitude": 151.35,
-    "area": "Off Manly, Sydney, NSW, Australia",
-    "source": "https://www.whalewatchingsydney.com.au/2025/10/28/october-2025/",
+    "id": "2025-11-01-farallones-ca",
+    "name": "Adult presence",
+    "species": "Great White Shark",
+    "info": "Seasonal adult whites near Southeast Farallon.",
+    "date": "2025-11-01",
+    "latitude": 37.7,
+    "longitude": -123.0,
+    "area": "Farallon Islands, CA",
+    "source": "https://wildlife.ca.gov/Conservation/Marine/White-Shark",
     "behaviors": [
-      "traveling"
+      "seasonal"
     ]
   },
   {
-    "id": "2025-10-28-kaikoura-breach",
-    "name": "Kaik\u014dura surprise breach",
-    "species": "Humpback",
-    "info": "Humpback breached close to boat, surprising crew.",
-    "date": "2025-10-28",
-    "latitude": -42.44,
-    "longitude": 173.72,
-    "area": "Kaik\u014dura, NZ",
-    "source": "https://www.instagram.com/reel/DQA0gJqE9FW/",
+    "id": "2025-11-01-morrobay-ca",
+    "name": "Nearshore report",
+    "species": "Great White Shark",
+    "info": "Central CA coast seasonal presence.",
+    "date": "2025-11-01",
+    "latitude": 35.35,
+    "longitude": -120.89,
+    "area": "Morro Bay, CA",
+    "source": "https://wildlife.ca.gov/Conservation/Marine/White-Shark",
     "behaviors": [
-      "breaching"
+      "seasonal"
     ]
   },
   {
-    "id": "2025-10-28-iceland-humpback",
-    "name": "Faxafl\u00f3i 2\u20134 humpbacks",
-    "species": "Humpback",
-    "info": "Tours reported 2\u20134 humpbacks under changing weather.",
-    "date": "2025-10-28",
-    "latitude": 64.15,
-    "longitude": -22.14,
-    "area": "Faxafl\u00f3i Bay, Reykjav\u00edk, Iceland",
-    "source": "https://elding.is/whale-diary/",
+    "id": "2025-11-01-ballina-sighting",
+    "name": "Heli sighting 3.0m",
+    "species": "Great White Shark",
+    "info": "SLS Westpac Heli reported ~3.0m white shark 07/11 per feed.",
+    "date": "2025-11-07",
+    "latitude": -28.84,
+    "longitude": 153.6,
+    "area": "Lennox Head / Ballina, NSW",
+    "source": "https://www.sharksmart.com.au/shark-activity",
     "behaviors": [
-      "foraging"
+      "aerial sighting"
     ]
   },
   {
-    "id": "2025-10-28-magellan-feeder",
-    "name": "Magellan feeding humpback",
-    "species": "Humpback",
-    "info": "Feeding humpback along classic Magellan route.",
-    "date": "2025-10-28",
-    "latitude": -53.69,
-    "longitude": -72.57,
-    "area": "Strait of Magellan, Chile",
-    "source": "https://moseractive.com/en_ca/whale-watching-strait-of-magellan-patagonia.html",
+    "id": "2025-11-06-geraldton-wa",
+    "name": "White shark alert",
+    "species": "Great White Shark",
+    "info": "WA advisory of white shark in Mid West.",
+    "date": "2025-11-06",
+    "latitude": -28.77,
+    "longitude": 114.6,
+    "area": "Geraldton, WA",
+    "source": "https://www.news.com.au/national/western-australia/warning-issued-after-man-bitten-by-1m-wobbegong-shark-at-yallingup-wa-days-after-fatal-attack-on-surfer/news-story/6f27e628b2a8f17f0ee8d57f25213437",
     "behaviors": [
-      "foraging"
+      "advisory"
     ]
   },
   {
-    "id": "2025-10-28-shetland-south",
-    "name": "Shetland southbound orcas",
-    "species": "Orca",
-    "info": "Southbound orcas sighted from ferry near Shetland.",
-    "date": "2025-10-28",
-    "latitude": 60.05,
-    "longitude": -1.15,
-    "area": "South of Lerwick, Shetland, UK",
-    "source": "https://www.facebook.com/groups/shetlandorcasightings/",
+    "id": "2025-11-05-deewhy-nsw",
+    "name": "Recent activity (NSW)",
+    "species": "Great White Shark",
+    "info": "NSW reports increased tracking/alerts post-incident.",
+    "date": "2025-11-05",
+    "latitude": -33.75,
+    "longitude": 151.31,
+    "area": "Dee Why, NSW",
+    "source": "https://www.abc.net.au/news/2025-10-08/downloads-increase-of-sharksmart-app-after-sydney-fatal-attack/105863682",
     "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-28-japan-orca",
-    "name": "Hokkaido orca sighting",
-    "species": "Orca",
-    "info": "Shiretoko cruise reported orcas despite weather.",
-    "date": "2025-10-28",
-    "latitude": 44.02,
-    "longitude": 145.26,
-    "area": "Nemuro Strait off Rausu, Hokkaido, Japan",
-    "source": "https://www.e-shiretoko.com/en/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-28-bc-georgia",
-    "name": "Georgia Strait humpback pair",
-    "species": "Humpback",
-    "info": "Pair traveling north in Strait of Georgia.",
-    "date": "2025-10-28",
-    "latitude": 49.05,
-    "longitude": -123.45,
-    "area": "Strait of Georgia, BC, Canada",
-    "source": "https://whalesanddolphinsbc.com/latest_sightings/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-27-viww-humpback1",
-    "name": "Mammoth/Ocean humpback",
-    "species": "Humpback",
-    "info": "One of several humpbacks seen in Strait of Georgia on Oct 27.",
-    "date": "2025-10-27",
-    "latitude": 49.0,
-    "longitude": -123.3,
-    "area": "Strait of Georgia, BC, Canada",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-27-viww-humpback2",
-    "name": "Hammer humpback",
-    "species": "Humpback",
-    "info": "Humpback 'Hammer' identified in same area.",
-    "date": "2025-10-27",
-    "latitude": 49.02,
-    "longitude": -123.32,
-    "area": "Strait of Georgia, BC, Canada",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-27-viww-humpback3",
-    "name": "Magpie humpback",
-    "species": "Humpback",
-    "info": "Humpback 'Magpie' surfaced repeatedly.",
-    "date": "2025-10-27",
-    "latitude": 49.03,
-    "longitude": -123.28,
-    "area": "Strait of Georgia, BC, Canada",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-10-27-viww-humpback4",
-    "name": "Prowler humpback",
-    "species": "Humpback",
-    "info": "Humpback 'Prowler' traveling with others.",
-    "date": "2025-10-27",
-    "latitude": 49.01,
-    "longitude": -123.27,
-    "area": "Strait of Georgia, BC, Canada",
-    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-27-salish-orcas",
-    "name": "South Puget Sound orcas",
-    "species": "Orca",
-    "info": "Orcas reported in South Puget Sound per sightings network.",
-    "date": "2025-10-27",
-    "latitude": 47.15,
-    "longitude": -122.55,
-    "area": "South Puget Sound, WA, USA",
-    "source": "https://www.orcanetwork.org/sightings-network",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-27-kaikoura",
-    "name": "Kaik\u014dura canyon whale",
-    "species": "Humpback",
-    "info": "Tour spotted humpback over Kaik\u014dura canyon.",
-    "date": "2025-10-27",
-    "latitude": -42.43,
-    "longitude": 173.69,
-    "area": "Kaik\u014dura Canyon, NZ",
-    "source": "https://www.facebook.com/WhaleWatchKaikoura/",
-    "behaviors": [
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-10-27-sydney",
-    "name": "NSW southbound humpback",
-    "species": "Humpback",
-    "info": "Single southbound humpback off NSW coast.",
-    "date": "2025-10-27",
-    "latitude": -33.95,
-    "longitude": 151.3,
-    "area": "Off Sydney, NSW, Australia",
-    "source": "https://manlyobserver.com.au/2025-humpback-migration-splashes-off-early-in-manly/",
-    "behaviors": [
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-10-27-magellan",
-    "name": "Early Magellan trip humpback",
-    "species": "Humpback",
-    "info": "Humpback noted on Magellan trip, continuing austral spring feeding.",
-    "date": "2025-10-27",
-    "latitude": -53.71,
-    "longitude": -72.52,
-    "area": "Strait of Magellan, Chile",
-    "source": "https://todopatagonia.net/en/tour/whales-expedition-strait-of-magellan/",
-    "behaviors": [
-      "foraging"
+      "public alert"
     ]
   }
 ]
