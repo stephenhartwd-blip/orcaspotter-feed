@@ -522,5 +522,110 @@
     "behaviors": [
       "public alert"
     ]
+  },
+  {
+    "id": "2025-11-12-kaikoura-entangled-hb",
+    "name": "Entangled humpback freed",
+    "species": "Humpback",
+    "info": "DOC report: humpback whale freed from crayfish pot line south of Kaik\u014dura.",
+    "date": "2025-11-12",
+    "latitude": -42.5,
+    "longitude": 173.6,
+    "area": "South of Kaik\u014dura, NZ",
+    "source": "https://www.doc.govt.nz/news/media-releases/2025-media-releases/entangled-whale-successfully-freed-in-kaikoura/",
+    "behaviors": [
+      "entangled",
+      "disentangled",
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-11-12-victoria-transients-ew",
+    "name": "Transients and humpbacks",
+    "species": "Orca",
+    "info": "Eagle Wing Tours daily report: transient killer whales and humpback whales in the Salish Sea.",
+    "date": "2025-11-12",
+    "latitude": 48.35,
+    "longitude": -123.4,
+    "area": "Juan de Fuca Strait, BC",
+    "source": "https://eaglewingtours.com/daily-sighting-report/",
+    "behaviors": [
+      "travelling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2025-11-11-nanaimo-tempest-graphite",
+    "name": "Tempest and Graphite with T049As",
+    "species": "Humpback",
+    "info": "Vancouver Island Whale Watch report: humpbacks Tempest and Graphite outside Nanaimo, plus T049A transient orcas.",
+    "date": "2025-11-11",
+    "latitude": 49.2,
+    "longitude": -123.9,
+    "area": "Off Nanaimo, BC",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/11/4/november-4-2025-",
+    "behaviors": [
+      "foraging",
+      "lunging"
+    ]
+  },
+  {
+    "id": "2025-11-05-campbellriver-crww-orcas",
+    "name": "Orcas off Campbell River",
+    "species": "Orca",
+    "info": "Campbell River Whale Watching Instagram photo: orcas launching out of the water near Campbell River.",
+    "date": "2025-11-05",
+    "latitude": 50.03,
+    "longitude": -125.25,
+    "area": "Discovery Passage, Campbell River BC",
+    "source": "https://www.instagram.com/p/DQw4ROZEsZr/",
+    "behaviors": [
+      "breaching",
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-11-12-campbellriver-crww-orcas",
+    "name": "Late-season orcas",
+    "species": "Orca",
+    "info": "Campbell River Whale Watching Instagram: orcas still active near Campbell River late in the season.",
+    "date": "2025-11-12",
+    "latitude": 50.03,
+    "longitude": -125.25,
+    "area": "Discovery Passage, Campbell River BC",
+    "source": "https://www.instagram.com/p/DQ-amJGk_3-/",
+    "behaviors": [
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-11-13-esperance-kelp-beds-tagged",
+    "name": "Tagged white at Kelp Beds",
+    "species": "Great White Shark",
+    "info": "SharkSmart alert: tagged white shark detected by Kelp Beds Beach receiver near Esperance.",
+    "date": "2025-11-13",
+    "latitude": -33.88,
+    "longitude": 121.91,
+    "area": "Kelp Beds Beach, Esperance WA",
+    "source": "https://www.sharksmart.com.au/shark-activity/",
+    "behaviors": [
+      "tagged detection",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "2025-11-14-oldbar-tag-2460",
+    "name": "Tagged white off Old Bar",
+    "species": "Great White Shark",
+    "info": "NSW SharkSmart X post: tagged white shark #2460 detected off Old Bar.",
+    "date": "2025-11-14",
+    "latitude": -31.98,
+    "longitude": 152.59,
+    "area": "Off Old Bar, NSW",
+    "source": "https://x.com/NSWSharkSmart",
+    "behaviors": [
+      "tagged detection",
+      "nearshore"
+    ]
   }
 ]
