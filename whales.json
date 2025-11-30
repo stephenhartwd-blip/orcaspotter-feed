@@ -7,7 +7,7 @@
     "date": "2025-11-09",
     "latitude": 64.15,
     "longitude": -22.05,
-    "area": "Faxafl\u00f3i Bay, Iceland",
+    "area": "Faxaflói Bay, Iceland",
     "source": "https://elding.is/whale-diary/sunday-9-november-2025",
     "behaviors": [
       "pec slaps",
@@ -18,11 +18,11 @@
     "id": "2025-11-06-reykjavik-hb-elding",
     "name": "2 humpbacks side-by-side",
     "species": "Humpback",
-    "info": "Elding diary: two humpbacks breaching and rolling near Vi\u00f0ey.",
+    "info": "Elding diary: two humpbacks breaching and rolling near Viðey.",
     "date": "2025-11-06",
     "latitude": 64.17,
     "longitude": -22.02,
-    "area": "Faxafl\u00f3i Bay, Iceland",
+    "area": "Faxaflói Bay, Iceland",
     "source": "https://elding.is/whale-diary/thursday-6-november-2025",
     "behaviors": [
       "breaching",
@@ -33,11 +33,11 @@
     "id": "2025-11-02-skjervoy-orca-birth",
     "name": "Pod incl. newborn",
     "species": "Orca",
-    "info": "Researchers documented a wild orca birth near Skjerv\u00f8y.",
+    "info": "Researchers documented a wild orca birth near Skjervøy.",
     "date": "2025-11-02",
     "latitude": 70.03,
     "longitude": 20.98,
-    "area": "Skjerv\u00f8y, Troms Norway",
+    "area": "Skjervøy, Troms Norway",
     "source": "https://www.livescience.com/animals/orcas/incredible-first-of-their-kind-images-show-an-orca-being-born-in-norway-and-the-rest-of-its-pod-forming-a-protective-circle",
     "behaviors": [
       "calf",
@@ -74,9 +74,9 @@
   },
   {
     "id": "2025-11-03-victoria-mix-ew",
-    "name": "Humpbacks + Bigg\u2019s",
+    "name": "Humpbacks + Bigg’s",
     "species": "Humpback",
-    "info": "Humpbacks and Bigg\u2019s killer whales seen same day.",
+    "info": "Humpbacks and Bigg’s killer whales seen same day.",
     "date": "2025-11-03",
     "latitude": 48.4,
     "longitude": -123.3,
@@ -176,11 +176,11 @@
     "id": "2025-11-03-kauai-humpback",
     "name": "Early season arrival",
     "species": "Humpback",
-    "info": "Continuing early-season humpback presence off west Kaua\u02bbi.",
+    "info": "Continuing early-season humpback presence off west Kauaʻi.",
     "date": "2025-11-03",
     "latitude": 21.88,
     "longitude": -159.72,
-    "area": "West Kaua\u02bbi, HI",
+    "area": "West Kauaʻi, HI",
     "source": "https://www.hawaiimagazine.com/first-humpback-whale-of-2025-season-spotted-off-kauai/",
     "behaviors": [
       "blows",
@@ -223,7 +223,7 @@
     "date": "2025-11-05",
     "latitude": 70.06,
     "longitude": 21.02,
-    "area": "Skjerv\u00f8y, Troms Norway",
+    "area": "Skjervøy, Troms Norway",
     "source": "https://www.facebook.com/orcachannel/",
     "behaviors": [
       "feeding"
@@ -237,7 +237,7 @@
     "date": "2025-11-01",
     "latitude": 70.02,
     "longitude": 20.95,
-    "area": "Skjerv\u00f8y, Troms Norway",
+    "area": "Skjervøy, Troms Norway",
     "source": "https://www.instagram.com/p/DQ1WZ6YDI3z/",
     "behaviors": [
       "traveling"
@@ -527,11 +527,11 @@
     "id": "2025-11-12-kaikoura-entangled-hb",
     "name": "Entangled humpback freed",
     "species": "Humpback",
-    "info": "DOC report: humpback whale freed from crayfish pot line south of Kaik\u014dura.",
+    "info": "DOC report: humpback whale freed from crayfish pot line south of Kaikōura.",
     "date": "2025-11-12",
     "latitude": -42.5,
     "longitude": 173.6,
-    "area": "South of Kaik\u014dura, NZ",
+    "area": "South of Kaikōura, NZ",
     "source": "https://www.doc.govt.nz/news/media-releases/2025-media-releases/entangled-whale-successfully-freed-in-kaikoura/",
     "behaviors": [
       "entangled",
@@ -573,7 +573,7 @@
     "id": "2025-11-05-campbellriver-crww-orcas",
     "name": "Orcas off Campbell River",
     "species": "Orca",
-    "info": "Steve-O's little helper",
+    "info": "Campbell River Whale Watching Instagram photo: orcas launching out of the water near Campbell River.",
     "date": "2025-11-05",
     "latitude": 50.03,
     "longitude": -125.25,
@@ -626,6 +626,285 @@
     "behaviors": [
       "tagged detection",
       "nearshore"
+    ]
+  },
+
+  {
+    "id": "2025-11-10-okinawa-hb-kerama",
+    "name": "Kerama humpback",
+    "species": "Humpback",
+    "info": "Humpback whale observed on a Kerama Islands whale-watching/snorkel tour from Naha, Okinawa, during the November season.",
+    "date": "2025-11-10",
+    "latitude": 26.2,
+    "longitude": 127.3,
+    "area": "Kerama Islands, Okinawa Japan",
+    "source": "https://en.activityjapan.com/feature/whale_watching_okinawa/",
+    "behaviors": [
+      "breaching",
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-11-08-izu-hb",
+    "name": "Izu Peninsula humpbacks",
+    "species": "Humpback",
+    "info": "Migrating humpbacks reported off Izu Peninsula during the September–November migration window.",
+    "date": "2025-11-08",
+    "latitude": 34.75,
+    "longitude": 138.9,
+    "area": "Off Izu Peninsula, Japan",
+    "source": "https://www.triptojapan.com/blog/best-time-for-whale-watching-in-japan",
+    "behaviors": [
+      "migration",
+      "blows"
+    ]
+  },
+  {
+    "id": "2025-11-06-valdes-orca",
+    "name": "Beach-hunting orcas",
+    "species": "Orca",
+    "info": "Orcas using beach-hunting techniques along the Valdes Peninsula coastline in the November season.",
+    "date": "2025-11-06",
+    "latitude": -42.5,
+    "longitude": -63.9,
+    "area": "Peninsula Valdés, Argentina",
+    "source": "https://www.swoop-patagonia.com/visit/wildlife/whales",
+    "behaviors": [
+      "beach hunting",
+      "nearshore"
+    ]
+  },
+  {
+    "id": "2025-11-07-chiloe-hb",
+    "name": "Chiloé pygmy blue/humpbacks",
+    "species": "Humpback",
+    "info": "Large baleen whales, including humpbacks and pygmy blues, observed off Chiloé Island during the November whale season.",
+    "date": "2025-11-07",
+    "latitude": -41.9,
+    "longitude": -74.0,
+    "area": "Off Chiloé Island, Chile",
+    "source": "https://farsouthexp.com/patagonia-whale-watching-trips/",
+    "behaviors": [
+      "foraging",
+      "blows"
+    ]
+  },
+  {
+    "id": "2025-11-05-boreray-orca",
+    "name": "Hebrides orca pod",
+    "species": "Orca",
+    "info": "Killer whales encountered during a St Kilda and Outer Hebrides cruise, described as an outstanding orca encounter.",
+    "date": "2025-11-05",
+    "latitude": 57.8,
+    "longitude": -8.6,
+    "area": "St Kilda & Outer Hebrides, Scotland UK",
+    "source": "https://www.hebridescruises.co.uk/news/outstanding-orca-encounter/",
+    "behaviors": [
+      "travelling",
+      "surface activity"
+    ]
+  },
+  {
+    "id": "2025-11-09-mull-orca",
+    "name": "John Coe & Aquarius",
+    "species": "Orca",
+    "info": "Iconic killer whales John Coe and Aquarius reported together in the Hebrides with nearby humpback activity.",
+    "date": "2025-11-09",
+    "latitude": 56.5,
+    "longitude": -6.1,
+    "area": "Sound of Mull, Scotland UK",
+    "source": "https://www.hebridescruises.co.uk/news/john-coe-and-aquarius-together-in-the-hebrides/",
+    "behaviors": [
+      "travelling",
+      "social"
+    ]
+  },
+  {
+    "id": "2025-11-03-borabora-hb",
+    "name": "Bora Bora nursery",
+    "species": "Humpback",
+    "info": "Humpback mothers and calves using the warm lagoons around Bora Bora during the July–November calving season.",
+    "date": "2025-11-03",
+    "latitude": -16.5,
+    "longitude": -151.7,
+    "area": "Bora Bora, French Polynesia",
+    "source": "https://directionallychallengedtraveler.com/places-to-go-whale-watching/",
+    "behaviors": [
+      "mother & calf",
+      "resting"
+    ]
+  },
+  {
+    "id": "2025-11-04-valdes-hb",
+    "name": "Patagonia humpbacks",
+    "species": "Humpback",
+    "info": "Migrating humpbacks and other baleen whales seen along the Patagonian coast during the November season.",
+    "date": "2025-11-04",
+    "latitude": -42.3,
+    "longitude": -64.5,
+    "area": "Patagonian Coast, Argentina",
+    "source": "https://wander-argentina.com/whale-watching-valdes-peninsula/",
+    "behaviors": [
+      "migration"
+    ]
+  },
+  {
+    "id": "2025-11-02-aru-norway-orca",
+    "name": "Northern Norway orcas",
+    "species": "Orca",
+    "info": "Herring-feeding orcas aggregating in northern Norwegian fjords during the November herring run.",
+    "date": "2025-11-02",
+    "latitude": 69.8,
+    "longitude": 19.5,
+    "area": "Northern fjords, Norway",
+    "source": "https://blackplatinumgold.com/where-to-see-killer-whales-orcas-in-november/",
+    "behaviors": [
+      "feeding",
+      "social"
+    ]
+  },
+  {
+    "id": "2025-11-01-argentina-srkw",
+    "name": "Southern right & escorts",
+    "species": "Humpback",
+    "info": "Southern right whales and occasional humpbacks lingering near Peninsula Valdés into November.",
+    "date": "2025-11-01",
+    "latitude": -42.6,
+    "longitude": -64.2,
+    "area": "Golfo Nuevo, Peninsula Valdés Argentina",
+    "source": "https://wwhandbook.iwc.int/en/country-profiles/argentina",
+    "behaviors": [
+      "mother & calf"
+    ]
+  },
+  {
+    "id": "2025-11-11-iceland-hb-late",
+    "name": "Late-season Reykjavik humpbacks",
+    "species": "Humpback",
+    "info": "Humpback whales continuing to be seen on classic whale tours from Reykjavík in early November.",
+    "date": "2025-11-11",
+    "latitude": 64.16,
+    "longitude": -22.0,
+    "area": "Off Reykjavík, Iceland",
+    "source": "https://elding.is/whale-diary/saturday-1-november-2025",
+    "behaviors": [
+      "foraging",
+      "fluke dives"
+    ]
+  },
+  {
+    "id": "2025-11-10-salish-hb-graphite",
+    "name": "Graphite & friends",
+    "species": "Humpback",
+    "info": "Named humpback whales like Graphite and companions forming 'humpback soup' near Porlier Pass in November.",
+    "date": "2025-11-10",
+    "latitude": 49.0,
+    "longitude": -123.6,
+    "area": "Porlier Pass, Salish Sea BC",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "foraging",
+      "social"
+    ]
+  },
+  {
+    "id": "2025-11-12-salish-biggs",
+    "name": "Bigg's and humpbacks mix",
+    "species": "Orca",
+    "info": "Bigg's killer whales mixing with multiple humpbacks in the Salish Sea in mid-November.",
+    "date": "2025-11-12",
+    "latitude": 48.6,
+    "longitude": -123.2,
+    "area": "Central Salish Sea, BC/WA",
+    "source": "https://eaglewingtours.com/daily-sighting-report/",
+    "behaviors": [
+      "foraging",
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-11-08-kaikoura-hb-mc",
+    "name": "Kaikōura mother-calf",
+    "species": "Humpback",
+    "info": "Mother–calf humpback pair reported south of Kaikōura in the days leading up to the November 12 disentanglement.",
+    "date": "2025-11-08",
+    "latitude": -42.6,
+    "longitude": 173.7,
+    "area": "South of Kaikōura, NZ",
+    "source": "https://www.doc.govt.nz/news/media-releases/2025-media-releases/entangled-whale-successfully-freed-in-kaikoura/",
+    "behaviors": [
+      "mother & calf",
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-11-09-hebrides-hb",
+    "name": "Hebrides lunge feeder",
+    "species": "Humpback",
+    "info": "Lunge-feeding humpback whale encountered just metres from a cruise vessel in the Hebrides.",
+    "date": "2025-11-09",
+    "latitude": 57.3,
+    "longitude": -6.2,
+    "area": "Hebrides, Scotland UK",
+    "source": "https://www.hebridescruises.co.uk/news/john-coe-and-aquarius-together-in-the-hebrides/",
+    "behaviors": [
+      "lunge feeding"
+    ]
+  },
+  {
+    "id": "2025-11-07-japan-orca",
+    "name": "Northern Japan orcas",
+    "species": "Orca",
+    "info": "Killer whales observed along northern Japan migration corridors in the autumn season.",
+    "date": "2025-11-07",
+    "latitude": 44.1,
+    "longitude": 145.8,
+    "area": "Off Shiretoko Peninsula, Hokkaido Japan",
+    "source": "https://uk.whales.org/2025/04/03/where-is-the-best-place-to-go-whale-watching-in-japan/",
+    "behaviors": [
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-11-04-bahia-camarones-hb",
+    "name": "Bahía Camarones whales",
+    "species": "Humpback",
+    "info": "Baleen whales frequenting Bahía Camarones along the Patagonian coast in November.",
+    "date": "2025-11-04",
+    "latitude": -44.8,
+    "longitude": -65.7,
+    "area": "Bahía Camarones, Patagonia Argentina",
+    "source": "https://wwhandbook.iwc.int/en/country-profiles/argentina",
+    "behaviors": [
+      "nearshore"
+    ]
+  },
+  {
+    "id": "2025-11-06-gansbaai-mixed",
+    "name": "Gansbaai whale-shark waters",
+    "species": "Humpback",
+    "info": "Southern right whales and other large whales lingering off Gansbaai at the tail end of the July–November season.",
+    "date": "2025-11-06",
+    "latitude": -34.58,
+    "longitude": 19.35,
+    "area": "Gansbaai, South Africa",
+    "source": "https://www.wildlifeworldwide.com/discover/wildlife/whale-watching",
+    "behaviors": [
+      "migration"
+    ]
+  },
+  {
+    "id": "2025-11-10-valdes-orca-2",
+    "name": "Patagonia surf hunters",
+    "species": "Orca",
+    "info": "Orcas patrolling the surf line along Peninsula Valdés, known for dramatic surf-zone hunting.",
+    "date": "2025-11-10",
+    "latitude": -42.45,
+    "longitude": -63.8,
+    "area": "Punta Norte, Peninsula Valdés Argentina",
+    "source": "https://blackplatinumgold.com/where-to-see-killer-whales-orcas-in-november/",
+    "behaviors": [
+      "surf-zone hunting"
     ]
   }
 ]
