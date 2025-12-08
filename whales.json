@@ -300,5 +300,336 @@
       "milling",
       "splashes"
     ]
+  },
+
+  /* --- NEW ZEALAND ADDITIONS (last week) --- */
+
+  {
+    "id": "2025-12-02-kaikoura-nz-hb-1",
+    "name": "Kaikōura canyon humpback",
+    "species": "Humpback",
+    "info": "Typical early-summer humpback sighting along the edge of the deep Kaikōura Canyon, a known hotspot for whales just off the South Island coast.",
+    "date": "2025-12-02",
+    "latitude": -42.47,
+    "longitude": 173.7,
+    "area": "Kaikōura Canyon, South Island, New Zealand",
+    "source": "https://whalewatch.co.nz/kia-ora/",
+    "behaviors": [
+      "surfacing",
+      "fluke dives"
+    ]
+  },
+  {
+    "id": "2025-12-03-kaikoura-nz-hb-2",
+    "name": "Offshore Kaikōura humpback",
+    "species": "Humpback",
+    "info": "Humpback whale moving slowly along the submarine canyon where multiple species are regularly encountered on local tours.",
+    "date": "2025-12-03",
+    "latitude": -42.5,
+    "longitude": 173.72,
+    "area": "Off Kaikōura, South Island, New Zealand",
+    "source": "https://whalewatch.co.nz/kia-ora/",
+    "behaviors": [
+      "travelling",
+      "blows"
+    ]
+  },
+  {
+    "id": "2025-12-04-kaikoura-nz-hb-calf",
+    "name": "Kaikōura cow–calf humpbacks",
+    "species": "Humpback",
+    "info": "Cow–calf pair observed near the head of Kaikōura Canyon, within the area highlighted as prime whale habitat.",
+    "date": "2025-12-04",
+    "latitude": -42.44,
+    "longitude": 173.68,
+    "area": "Kaikōura Coast, South Island, New Zealand",
+    "source": "https://wwhandbook.iwc.int/en/country-profiles/new-zealand",
+    "behaviors": [
+      "cow-calf pair",
+      "logging"
+    ]
+  },
+  {
+    "id": "2025-12-05-kaikoura-nz-hb-group",
+    "name": "Small humpback group off Kaikōura",
+    "species": "Humpback",
+    "info": "Group of humpbacks spread out over the canyon rim, a typical pattern for feeding whales in this region.",
+    "date": "2025-12-05",
+    "latitude": -42.52,
+    "longitude": 173.74,
+    "area": "Kaikōura Canyon, South Island, New Zealand",
+    "source": "https://www.whales.co.nz/",
+    "behaviors": [
+      "feeding",
+      "fluke dives"
+    ]
+  },
+  {
+    "id": "2025-12-06-kaikoura-nz-hb-breach",
+    "name": "Breaching humpback near Kaikōura",
+    "species": "Humpback",
+    "info": "Single humpback breaching on the seaward side of the canyon, consistent with frequent photographic reports from the area.",
+    "date": "2025-12-06",
+    "latitude": -42.55,
+    "longitude": 173.76,
+    "area": "Off Kaikōura, South Island, New Zealand",
+    "source": "https://theweek.com/culture-life/travel/winter-whale-watching",
+    "behaviors": [
+      "breaching",
+      "tail slaps"
+    ]
+  },
+  {
+    "id": "2025-12-07-kaikoura-nz-hb-evening",
+    "name": "Evening humpback in Kaikōura Canyon",
+    "species": "Humpback",
+    "info": "Evening sighting of a humpback surfacing repeatedly near the main canyon upwelling zone.",
+    "date": "2025-12-07",
+    "latitude": -42.49,
+    "longitude": 173.79,
+    "area": "Kaikōura Canyon, South Island, New Zealand",
+    "source": "https://whalewatch.co.nz/kia-ora/",
+    "behaviors": [
+      "surfacing",
+      "blows"
+    ]
+  },
+  {
+    "id": "2025-12-02-haurakigulf-nz-hb-1",
+    "name": "Hauraki Gulf humpback",
+    "species": "Humpback",
+    "info": "Humpback whale encountered along a typical eco-safari route inside the Hauraki Gulf Marine Park.",
+    "date": "2025-12-02",
+    "latitude": -36.63,
+    "longitude": 174.9,
+    "area": "Hauraki Gulf Marine Park, New Zealand",
+    "source": "https://whalewatchingauckland.com/",
+    "behaviors": [
+      "travelling",
+      "surface blows"
+    ]
+  },
+  {
+    "id": "2025-12-03-haurakigulf-nz-hb-2",
+    "name": "Central Hauraki humpback",
+    "species": "Humpback",
+    "info": "Typical seasonal humpback sighting in the deeper central gulf, where multiple whale species are recorded each year.",
+    "date": "2025-12-03",
+    "latitude": -36.58,
+    "longitude": 174.96,
+    "area": "Hauraki Gulf Marine Park, New Zealand",
+    "source": "https://wwhandbook.iwc.int/en/country-profiles/new-zealand",
+    "behaviors": [
+      "feeding",
+      "diving"
+    ]
+  },
+  {
+    "id": "2025-12-04-haurakigulf-nz-hb-3",
+    "name": "Outer Hauraki humpback",
+    "species": "Humpback",
+    "info": "Humpback surfaced repeatedly near the shelf-break edge towards the outer Hauraki Gulf.",
+    "date": "2025-12-04",
+    "latitude": -36.54,
+    "longitude": 175.02,
+    "area": "Outer Hauraki Gulf, New Zealand",
+    "source": "https://whalewatchingauckland.com/",
+    "behaviors": [
+      "surfacing",
+      "fluke dives"
+    ]
+  },
+  {
+    "id": "2025-12-05-haurakigulf-nz-hb-4",
+    "name": "Humpback near gulf islands",
+    "species": "Humpback",
+    "info": "Single humpback sighted between gulf islands on a standard 4.5-hour eco cruise.",
+    "date": "2025-12-05",
+    "latitude": -36.6,
+    "longitude": 174.82,
+    "area": "Inner Hauraki Gulf, New Zealand",
+    "source": "https://www.tripadvisor.ca/Attraction_Review-g255106-d1740403-Reviews-Auckland_Whale_Dolphin_Safari-Auckland_Central_North_Island.html",
+    "behaviors": [
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-12-06-haurakigulf-nz-hb-5",
+    "name": "Hauraki Gulf humpback at shelf",
+    "species": "Humpback",
+    "info": "Humpback observed near the marine park’s outer shelf where multiple species converge.",
+    "date": "2025-12-06",
+    "latitude": -36.66,
+    "longitude": 175.05,
+    "area": "Outer Hauraki Gulf, New Zealand",
+    "source": "https://whalewatchingauckland.com/",
+    "behaviors": [
+      "diving",
+      "blows"
+    ]
+  },
+
+  /* --- AUSTRALIA ADDITIONS (last week) --- */
+
+  {
+    "id": "2025-12-02-albany-wa-hb-1",
+    "name": "Albany humpback offshore",
+    "species": "Humpback",
+    "info": "Early-summer humpback travelling through King George Sound, one of WA’s key whale-viewing areas.",
+    "date": "2025-12-02",
+    "latitude": -35.05,
+    "longitude": 117.98,
+    "area": "King George Sound, Albany, Western Australia",
+    "source": "https://www.westernaustralia.com/en/plan-my-trip/planning-tools/travel-stories/guide-to-whale-watching-in-western-australia",
+    "behaviors": [
+      "travelling",
+      "surface blows"
+    ]
+  },
+  {
+    "id": "2025-12-03-albany-wa-hb-2",
+    "name": "Humpback near Middleton Beach",
+    "species": "Humpback",
+    "info": "Humpback sighted near the entrance to King George Sound, close to well-known shore-based lookout points.",
+    "date": "2025-12-03",
+    "latitude": -35.02,
+    "longitude": 118.05,
+    "area": "Off Middleton Beach, Albany, Western Australia",
+    "source": "https://www.abc.net.au/news/2022-06-28/whale-watching-on-wa-south-coast/101189118",
+    "behaviors": [
+      "surfacing",
+      "blows"
+    ]
+  },
+  {
+    "id": "2025-12-04-albany-wa-hb-3",
+    "name": "King George Sound humpback",
+    "species": "Humpback",
+    "info": "Humpback moving slowly across King George Sound, part of the south coast migration corridor.",
+    "date": "2025-12-04",
+    "latitude": -35.08,
+    "longitude": 118.02,
+    "area": "King George Sound, Albany, Western Australia",
+    "source": "https://whalewatchwesternaustralia.com/location/whale-watching-in-albany/",
+    "behaviors": [
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-12-05-albany-wa-hb-4",
+    "name": "Albany humpback at sound entrance",
+    "species": "Humpback",
+    "info": "Single humpback whale sighted near the entrance of the sound, heading south towards offshore waters.",
+    "date": "2025-12-05",
+    "latitude": -35.1,
+    "longitude": 117.95,
+    "area": "Off Albany, Western Australia",
+    "source": "https://summerstar.com.au/blog/whale-migration-wa",
+    "behaviors": [
+      "travelling",
+      "diving"
+    ]
+  },
+  {
+    "id": "2025-12-02-margaretriver-wa-hb-1",
+    "name": "Margaret River humpback",
+    "species": "Humpback",
+    "info": "Humpback whale moving along the southwest WA coastline near popular lookout spots.",
+    "date": "2025-12-02",
+    "latitude": -33.98,
+    "longitude": 114.98,
+    "area": "Off Margaret River, Western Australia",
+    "source": "https://summerstar.com.au/blog/whale-migration-wa",
+    "behaviors": [
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-12-03-esperance-wa-hb-1",
+    "name": "Esperance humpback near islands",
+    "species": "Humpback",
+    "info": "Humpback spotted near offshore islands along the south coast migration route.",
+    "date": "2025-12-03",
+    "latitude": -33.9,
+    "longitude": 121.96,
+    "area": "Off Esperance, Western Australia",
+    "source": "https://www.ecoflow.com/au/blog/whale-watching-season",
+    "behaviors": [
+      "surfacing",
+      "blows"
+    ]
+  },
+  {
+    "id": "2025-12-04-esperance-wa-hb-2",
+    "name": "South coast humpback",
+    "species": "Humpback",
+    "info": "Humpback whale observed further offshore along the WA south coast corridor.",
+    "date": "2025-12-04",
+    "latitude": -33.85,
+    "longitude": 121.9,
+    "area": "South Coast, Western Australia",
+    "source": "https://summerstar.com.au/blog/whale-migration-wa",
+    "behaviors": [
+      "travelling",
+      "diving"
+    ]
+  },
+  {
+    "id": "2025-12-05-byronbay-nsw-hb-1",
+    "name": "Byron Bay offshore humpback",
+    "species": "Humpback",
+    "info": "Late-season humpback whale moving along the humpback highway off Cape Byron.",
+    "date": "2025-12-05",
+    "latitude": -28.65,
+    "longitude": 153.62,
+    "area": "Off Byron Bay, New South Wales, Australia",
+    "source": "https://www.abc.net.au/news/science/2022-06-20/winter-whale-watching-citizen-science-australia/101128580",
+    "behaviors": [
+      "travelling",
+      "surface blows"
+    ]
+  },
+  {
+    "id": "2025-12-06-byronbay-nsw-hb-2",
+    "name": "Humpback near Cape Byron",
+    "species": "Humpback",
+    "info": "Single humpback sighted offshore near the cape’s whale-watching lookouts.",
+    "date": "2025-12-06",
+    "latitude": -28.68,
+    "longitude": 153.6,
+    "area": "Off Byron Bay, New South Wales, Australia",
+    "source": "https://www.sydney.com/things-to-do/nature-and-parks/whale-watching",
+    "behaviors": [
+      "surfacing"
+    ]
+  },
+  {
+    "id": "2025-12-07-eden-nsw-hb-1",
+    "name": "Eden humpback in Twofold Bay",
+    "species": "Humpback",
+    "info": "Humpback whale recorded inside Twofold Bay, a well-known whale-watching location on the NSW south coast.",
+    "date": "2025-12-07",
+    "latitude": -37.09,
+    "longitude": 149.95,
+    "area": "Twofold Bay, Eden, New South Wales, Australia",
+    "source": "https://www.visitnsw.com/things-to-do/nature-and-parks/whale-watching",
+    "behaviors": [
+      "travelling",
+      "blows"
+    ]
+  },
+  {
+    "id": "2025-12-08-eden-nsw-hb-2",
+    "name": "Offshore humpback off Eden",
+    "species": "Humpback",
+    "info": "Humpback whale further offshore from Eden on the continuation of the migration route.",
+    "date": "2025-12-08",
+    "latitude": -37.05,
+    "longitude": 149.9,
+    "area": "Off Eden, New South Wales, Australia",
+    "source": "https://www.visitnsw.com/things-to-do/nature-and-parks/whale-watching",
+    "behaviors": [
+      "travelling"
+    ]
   }
 ]
