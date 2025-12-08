@@ -625,5 +625,66 @@
     "behaviors": [
       "travelling"
     ]
+  },
+
+  {
+    "id": "2025-12-01-contender-sc-gws",
+    "name": "Contender off Charleston",
+    "species": "Great white shark",
+    "info": "OCEARCH-tagged great white shark Contender (approx. 14 ft, 1,650 lbs) pinged about 105 miles off the coast of Charleston, South Carolina, following his southbound fall migration.",
+    "date": "2025-12-01",
+    "latitude": 32.78,
+    "longitude": -78.11,
+    "area": "Atlantic Ocean, ~105 miles off Charleston, South Carolina, USA",
+    "source": "https://www.cbsnews.com/news/great-white-shark-contender-carolinas-bella-virginia/",
+    "behaviors": [
+      "migration",
+      "tracked via satellite"
+    ]
+  },
+  {
+    "id": "2025-12-04-bella-va-gws",
+    "name": "Bella off Virginia coast",
+    "species": "Great white shark",
+    "info": "Bella, a 700-pound, 10-foot great white shark tagged by OCEARCH, pinged off the eastern shore of Virginia between Fisherman Island National Wildlife Refuge and Virginia Beach during her first tracked southbound migration.",
+    "date": "2025-12-04",
+    "latitude": 37.14,
+    "longitude": -75.61,
+    "area": "Atlantic Ocean off Virginia Beach, USA",
+    "source": "https://www.the-express.com/news/us-news/192568/rare-white-shark-sighting-virginia-beach",
+    "behaviors": [
+      "migration",
+      "tracked via satellite"
+    ]
+  },
+  {
+    "id": "2025-11-30-hiltonhead-sc-gws",
+    "name": "Hilton Head first great white of season",
+    "species": "Great white shark",
+    "info": "Charter captain Chip Michalove and Outcast Sport Fishing reported the first great white shark of the season off Hilton Head Island, South Carolina, on November 30, 2025.",
+    "date": "2025-11-30",
+    "latitude": 32.0,
+    "longitude": -80.6,
+    "area": "Atlantic Ocean off Hilton Head Island, South Carolina, USA",
+    "source": "https://www.islandpacket.com/news/local/article313321852.html",
+    "behaviors": [
+      "surfacing",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2025-11-30-sacobay-me-gws",
+    "name": "Saco Bay great white",
+    "species": "Great white shark",
+    "info": "A great white shark was captured on video and reported as repeatedly spotted in Saco Bay near Ocean Park and Goosefare Brook, Maine, on the morning of November 30, 2025.",
+    "date": "2025-11-30",
+    "latitude": 43.5,
+    "longitude": -70.33,
+    "area": "Saco Bay, off the coast of Maine, USA",
+    "source": "https://www.facebook.com/RyanBretonWX/videos/great-white-shark-spotted-again-saturday-morning-in-saco-bay-near-ocean-parksaco/1954477371985526/",
+    "behaviors": [
+      "nearshore cruising",
+      "surfacing"
+    ]
   }
 ]
