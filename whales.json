@@ -1,762 +1,304 @@
 [
   {
-    "id": "2025-11-09-reykjavik-hb-elding-am",
-    "name": "Pair of humpbacks",
+    "id": "2025-12-07-reykjavik-hb-pair",
+    "name": "Breaching humpback pair",
     "species": "Humpback",
-    "info": "Elding diary: 2 humpbacks with repeated pec-slaps and fluking.",
-    "date": "2025-11-09",
-    "latitude": 64.15,
+    "info": "Elding whale diary: classic tour saw two humpback whales breaching and tail-slapping near the islands outside Reykjavík.",
+    "date": "2025-12-07",
+    "latitude": 64.2,
     "longitude": -22.05,
     "area": "Faxaflói Bay, Iceland",
-    "source": "https://elding.is/whale-diary/sunday-9-november-2025",
-    "behaviors": [
-      "pec slaps",
-      "fluke dives"
-    ]
-  },
-  {
-    "id": "2025-11-09-reykjavik-hb-elding-pm",
-    "name": "Solo humpback",
-    "species": "Humpback",
-    "info": "Elding diary: one particularly active humpback with high flukes near Reykjavik.",
-    "date": "2025-11-09",
-    "latitude": 64.17,
-    "longitude": -22.1,
-    "area": "Faxaflói Bay, Iceland",
-    "source": "https://elding.is/whale-diary/sunday-9-november-2025",
-    "behaviors": [
-      "fluke dives"
-    ]
-  },
-  {
-    "id": "2025-11-10-reykjavik-hb-elding-am",
-    "name": "Breaching humpback off Reykjavik",
-    "species": "Humpback",
-    "info": "Elding diary: humpback repeatedly breaching close to the boat.",
-    "date": "2025-11-10",
-    "latitude": 64.18,
-    "longitude": -22.08,
-    "area": "Faxaflói Bay, Iceland",
-    "source": "https://elding.is/whale-diary/monday-10-november-2025",
+    "source": "https://elding.is/whale-diary/sunday-7-december-2025",
     "behaviors": [
       "breaching",
+      "tail slaps",
       "fluke dives"
     ]
   },
   {
-    "id": "2025-11-10-reykjavik-hb-elding-pm",
-    "name": "Humpback near harbor entrance",
+    "id": "2025-12-06-reykjavik-hb-pair",
+    "name": "Island humpback pair",
     "species": "Humpback",
-    "info": "Elding diary: humpback seen closer to the Reykjavik harbor entrance.",
-    "date": "2025-11-10",
-    "latitude": 64.16,
+    "info": "Elding whale diary: pair of humpbacks lingering by the islands just outside Reykjavík harbour.",
+    "date": "2025-12-06",
+    "latitude": 64.22,
     "longitude": -22.0,
     "area": "Faxaflói Bay, Iceland",
-    "source": "https://elding.is/whale-diary/monday-10-november-2025",
+    "source": "https://elding.is/whale-diary/saturday-6-december-2025",
+    "behaviors": [
+      "travelling",
+      "shallow dives"
+    ]
+  },
+  {
+    "id": "2025-12-06-reykjavik-hb-third",
+    "name": "Rolling humpback near islands",
+    "species": "Humpback",
+    "info": "Elding whale diary: third humpback whale rolling and slapping its pectoral fins near the same island group later in the tour.",
+    "date": "2025-12-06",
+    "latitude": 64.24,
+    "longitude": -22.03,
+    "area": "Faxaflói Bay, Iceland",
+    "source": "https://elding.is/whale-diary/saturday-6-december-2025",
+    "behaviors": [
+      "pectoral fin slaps",
+      "rolling"
+    ]
+  },
+  {
+    "id": "2025-12-05-reykjavik-hb-pair",
+    "name": "Shallow-feeding humpbacks",
+    "species": "Humpback",
+    "info": "Elding whale diary: two humpback whales moving side by side in shallow water with harbour porpoises nearby.",
+    "date": "2025-12-05",
+    "latitude": 64.23,
+    "longitude": -22.1,
+    "area": "Faxaflói Bay, Iceland",
+    "source": "https://elding.is/whale-diary/friday-5-december-2025",
+    "behaviors": [
+      "feeding",
+      "shallow dives"
+    ]
+  },
+  {
+    "id": "2025-12-04-reykjavik-hb-lundeypair",
+    "name": "Lundey humpback pair",
+    "species": "Humpback",
+    "info": "Elding whale diary: two familiar humpbacks travelling together near Lundey island in calm winter sun.",
+    "date": "2025-12-04",
+    "latitude": 64.25,
+    "longitude": -21.95,
+    "area": "Off Lundey, Faxaflói Bay, Iceland",
+    "source": "https://elding.is/whale-diary/thursday-4-december-2025",
+    "behaviors": [
+      "travelling",
+      "fluke dives"
+    ]
+  },
+  {
+    "id": "2025-12-04-reykjavik-hb-deepdiver",
+    "name": "Deep-diving humpback",
+    "species": "Humpback",
+    "info": "Elding whale diary: a third humpback whale in the area doing long dives away from the original pair.",
+    "date": "2025-12-04",
+    "latitude": 64.27,
+    "longitude": -22.05,
+    "area": "Faxaflói Bay, Iceland",
+    "source": "https://elding.is/whale-diary/thursday-4-december-2025",
+    "behaviors": [
+      "long dives"
+    ]
+  },
+  {
+    "id": "2025-12-03-reykjavik-hb-banana",
+    "name": "Humpback Banana",
+    "species": "Humpback",
+    "info": "Elding whale diary: known humpback Banana seen surfacing with a companion, with white-beaked dolphins bow-riding nearby.",
+    "date": "2025-12-03",
+    "latitude": 64.22,
+    "longitude": -21.98,
+    "area": "Faxaflói Bay, Iceland",
+    "source": "https://elding.is/whale-diary/wednesday-3-december-2025",
     "behaviors": [
       "surfacing",
-      "fluke dives"
-    ]
-  },
-  {
-    "id": "2025-11-08-akureyri-hb-north-iceland",
-    "name": "Humpback in Eyjafjörður",
-    "species": "Humpback",
-    "info": "North Iceland whale watching report: humpback feeding alone in Eyjafjörður.",
-    "date": "2025-11-08",
-    "latitude": 65.75,
-    "longitude": -18.08,
-    "area": "Eyjafjörður, North Iceland",
-    "source": "https://www.whalewatchingakureyri.is/diary",
-    "behaviors": [
-      "lunge feeding",
-      "fluke dives"
-    ]
-  },
-  {
-    "id": "2025-11-08-akureyri-hb-pair",
-    "name": "Two humpbacks travelling",
-    "species": "Humpback",
-    "info": "North Iceland whale watching report: two humpbacks travelling slowly down the fjord.",
-    "date": "2025-11-08",
-    "latitude": 65.72,
-    "longitude": -18.1,
-    "area": "Eyjafjörður, North Iceland",
-    "source": "https://www.whalewatchingakureyri.is/diary",
-    "behaviors": [
-      "travelling",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "2025-11-07-akureyri-hb-high-fluke",
-    "name": "High-fluking humpback",
-    "species": "Humpback",
-    "info": "North Iceland whale watching report: humpback with particularly tall fluke lifts.",
-    "date": "2025-11-07",
-    "latitude": 65.7,
-    "longitude": -18.05,
-    "area": "Eyjafjörður, North Iceland",
-    "source": "https://www.whalewatchingakureyri.is/diary",
-    "behaviors": [
-      "high flukes",
-      "deep dives"
-    ]
-  },
-  {
-    "id": "2025-11-07-akureyri-hb-lunge",
-    "name": "Feeding humpback",
-    "species": "Humpback",
-    "info": "North Iceland whale watching report: humpback lunge-feeding among seabirds.",
-    "date": "2025-11-07",
-    "latitude": 65.73,
-    "longitude": -18.12,
-    "area": "Eyjafjörður, North Iceland",
-    "source": "https://www.whalewatchingakureyri.is/diary",
-    "behaviors": [
-      "lunge feeding",
-      "bubble feeding"
-    ]
-  },
-  {
-    "id": "2025-11-10-monterey-hb-common",
-    "name": "Humpbacks in Monterey Bay",
-    "species": "Humpback",
-    "info": "Princess Monterey Whale Watching blog: multiple humpbacks lunge-feeding on anchovies.",
-    "date": "2025-11-10",
-    "latitude": 36.68,
-    "longitude": -122.02,
-    "area": "Monterey Bay, California",
-    "source": "https://montereywhalewatching.com/blog/",
-    "behaviors": [
-      "lunge feeding",
-      "tail slaps"
-    ]
-  },
-  {
-    "id": "2025-11-11-monterey-hb-raft",
-    "name": "Resting humpbacks",
-    "species": "Humpback",
-    "info": "Princess Monterey Whale Watching blog: group of humpbacks resting between feeding bouts.",
-    "date": "2025-11-11",
-    "latitude": 36.72,
-    "longitude": -121.98,
-    "area": "Monterey Bay, California",
-    "source": "https://montereywhalewatching.com/blog/",
-    "behaviors": [
-      "logging",
-      "slow surfacing"
-    ]
-  },
-  {
-    "id": "2025-11-11-monterey-hb-breach",
-    "name": "Breaching humpback near canyon edge",
-    "species": "Humpback",
-    "info": "Princess Monterey Whale Watching blog: humpback breaching repeatedly near Monterey Canyon edge.",
-    "date": "2025-11-11",
-    "latitude": 36.67,
-    "longitude": -122.08,
-    "area": "Monterey Bay, California",
-    "source": "https://montereywhalewatching.com/blog/",
-    "behaviors": [
-      "breaching",
-      "chin slaps"
-    ]
-  },
-  {
-    "id": "2025-11-08-san-diego-hb-migrating",
-    "name": "Southbound humpback off San Diego",
-    "species": "Humpback",
-    "info": "San Diego Whale Watch sightings: early southbound humpback migrating past Point Loma.",
-    "date": "2025-11-08",
-    "latitude": 32.62,
-    "longitude": -117.4,
-    "area": "Off Point Loma, San Diego",
-    "source": "https://sdwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "travelling",
-      "fluke dives"
-    ]
-  },
-  {
-    "id": "2025-11-09-san-diego-hb-pec",
-    "name": "Pectoral-slapping humpback",
-    "species": "Humpback",
-    "info": "San Diego Whale Watch sightings: humpback rolling and slapping long white pectoral fins.",
-    "date": "2025-11-09",
-    "latitude": 32.65,
-    "longitude": -117.45,
-    "area": "Off Point Loma, San Diego",
-    "source": "https://sdwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "pec slaps",
-      "breaching"
-    ]
-  },
-  {
-    "id": "2025-11-10-san-diego-hb-terns",
-    "name": "Humpback under bird flock",
-    "species": "Humpback",
-    "info": "San Diego Whale Watch sightings: humpback feeding under a tight flock of terns and pelicans.",
-    "date": "2025-11-10",
-    "latitude": 32.68,
-    "longitude": -117.48,
-    "area": "Off Point Loma, San Diego",
-    "source": "https://sdwhalewatch.com/recent-sightings/",
-    "behaviors": [
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "2025-11-05-herveybay-hb-mugging",
-    "name": "Curious humpback approaching boat",
-    "species": "Humpback",
-    "info": "Hervey Bay tour report: humpback \"mugging\" the boat and spyhopping beside it.",
-    "date": "2025-11-05",
-    "latitude": -25.23,
-    "longitude": 152.93,
-    "area": "Hervey Bay, Queensland",
-    "source": "https://www.whalesong.com.au/blog",
-    "behaviors": [
-      "mugging",
-      "spyhops"
-    ]
-  },
-  {
-    "id": "2025-11-05-herveybay-hb-breach",
-    "name": "Multiple breaches at sunset",
-    "species": "Humpback",
-    "info": "Hervey Bay tour report: several humpbacks breaching at sunset near Fraser Island.",
-    "date": "2025-11-05",
-    "latitude": -25.18,
-    "longitude": 153.0,
-    "area": "Hervey Bay, Queensland",
-    "source": "https://www.whalesong.com.au/blog",
-    "behaviors": [
-      "breaching",
-      "tail slaps"
-    ]
-  },
-  {
-    "id": "2025-11-06-herveybay-hb-calf",
-    "name": "Cow-calf pair resting",
-    "species": "Humpback",
-    "info": "Hervey Bay tour report: resting cow and calf in shallow, calm water.",
-    "date": "2025-11-06",
-    "latitude": -25.22,
-    "longitude": 152.98,
-    "area": "Hervey Bay, Queensland",
-    "source": "https://www.whalesong.com.au/blog",
-    "behaviors": [
-      "logging",
-      "slow surfacing"
-    ]
-  },
-  {
-    "id": "2025-11-08-kaikoura-sperm-mix",
-    "name": "Humpback near sperm whale grounds",
-    "species": "Humpback",
-    "info": "Whale Watch Kaikōura report: humpback spotted on the edge of the deep canyon normally used by sperm whales.",
-    "date": "2025-11-08",
-    "latitude": -42.45,
-    "longitude": 173.7,
-    "area": "Kaikōura Canyon, New Zealand",
-    "source": "https://www.whalewatch.co.nz/news",
-    "behaviors": [
-      "travelling",
-      "fluke dives"
-    ]
-  },
-  {
-    "id": "2025-11-09-kaikoura-hb-nearshore",
-    "name": "Nearshore humpback off Kaikōura",
-    "species": "Humpback",
-    "info": "Whale Watch Kaikōura report: humpback cruising surprisingly close to the limestone cliffs.",
-    "date": "2025-11-09",
-    "latitude": -42.41,
-    "longitude": 173.72,
-    "area": "Kaikōura Coast, New Zealand",
-    "source": "https://www.whalewatch.co.nz/news",
-    "behaviors": [
-      "surfacing",
-      "blows"
-    ]
-  },
-  {
-    "id": "2025-11-10-kaikoura-hb-tail",
-    "name": "Photogenic tail raises",
-    "species": "Humpback",
-    "info": "Whale Watch Kaikōura report: repeated high tail raises in perfect light.",
-    "date": "2025-11-10",
-    "latitude": -42.47,
-    "longitude": 173.75,
-    "area": "Kaikōura Canyon, New Zealand",
-    "source": "https://www.whalewatch.co.nz/news",
-    "behaviors": [
-      "high flukes",
-      "deep dives"
-    ]
-  },
-  {
-    "id": "2025-11-06-hauraki-orca-pod",
-    "name": "Orca pod in Hauraki Gulf",
-    "species": "Orca",
-    "info": "Auckland Whale & Dolphin Safari report: travelling pod of orca hunting rays.",
-    "date": "2025-11-06",
-    "latitude": -36.57,
-    "longitude": 174.9,
-    "area": "Hauraki Gulf, New Zealand",
-    "source": "https://www.whalewatchingauckland.com/sightings",
-    "behaviors": [
-      "travelling",
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-11-07-hauraki-orca-rayhunt",
-    "name": "Orcas hunting rays",
-    "species": "Orca",
-    "info": "Auckland Whale & Dolphin Safari report: orcas circling and tail-slapping rays at the surface.",
-    "date": "2025-11-07",
-    "latitude": -36.6,
-    "longitude": 174.95,
-    "area": "Hauraki Gulf, New Zealand",
-    "source": "https://www.whalewatchingauckland.com/sightings",
-    "behaviors": [
-      "tail slaps",
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-11-08-hauraki-orca-speed",
-    "name": "Fast-moving orca pod",
-    "species": "Orca",
-    "info": "Auckland Whale & Dolphin Safari report: pod travelling quickly along shipping channel.",
-    "date": "2025-11-08",
-    "latitude": -36.55,
-    "longitude": 174.85,
-    "area": "Hauraki Gulf, New Zealand",
-    "source": "https://www.whalewatchingauckland.com/sightings",
-    "behaviors": [
-      "travelling",
-      "surface rushes"
-    ]
-  },
-  {
-    "id": "2025-11-08-skjervoy-orca-herring",
-    "name": "Orcas on herring baitball",
-    "species": "Orca",
-    "info": "Northern Norway winter report: orcas corralling herring with humpbacks nearby.",
-    "date": "2025-11-08",
-    "latitude": 70.02,
-    "longitude": 20.95,
-    "area": "Skjervøy, Troms, Norway",
-    "source": "https://www.visitnorway.com/things-to-do/nature-attractions/whales-safari/",
-    "behaviors": [
-      "foraging",
-      "carousel feeding"
-    ]
-  },
-  {
-    "id": "2025-11-09-skjervoy-orca-mix",
-    "name": "Mixed orca and humpback group",
-    "species": "Orca",
-    "info": "Tour report: orcas and humpbacks feeding together on herring schools.",
-    "date": "2025-11-09",
-    "latitude": 70.05,
-    "longitude": 21.0,
-    "area": "Skjervøy, Troms, Norway",
-    "source": "https://www.visitnorway.com/things-to-do/nature-attractions/whales-safari/",
-    "behaviors": [
-      "foraging",
-      "socializing"
-    ]
-  },
-  {
-    "id": "2025-11-10-skjervoy-hb-lunge",
-    "name": "Humpbacks lunge-feeding in fjord",
-    "species": "Humpback",
-    "info": "Northern Norway winter report: multiple humpbacks lunge-feeding around herring balls.",
-    "date": "2025-11-10",
-    "latitude": 70.0,
-    "longitude": 21.05,
-    "area": "Skjervøy, Troms, Norway",
-    "source": "https://www.visitnorway.com/things-to-do/nature-attractions/whales-safari/",
-    "behaviors": [
-      "lunge feeding",
-      "bubble nets"
-    ]
-  },
-  {
-    "id": "2025-11-06-hermanus-southernright-mix",
-    "name": "Late southern rights with humpback",
-    "species": "Humpback",
-    "info": "Walker Bay report: a late southern right season including one humpback further offshore.",
-    "date": "2025-11-06",
-    "latitude": -34.43,
-    "longitude": 19.25,
-    "area": "Walker Bay, South Africa",
-    "source": "https://www.hermanuswhalewatchers.co.za/blog",
-    "behaviors": [
-      "surfacing",
-      "blows"
-    ]
-  },
-  {
-    "id": "2025-11-07-hermanus-hb-offshore",
-    "name": "Offshore humpback transit",
-    "species": "Humpback",
-    "info": "Walker Bay report: humpback travelling along migration route a few miles off the bay.",
-    "date": "2025-11-07",
-    "latitude": -34.5,
-    "longitude": 19.35,
-    "area": "Off Walker Bay, South Africa",
-    "source": "https://www.hermanuswhalewatchers.co.za/blog",
-    "behaviors": [
       "travelling"
     ]
   },
   {
-    "id": "2025-11-09-patagonia-hb-valdes",
-    "name": "Breaching humpback off Valdés",
+    "id": "2025-12-03-reykjavik-hb-companion",
+    "name": "Banana's companion",
     "species": "Humpback",
-    "info": "Patagonia tour report: breaching humpback off Península Valdés.",
-    "date": "2025-11-09",
-    "latitude": -42.6,
-    "longitude": -64.4,
-    "area": "Península Valdés, Argentina",
-    "source": "https://www.patagonia-argentina.com/whale-watching/",
+    "info": "Elding whale diary: Banana's travelling companion staying close alongside, occasionally fluking in golden-hour light.",
+    "date": "2025-12-03",
+    "latitude": 64.21,
+    "longitude": -22.08,
+    "area": "Faxaflói Bay, Iceland",
+    "source": "https://elding.is/whale-diary/wednesday-3-december-2025",
     "behaviors": [
-      "breaching",
+      "fluke dives",
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-12-02-reykjavik-hb-pair",
+    "name": "Sunset humpback pair",
+    "species": "Humpback",
+    "info": "Elding whale diary: two humpbacks, including Banana, repeatedly showing tails near a buoy before sunset.",
+    "date": "2025-12-02",
+    "latitude": 64.24,
+    "longitude": -22.12,
+    "area": "Faxaflói Bay, Iceland",
+    "source": "https://elding.is/whale-diary/tuesday-2-december-2025",
+    "behaviors": [
+      "tail lifts",
+      "fluke dives"
+    ]
+  },
+  {
+    "id": "2025-12-01-reykjavik-hb-residents",
+    "name": "Resident humpback duo",
+    "species": "Humpback",
+    "info": "Elding whale diary: two resident humpback whales travelling close to land in strong winter winds just outside Reykjavík.",
+    "date": "2025-12-01",
+    "latitude": 64.2,
+    "longitude": -21.9,
+    "area": "Near Reykjavík, Faxaflói Bay, Iceland",
+    "source": "https://elding.is/whale-diary/monday-1-december-2025",
+    "behaviors": [
+      "travelling",
+      "fluke dives"
+    ]
+  },
+  {
+    "id": "2025-12-07-victoria-racerocks-am",
+    "name": "Race Rocks humpbacks AM",
+    "species": "Humpback",
+    "info": "Eagle Wing Tours daily sightings: morning tour with several humpback whales feeding in strong currents off Race Rocks, with sea lions nearby.",
+    "date": "2025-12-07",
+    "latitude": 48.32,
+    "longitude": -123.53,
+    "area": "Race Rocks, Juan de Fuca Strait, BC, Canada",
+    "source": "https://www.eaglewingtours.com/daily-sightings/",
+    "behaviors": [
+      "feeding",
+      "lunging",
       "tail slaps"
     ]
   },
   {
-    "id": "2025-11-10-patagonia-hb-calf",
-    "name": "Cow-calf pair in Patagonia",
+    "id": "2025-12-07-victoria-racerocks-pm",
+    "name": "Race Rocks humpbacks PM",
     "species": "Humpback",
-    "info": "Tour report: female humpback with calf cruising near the reserve limit.",
-    "date": "2025-11-10",
-    "latitude": -42.65,
-    "longitude": -64.35,
-    "area": "Península Valdés, Argentina",
-    "source": "https://www.patagonia-argentina.com/whale-watching/",
-    "behaviors": [
-      "cow-calf pair",
-      "logging"
-    ]
-  },
-  {
-    "id": "2025-11-05-maui-hb-early",
-    "name": "Early season humpback off Maui",
-    "species": "Humpback",
-    "info": "Maui tour report: first humpbacks of the winter season seen off Lahaina roads.",
-    "date": "2025-11-05",
-    "latitude": 20.85,
-    "longitude": -156.7,
-    "area": "Off Lahaina, Maui",
-    "source": "https://www.pacificwhale.org/cruise-reports/",
-    "behaviors": [
-      "blows",
-      "tail flicks"
-    ]
-  },
-  {
-    "id": "2025-11-06-maui-hb-rowdy",
-    "name": "Rowdy group near Maui",
-    "species": "Humpback",
-    "info": "Maui tour report: competitive group of male humpbacks near the surface.",
-    "date": "2025-11-06",
-    "latitude": 20.8,
-    "longitude": -156.75,
-    "area": "Off Lahaina, Maui",
-    "source": "https://www.pacificwhale.org/cruise-reports/",
-    "behaviors": [
-      "rowdy group",
-      "tail slaps"
-    ]
-  },
-  {
-    "id": "2025-11-07-maui-hb-pec",
-    "name": "Resting female with pec slaps",
-    "species": "Humpback",
-    "info": "Maui tour report: female humpback resting, occasionally slapping her pectoral fins.",
-    "date": "2025-11-07",
-    "latitude": 20.83,
-    "longitude": -156.72,
-    "area": "Off Lahaina, Maui",
-    "source": "https://www.pacificwhale.org/cruise-reports/",
-    "behaviors": [
-      "logging",
-      "pec slaps"
-    ]
-  },
-  {
-    "id": "2025-11-09-victoria-racerocks-hb",
-    "name": "Humpback near Race Rocks",
-    "species": "Humpback",
-    "info": "Victoria tour report: humpback travelling past Race Rocks lighthouse.",
-    "date": "2025-11-09",
-    "latitude": 48.29,
+    "info": "Eagle Wing Tours daily sightings: afternoon tour encountered multiple humpback whales circling bait balls near Race Rocks lighthouse.",
+    "date": "2025-12-07",
+    "latitude": 48.31,
     "longitude": -123.54,
-    "area": "Race Rocks, Strait of Juan de Fuca",
-    "source": "https://eaglewingtours.com/daily-sighting-report/",
+    "area": "Race Rocks, Juan de Fuca Strait, BC, Canada",
+    "source": "https://www.eaglewingtours.com/daily-sightings/",
     "behaviors": [
-      "travelling",
-      "fluke dives"
-    ]
-  },
-  {
-    "id": "2025-11-10-victoria-racerocks-hb-feeding",
-    "name": "Feeding humpback off Victoria",
-    "species": "Humpback",
-    "info": "Victoria tour report: humpback feeding in tide rips south of Victoria.",
-    "date": "2025-11-10",
-    "latitude": 48.33,
-    "longitude": -123.5,
-    "area": "Off Victoria, BC",
-    "source": "https://eaglewingtours.com/daily-sighting-report/",
-    "behaviors": [
-      "lunge feeding"
-    ]
-  },
-  {
-    "id": "2025-11-11-victoria-racerocks-orca",
-    "name": "Bigg's orcas at Race Rocks",
-    "species": "Orca",
-    "info": "Victoria tour report: Bigg's (transient) orcas hunting seals around Race Rocks.",
-    "date": "2025-11-11",
-    "latitude": 48.28,
-    "longitude": -123.48,
-    "area": "Race Rocks, Strait of Juan de Fuca",
-    "source": "https://eaglewingtours.com/daily-sighting-report/",
-    "behaviors": [
-      "foraging",
-      "socializing"
-    ]
-  },
-  {
-    "id": "2025-11-09-salish-sea-orcanetwork-j",
-    "name": "Southern residents off San Juan",
-    "species": "Orca",
-    "info": "Orca Network log: J pod seen travelling along the west side of San Juan Island.",
-    "date": "2025-11-09",
-    "latitude": 48.52,
-    "longitude": -123.2,
-    "area": "West Side, San Juan Island",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "travelling",
-      "tail slaps"
-    ]
-  },
-  {
-    "id": "2025-11-10-salish-sea-orcanetwork-transients",
-    "name": "Bigg's orcas in Active Pass",
-    "species": "Orca",
-    "info": "Orca Network log: Bigg's killer whales moving through Active Pass.",
-    "date": "2025-11-10",
-    "latitude": 48.87,
-    "longitude": -123.27,
-    "area": "Active Pass, BC",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "travelling",
-      "foraging"
-    ]
-  },
-  {
-    "id": "2025-11-11-salish-sea-orcanetwork-deception",
-    "name": "Orcas under Deception Pass bridge",
-    "species": "Orca",
-    "info": "Orca Network log: orcas filmed passing under Deception Pass bridge.",
-    "date": "2025-11-11",
-    "latitude": 48.39,
-    "longitude": -122.65,
-    "area": "Deception Pass, WA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "travelling",
-      "close to shore"
-    ]
-  },
-  {
-    "id": "2025-11-09-campbellriver-hb-crww",
-    "name": "Late-season humpback",
-    "species": "Humpback",
-    "info": "Campbell River Whale Watching report: late-season humpback still feeding in Discovery Passage.",
-    "date": "2025-11-09",
-    "latitude": 50.05,
-    "longitude": -125.28,
-    "area": "Discovery Passage, Campbell River BC",
-    "source": "https://www.crwhales.com/blog",
-    "behaviors": [
-      "lunge feeding",
-      "fluke dives"
-    ]
-  },
-  {
-    "id": "2025-11-10-campbellriver-hb-blows",
-    "name": "Offshore humpback blows",
-    "species": "Humpback",
-    "info": "Campbell River Whale Watching report: single humpback with tall blows off the Cape Mudge area.",
-    "date": "2025-11-10",
-    "latitude": 50.0,
-    "longitude": -125.25,
-    "area": "Off Cape Mudge, BC",
-    "source": "https://www.crwhales.com/blog",
-    "behaviors": [
-      "surfacing",
+      "feeding",
+      "circling",
       "blows"
     ]
   },
   {
-    "id": "2025-11-11-campbellriver-orca-transients",
-    "name": "Transient orcas near Ripple Rock",
+    "id": "2025-12-04-longbeach-hb-noon",
+    "name": "Long Beach humpbacks 12pm",
+    "species": "Humpback",
+    "info": "Harbor Breeze whale sightings report: midday Long Beach cruise recorded around sixteen humpback whales with thousands of common dolphins.",
+    "date": "2025-12-04",
+    "latitude": 33.7,
+    "longitude": -118.22,
+    "area": "Off Long Beach, California, USA",
+    "source": "https://2seewhales.com/whale-sightings-report/",
+    "behaviors": [
+      "feeding",
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-12-04-longbeach-hb-3pm",
+    "name": "Long Beach humpbacks 3pm",
+    "species": "Humpback",
+    "info": "Harbor Breeze whale sightings report: afternoon Long Beach trip saw two humpback whales mixed in with large pods of dolphins.",
+    "date": "2025-12-04",
+    "latitude": 33.71,
+    "longitude": -118.24,
+    "area": "Off Long Beach, California, USA",
+    "source": "https://2seewhales.com/whale-sightings-report/",
+    "behaviors": [
+      "travelling",
+      "surface blows"
+    ]
+  },
+  {
+    "id": "2025-12-03-longbeach-hb-multi",
+    "name": "December 3 humpback group",
+    "species": "Humpback",
+    "info": "Harbor Breeze whale sightings report: Long Beach tours documented about five humpback whales among hundreds of common dolphins.",
+    "date": "2025-12-03",
+    "latitude": 33.69,
+    "longitude": -118.2,
+    "area": "Off Long Beach, California, USA",
+    "source": "https://2seewhales.com/whale-sightings-report/",
+    "behaviors": [
+      "feeding",
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-12-02-longbeach-hb-noon",
+    "name": "Long Beach humpbacks 12pm",
+    "species": "Humpback",
+    "info": "Harbor Breeze whale sightings report: noon cruise with eight humpback whales working bait balls near the 150–300 ft line.",
+    "date": "2025-12-02",
+    "latitude": 33.68,
+    "longitude": -118.23,
+    "area": "Off Long Beach, California, USA",
+    "source": "https://2seewhales.com/whale-sightings-report/",
+    "behaviors": [
+      "feeding",
+      "diving"
+    ]
+  },
+  {
+    "id": "2025-12-02-longbeach-hb-3pm",
+    "name": "Long Beach humpbacks 3pm",
+    "species": "Humpback",
+    "info": "Harbor Breeze whale sightings report: afternoon Long Beach trip recorded eleven humpback whales spread out along the edge of the shipping lane.",
+    "date": "2025-12-02",
+    "latitude": 33.67,
+    "longitude": -118.26,
+    "area": "Off Long Beach, California, USA",
+    "source": "https://2seewhales.com/whale-sightings-report/",
+    "behaviors": [
+      "feeding",
+      "travelling"
+    ]
+  },
+  {
+    "id": "2025-12-03-edmonds-hb-pair",
+    "name": "Edmonds humpback pair",
+    "species": "Humpback",
+    "info": "Orca Network recent sightings: ferry SPOKANE slowed for two humpback whales just off the Edmonds ferry terminal in Puget Sound.",
+    "date": "2025-12-03",
+    "latitude": 47.82,
+    "longitude": -122.38,
+    "area": "Off Edmonds, Puget Sound, Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "milling",
+      "surface blows"
+    ]
+  },
+  {
+    "id": "2025-12-02-portsusan-orcas",
+    "name": "Port Susan Bigg's orcas",
     "species": "Orca",
-    "info": "Campbell River Whale Watching report: Bigg's orcas moving through Seymour Narrows.",
-    "date": "2025-11-11",
-    "latitude": 50.1,
-    "longitude": -125.35,
-    "area": "Seymour Narrows, BC",
-    "source": "https://www.crwhales.com/blog",
+    "info": "Orca Network recent sightings: Bigg's killer whales moving slowly southbound through Port Susan between Hat Island and Camano.",
+    "date": "2025-12-02",
+    "latitude": 48.09,
+    "longitude": -122.36,
+    "area": "Port Susan, Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
     "behaviors": [
       "travelling",
       "foraging"
     ]
   },
   {
-    "id": "2025-11-12-campbellriver-crww-orcas",
-    "name": "Late-season orcas",
+    "id": "2025-12-01-hoodcanal-orcas",
+    "name": "Hood Canal orca group",
     "species": "Orca",
-    "info": "Campbell River Whale Watching Instagram: orcas still active near Campbell River late in the season.",
-    "date": "2025-11-12",
-    "latitude": 50.03,
-    "longitude": -125.25,
-    "area": "Discovery Passage, Campbell River BC",
-    "source": "https://www.instagram.com/p/DQ-amJGk_3-/",
+    "info": "Orca Network recent sightings: at least four orcas observed north of Bangor on the west side of Hood Canal, milling and splashing in one area.",
+    "date": "2025-12-01",
+    "latitude": 47.72,
+    "longitude": -122.73,
+    "area": "Hood Canal, Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
     "behaviors": [
-      "travelling"
-    ]
-  },
-  {
-    "id": "2025-11-13-esperance-kelp-beds-tagged",
-    "name": "Tagged white at Kelp Beds",
-    "species": "Great White Shark",
-    "info": "SharkSmart alert: tagged white shark detected by Kelp Beds Beach receiver near Esperance.",
-    "date": "2025-11-13",
-    "latitude": -33.88,
-    "longitude": 121.91,
-    "area": "Kelp Beds Beach, Esperance WA",
-    "source": "https://www.sharksmart.com.au/shark-activity/",
-    "behaviors": [
-      "tagged detection",
-      "nearshore"
-    ]
-  },
-  {
-    "id": "2025-11-14-oldbar-tag-2460",
-    "name": "Tagged white off Old Bar",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart X post: tagged white shark #2460 detected off Old Bar.",
-    "date": "2025-11-14",
-    "latitude": -31.98,
-    "longitude": 152.59,
-    "area": "Off Old Bar, NSW",
-    "source": "https://x.com/NSWSharkSmart",
-    "behaviors": [
-      "tagged detection",
-      "nearshore"
-    ]
-  },
-  {
-    "id": "2025-12-08-point-drummond-sa-white",
-    "name": "White shark near Point Drummond boat ramp",
-    "species": "Great White Shark",
-    "info": "South Australia shark sighting log: white shark reported near Point Drummond boat ramp.",
-    "date": "2025-12-08",
-    "latitude": -34.17,
-    "longitude": 135.28,
-    "area": "Point Drummond, Eyre Peninsula SA",
-    "source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/shark-sightings/shark_sighting_log",
-    "behaviors": [
-      "nearshore",
-      "reported sighting"
-    ]
-  },
-  {
-    "id": "2025-11-11-sultana-point-sa-white",
-    "name": "White shark off Sultana Point",
-    "species": "Great White Shark",
-    "info": "South Australia shark sighting log: confirmed white shark reported off Sultana Point.",
-    "date": "2025-11-11",
-    "latitude": -35.15,
-    "longitude": 137.76,
-    "area": "Off Sultana Point, Yorke Peninsula SA",
-    "source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/shark-sightings/shark_sighting_log",
-    "behaviors": [
-      "nearshore",
-      "reported sighting"
-    ]
-  },
-  {
-    "id": "2025-10-24-point-lowly-sa-white",
-    "name": "White shark near Point Lowly",
-    "species": "Great White Shark",
-    "info": "South Australia shark sighting log: white shark reported off Point Lowly in the Upper Spencer Gulf.",
-    "date": "2025-10-24",
-    "latitude": -32.93,
-    "longitude": 137.77,
-    "area": "Point Lowly, Upper Spencer Gulf SA",
-    "source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/shark-sightings/shark_sighting_log",
-    "behaviors": [
-      "nearshore",
-      "reported sighting"
-    ]
-  },
-  {
-    "id": "2025-11-04-neptune-islands-gw-dive",
-    "name": "Cage-diving with two great whites",
-    "species": "Great White Shark",
-    "info": "Neptune Islands Marine Park trip report: two different great white sharks seen during cage dives.",
-    "date": "2025-11-04",
-    "latitude": -35.33,
-    "longitude": 136.12,
-    "area": "Neptune Islands, South Australia",
-    "source": "https://www.instagram.com/p/DQqdbXmEQyw/",
-    "behaviors": [
-      "circling cage",
-      "slow passes"
-    ]
-  },
-  {
-    "id": "2025-11-29-marconi-beach-cape-cod-gw",
-    "name": "White shark off Marconi Beach",
-    "species": "Great White Shark",
-    "info": "Atlantic White Shark Conservancy report: white shark filmed close to shore off Marconi Beach on the Outer Cape.",
-    "date": "2025-11-29",
-    "latitude": 41.9,
-    "longitude": -69.96,
-    "area": "Marconi Beach, Outer Cape Cod MA",
-    "source": "https://www.facebook.com/atlanticwhiteshark",
-    "behaviors": [
-      "nearshore",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "2025-11-30-neptune-islands-gw-repeat",
-    "name": "Returning white shark at Neptune Islands",
-    "species": "Great White Shark",
-    "info": "South Australia trip recap: recurring great white sharks visiting Neptune Islands cage-diving site.",
-    "date": "2025-11-30",
-    "latitude": -35.34,
-    "longitude": 136.11,
-    "area": "Neptune Islands, South Australia",
-    "source": "https://www.bluewaterdivetravel.com/article/south-australia-trip-recap-2025",
-    "behaviors": [
-      "slow passes",
-      "circling cage"
+      "milling",
+      "splashes"
     ]
   }
 ]
