@@ -70,146 +70,6 @@
     ]
   },
   {
-    "id": "2025-12-14-hawks-nest-gw-1935-06",
-    "name": "Tagged Great White #1935",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1935 detected by Hawks Nest receiver.",
-    "date": "2025-12-14",
-    "latitude": -32.663498,
-    "longitude": 152.19,
-    "area": "Hawks Nest, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999925540472623226",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-14-hawks-nest-gw-1935-07",
-    "name": "Tagged Great White #1935",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1935 detected by Hawks Nest receiver.",
-    "date": "2025-12-14",
-    "latitude": -32.678739,
-    "longitude": 152.19,
-    "area": "Hawks Nest, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999929064329773202",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-14-port-macquarie-gw-2287-08",
-    "name": "Tagged Great White #2287",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2287 detected by Port Macquarie receiver.",
-    "date": "2025-12-14",
-    "latitude": -31.426385,
-    "longitude": 152.94,
-    "area": "Port Macquarie, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999938645667799044",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-14-port-macquarie-gw-2287-09",
-    "name": "Tagged Great White #2287",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2287 detected by Port Macquarie receiver.",
-    "date": "2025-12-14",
-    "latitude": -31.439521,
-    "longitude": 152.94,
-    "area": "Port Macquarie, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999948716107821362",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-14-sussex-inlet-gw-668-10",
-    "name": "Tagged Great White #668",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #668 detected by Sussex Inlet receiver.",
-    "date": "2025-12-14",
-    "latitude": -35.156337,
-    "longitude": 150.63,
-    "area": "Sussex Inlet, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999896349190623483",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-14-sussex-inlet-gw-668-11",
-    "name": "Tagged Great White #668",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #668 detected by Sussex Inlet receiver.",
-    "date": "2025-12-14",
-    "latitude": -35.166757,
-    "longitude": 150.63,
-    "area": "Sussex Inlet, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999834946320679049",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-14-sussex-inlet-gw-668-12",
-    "name": "Tagged Great White #668",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #668 detected by Sussex Inlet receiver.",
-    "date": "2025-12-14",
-    "latitude": -35.162631,
-    "longitude": 150.63,
-    "area": "Sussex Inlet, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999836454290391544",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-14-ballina-gw-2009-13",
-    "name": "Tagged Great White #2009",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2009 detected by Ballina receiver.",
-    "date": "2025-12-14",
-    "latitude": -28.862289,
-    "longitude": 153.58,
-    "area": "Ballina, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/2000113279428108353",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-14-ballina-gw-2009-14",
-    "name": "Tagged Great White #2009",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2009 detected by Ballina receiver.",
-    "date": "2025-12-14",
-    "latitude": -28.855533,
-    "longitude": 153.58,
-    "area": "Ballina, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/2000115302286467457",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-14-sharpes-beach-gw-2009-15",
-    "name": "Tagged Great White #2009",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2009 detected by Sharpes Beach receiver.",
-    "date": "2025-12-14",
-    "latitude": -28.811195,
-    "longitude": 153.63,
-    "area": "Sharpes Beach, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/2000177199123701875",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
     "id": "2025-12-14-reykjavik-bay-humpback-01",
     "name": "Humpback whale",
     "species": "Humpback",
@@ -246,7 +106,7 @@
     "info": "Comox Valley Whale Watch: orcas near Campbell River area.",
     "date": "2025-12-13",
     "latitude": 50.028039,
-    "longitude": -125.26,
+    "longitude": -125.23,
     "area": "Campbell River, BC, Canada",
     "source": "https://www.instagram.com/comoxvalleywhalewatch/reel/DDmVWLwPPZS/",
     "behaviors": [
@@ -274,7 +134,7 @@
     "info": "Orca Network report: BC area orca sightings included in report.",
     "date": "2025-12-13",
     "latitude": 50.010405,
-    "longitude": -125.26,
+    "longitude": -125.23,
     "area": "Campbell River, BC, Canada",
     "source": "https://www.facebook.com/groups/564701038927716/posts/1212273177503829/",
     "behaviors": [
@@ -372,7 +232,7 @@
     "info": "Eagle Wing Tours sightings report includes orca sightings in BC waters.",
     "date": "2025-12-06",
     "latitude": 50.022456,
-    "longitude": -125.26,
+    "longitude": -125.23,
     "area": "Campbell River, BC, Canada",
     "source": "https://www.eaglewingtours.com/whale-sighting-report/",
     "behaviors": [
@@ -528,7 +388,7 @@
     "info": "Comox Valley Wildlife Sightings: orca off Campbell River pier (Dec 6).",
     "date": "2025-12-06",
     "latitude": 50.0195,
-    "longitude": -125.2735,
+    "longitude": -125.2435,
     "area": "Campbell River, BC, Canada",
     "source": "https://www.instagram.com/comoxvalley_wildlifesightings/reel/DR7vI4_EoGE/",
     "behaviors": [
@@ -576,6 +436,132 @@
     "source": "https://www.boatingnz.co.nz/2025/12/humpback-whale-dies-after-being-caught-in-rope/",
     "behaviors": [
       "reported"
+    ]
+  },
+  {
+    "id": "2025-12-07-nanaimo-harbour-orca-01",
+    "name": "Orca pod",
+    "species": "Orca",
+    "info": "Vancouver Island Whale Watch report: orca sighting right outside Nanaimo harbour before departure.",
+    "date": "2025-12-07",
+    "latitude": 49.172,
+    "longitude": -123.9,
+    "area": "Nanaimo Harbour, BC, Canada",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/12/7/december-7-2025-",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-07-northumberland-channel-orca-02",
+    "name": "Orca pod",
+    "species": "Orca",
+    "info": "Vancouver Island Whale Watch report: T077s traveling with T065A5 in Northumberland Channel.",
+    "date": "2025-12-07",
+    "latitude": 49.106,
+    "longitude": -123.68,
+    "area": "Northumberland Channel, BC, Canada",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/12/7/december-7-2025-",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-07-dodd-narrows-orca-03",
+    "name": "Orca pod",
+    "species": "Orca",
+    "info": "Vancouver Island Whale Watch report: T046Bs spotted in Dodd Narrows.",
+    "date": "2025-12-07",
+    "latitude": 49.073,
+    "longitude": -123.81,
+    "area": "Dodd Narrows, BC, Canada",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/12/7/december-7-2025-",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-07-nanaimo-area-humpback-04",
+    "name": "Humpback whale",
+    "species": "Humpback",
+    "info": "Vancouver Island Whale Watch report: humpbacks (including calves) spotted during the day’s sightings.",
+    "date": "2025-12-07",
+    "latitude": 49.14,
+    "longitude": -123.87,
+    "area": "Nanaimo area waters, BC, Canada",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings/2025/12/7/december-7-2025-",
+    "behaviors": [
+      "surface activity"
+    ]
+  },
+  {
+    "id": "2025-12-12-loch-broom-humpback-05",
+    "name": "Humpback whale",
+    "species": "Humpback",
+    "info": "Report describes multiple humpback whales present in Loch Broom near Ullapool, Scotland.",
+    "date": "2025-12-12",
+    "latitude": 57.87,
+    "longitude": -5.12,
+    "area": "Loch Broom (Ullapool), Scotland, UK",
+    "source": "https://www.facebook.com/61577067196899/posts/12122025-what-a-dayon-checking-the-weather-forecast-this-morning-and-seeing-a-go/122142484754902239/",
+    "behaviors": [
+      "surface activity"
+    ]
+  },
+  {
+    "id": "2025-12-13-kaikoura-humpback-06",
+    "name": "Humpback whale",
+    "species": "Humpback",
+    "info": "News report references humpback whale incident and response activity around Kaikōura.",
+    "date": "2025-12-13",
+    "latitude": -42.42,
+    "longitude": 173.69,
+    "area": "Kaikōura waters, New Zealand",
+    "source": "https://www.1news.co.nz/2025/12/13/humpback-whale-dies-after-being-caught-in-rope/",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-12-skjervoy-orca-07",
+    "name": "Orca pod",
+    "species": "Orca",
+    "info": "Winter Whales of Norway post about orcas in Northern Norway fjords during polar night season.",
+    "date": "2025-12-12",
+    "latitude": 70.03,
+    "longitude": 20.98,
+    "area": "Skjervøy fjords, Norway",
+    "source": "https://www.instagram.com/p/DSIPRkUF_-x/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-12-skjervoy-humpback-08",
+    "name": "Humpback whale",
+    "species": "Humpback",
+    "info": "Winter Whales of Norway post about whales in Northern Norway fjords during the season.",
+    "date": "2025-12-12",
+    "latitude": 70.01,
+    "longitude": 20.95,
+    "area": "Skjervøy fjords, Norway",
+    "source": "https://www.instagram.com/p/DSIPRkUF_-x/",
+    "behaviors": [
+      "surface activity"
+    ]
+  },
+  {
+    "id": "2025-12-09-alberni-inlet-orca-09",
+    "name": "Orca pod",
+    "species": "Orca",
+    "info": "Facebook post describes Bigg’s orcas in the upper Alberni Inlet on Dec 9, 2025.",
+    "date": "2025-12-09",
+    "latitude": 49.24,
+    "longitude": -124.8,
+    "area": "Upper Alberni Inlet, BC, Canada",
+    "source": "https://www.facebook.com/groups/avtyeeclub/posts/25579583218303345/",
+    "behaviors": [
+      "traveling"
     ]
   }
 ]
