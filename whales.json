@@ -104,7 +104,7 @@
     "info": "NSW SharkSmart: tagged Great White Shark #2287 detected by Port Macquarie receiver.",
     "date": "2025-12-14",
     "latitude": -31.426385,
-    "longitude": 152.93,
+    "longitude": 152.94,
     "area": "Port Macquarie, NSW, Australia",
     "source": "https://x.com/NSWSharkSmart/status/1999938645667799044",
     "behaviors": [
@@ -118,7 +118,7 @@
     "info": "NSW SharkSmart: tagged Great White Shark #2287 detected by Port Macquarie receiver.",
     "date": "2025-12-14",
     "latitude": -31.439521,
-    "longitude": 152.93,
+    "longitude": 152.94,
     "area": "Port Macquarie, NSW, Australia",
     "source": "https://x.com/NSWSharkSmart/status/1999948716107821362",
     "behaviors": [
@@ -202,7 +202,7 @@
     "info": "NSW SharkSmart: tagged Great White Shark #2009 detected by Sharpes Beach receiver.",
     "date": "2025-12-14",
     "latitude": -28.811195,
-    "longitude": 153.62,
+    "longitude": 153.63,
     "area": "Sharpes Beach, NSW, Australia",
     "source": "https://x.com/NSWSharkSmart/status/2000177199123701875",
     "behaviors": [
@@ -217,123 +217,11 @@
     "date": "2025-12-14",
     "latitude": 64.157001,
     "longitude": -22.05,
-    "area": "Faxafl\u00f3i Bay, Iceland",
+    "area": "Faxaflói Bay, Iceland",
     "source": "https://elding.is/whale-diary/sunday-14-december-2025",
     "behaviors": [
       "breaching",
       "fluke dives"
-    ]
-  },
-  {
-    "id": "2025-12-13-old-bar-gw-3026-16",
-    "name": "Tagged Great White #3026",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #3026 detected by Old Bar receiver.",
-    "date": "2025-12-13",
-    "latitude": -31.968659,
-    "longitude": 152.61,
-    "area": "Old Bar, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999807258210009340",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-13-old-bar-gw-3026-17",
-    "name": "Tagged Great White #3026",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #3026 detected by Old Bar receiver.",
-    "date": "2025-12-13",
-    "latitude": -31.964447,
-    "longitude": 152.61,
-    "area": "Old Bar, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999692999639597553",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-13-kiama-gw-2901-18",
-    "name": "Tagged Great White #2901",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2901 detected by Kiama receiver.",
-    "date": "2025-12-13",
-    "latitude": -34.671215,
-    "longitude": 150.88,
-    "area": "Kiama, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999729242280722841",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-13-kiama-gw-2901-19",
-    "name": "Tagged Great White #2901",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2901 detected by Kiama receiver.",
-    "date": "2025-12-13",
-    "latitude": -34.675167,
-    "longitude": 150.88,
-    "area": "Kiama, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999725214293459091",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-13-kiama-gw-2901-20",
-    "name": "Tagged Great White #2901",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2901 detected by Kiama receiver.",
-    "date": "2025-12-13",
-    "latitude": -34.673436,
-    "longitude": 150.88,
-    "area": "Kiama, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999733767011991749",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-13-hawks-nest-gw-1935-21",
-    "name": "Tagged Great White #1935",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1935 detected by Hawks Nest receiver.",
-    "date": "2025-12-13",
-    "latitude": -32.667871,
-    "longitude": 152.19,
-    "area": "Hawks Nest, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999644179262296558",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-13-hawks-nest-gw-1935-22",
-    "name": "Tagged Great White #1935",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1935 detected by Hawks Nest receiver.",
-    "date": "2025-12-13",
-    "latitude": -32.661443,
-    "longitude": 152.19,
-    "area": "Hawks Nest, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999646193669013634",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-13-hawks-nest-gw-1935-23",
-    "name": "Tagged Great White #1935",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1935 detected by Hawks Nest receiver.",
-    "date": "2025-12-13",
-    "latitude": -32.662766,
-    "longitude": 152.19,
-    "area": "Hawks Nest, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999642170291286050",
-    "behaviors": [
-      "tagged detection"
     ]
   },
   {
@@ -344,7 +232,7 @@
     "date": "2025-12-13",
     "latitude": 64.14183,
     "longitude": -22.05,
-    "area": "Faxafl\u00f3i Bay, Iceland",
+    "area": "Faxaflói Bay, Iceland",
     "source": "https://elding.is/whale-diary/saturday-13-december-2025",
     "behaviors": [
       "surfacing",
@@ -394,132 +282,6 @@
     ]
   },
   {
-    "id": "2025-12-12-old-bar-gw-2015-24",
-    "name": "Tagged Great White #2015",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2015 detected by Old Bar receiver.",
-    "date": "2025-12-12",
-    "latitude": -31.970884,
-    "longitude": 152.61,
-    "area": "Old Bar, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999264659157975376",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-12-old-bar-gw-2015-25",
-    "name": "Tagged Great White #2015",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2015 detected by Old Bar receiver.",
-    "date": "2025-12-12",
-    "latitude": -31.972082,
-    "longitude": 152.61,
-    "area": "Old Bar, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999231442342347247",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-12-old-bar-gw-2015-26",
-    "name": "Tagged Great White #2015",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2015 detected by Old Bar receiver.",
-    "date": "2025-12-12",
-    "latitude": -31.963789,
-    "longitude": 152.61,
-    "area": "Old Bar, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999206276170228112",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-12-forster-gw-1974-27",
-    "name": "Tagged Great White #1974",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1974 detected by Forster receiver.",
-    "date": "2025-12-12",
-    "latitude": -32.187627,
-    "longitude": 152.54,
-    "area": "Forster, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999261440528777229",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-12-forster-gw-1974-28",
-    "name": "Tagged Great White #1974",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1974 detected by Forster receiver.",
-    "date": "2025-12-12",
-    "latitude": -32.178259,
-    "longitude": 152.54,
-    "area": "Forster, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999277746313396312",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-12-ballina-gw-2009-29",
-    "name": "Tagged Great White #2009",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2009 detected by Ballina receiver.",
-    "date": "2025-12-12",
-    "latitude": -28.858801,
-    "longitude": 153.58,
-    "area": "Ballina, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999255599859794418",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-12-sussex-inlet-gw-2083-30",
-    "name": "Tagged Great White #2083",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2083 detected by Sussex Inlet receiver.",
-    "date": "2025-12-12",
-    "latitude": -35.157724,
-    "longitude": 150.63,
-    "area": "Sussex Inlet, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999277746313396312",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-12-sussex-inlet-gw-2083-31",
-    "name": "Tagged Great White #2083",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2083 detected by Sussex Inlet receiver.",
-    "date": "2025-12-12",
-    "latitude": -35.158534,
-    "longitude": 150.63,
-    "area": "Sussex Inlet, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998195127509258373",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-12-hawks-nest-gw-1935-32",
-    "name": "Tagged Great White #1935",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1935 detected by Hawks Nest receiver.",
-    "date": "2025-12-12",
-    "latitude": -32.670921,
-    "longitude": 152.19,
-    "area": "Hawks Nest, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999421712870572314",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
     "id": "2025-12-12-reykjavik-bay-humpback-03",
     "name": "Humpback whale",
     "species": "Humpback",
@@ -527,7 +289,7 @@
     "date": "2025-12-12",
     "latitude": 64.144759,
     "longitude": -22.05,
-    "area": "Faxafl\u00f3i Bay, Iceland",
+    "area": "Faxaflói Bay, Iceland",
     "source": "https://elding.is/whale-diary/friday-12-december-2025",
     "behaviors": [
       "surfacing"
@@ -548,132 +310,6 @@
     ]
   },
   {
-    "id": "2025-12-11-old-bar-gw-2418-33",
-    "name": "Tagged Great White #2418",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2418 detected by Old Bar receiver.",
-    "date": "2025-12-11",
-    "latitude": -31.979808,
-    "longitude": 152.61,
-    "area": "Old Bar, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998773908879847563",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-11-old-bar-gw-2418-34",
-    "name": "Tagged Great White #2418",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2418 detected by Old Bar receiver.",
-    "date": "2025-12-11",
-    "latitude": -31.968559,
-    "longitude": 152.61,
-    "area": "Old Bar, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998756770861535548",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-11-mylestom-gw-2359-35",
-    "name": "Tagged Great White #2359",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2359 detected by Mylestom receiver.",
-    "date": "2025-12-11",
-    "latitude": -30.467009,
-    "longitude": 153.05,
-    "area": "Mylestom, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998999912864944240",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-11-old-bar-gw-2015-36",
-    "name": "Tagged Great White #2015",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2015 detected by Old Bar receiver.",
-    "date": "2025-12-11",
-    "latitude": -31.972775,
-    "longitude": 152.61,
-    "area": "Old Bar, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999061331971056064",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-10-old-bar-gw-2015-37",
-    "name": "Tagged Great White #2015",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2015 detected by Old Bar receiver.",
-    "date": "2025-12-10",
-    "latitude": -31.979239,
-    "longitude": 152.61,
-    "area": "Old Bar, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998517694694568338",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-10-old-bar-gw-2176-38",
-    "name": "Tagged Great White #2176",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2176 detected by Old Bar receiver.",
-    "date": "2025-12-10",
-    "latitude": -31.971727,
-    "longitude": 152.61,
-    "area": "Old Bar, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998447793825100146",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-10-yamba-gw-1970-39",
-    "name": "Tagged Great White #1970",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1970 detected by Yamba receiver.",
-    "date": "2025-12-10",
-    "latitude": -29.428444,
-    "longitude": 153.38,
-    "area": "Yamba, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998512611219091780",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-10-yamba-gw-1811-40",
-    "name": "Tagged Great White #1811",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1811 detected by Yamba receiver.",
-    "date": "2025-12-10",
-    "latitude": -29.420722,
-    "longitude": 153.38,
-    "area": "Yamba, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998604218601701746",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-10-yamba-gw-1970-41",
-    "name": "Tagged Great White #1970",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1970 detected by Yamba receiver.",
-    "date": "2025-12-10",
-    "latitude": -29.431121,
-    "longitude": 153.38,
-    "area": "Yamba, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998060619162071390",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
     "id": "2025-12-10-reykjavik-bay-humpback-04",
     "name": "Humpback whale",
     "species": "Humpback",
@@ -681,66 +317,10 @@
     "date": "2025-12-10",
     "latitude": 64.158454,
     "longitude": -22.05,
-    "area": "Faxafl\u00f3i Bay, Iceland",
+    "area": "Faxaflói Bay, Iceland",
     "source": "https://elding.is/whale-diary/wednesday-10-december-2025",
     "behaviors": [
       "fluke dives"
-    ]
-  },
-  {
-    "id": "2025-12-09-forster-gw-2930-42",
-    "name": "Tagged Great White #2930",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2930 detected by Forster receiver.",
-    "date": "2025-12-09",
-    "latitude": -32.170672,
-    "longitude": 152.54,
-    "area": "Forster, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998233265145332074",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-09-sussex-inlet-gw-2083-43",
-    "name": "Tagged Great White #2083",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2083 detected by Sussex Inlet receiver.",
-    "date": "2025-12-09",
-    "latitude": -35.15184,
-    "longitude": 150.63,
-    "area": "Sussex Inlet, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998235862413504913",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-09-sussex-inlet-gw-2083-44",
-    "name": "Tagged Great White #2083",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2083 detected by Sussex Inlet receiver.",
-    "date": "2025-12-09",
-    "latitude": -35.164309,
-    "longitude": 150.63,
-    "area": "Sussex Inlet, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998273645052063799",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-09-yamba-gw-1970-45",
-    "name": "Tagged Great White #1970",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1970 detected by Yamba receiver.",
-    "date": "2025-12-09",
-    "latitude": -29.4234,
-    "longitude": 153.38,
-    "area": "Yamba, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1999150401514553798",
-    "behaviors": [
-      "tagged detection"
     ]
   },
   {
@@ -751,122 +331,10 @@
     "date": "2025-12-09",
     "latitude": 64.153948,
     "longitude": -22.05,
-    "area": "Faxafl\u00f3i Bay, Iceland",
+    "area": "Faxaflói Bay, Iceland",
     "source": "https://elding.is/whale-diary/tuesday-9-december-2025",
     "behaviors": [
       "surfacing"
-    ]
-  },
-  {
-    "id": "2025-12-08-forster-gw-2930-46",
-    "name": "Tagged Great White #2930",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2930 detected by Forster receiver.",
-    "date": "2025-12-08",
-    "latitude": -32.186466,
-    "longitude": 152.54,
-    "area": "Forster, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1997838152673996996",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-08-forster-gw-2930-47",
-    "name": "Tagged Great White #2930",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2930 detected by Forster receiver.",
-    "date": "2025-12-08",
-    "latitude": -32.183274,
-    "longitude": 152.54,
-    "area": "Forster, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998218167265730788",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-08-birubi-gw-2413-48",
-    "name": "Tagged Great White #2413",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2413 detected by Birubi receiver.",
-    "date": "2025-12-08",
-    "latitude": -32.763549,
-    "longitude": 152.13,
-    "area": "Birubi, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1997770815878971679",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-08-birubi-gw-2418-49",
-    "name": "Tagged Great White #2418",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2418 detected by Birubi receiver.",
-    "date": "2025-12-08",
-    "latitude": -32.762158,
-    "longitude": 152.13,
-    "area": "Birubi, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1997902189608783992",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-08-birubi-gw-2418-50",
-    "name": "Tagged Great White #2418",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2418 detected by Birubi receiver.",
-    "date": "2025-12-08",
-    "latitude": -32.778357,
-    "longitude": 152.13,
-    "area": "Birubi, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998756770861535548",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-08-yamba-gw-1456-51",
-    "name": "Tagged Great White #1456",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1456 detected by Yamba receiver.",
-    "date": "2025-12-08",
-    "latitude": -29.430464,
-    "longitude": 153.38,
-    "area": "Yamba, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1997862310728376501",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-08-south-west-rocks-gw-3030-52",
-    "name": "Tagged Great White #3030",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #3030 detected by South West Rocks receiver.",
-    "date": "2025-12-08",
-    "latitude": -30.883778,
-    "longitude": 153.07,
-    "area": "South West Rocks, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1997917929279807914",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-08-old-bar-gw-2418-53",
-    "name": "Tagged Great White #2418",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2418 detected by Old Bar receiver.",
-    "date": "2025-12-08",
-    "latitude": -31.976388,
-    "longitude": 152.61,
-    "area": "Old Bar, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1998756770861535548",
-    "behaviors": [
-      "tagged detection"
     ]
   },
   {
@@ -877,52 +345,10 @@
     "date": "2025-12-08",
     "latitude": 64.159205,
     "longitude": -22.05,
-    "area": "Faxafl\u00f3i Bay, Iceland",
+    "area": "Faxaflói Bay, Iceland",
     "source": "https://elding.is/whale-diary/monday-8-december-2025",
     "behaviors": [
       "feeding"
-    ]
-  },
-  {
-    "id": "2025-12-07-forster-gw-1974-54",
-    "name": "Tagged Great White #1974",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1974 detected by Forster receiver.",
-    "date": "2025-12-07",
-    "latitude": -32.185565,
-    "longitude": 152.54,
-    "area": "Forster, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1997602589924589710",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-07-forster-gw-1974-55",
-    "name": "Tagged Great White #1974",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1974 detected by Forster receiver.",
-    "date": "2025-12-07",
-    "latitude": -32.175869,
-    "longitude": 152.54,
-    "area": "Forster, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1997387158940942564",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-07-crescent-head-gw-2493-56",
-    "name": "Tagged Great White #2493",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2493 detected by Crescent Head receiver.",
-    "date": "2025-12-07",
-    "latitude": -31.185925,
-    "longitude": 153.01,
-    "area": "Crescent Head, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1997558182483570897",
-    "behaviors": [
-      "tagged detection"
     ]
   },
   {
@@ -940,76 +366,6 @@
     ]
   },
   {
-    "id": "2025-12-06-forster-gw-1974-57",
-    "name": "Tagged Great White #1974",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1974 detected by Forster receiver.",
-    "date": "2025-12-06",
-    "latitude": -32.181417,
-    "longitude": 152.54,
-    "area": "Forster, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1996998579731468711",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-06-forster-gw-1974-58",
-    "name": "Tagged Great White #1974",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1974 detected by Forster receiver.",
-    "date": "2025-12-06",
-    "latitude": -32.180316,
-    "longitude": 152.54,
-    "area": "Forster, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1996993043204133260",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-06-forster-gw-1974-59",
-    "name": "Tagged Great White #1974",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #1974 detected by Forster receiver.",
-    "date": "2025-12-06",
-    "latitude": -32.173002,
-    "longitude": 152.54,
-    "area": "Forster, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1996986006084768108",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-06-old-bar-gw-2359-60",
-    "name": "Tagged Great White #2359",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2359 detected by Old Bar receiver.",
-    "date": "2025-12-06",
-    "latitude": -31.976392,
-    "longitude": 152.61,
-    "area": "Old Bar, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1996938333306659027",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-06-old-bar-gw-2187-61",
-    "name": "Tagged Great White #2187",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2187 detected by Old Bar receiver.",
-    "date": "2025-12-06",
-    "latitude": -31.974514,
-    "longitude": 152.61,
-    "area": "Old Bar, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1997186943122395277",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
     "id": "2025-12-06-campbell-river-orca-15",
     "name": "Orca pod",
     "species": "Orca",
@@ -1021,20 +377,6 @@
     "source": "https://www.eaglewingtours.com/whale-sighting-report/",
     "behaviors": [
       "traveling"
-    ]
-  },
-  {
-    "id": "2025-12-05-south-west-rocks-gw-3026-62",
-    "name": "Tagged Great White #3026",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #3026 detected by South West Rocks receiver.",
-    "date": "2025-12-05",
-    "latitude": -30.886983,
-    "longitude": 153.07,
-    "area": "South West Rocks, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1996851864827318652",
-    "behaviors": [
-      "tagged detection"
     ]
   },
   {
@@ -1073,52 +415,167 @@
     "date": "2025-12-04",
     "latitude": 64.142017,
     "longitude": -22.05,
-    "area": "Faxafl\u00f3i Bay, Iceland",
+    "area": "Faxaflói Bay, Iceland",
     "source": "https://elding.is/whale-diary/thursday-4-december-2025",
     "behaviors": [
       "fluke dives"
     ]
   },
   {
-    "id": "2025-12-01-hawks-nest-gw-2374-63",
-    "name": "Tagged Great White #2374",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2374 detected by Hawks Nest receiver.",
-    "date": "2025-12-01",
-    "latitude": -32.667914,
-    "longitude": 152.19,
-    "area": "Hawks Nest, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1995186699249520880",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
-    "id": "2025-12-01-merimbula-gw-2192-64",
-    "name": "Tagged Great White #2192",
-    "species": "Great White Shark",
-    "info": "NSW SharkSmart: tagged Great White Shark #2192 detected by Merimbula receiver.",
-    "date": "2025-12-01",
-    "latitude": -36.896058,
-    "longitude": 149.93,
-    "area": "Merimbula, NSW, Australia",
-    "source": "https://x.com/NSWSharkSmart/status/1995269892220809545",
-    "behaviors": [
-      "tagged detection"
-    ]
-  },
-  {
     "id": "2025-12-01-kaikoura-orca-11",
     "name": "Orca pod",
     "species": "Orca",
-    "info": "Sea Kayak Kaik\u014dura post: orca sighting near Kaik\u014dura.",
+    "info": "Sea Kayak Kaikōura post: orca sighting near Kaikōura.",
     "date": "2025-12-01",
     "latitude": -42.41909,
     "longitude": 173.72,
-    "area": "Kaik\u014dura, New Zealand",
+    "area": "Kaikōura, New Zealand",
     "source": "https://www.facebook.com/groups/1014027568671985/posts/5105205374177507/",
     "behaviors": [
       "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-04-haro-strait-limekiln-orca-01",
+    "name": "Orca Sighting (Haro Strait)",
+    "species": "Orca",
+    "info": "Orca Network report: pod observed near Lime Kiln in Haro Strait (Dec 4).",
+    "date": "2025-12-04",
+    "latitude": 48.513,
+    "longitude": -123.152,
+    "area": "Haro Strait (near Lime Kiln), San Juan Island, WA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling",
+      "hunting"
+    ]
+  },
+  {
+    "id": "2025-12-03-everett-jetty-island-orca-01",
+    "name": "Orca Sighting (Everett/Mukilteo)",
+    "species": "Orca",
+    "info": "Orca Network report: orcas observed east of mid-channel near Jetty Island area (Dec 3).",
+    "date": "2025-12-03",
+    "latitude": 47.973514,
+    "longitude": -122.248836,
+    "area": "Near Jetty Island / Everett, WA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "milling",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-03-edmonds-pier-orca-01",
+    "name": "Orca Sighting (Edmonds)",
+    "species": "Orca",
+    "info": "Orca Network report: orcas near Edmonds pier / marina beach area (Dec 3).",
+    "date": "2025-12-03",
+    "latitude": 47.802501,
+    "longitude": -122.409308,
+    "area": "Off Edmonds, WA (near pier)",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-03-mukilteo-ferry-lanes-orca-01",
+    "name": "Orca Sighting (Mukilteo-Clinton lanes)",
+    "species": "Orca",
+    "info": "Orca Network report: orcas near Mukilteo-Clinton ferry lanes (Dec 3).",
+    "date": "2025-12-03",
+    "latitude": 47.947,
+    "longitude": -122.305,
+    "area": "Mukilteo–Clinton ferry lanes, WA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-02-port-susan-orca-01",
+    "name": "Orca Sighting (Port Susan)",
+    "species": "Orca",
+    "info": "Orca Network report: orcas exited Port Susan and traveled southbound mid-channel (Dec 2).",
+    "date": "2025-12-02",
+    "latitude": 48.098,
+    "longitude": -122.448,
+    "area": "Port Susan / Whidbey area, WA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-03-edmonds-terminal-humpback-01",
+    "name": "Humpback Whales (Edmonds terminal)",
+    "species": "Humpback",
+    "info": "Orca Network report: two humpback whales just off the Edmonds ferry terminal (Dec 3).",
+    "date": "2025-12-03",
+    "latitude": 47.8105,
+    "longitude": -122.4055,
+    "area": "Edmonds ferry terminal, WA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-06-campbell-river-pier-orca-01",
+    "name": "Orca Sighting (Campbell River pier)",
+    "species": "Orca",
+    "info": "Comox Valley Wildlife Sightings: orca off Campbell River pier (Dec 6).",
+    "date": "2025-12-06",
+    "latitude": 50.0195,
+    "longitude": -125.2735,
+    "area": "Campbell River, BC, Canada",
+    "source": "https://www.instagram.com/comoxvalley_wildlifesightings/reel/DR7vI4_EoGE/",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-06-johnstone-strait-humpback-01",
+    "name": "Humpback Sighting (Johnstone Strait)",
+    "species": "Humpback",
+    "info": "Vancouver Island Whale Watch: humpback activity reported in early December (Dec 6 post).",
+    "date": "2025-12-06",
+    "latitude": 50.55,
+    "longitude": -126.55,
+    "area": "Johnstone Strait, BC, Canada",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "traveling",
+      "fluking"
+    ]
+  },
+  {
+    "id": "2025-12-06-johnstone-strait-orca-01",
+    "name": "Orca Sighting (Johnstone Strait)",
+    "species": "Orca",
+    "info": "Vancouver Island Whale Watch: orca and humpbacks reported during early December (Dec 6 post).",
+    "date": "2025-12-06",
+    "latitude": 50.52,
+    "longitude": -126.48,
+    "area": "Johnstone Strait, BC, Canada",
+    "source": "https://www.vancouverislandwhalewatch.com/recent-sightings",
+    "behaviors": [
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-12-northland-nz-humpback-01",
+    "name": "Humpback (Northland incident)",
+    "species": "Humpback",
+    "info": "Boating New Zealand: humpback whale reported off Northland after entanglement incident (Dec 12).",
+    "date": "2025-12-12",
+    "latitude": -34.4,
+    "longitude": 173.0,
+    "area": "Off Northland, New Zealand",
+    "source": "https://www.boatingnz.co.nz/2025/12/humpback-whale-dies-after-being-caught-in-rope/",
+    "behaviors": [
+      "reported"
     ]
   }
 ]
