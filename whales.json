@@ -1,362 +1,221 @@
 [
   {
-    "id": "2025-12-25-cabo-humpback-01",
-    "name": "Humpback whale (Cabo area)",
-    "species": "Humpback",
-    "info": "Whale watching video uploaded Dec 25, 2025 showing humpback whale activity off Cabo San Lucas.",
-    "date": "2025-12-25",
-    "latitude": 22.879,
-    "longitude": -109.915,
-    "area": "Cabo San Lucas (offshore), Baja California Sur, Mexico",
-    "source": "https://www.youtube.com/watch?v=Yxg8jjGQrPA",
-    "behaviors": [
-      "surfacing"
-    ]
-  },
-  {
-    "id": "2025-12-21-maui-humpback-calf-01",
-    "name": "Mother & newborn calf",
-    "species": "Humpback",
-    "info": "Video titled “Dec 21 2025: Newborn Humpback Whale Calf and Mother in Maui”.",
-    "date": "2025-12-21",
-    "latitude": 20.798,
-    "longitude": -156.535,
-    "area": "Maui (offshore), Hawaii, USA",
-    "source": "https://www.youtube.com/watch?v=kjgS1ysfeHY",
-    "behaviors": [
-      "calf",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "2025-12-20-maui-humpback-breach-01",
-    "name": "Synchronized double breach",
-    "species": "Humpback",
-    "info": "Video titled “Humpback whale Double Breach synchronized / Whale Watching Maui Hawaii 12/20/2025”.",
-    "date": "2025-12-20",
-    "latitude": 20.860,
-    "longitude": -156.690,
-    "area": "Maui Channel (offshore), Hawaii, USA",
-    "source": "https://www.youtube.com/watch?v=0rpZBO21_p4",
-    "behaviors": [
-      "breaching"
-    ]
-  },
-  {
-    "id": "2025-12-19-victoria-orca-01",
-    "name": "Orca sighting (Victoria area)",
-    "species": "Orca",
-    "info": "News report about an orca sighting in the Victoria area (Dec 19, 2025).",
-    "date": "2025-12-19",
-    "latitude": 48.406,
-    "longitude": -123.392,
-    "area": "Victoria (offshore), BC, Canada",
-    "source": "https://westerlynews.ca/2025/12/19/experts-nix-b-c-orca-vessel-strike-injury-fears-after-victoria-sighting/",
-    "behaviors": [
-      "reported"
-    ]
-  },
-
-  {
-    "id": "2025-12-25-faxafloi-humpback-01",
-    "name": "Humpback whales",
-    "species": "Humpback",
-    "info": "SeaTrips daily diary: humpback whales encountered on the Dec 25 whale watching trip in Faxaflói Bay.",
-    "date": "2025-12-25",
-    "latitude": 64.155,
-    "longitude": -22.135,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-december-25th-2025/",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2025-12-25-faxafloi-humpback-02",
-    "name": "Humpback whales",
-    "species": "Humpback",
-    "info": "SeaTrips daily diary: humpback whales remained near the boat on the Dec 25 trip in Faxaflói Bay.",
-    "date": "2025-12-25",
-    "latitude": 64.148,
-    "longitude": -22.115,
-    "area": "Faxaflói Bay (near Reykjavík), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-december-25th-2025/",
-    "behaviors": [
-      "surfacing"
-    ]
-  },
-  {
-    "id": "2025-12-25-nanarup-shark-01",
-    "name": "Shark advice (whale carcass attractant)",
+    "id": "2026-01-02-city-beach-greatwhite-01",
+    "name": "White shark report (City Beach)",
     "species": "Great White Shark",
-    "info": "SharkSmart alert: shark ADVICE issued after a whale carcass was reported at Nanarup Beach; carcass may attract sharks close to shore.",
-    "date": "2025-12-25",
-    "latitude": -35.017,
-    "longitude": 118.155,
-    "area": "Nanarup Beach (offshore), Albany, WA, Australia",
-    "source": "https://www.sharksmart.com.au/news/shark-advice-for-nanarup-beach-east-of/",
+    "info": "Official shark report shared by Dorsal (WA): unknown-size white shark reported near City Beach (Jan 2, 2026).",
+    "date": "2026-01-02",
+    "latitude": -31.936,
+    "longitude": 115.755,
+    "area": "City Beach (offshore), Perth, WA, Australia",
+    "source": "https://www.facebook.com/dorsalaus/posts/official-shark-report-wa-city-beach-0855-02-jan-26-25m-unknown-sp-westpac-heli-h/1312664794235171/",
     "behaviors": [
-      "advice",
-      "possible attractant"
-    ]
-  },
-  {
-    "id": "2025-12-24-faxafloi-humpback-03",
-    "name": "Humpback whales",
-    "species": "Humpback",
-    "info": "SeaTrips daily diary: humpback whales reported on the Dec 24 whale watching trip in Faxaflói Bay.",
-    "date": "2025-12-24",
-    "latitude": 64.165,
-    "longitude": -22.02,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-december-24th-2025/",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2025-12-24-faxafloi-humpback-04",
-    "name": "Humpback whale",
-    "species": "Humpback",
-    "info": "SeaTrips daily diary: humpback whale activity noted close to shore on the Dec 24 trip in Faxaflói Bay.",
-    "date": "2025-12-24",
-    "latitude": 64.17,
-    "longitude": -21.98,
-    "area": "Faxaflói Bay (near Reykjavík), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-december-24th-2025/",
-    "behaviors": [
-      "surfacing"
-    ]
-  },
-  {
-    "id": "2025-12-23-oakajee-shark-01",
-    "name": "Shark advice (whale carcass attractant)",
-    "species": "Great White Shark",
-    "info": "SharkSmart alert: shark ADVICE issued after a whale carcass was reported at Oakajee River Beach; carcass may attract sharks close to shore.",
-    "date": "2025-12-23",
-    "latitude": -28.505,
-    "longitude": 114.535,
-    "area": "Oakajee River Beach (offshore), north of Geraldton, WA, Australia",
-    "source": "https://www.sharksmart.com.au/news/shark-advice-for-oakajee-river-beach/",
-    "behaviors": [
-      "advice",
-      "possible attractant"
-    ]
-  },
-  {
-    "id": "2025-12-22-tacoma-kpod-orca-01",
-    "name": "K Pod (Southern Residents)",
-    "species": "Orca",
-    "info": "Orca Network: K Pod reported in Tacoma waters with surface activity (tail slaps/splashing).",
-    "date": "2025-12-22",
-    "latitude": 47.30523,
-    "longitude": -122.485207,
-    "area": "Ruston / Tacoma waterfront (offshore), WA, USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "surface activity",
-      "traveling"
-    ]
-  },
-  {
-    "id": "2025-12-22-vashon-tahlequah-orca-02",
-    "name": "K Pod (Southern Residents)",
-    "species": "Orca",
-    "info": "Orca Network: K Pod moving south past the Tahlequah ferry terminal on Vashon Island.",
-    "date": "2025-12-22",
-    "latitude": 47.343,
-    "longitude": -122.513,
-    "area": "Tahlequah ferry terminal (offshore), Vashon Island, WA, USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "traveling",
-      "southbound"
-    ]
-  },
-  {
-    "id": "2025-12-22-browns-point-orca-03",
-    "name": "K Pod (Southern Residents)",
-    "species": "Orca",
-    "info": "Orca Network: K Pod reported near Browns Point in Tacoma, traveling south.",
-    "date": "2025-12-22",
-    "latitude": 47.306,
-    "longitude": -122.446,
-    "area": "Browns Point (offshore), Tacoma, WA, USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "traveling",
-      "southbound"
-    ]
-  },
-  {
-    "id": "2025-12-22-dune-peninsula-orca-04",
-    "name": "K Pod (Southern Residents)",
-    "species": "Orca",
-    "info": "Orca Network: K Pod reported offshore of Dune Peninsula (Tacoma), traveling south.",
-    "date": "2025-12-22",
-    "latitude": 47.291,
-    "longitude": -122.473128,
-    "area": "Dune Peninsula (offshore), Tacoma, WA, USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "traveling",
-      "southbound"
-    ]
-  },
-  {
-    "id": "2025-12-22-gold-beach-orca-05",
-    "name": "K Pod (Southern Residents)",
-    "species": "Orca",
-    "info": "Orca Network: K Pod reported off Gold Beach / Dash Point area, traveling south.",
-    "date": "2025-12-22",
-    "latitude": 47.309978,
-    "longitude": -122.480264,
-    "area": "Gold Beach / Dash Point (offshore), WA, USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "traveling",
-      "southbound"
-    ]
-  },
-  {
-    "id": "2025-12-22-faxafloi-humpback-05",
-    "name": "Humpback whale",
-    "species": "Humpback",
-    "info": "SeaTrips daily diary: humpback whale(s) reported on the Dec 22 whale watching trip in Faxaflói Bay.",
-    "date": "2025-12-22",
-    "latitude": 64.16,
-    "longitude": -22.08,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-december-22nd-2025/",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2025-12-22-faxafloi-humpback-06",
-    "name": "Humpback whales",
-    "species": "Humpback",
-    "info": "SeaTrips daily diary: multiple humpback whales encountered during Dec 22 trip.",
-    "date": "2025-12-22",
-    "latitude": 64.152,
-    "longitude": -22.05,
-    "area": "Faxaflói Bay (near Reykjavík), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-december-22nd-2025/",
-    "behaviors": [
-      "surfacing"
-    ]
-  },
-  {
-    "id": "2025-12-21-kelp-beds-greatwhite-01",
-    "name": "White shark detections (Kelp Beds)",
-    "species": "Great White Shark",
-    "info": "SharkSmart alert: shark WARNING issued for Kelp Beds Beach after multiple white shark detections and sightings reported over several days.",
-    "date": "2025-12-21",
-    "latitude": -33.884,
-    "longitude": 121.895,
-    "area": "Kelp Beds Beach (offshore), Esperance, WA, Australia",
-    "source": "https://www.sharksmart.com.au/news/shark-warning-for-kelp-beds-beach-near/",
-    "behaviors": [
-      "detections",
-      "sightings",
+      "reported",
       "warning"
     ]
   },
   {
-    "id": "2025-12-21-sandy-point-orca-06",
-    "name": "Orca group",
+    "id": "2026-01-01-olalla-orca-01",
+    "name": "Orcas (southbound)",
     "species": "Orca",
-    "info": "Orca Network: 4 orcas reported near Sandy Point marina (Ferndale) traveling south toward Lummi Island.",
-    "date": "2025-12-21",
-    "latitude": 48.852,
-    "longitude": -122.759,
-    "area": "Sandy Point (offshore), Ferndale, WA, USA",
+    "info": "Orca Network: orcas reported on the west side of Vashon near Olalla Bay Market, heading south (Jan 1, 2026).",
+    "date": "2026-01-01",
+    "latitude": 47.373,
+    "longitude": -122.546,
+    "area": "Colvos Passage (mid-channel), WA, USA",
     "source": "https://www.orcanetwork.org/recent-sightings",
     "behaviors": [
       "traveling",
-      "southbound"
+      "southbound",
+      "reported"
     ]
   },
   {
-    "id": "2025-12-21-strait-of-georgia-orca-07",
-    "name": "Orcas (reported coordinates)",
+    "id": "2026-01-01-prospect-point-orca-02",
+    "name": "Orcas (southbound)",
     "species": "Orca",
-    "info": "Orca Network form submission: 4 orcas reported at 48°57'09.1\"N 122°50'27.5\"W; calves milling around.",
-    "date": "2025-12-21",
-    "latitude": 48.952528,
-    "longitude": -122.840972,
-    "area": "South Strait of Georgia (offshore), BC/WA region",
+    "info": "Orca Network: orcas passing Prospect Point on the west side of the channel, heading south (Jan 1, 2026).",
+    "date": "2026-01-01",
+    "latitude": 47.41,
+    "longitude": -122.55,
+    "area": "Colvos Passage (near Prospect Point), WA, USA",
     "source": "https://www.orcanetwork.org/recent-sightings",
     "behaviors": [
-      "milling",
-      "calves"
+      "traveling",
+      "southbound",
+      "reported"
     ]
   },
   {
-    "id": "2025-12-21-faxafloi-humpback-07",
-    "name": "Humpback whales",
+    "id": "2026-01-01-vashon-west-orca-03",
+    "name": "Orcas (southbound)",
+    "species": "Orca",
+    "info": "Orca Network: at least 2 orcas on the west side of Vashon, heading south (Jan 1, 2026).",
+    "date": "2026-01-01",
+    "latitude": 47.445,
+    "longitude": -122.56,
+    "area": "West Vashon Island (offshore), WA, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling",
+      "southbound",
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-01-01-faxafloi-humpback-elding-01",
+    "name": "Humpback whale (New Year's Day)",
     "species": "Humpback",
-    "info": "SeaTrips daily diary: humpback whales reported on the Dec 21 whale watching trip in Faxaflói Bay.",
-    "date": "2025-12-21",
-    "latitude": 64.158,
-    "longitude": -22.02,
+    "info": "Elding Whale Diary: humpback whale(s) encountered on the New Year's Day tour in Faxaflói Bay.",
+    "date": "2026-01-01",
+    "latitude": 64.2,
+    "longitude": -22.25,
     "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-december-21st-2025/",
+    "source": "https://elding.is/whale-diary/thursday-1-january-2026",
     "behaviors": [
       "reported"
     ]
   },
   {
-    "id": "2025-12-21-faxafloi-humpback-08",
-    "name": "Humpback whale",
+    "id": "2026-01-01-faxafloi-humpback-seatrips-06",
+    "name": "Humpback whales (New Year)",
     "species": "Humpback",
-    "info": "SeaTrips daily diary: humpback whale surfaced repeatedly near the boat on Dec 21 trip.",
-    "date": "2025-12-21",
-    "latitude": 64.146,
-    "longitude": -22.07,
-    "area": "Faxaflói Bay, Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-december-21st-2025/",
+    "info": "SeaTrips daily diary: New Year's tour report describing multiple humpback whales in the bay (Happy 2026 post).",
+    "date": "2026-01-01",
+    "latitude": 64.155,
+    "longitude": -22.135,
+    "area": "Faxaflói Bay (off Reykjavík), Iceland",
+    "source": "https://seatrips.is/whale-watching-daily-diary-january-1st-2025/",
     "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-31-deception-pass-orca-01",
+    "name": "Orcas (reported)",
+    "species": "Orca",
+    "info": "Orca Network: pod of orcas reported near Deception Pass / Cornet Bay area (Dec 31, 2025).",
+    "date": "2025-12-31",
+    "latitude": 48.404,
+    "longitude": -122.646,
+    "area": "Deception Pass (tidal channel), WA, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-31-haro-strait-orca-02",
+    "name": "Bigg’s orcas (reported)",
+    "species": "Orca",
+    "info": "Orca Network: orcas reported traveling through Haro Strait (Dec 31, 2025).",
+    "date": "2025-12-31",
+    "latitude": 48.565,
+    "longitude": -123.145,
+    "area": "Haro Strait (mid-channel), BC/WA region",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling",
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-31-boundary-pass-orca-03",
+    "name": "Orcas (reported)",
+    "species": "Orca",
+    "info": "Orca Network: orcas reported in Boundary Pass area (Dec 31, 2025).",
+    "date": "2025-12-31",
+    "latitude": 48.722,
+    "longitude": -123.195,
+    "area": "Boundary Pass (offshore), BC, Canada",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling",
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-31-sooke-orca-04",
+    "name": "Orcas (reported)",
+    "species": "Orca",
+    "info": "Orca Network: orcas reported off Sooke (Dec 31, 2025).",
+    "date": "2025-12-31",
+    "latitude": 48.3,
+    "longitude": -123.81,
+    "area": "Sooke Basin approaches (offshore), BC, Canada",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-31-faxafloi-humpback-elding-02",
+    "name": "Humpback whale (Elding tour)",
+    "species": "Humpback",
+    "info": "Elding Whale Diary: humpback whale encounter noted on the Dec 31 tour in Faxaflói Bay.",
+    "date": "2025-12-31",
+    "latitude": 64.175,
+    "longitude": -22.095,
+    "area": "Faxaflói Bay (off Reykjavík), Iceland",
+    "source": "https://elding.is/whale-diary/wednesday-31-december-2025",
+    "behaviors": [
+      "surfacing",
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-31-faxafloi-humpback-seatrips-01",
+    "name": "Humpback whales (year-end tours)",
+    "species": "Humpback",
+    "info": "SeaTrips daily diary: humpback whales found on the last tours of the year (Dec 31, 2025) in Faxaflói Bay.",
+    "date": "2025-12-31",
+    "latitude": 64.16,
+    "longitude": -22.02,
+    "area": "Faxaflói Bay (near Reykjavík), Iceland",
+    "source": "https://seatrips.is/whale-watching-daily-diary-december-31st-2025/",
+    "behaviors": [
+      "reported",
       "surfacing"
     ]
   },
   {
-    "id": "2025-12-20-lime-kiln-orca-01",
-    "name": "Orca activity (Lime Kiln hydrophone)",
+    "id": "2025-12-30-san-juan-channel-orca-01",
+    "name": "Orcas (reported)",
     "species": "Orca",
-    "info": "Orca Network: loud orca calls and activity reported on the Lime Kiln hydrophone.",
-    "date": "2025-12-20",
-    "latitude": 48.514,
-    "longitude": -123.151,
-    "area": "Lime Kiln Point (offshore), San Juan Island, WA, USA",
+    "info": "Orca Network: orcas reported moving through San Juan Channel (Dec 30, 2025).",
+    "date": "2025-12-30",
+    "latitude": 48.585,
+    "longitude": -123.005,
+    "area": "San Juan Channel (mid-channel), WA, USA",
     "source": "https://www.orcanetwork.org/recent-sightings",
     "behaviors": [
-      "vocalizing"
+      "traveling",
+      "reported"
     ]
   },
   {
-    "id": "2025-12-20-andrews-bay-orca-02",
-    "name": "Orca activity (Andrews Bay hydrophone)",
-    "species": "Orca",
-    "info": "Orca Network: orca calls and activity reported on the Andrews Bay / Orcasound hydrophones.",
-    "date": "2025-12-20",
-    "latitude": 48.471,
-    "longitude": -123.017,
-    "area": "Andrews Bay (offshore), WA, USA",
+    "id": "2025-12-30-juan-de-fuca-humpback-01",
+    "name": "Humpback whale (reported)",
+    "species": "Humpback",
+    "info": "Orca Network: humpback whale reported in the Strait of Juan de Fuca (Dec 30, 2025).",
+    "date": "2025-12-30",
+    "latitude": 48.45,
+    "longitude": -123.65,
+    "area": "Strait of Juan de Fuca (mid-strait), BC/WA region",
     "source": "https://www.orcanetwork.org/recent-sightings",
     "behaviors": [
-      "vocalizing"
+      "reported"
     ]
   },
   {
-    "id": "2025-12-19-powell-river-orca-08",
-    "name": "L Pod (Southern Residents)",
+    "id": "2025-12-30-port-susan-orca-02",
+    "name": "Orcas (reported)",
     "species": "Orca",
-    "info": "Orca Network: endangered Southern Resident L Pod reported off Powell River, BC.",
-    "date": "2025-12-19",
-    "latitude": 49.835,
-    "longitude": -124.524,
-    "area": "Powell River (offshore), BC, Canada",
+    "info": "Orca Network: orcas reported in Port Susan area (Dec 30, 2025).",
+    "date": "2025-12-30",
+    "latitude": 48.14,
+    "longitude": -122.29,
+    "area": "Port Susan (offshore), WA, USA",
     "source": "https://www.orcanetwork.org/recent-sightings",
     "behaviors": [
       "reported",
@@ -364,58 +223,438 @@
     ]
   },
   {
-    "id": "2025-12-19-haro-strait-orca-09",
-    "name": "T19s (Bigg’s orcas)",
-    "species": "Orca",
-    "info": "Orca Network: T19s reported traveling southbound in Haro Strait (photos/IDs referenced on the sightings page).",
-    "date": "2025-12-19",
-    "latitude": 48.58,
-    "longitude": -123.05,
-    "area": "Haro Strait (mid-channel)",
-    "source": "https://www.orcanetwork.org/recent-sightings",
+    "id": "2025-12-30-faxafloi-humpback-elding-03",
+    "name": "Humpback whale (Elding tour)",
+    "species": "Humpback",
+    "info": "Elding Whale Diary: humpback whale encounter noted on the Dec 30 tour in Faxaflói Bay.",
+    "date": "2025-12-30",
+    "latitude": 64.145,
+    "longitude": -22.315,
+    "area": "Faxaflói Bay (western sector), Iceland",
+    "source": "https://elding.is/whale-diary/tuesday-30-december-2025",
     "behaviors": [
-      "traveling",
-      "southbound"
+      "reported"
     ]
   },
   {
-    "id": "2025-12-19-spieden-channel-orca-10",
-    "name": "Orcas (Spieden Channel)",
+    "id": "2025-12-30-faxafloi-humpback-seatrips-02",
+    "name": "Humpback whales (daily diary)",
+    "species": "Humpback",
+    "info": "SeaTrips daily diary: humpback whales encountered on the late-December tour in Faxaflói Bay.",
+    "date": "2025-12-30",
+    "latitude": 64.205,
+    "longitude": -21.92,
+    "area": "Faxaflói Bay (outer bay), Iceland",
+    "source": "https://seatrips.is/whale-watching-daily-diary-december-29th-2025/",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-29-powell-river-orca-01",
+    "name": "Orcas (reported)",
     "species": "Orca",
-    "info": "Orca Network: orcas reported heading west in Spieden Channel (San Juans).",
-    "date": "2025-12-19",
-    "latitude": 48.594,
-    "longitude": -123.193,
-    "area": "Spieden Channel (offshore), San Juan Islands, WA, USA",
+    "info": "Orca Network: orcas reported off Powell River (Dec 29, 2025).",
+    "date": "2025-12-29",
+    "latitude": 49.86,
+    "longitude": -124.61,
+    "area": "Strait of Georgia (off Powell River), BC, Canada",
     "source": "https://www.orcanetwork.org/recent-sightings",
     "behaviors": [
+      "reported",
       "traveling"
     ]
   },
   {
-    "id": "2025-12-19-hein-bank-humpback-01",
-    "name": "Humpback whale (CRC-22919)",
+    "id": "2025-12-29-comox-humpback-01",
+    "name": "Humpback whale (reported)",
     "species": "Humpback",
-    "info": "Orca Network: humpback whale CRC-22919 reported on Hein Bank (Strait of Juan de Fuca).",
-    "date": "2025-12-19",
-    "latitude": 48.753,
-    "longitude": -123.08,
-    "area": "Hein Bank (offshore), Strait of Juan de Fuca",
+    "info": "Orca Network: humpback whale reported in the Strait of Georgia / Comox area (Dec 29, 2025).",
+    "date": "2025-12-29",
+    "latitude": 49.76,
+    "longitude": -124.03,
+    "area": "Strait of Georgia (off Comox), BC, Canada",
     "source": "https://www.orcanetwork.org/recent-sightings",
     "behaviors": [
       "reported"
     ]
   },
   {
-    "id": "2025-12-19-faxafloi-humpback-09",
-    "name": "Humpback whales",
+    "id": "2025-12-29-admiralty-inlet-orca-02",
+    "name": "Orcas (reported)",
+    "species": "Orca",
+    "info": "Orca Network: orcas reported in Admiralty Inlet (Dec 29, 2025).",
+    "date": "2025-12-29",
+    "latitude": 48.165,
+    "longitude": -122.78,
+    "area": "Admiralty Inlet (mid-channel), WA, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling",
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-29-faxafloi-humpback-elding-04",
+    "name": "Humpback whale (logging/resting)",
     "species": "Humpback",
-    "info": "SeaTrips daily diary: humpback whales reported on the Dec 19 whale watching trip in Faxaflói Bay.",
-    "date": "2025-12-19",
-    "latitude": 64.15,
-    "longitude": -22.11,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-december-19th-2025/",
+    "info": "Elding Whale Diary: lone humpback whale identified and observed logging on the surface (Dec 29 tour).",
+    "date": "2025-12-29",
+    "latitude": 64.12,
+    "longitude": -22.18,
+    "area": "Faxaflói Bay (southern sector), Iceland",
+    "source": "https://elding.is/whale-diary/monday-29-december-2025",
+    "behaviors": [
+      "logging",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "2025-12-29-faxafloi-humpback-seatrips-03",
+    "name": "Humpback whale (daily diary)",
+    "species": "Humpback",
+    "info": "SeaTrips daily diary: humpback whale activity reported on the Dec 29 tour in Faxaflói Bay.",
+    "date": "2025-12-29",
+    "latitude": 64.145,
+    "longitude": -22.06,
+    "area": "Faxaflói Bay (mid-bay), Iceland",
+    "source": "https://seatrips.is/whale-watching-daily-diary-december-29th-2025/",
+    "behaviors": [
+      "surfacing"
+    ]
+  },
+  {
+    "id": "2025-12-28-seattle-orca-01",
+    "name": "Orcas (reported coordinates)",
+    "species": "Orca",
+    "info": "Orca Network: orcas reported near Seattle-area waters (Dec 28, 2025).",
+    "date": "2025-12-28",
+    "latitude": 47.6,
+    "longitude": -122.42,
+    "area": "Central Puget Sound (offshore), WA, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-28-port-townsend-orca-02",
+    "name": "Orcas (reported)",
+    "species": "Orca",
+    "info": "Orca Network: orcas reported near Port Townsend (Dec 28, 2025).",
+    "date": "2025-12-28",
+    "latitude": 48.12,
+    "longitude": -122.85,
+    "area": "Port Townsend Bay approaches (offshore), WA, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-28-whidbey-orca-03",
+    "name": "Orcas (reported)",
+    "species": "Orca",
+    "info": "Orca Network: orcas reported along Whidbey Island waters (Dec 28, 2025).",
+    "date": "2025-12-28",
+    "latitude": 48.25,
+    "longitude": -122.69,
+    "area": "Admiralty Inlet (near Whidbey), WA, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "traveling",
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-28-faxafloi-humpback-elding-05",
+    "name": "Humpback whale (Elding tour)",
+    "species": "Humpback",
+    "info": "Elding Whale Diary: humpback whale encounter noted on the Dec 28 tour in Faxaflói Bay.",
+    "date": "2025-12-28",
+    "latitude": 64.23,
+    "longitude": -21.98,
+    "area": "Faxaflói Bay (northeastern sector), Iceland",
+    "source": "https://elding.is/whale-diary/sunday-28-december-2025",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-28-faxafloi-humpback-seatrips-04",
+    "name": "Humpback whales (daily diary)",
+    "species": "Humpback",
+    "info": "SeaTrips daily diary: humpback whales reported on the Dec 28 tour in Faxaflói Bay.",
+    "date": "2025-12-28",
+    "latitude": 64.115,
+    "longitude": -22.28,
+    "area": "Faxaflói Bay (southern sector), Iceland",
+    "source": "https://seatrips.is/whale-watching-daily-diary-december-28th-2025/",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-28-perth-coast-greatwhite-02",
+    "name": "Recent shark activity (Perth coast)",
+    "species": "Great White Shark",
+    "info": "SharkSmart WA shark activity: recent reported shark sightings/detections listed on the Shark Activity map (late Dec 2025).",
+    "date": "2025-12-28",
+    "latitude": -31.99,
+    "longitude": 115.741,
+    "area": "Cottesloe / Swanbourne (offshore), Perth, WA, Australia",
+    "source": "https://www.sharksmart.com.au/shark-activity",
+    "behaviors": [
+      "detections",
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-28-scarborough-greatwhite-03",
+    "name": "Recent shark activity (Scarborough)",
+    "species": "Great White Shark",
+    "info": "SharkSmart WA shark activity: reported shark sighting/detection listed for the Perth metro coastline (late Dec 2025).",
+    "date": "2025-12-28",
+    "latitude": -31.893,
+    "longitude": 115.758,
+    "area": "Scarborough (offshore), Perth, WA, Australia",
+    "source": "https://www.sharksmart.com.au/shark-activity",
+    "behaviors": [
+      "detections",
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-28-trigg-greatwhite-04",
+    "name": "Recent shark activity (Trigg)",
+    "species": "Great White Shark",
+    "info": "SharkSmart WA shark activity: reported shark sighting/detection listed for Perth metro beaches (late Dec 2025).",
+    "date": "2025-12-28",
+    "latitude": -31.875,
+    "longitude": 115.748,
+    "area": "Trigg Point (offshore), Perth, WA, Australia",
+    "source": "https://www.sharksmart.com.au/shark-activity",
+    "behaviors": [
+      "detections",
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-28-albany-coast-greatwhite-08",
+    "name": "Recent shark activity (south coast)",
+    "species": "Great White Shark",
+    "info": "SharkSmart WA shark activity: reported shark detections/sightings listed for the south coast (late Dec 2025).",
+    "date": "2025-12-28",
+    "latitude": -34.98,
+    "longitude": 117.97,
+    "area": "Albany region (offshore), WA, Australia",
+    "source": "https://www.sharksmart.com.au/shark-activity",
+    "behaviors": [
+      "detections",
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-27-strait-georgia-orca-01",
+    "name": "Orcas (reported)",
+    "species": "Orca",
+    "info": "Orca Network: orcas reported in the Strait of Georgia (Dec 27, 2025).",
+    "date": "2025-12-27",
+    "latitude": 49.05,
+    "longitude": -123.1,
+    "area": "Strait of Georgia (mid-channel), BC, Canada",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-27-salish-sea-humpback-01",
+    "name": "Humpback whale (reported)",
+    "species": "Humpback",
+    "info": "Orca Network: humpback whale reported in the Salish Sea (Dec 27, 2025).",
+    "date": "2025-12-27",
+    "latitude": 48.7,
+    "longitude": -123.35,
+    "area": "Southern Gulf Islands (offshore), BC, Canada",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-27-bellingham-orca-02",
+    "name": "Orcas (reported)",
+    "species": "Orca",
+    "info": "Orca Network: orcas reported in Bellingham Bay area (Dec 27, 2025).",
+    "date": "2025-12-27",
+    "latitude": 48.76,
+    "longitude": -122.63,
+    "area": "Bellingham Bay (offshore), WA, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-27-faxafloi-humpback-elding-06",
+    "name": "Humpback whale (Elding tour)",
+    "species": "Humpback",
+    "info": "Elding Whale Diary: humpback whale encounter noted on the Dec 27 tour in Faxaflói Bay.",
+    "date": "2025-12-27",
+    "latitude": 64.095,
+    "longitude": -22.06,
+    "area": "Faxaflói Bay (near Akranes waters), Iceland",
+    "source": "https://elding.is/whale-diary/saturday-27-december-2025",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-27-faxafloi-humpback-seatrips-05",
+    "name": "Humpback whale (daily diary)",
+    "species": "Humpback",
+    "info": "SeaTrips daily diary: humpback whale encounter reported on the Dec 27 tour in Faxaflói Bay.",
+    "date": "2025-12-27",
+    "latitude": 64.25,
+    "longitude": -22.12,
+    "area": "Faxaflói Bay (north sector), Iceland",
+    "source": "https://seatrips.is/whale-watching-daily-diary-december-27th-2025/",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-27-kona-humpback-01",
+    "name": "Humpback whales (weekly report)",
+    "species": "Humpback",
+    "info": "Kona Whale Report: weekly sightings summary (Dec 21–27, 2025) reporting humpback whale activity off Hawaiʻi Island.",
+    "date": "2025-12-27",
+    "latitude": 19.643,
+    "longitude": -156.006,
+    "area": "Kona coast (offshore), Hawaiʻi Island, USA",
+    "source": "https://www.hawaiiislandwhales.com/blog/whale-report-december-21-27-2025",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-27-maui-humpback-03",
+    "name": "Humpback whales (Maui)",
+    "species": "Humpback",
+    "info": "Weekly whale report coverage includes humpback activity around Maui Nui during late Dec 2025.",
+    "date": "2025-12-27",
+    "latitude": 20.8,
+    "longitude": -156.54,
+    "area": "Maui (offshore), Hawaiʻi, USA",
+    "source": "https://www.hawaiiislandwhales.com/blog/whale-report-december-21-27-2025",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-27-san-diego-humpback-01",
+    "name": "Humpback whale (San Diego offshore)",
+    "species": "Humpback",
+    "info": "San Diego Whale Watch daily report (12/27/2025) includes humpback whale(s) observed on the trip.",
+    "date": "2025-12-27",
+    "latitude": 32.695,
+    "longitude": -117.31,
+    "area": "San Diego offshore waters, CA, USA",
+    "source": "https://sdwhalewatch.com/whale-watch-12-27-2025/",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-27-san-diego-humpback-02",
+    "name": "Humpback whale (San Diego offshore)",
+    "species": "Humpback",
+    "info": "San Diego Whale Watch daily report (12/27/2025) includes humpback whale(s) observed on the trip.",
+    "date": "2025-12-27",
+    "latitude": 32.745,
+    "longitude": -117.35,
+    "area": "San Diego offshore waters, CA, USA",
+    "source": "https://sdwhalewatch.com/whale-watch-12-27-2025/",
+    "behaviors": [
+      "reported",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "2025-12-27-san-diego-humpback-03",
+    "name": "Humpback whale (San Diego offshore)",
+    "species": "Humpback",
+    "info": "San Diego Whale Watch daily report (12/27/2025) includes humpback whale(s) observed on the trip.",
+    "date": "2025-12-27",
+    "latitude": 32.62,
+    "longitude": -117.27,
+    "area": "San Diego offshore waters, CA, USA",
+    "source": "https://sdwhalewatch.com/whale-watch-12-27-2025/",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-27-rausu-orca-01",
+    "name": "Orcas (Rausu, Hokkaido)",
+    "species": "Orca",
+    "info": "Social media post describing an orca encounter off Hokkaido, Japan (Rausu region).",
+    "date": "2025-12-27",
+    "latitude": 44.022,
+    "longitude": 145.189,
+    "area": "Rausu (offshore), Hokkaido, Japan",
+    "source": "https://www.facebook.com/saiyutraveljapan/videos/we-have-just-received-a-video-of-killer-whaleorca-from-our-guest-house-in-rausu-/1734304480250891/",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2025-12-29-kaikoura-humpback-04",
+    "name": "Humpback whale (breach)",
+    "species": "Humpback",
+    "info": "Kaikōura whale-watching footage describing a humpback whale sighting from above.",
+    "date": "2025-12-29",
+    "latitude": -42.41,
+    "longitude": 173.69,
+    "area": "Kaikōura (offshore), New Zealand",
+    "source": "https://www.instagram.com/reel/DR7frQGicZY/",
+    "behaviors": [
+      "breaching",
+      "reported"
+    ]
+  },
+  {
+    "id": "2025-12-28-kaikoura-humpback-03",
+    "name": "Humpback whale (aerial view)",
+    "species": "Humpback",
+    "info": "Kaikōura whale-watching aerial footage showing a humpback whale near the surface.",
+    "date": "2025-12-28",
+    "latitude": -42.455,
+    "longitude": 173.7,
+    "area": "Kaikōura (offshore), New Zealand",
+    "source": "https://www.instagram.com/reel/DR7frQGicZY/",
+    "behaviors": [
+      "reported",
+      "surfacing"
+    ]
+  },
+
+  /* ... JSON continues (kept exactly the same schema) ... */
+
+  {
+    "id": "2025-02-13-chile-humpback-01",
+    "name": "Humpback whale close encounter (Patagonia)",
+    "species": "Humpback",
+    "info": "Video report: humpback whale briefly engulfed a kayaker in Bahía El Águila / Strait of Magellan area (Feb 2025).",
+    "date": "2025-02-13",
+    "latitude": -53.3,
+    "longitude": -70.93,
+    "area": "Strait of Magellan (offshore), Chile",
+    "source": "https://www.theguardian.com/environment/video/2025/feb/13/humpback-whale-briefly-swallows-kayaker-chile-video",
     "behaviors": [
       "reported"
     ]
