@@ -1,9 +1,89 @@
 [
   {
-    "id": "2026-01-12-bremer-orca-01",
+    "id": "2026-01-12-qc-tadoussac-beluga-01",
+    "name": "Beluga whale (Saguenay–St. Lawrence)",
+    "species": "Beluga",
+    "info": "Instagram post dated 2026-01-12 shows a beluga surfacing and diving at Tadoussac where the Saguenay meets the St. Lawrence River.",
+    "date": "2026-01-12",
+    "latitude": 48.145,
+    "longitude": -69.718,
+    "area": "Tadoussac (Saguenay–St. Lawrence Marine Park), Quebec, Canada",
+    "source": "https://www.instagram.com/p/DTavRt0Ebv2/",
+    "behaviors": [
+      "reported",
+      "surfacing",
+      "diving"
+    ]
+  },
+  {
+    "id": "2026-01-10-hi-kona-humpback-01",
+    "name": "Humpback whales (Kona coast)",
+    "species": "Humpback",
+    "info": "Hawaiian Adventures whale report (covering early January 2026) notes humpback whale activity off Hawaiʻi Island; this entry pins the Kona coast as the report area.",
+    "date": "2026-01-10",
+    "latitude": 19.62,
+    "longitude": -155.98,
+    "area": "Kona Coast (offshore), Hawaiʻi Island, Hawaii, USA",
+    "source": "https://www.hawaiianadventures.com/hawaiian-adventures-whale-report/",
+    "behaviors": [
+      "reported",
+      "traveling",
+      "breaching"
+    ]
+  },
+  {
+    "id": "2026-01-12-hi-lahaina-humpback-01",
+    "name": "Humpback whale encounter (Lahaina)",
+    "species": "Humpback",
+    "info": "News report describes a humpback whale repeatedly approaching ('mugging') a boat off Lahaina, Maui; the linked story documents the incident.",
+    "date": "2026-01-12",
+    "latitude": 20.88,
+    "longitude": -156.69,
+    "area": "Off Lahaina, Maui, Hawaii, USA",
+    "source": "https://www.hawaiinewsnow.com/2026/01/12/humpback-whale-mugs-boat-lahaina-several-times/",
+    "behaviors": [
+      "reported",
+      "approaching_boat",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "2026-01-11-jp-okinawa-humpback-01",
+    "name": "Singing humpback (Okinawa waters)",
+    "species": "Humpback",
+    "info": "Japanese Instagram post dated 2026-01-11 describes a male humpback singing loudly and active at the surface.",
+    "date": "2026-01-11",
+    "latitude": 26.22,
+    "longitude": 127.55,
+    "area": "Okinawa (offshore, Naha/Kerama region), Japan",
+    "source": "https://www.instagram.com/p/DTYxsfVksbf/",
+    "behaviors": [
+      "reported",
+      "vocalizing",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "2026-01-04-no-skjervoy-orca-01",
+    "name": "Orcas (Skjervøy fjords)",
+    "species": "Orca",
+    "info": "Instagram post explicitly dated 2026-01-04 reports orcas encountered around Skjervøy in northern Norway.",
+    "date": "2026-01-04",
+    "latitude": 70.03,
+    "longitude": 20.97,
+    "area": "Skjervøy (coastal fjords), Troms, Norway",
+    "source": "https://www.instagram.com/p/DFQOHB0x0Pp/",
+    "behaviors": [
+      "reported",
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-12-au-wa-bremer-orca-01",
     "name": "Orca pods (Bremer Canyon)",
     "species": "Orca",
-    "info": "Whale Watch Western Australia 'The Daily Whale' post (2026-01-12): Killer Whale Tours in January in Bremer Canyon ('The Patch') off Bremer Bay; details on the source page back this report.",
+    "info": "Whale Watch Western Australia 'The Daily Whale' post (2026-01-12) documents orca activity in Bremer Canyon (\"The Patch\") off Bremer Bay.",
     "date": "2026-01-12",
     "latitude": -34.62,
     "longitude": 119.88,
@@ -16,204 +96,10 @@
     ]
   },
   {
-    "id": "2026-01-12-faxafloi-humpback-01",
-    "name": "Humpback whales (Faxaflói Bay)",
-    "species": "Humpback",
-    "info": "Elding whale diary (2026-01-12) reports humpback whale(s) encountered on their Reykjavík whale watching tour in Faxaflói Bay; details are documented on the linked diary page.",
-    "date": "2026-01-12",
-    "latitude": 64.15,
-    "longitude": -22.23,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://elding.is/whale-diary/monday-12-january-2026",
-    "behaviors": [
-      "reported",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "2026-01-12-reykjavik-humpback-01",
-    "name": "Humpback whales (Faxaflói Bay)",
-    "species": "Humpback",
-    "info": "SeaTrips Whale Watching Daily Diary (2026-01-12) reports humpback whale(s) on their Reykjavík/Faxaflói Bay trip; the linked diary page documents the encounter.",
-    "date": "2026-01-12",
-    "latitude": 64.165,
-    "longitude": -22.25,
-    "area": "Reykjavík Bay / Faxaflói (offshore), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-january-11th-2026-2/",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-11-bremer-orca-01",
-    "name": "Ocean predators (The Patch)",
-    "species": "Orca",
-    "info": "Whale Watch Western Australia 'The Daily Whale' post (2026-01-11): Ocean Predators in The Patch in Bremer Canyon ('The Patch') off Bremer Bay; details on the source page back this report.",
-    "date": "2026-01-11",
-    "latitude": -34.64,
-    "longitude": 119.92,
-    "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-    "source": "https://whalewatchwesternaustralia.com/ocean-predators-in-the-patch/",
-    "behaviors": [
-      "reported",
-      "feeding",
-      "socializing"
-    ]
-  },
-  {
-    "id": "2026-01-11-faxafloi-humpback-02",
-    "name": "Humpback whale(s) (Reykjavík bay)",
-    "species": "Humpback",
-    "info": "Elding whale diary (2026-01-11) reports humpback whale(s) encountered on their Reykjavík whale watching tour in Faxaflói Bay; details are documented on the linked diary page.",
-    "date": "2026-01-11",
-    "latitude": 64.145,
-    "longitude": -22.205,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://elding.is/whale-diary/sunday-11-january-2026",
-    "behaviors": [
-      "reported",
-      "breaching",
-      "feeding"
-    ]
-  },
-  {
-    "id": "2026-01-11-reykjavik-humpback-02",
-    "name": "Humpback whales (Faxaflói Bay)",
-    "species": "Humpback",
-    "info": "SeaTrips Whale Watching Daily Diary (2026-01-11) reports humpback whale(s) on their Reykjavík/Faxaflói Bay trip; the linked diary page documents the encounter.",
-    "date": "2026-01-11",
-    "latitude": 64.155,
-    "longitude": -22.21,
-    "area": "Reykjavík Bay / Faxaflói (offshore), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-january-11th-2026/",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-10-bremer-orca-01",
-    "name": "Orca concerns (Giovanni)",
-    "species": "Orca",
-    "info": "Whale Watch Western Australia 'The Daily Whale' post (2026-01-10): Concerns for Bremer Bay Orca Giovanni in Bremer Canyon ('The Patch') off Bremer Bay; details on the source page back this report.",
-    "date": "2026-01-10",
-    "latitude": -34.6,
-    "longitude": 119.86,
-    "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-    "source": "https://whalewatchwesternaustralia.com/concerns-for-bremer-bay-orca-giovanni/",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-10-salish-orca-01",
-    "name": "Killer whale family (Salish Sea)",
-    "species": "Orca",
-    "info": "Eagle Wing Tours Daily Sighting Report (2026-01-10) lists this wildlife encountered on the Salish Sea near Victoria/Vancouver Island; the source page backs the report.",
-    "date": "2026-01-10",
-    "latitude": 48.36,
-    "longitude": -123.58,
-    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-    "source": "https://eaglewingtours.com/daily-sighting-report/",
-    "behaviors": [
-      "reported",
-      "traveling"
-    ]
-  },
-  {
-    "id": "2026-01-10-faxafloi-humpback-03",
-    "name": "Humpback whales (near Lundey)",
-    "species": "Humpback",
-    "info": "Elding whale diary (2026-01-10) reports humpback whale(s) encountered on their Reykjavík whale watching tour in Faxaflói Bay; details are documented on the linked diary page.",
-    "date": "2026-01-10",
-    "latitude": 64.165,
-    "longitude": -22.185,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://elding.is/whale-diary/saturday-10-january-2026",
-    "behaviors": [
-      "reported",
-      "breaching"
-    ]
-  },
-  {
-    "id": "2026-01-10-reykjavik-humpback-03",
-    "name": "Humpback whales (Faxaflói Bay)",
-    "species": "Humpback",
-    "info": "SeaTrips Whale Watching Daily Diary (2026-01-10) reports humpback whale(s) on their Reykjavík/Faxaflói Bay trip; the linked diary page documents the encounter.",
-    "date": "2026-01-10",
-    "latitude": 64.175,
-    "longitude": -22.18,
-    "area": "Reykjavík Bay / Faxaflói (offshore), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-january-10th-2026/",
-    "behaviors": [
-      "reported",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "2026-01-09-bremer-orca-01",
-    "name": "Orca matriarch Queen (The Patch)",
-    "species": "Orca",
-    "info": "Whale Watch Western Australia 'The Daily Whale' post (2026-01-09): Orca Matriarch Queen Successful Again in Bremer Canyon ('The Patch') off Bremer Bay; details on the source page back this report.",
-    "date": "2026-01-09",
-    "latitude": -34.63,
-    "longitude": 119.95,
-    "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-    "source": "https://whalewatchwesternaustralia.com/orca-matriarch-queen-successful-again/",
-    "behaviors": [
-      "reported",
-      "feeding"
-    ]
-  },
-  {
-    "id": "2026-01-09-faxafloi-humpback-04",
-    "name": "Humpback whales (Reykjavík bay)",
-    "species": "Humpback",
-    "info": "Elding whale diary (2026-01-09) reports humpback whale(s) encountered on their Reykjavík whale watching tour in Faxaflói Bay; details are documented on the linked diary page.",
-    "date": "2026-01-09",
-    "latitude": 64.135,
-    "longitude": -22.165,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://elding.is/whale-diary/friday-9-january-2026",
-    "behaviors": [
-      "reported",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "2026-01-09-reykjavik-humpback-04",
-    "name": "Humpback whales (Faxaflói Bay)",
-    "species": "Humpback",
-    "info": "SeaTrips Whale Watching Daily Diary (2026-01-09) reports humpback whale(s) on their Reykjavík/Faxaflói Bay trip; the linked diary page documents the encounter.",
-    "date": "2026-01-09",
-    "latitude": 64.145,
-    "longitude": -22.19,
-    "area": "Reykjavík Bay / Faxaflói (offshore), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-january-9th-2026/",
-    "behaviors": [
-      "reported",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "2026-01-08-bremer-orca-01",
-    "name": "Orca presence (Bremer Bay)",
-    "species": "Orca",
-    "info": "Whale Watch Western Australia 'The Daily Whale' post (2026-01-08): Bremer Bay Dolphin Days in Bremer Canyon ('The Patch') off Bremer Bay; details on the source page back this report.",
-    "date": "2026-01-08",
-    "latitude": -34.58,
-    "longitude": 119.8,
-    "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-    "source": "https://whalewatchwesternaustralia.com/bremer-bay-dolphin-days/",
-    "behaviors": [
-      "reported",
-      "traveling"
-    ]
-  },
-  {
-    "id": "2026-01-08-kangarooisland-white-01",
+    "id": "2026-01-08-au-sa-kangarooisland-white-01",
     "name": "White shark sighting (Cape du Couedic)",
     "species": "Great White Shark",
-    "info": "PIRSA Shark sightings 'Recent sightings' table (2026-01-08) includes a 'White Shark' report at the stated location; this log is the source for the report.",
+    "info": "PIRSA 'Recent sightings' table lists a white shark report at Cape du Couedic; this log entry backs the report.",
     "date": "2026-01-08",
     "latitude": -36.046,
     "longitude": 136.652,
@@ -224,145 +110,40 @@
     ]
   },
   {
-    "id": "2026-01-08-faxafloi-humpback-05",
-    "name": "Humpback whales (Reykjavík bay)",
+    "id": "2026-01-13-au-nsw-crescenthead-humpback-01",
+    "name": "Rare white humpback (Crescent Head)",
     "species": "Humpback",
-    "info": "Elding whale diary (2026-01-08) reports humpback whale(s) encountered on their Reykjavík whale watching tour in Faxaflói Bay; details are documented on the linked diary page.",
-    "date": "2026-01-08",
-    "latitude": 64.12,
-    "longitude": -22.22,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://elding.is/whale-diary/thursday-8-january-2026",
-    "behaviors": [
-      "reported",
-      "feeding"
-    ]
-  },
-  {
-    "id": "2026-01-08-reykjavik-humpback-05",
-    "name": "Humpback whales (Reykjavík Bay)",
-    "species": "Humpback",
-    "info": "SeaTrips Whale Watching Daily Diary (2026-01-08) reports humpback whale(s) on their Reykjavík/Faxaflói Bay trip; the linked diary page documents the encounter.",
-    "date": "2026-01-08",
-    "latitude": 64.13,
-    "longitude": -22.12,
-    "area": "Reykjavík Bay / Faxaflói (offshore), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-january-8th-2026/",
+    "info": "News report describes a rare white whale sighting off Crescent Head on the NSW Mid North Coast; the linked article documents the sighting.",
+    "date": "2026-01-13",
+    "latitude": -31.19,
+    "longitude": 152.98,
+    "area": "Off Crescent Head, NSW, Australia",
+    "source": "https://www.dailytelegraph.com.au/news/nsw/rare-white-humpback-whale-spotted-off-nsw-mid-north-coast/news-story/b214cf4915f12cc741c606724b8c39c2",
     "behaviors": [
       "reported",
       "surfacing"
     ]
   },
   {
-    "id": "2026-01-07-bremer-orca-01",
-    "name": "Orca predation event (Bremer Canyon)",
+    "id": "2026-01-10-ca-bc-salish-orca-01",
+    "name": "Killer whales (Salish Sea)",
     "species": "Orca",
-    "info": "Whale Watch Western Australia 'The Daily Whale' post (2026-01-07): Tactical Orca Predation on Beaked Whale in Bremer Canyon ('The Patch') off Bremer Bay; details on the source page back this report.",
-    "date": "2026-01-07",
-    "latitude": -34.67,
-    "longitude": 119.98,
-    "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-    "source": "https://whalewatchwesternaustralia.com/tactical-orca-predation-on-beaked-whale/",
-    "behaviors": [
-      "reported",
-      "hunting",
-      "feeding"
-    ]
-  },
-  {
-    "id": "2026-01-07-faxafloi-humpback-06",
-    "name": "Humpback whales (Faxaflói Bay)",
-    "species": "Humpback",
-    "info": "Elding whale diary (2026-01-07) reports humpback whale(s) encountered on their Reykjavík whale watching tour in Faxaflói Bay; details are documented on the linked diary page.",
-    "date": "2026-01-07",
-    "latitude": 64.17,
-    "longitude": -22.28,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://elding.is/whale-diary/wednesday-7-january-2026",
-    "behaviors": [
-      "reported",
-      "feeding"
-    ]
-  },
-  {
-    "id": "2026-01-07-reykjavik-humpback-06",
-    "name": "Humpback whales (Reykjavík Bay)",
-    "species": "Humpback",
-    "info": "SeaTrips Whale Watching Daily Diary (2026-01-07) reports humpback whale(s) on their Reykjavík/Faxaflói Bay trip; the linked diary page documents the encounter.",
-    "date": "2026-01-07",
-    "latitude": 64.12,
-    "longitude": -22.15,
-    "area": "Reykjavík Bay / Faxaflói (offshore), Iceland",
-    "source": "https://seatrips.is/whale-watching-daily-diary-january-7th-2026/",
-    "behaviors": [
-      "reported",
-      "surfacing"
-    ]
-  },
-  {
-    "id": "2026-01-06-bremer-orca-01",
-    "name": "Orca watch (Bremer Canyon)",
-    "species": "Orca",
-    "info": "Whale Watch Western Australia 'The Daily Whale' post (2026-01-06): Bremer Orca Watch in Bremer Canyon ('The Patch') off Bremer Bay; details on the source page back this report.",
-    "date": "2026-01-06",
-    "latitude": -34.61,
-    "longitude": 119.9,
-    "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-    "source": "https://whalewatchwesternaustralia.com/bremer-orca-watch/",
+    "info": "Eagle Wing Tours daily sighting report lists killer whales encountered in the Salish Sea area near Victoria/Race Rocks.",
+    "date": "2026-01-10",
+    "latitude": 48.33,
+    "longitude": -123.53,
+    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
+    "source": "https://eaglewingtours.com/daily-sighting-report/",
     "behaviors": [
       "reported",
       "traveling"
     ]
   },
   {
-    "id": "2026-01-06-goolwa-white-01",
-    "name": "White shark sighting (Goolwa)",
-    "species": "Great White Shark",
-    "info": "PIRSA Shark sightings 'Recent sightings' table (2026-01-06) includes a 'White Shark' report at the stated location; this log is the source for the report.",
-    "date": "2026-01-06",
-    "latitude": -35.512,
-    "longitude": 138.794,
-    "area": "Goolwa (offshore), SA, Australia",
-    "source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-06-faxafloi-humpback-07",
-    "name": "Humpback whales (near harbour)",
-    "species": "Humpback",
-    "info": "Elding whale diary (2026-01-06) reports humpback whale(s) encountered on their Reykjavík whale watching tour in Faxaflói Bay; details are documented on the linked diary page.",
-    "date": "2026-01-06",
-    "latitude": 64.15,
-    "longitude": -22.12,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://elding.is/whale-diary/tuesday-6-january-2026",
-    "behaviors": [
-      "reported",
-      "traveling"
-    ]
-  },
-  {
-    "id": "2026-01-05-bremer-orca-01",
-    "name": "Orca hunting grounds (Bremer Canyon)",
-    "species": "Orca",
-    "info": "Whale Watch Western Australia 'The Daily Whale' post (2026-01-05): Killer Whale Hunting Grounds in Bremer Canyon ('The Patch') off Bremer Bay; details on the source page back this report.",
-    "date": "2026-01-05",
-    "latitude": -34.66,
-    "longitude": 119.94,
-    "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-    "source": "https://whalewatchwesternaustralia.com/killer-whale-hunting-grounds/",
-    "behaviors": [
-      "reported",
-      "foraging"
-    ]
-  },
-  {
-    "id": "2026-01-05-salish-humpback-01",
+    "id": "2026-01-05-ca-bc-salish-humpback-01",
     "name": "Humpback whales (Salish Sea)",
     "species": "Humpback",
-    "info": "Eagle Wing Tours Daily Sighting Report (2026-01-05) lists this wildlife encountered on the Salish Sea near Victoria/Vancouver Island; the source page backs the report.",
+    "info": "Eagle Wing Tours daily sighting report lists humpback whales in the Salish Sea area near Victoria/Vancouver Island.",
     "date": "2026-01-05",
     "latitude": 48.27,
     "longitude": -123.57,
@@ -374,225 +155,157 @@
     ]
   },
   {
-    "id": "2026-01-05-faxafloi-humpback-08",
-    "name": "Humpback whale (Reykjavík bay)",
-    "species": "Humpback",
-    "info": "Elding whale diary (2026-01-05) reports humpback whale(s) encountered on their Reykjavík whale watching tour in Faxaflói Bay; details are documented on the linked diary page.",
+    "id": "2026-01-05-us-wa-dalco-minke-01",
+    "name": "Minke whale (Dalco Passage)",
+    "species": "Minke",
+    "info": "Orca Network whale sighting report shared by the Langley Whale Center notes a minke whale in Dalco Passage (dated 2026-01-05).",
     "date": "2026-01-05",
-    "latitude": 64.14,
-    "longitude": -22.14,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://elding.is/whale-diary/monday-5-january-2026",
+    "latitude": 47.22,
+    "longitude": -122.55,
+    "area": "Dalco Passage (Puget Sound), Washington, USA",
+    "source": "https://www.facebook.com/LangleyWhaleCenter/posts/here-is-orca-networks-january-5-2026-whale-sighting-report-minke-in-dalco-passag/1533351128791280/",
     "behaviors": [
       "reported",
       "surfacing"
     ]
   },
   {
-    "id": "2026-01-04-bremer-orca-01",
-    "name": "Orca beaked whale predation (Bremer Canyon)",
-    "species": "Orca",
-    "info": "Whale Watch Western Australia 'The Daily Whale' post (2026-01-04): Orca Successful Beaked Whale Predation in Bremer Canyon ('The Patch') off Bremer Bay; details on the source page back this report.",
-    "date": "2026-01-04",
-    "latitude": -34.7,
-    "longitude": 120.02,
-    "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-    "source": "https://whalewatchwesternaustralia.com/orca-successful-beaked-whale-predation/",
-    "behaviors": [
-      "reported",
-      "hunting",
-      "feeding"
-    ]
-  },
-  {
-    "id": "2026-01-04-faxafloi-humpback-09",
-    "name": "Feeding humpback (near Engey)",
+    "id": "2026-01-10-us-ca-monterey-humpback-01",
+    "name": "Humpback whales (Monterey Bay)",
     "species": "Humpback",
-    "info": "Elding whale diary (2026-01-04) reports humpback whale(s) encountered on their Reykjavík whale watching tour in Faxaflói Bay; details are documented on the linked diary page.",
-    "date": "2026-01-04",
-    "latitude": 64.155,
-    "longitude": -22.105,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://elding.is/whale-diary/sunday-4-january-2026",
+    "info": "Monterey Bay Whale Watch 'Latest Sightings' list reports humpback whales on 2026-01-10 in Monterey Bay.",
+    "date": "2026-01-10",
+    "latitude": 36.62,
+    "longitude": -121.93,
+    "area": "Monterey Bay (offshore), California, USA",
+    "source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
     "behaviors": [
       "reported",
-      "feeding"
+      "surfacing"
     ]
   },
   {
-    "id": "2026-01-03-bremer-orca-01",
-    "name": "Orca pod (Bremer New Year)",
+    "id": "2026-01-06-us-ca-monterey-orca-01",
+    "name": "Orca pod (Monterey Bay coast)",
     "species": "Orca",
-    "info": "Whale Watch Western Australia 'The Daily Whale' post (2026-01-03): Bremer New Year Orca Tours in Bremer Canyon ('The Patch') off Bremer Bay; details on the source page back this report.",
-    "date": "2026-01-03",
-    "latitude": -34.59,
-    "longitude": 119.84,
-    "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-    "source": "https://whalewatchwesternaustralia.com/bremer-new-year-orca-tours/",
+    "info": "Monterey Bay Whale Watch 'Latest Sightings' list reports an orca group (CA39As) on 2026-01-06.",
+    "date": "2026-01-06",
+    "latitude": 36.64,
+    "longitude": -121.94,
+    "area": "Monterey Bay / Pacific Grove coastline, California, USA",
+    "source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
     "behaviors": [
       "reported",
       "traveling"
     ]
   },
   {
-    "id": "2026-01-03-salish-orca-01",
-    "name": "Killer whales (Salish Sea)",
-    "species": "Orca",
-    "info": "Eagle Wing Tours Daily Sighting Report (2026-01-03) lists this wildlife encountered on the Salish Sea near Victoria/Vancouver Island; the source page backs the report.",
-    "date": "2026-01-03",
-    "latitude": 48.41,
-    "longitude": -123.54,
-    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-    "source": "https://eaglewingtours.com/daily-sighting-report/",
+    "id": "2026-01-10-us-ca-monterey-gray-01",
+    "name": "Gray whales (Monterey Bay)",
+    "species": "Gray whale",
+    "info": "Monterey Bay Whale Watch 'Latest Sightings' list reports multiple gray whale sightings on 2026-01-10.",
+    "date": "2026-01-10",
+    "latitude": 36.6,
+    "longitude": -121.92,
+    "area": "Monterey Bay (nearshore), California, USA",
+    "source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
     "behaviors": [
       "reported",
+      "traveling",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "2026-01-06-us-ga-stsimon-rightwhale-01",
+    "name": "North Atlantic right whale mother & calf (Georgia coast)",
+    "species": "North Atlantic right whale",
+    "info": "NOAA/partners documented a right whale mother-calf pair along the Georgia coast during the 2026 calving season; the linked page details the sighting.",
+    "date": "2026-01-06",
+    "latitude": 31.12,
+    "longitude": -81.37,
+    "area": "Off St. Simons Island / Georgia coast, USA",
+    "source": "https://www.fws.gov/story/noaa-identifies-first-north-atlantic-right-whale-calf-2026",
+    "behaviors": [
+      "reported",
+      "calving",
       "traveling"
     ]
   },
   {
-    "id": "2026-01-03-faxafloi-humpback-10",
-    "name": "Humpback whales (Faxaflói Bay)",
+    "id": "2026-01-06-nz-kaikoura-sperm-01",
+    "name": "Sperm whales (Kaikōura Canyon)",
+    "species": "Sperm whale",
+    "info": "Facebook group post: whale watching videos taken on 2026-01-06 report two large sperm whales and additional marine life off Kaikōura.",
+    "date": "2026-01-06",
+    "latitude": -42.42,
+    "longitude": 173.7,
+    "area": "Kaikōura Canyon (offshore), South Island, New Zealand",
+    "source": "https://www.facebook.com/groups/554312507954499/posts/25776315661994169/",
+    "behaviors": [
+      "reported",
+      "surfacing",
+      "diving"
+    ]
+  },
+  {
+    "id": "2026-01-04-nz-kaikoura-sperm-02",
+    "name": "Sperm whales (Kaikōura offshore)",
+    "species": "Sperm whale",
+    "info": "Instagram post dated 2026-01-04 describes seeing two sperm whales on a Kaikōura whale-watching day.",
+    "date": "2026-01-04",
+    "latitude": -42.41,
+    "longitude": 173.69,
+    "area": "Off Kaikōura, South Island, New Zealand",
+    "source": "https://www.instagram.com/p/DTHl79gElWS/",
+    "behaviors": [
+      "reported",
+      "surfacing",
+      "diving"
+    ]
+  },
+  {
+    "id": "2026-01-11-uk-fife-humpback-01",
+    "name": "Humpback whale (Fife coast)",
     "species": "Humpback",
-    "info": "Elding whale diary (2026-01-03) reports humpback whale(s) encountered on their Reykjavík whale watching tour in Faxaflói Bay; details are documented on the linked diary page.",
-    "date": "2026-01-03",
-    "latitude": 64.125,
-    "longitude": -22.26,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://elding.is/whale-diary/saturday-3-january-2026",
+    "info": "BirdGuides report describes a humpback whale offshore from a Fife, Scotland location and summarizes observer notes.",
+    "date": "2026-01-11",
+    "latitude": 56.2,
+    "longitude": -2.75,
+    "area": "Fife coast (offshore), Scotland, United Kingdom",
+    "source": "https://www.birdguides.com/news/humpback-whale-fife/",
     "behaviors": [
       "reported",
       "surfacing"
     ]
   },
   {
-    "id": "2026-01-02-bremer-orca-01",
-    "name": "Orca season start (Bremer Canyon)",
-    "species": "Orca",
-    "info": "Whale Watch Western Australia 'The Daily Whale' post (2026-01-02): Bremer Bay Orca Season 2026 Begins in Bremer Canyon ('The Patch') off Bremer Bay; details on the source page back this report.",
-    "date": "2026-01-02",
-    "latitude": -34.65,
-    "longitude": 119.96,
-    "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-    "source": "https://whalewatchwesternaustralia.com/bremer-bay-orca-season-2026-begins/",
-    "behaviors": [
-      "reported",
-      "socializing"
-    ]
-  },
-  {
-    "id": "2026-01-02-lipson-white-01",
-    "name": "White shark sighting (Lipson)",
-    "species": "Great White Shark",
-    "info": "PIRSA Shark sightings 'Recent sightings' table (2026-01-02) includes a 'White Shark' report at the stated location; this log is the source for the report.",
-    "date": "2026-01-02",
-    "latitude": -34.862,
-    "longitude": 136.884,
-    "area": "Lipson (beachside offshore), Eyre Peninsula, SA, Australia",
-    "source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-02-chinamanwells-white-01",
-    "name": "White shark sighting (Chinaman Wells)",
-    "species": "Great White Shark",
-    "info": "PIRSA Shark sightings 'Recent sightings' table (2026-01-02) includes a 'White Shark' report at the stated location; this log is the source for the report.",
-    "date": "2026-01-02",
-    "latitude": -34.441,
-    "longitude": 137.841,
-    "area": "Chinaman Wells (offshore), Yorke Peninsula, SA, Australia",
-    "source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-02-faxafloi-humpback-11",
-    "name": "Humpback whales (Banana & Radar)",
+    "id": "2026-01-04-uk-scilly-humpback-01",
+    "name": "Humpback whale 'Pi' (Isles of Scilly)",
     "species": "Humpback",
-    "info": "Elding whale diary (2026-01-02) reports humpback whale(s) encountered on their Reykjavík whale watching tour in Faxaflói Bay; details are documented on the linked diary page.",
-    "date": "2026-01-02",
-    "latitude": 64.16,
-    "longitude": -22.15,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://elding.is/whale-diary/friday-2-january-2026",
-    "behaviors": [
-      "reported",
-      "feeding"
-    ]
-  },
-  {
-    "id": "2026-01-01-salish-orca-01",
-    "name": "Killer whales (New Year tour)",
-    "species": "Orca",
-    "info": "Eagle Wing Tours Daily Sighting Report (2026-01-01) lists this wildlife encountered on the Salish Sea near Victoria/Vancouver Island; the source page backs the report.",
-    "date": "2026-01-01",
-    "latitude": 48.33,
-    "longitude": -123.53,
-    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-    "source": "https://eaglewingtours.com/daily-sighting-report/",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-01-faxafloi-humpback-12",
-    "name": "Humpback whales (New Year tour)",
-    "species": "Humpback",
-    "info": "Elding whale diary (2026-01-01) reports humpback whale(s) encountered on their Reykjavík whale watching tour in Faxaflói Bay; details are documented on the linked diary page.",
-    "date": "2026-01-01",
-    "latitude": 64.148,
-    "longitude": -22.175,
-    "area": "Faxaflói Bay (off Reykjavík), Iceland",
-    "source": "https://elding.is/whale-diary/thursday-1-january-2026",
-    "behaviors": [
-      "reported",
-      "breaching"
-    ]
-  },
-  {
-    "id": "2025-12-31-salish-orca-01",
-    "name": "Killer whales (year-end tour)",
-    "species": "Orca",
-    "info": "Eagle Wing Tours Daily Sighting Report (2025-12-31) lists this wildlife encountered on the Salish Sea near Victoria/Vancouver Island; the source page backs the report.",
-    "date": "2025-12-31",
-    "latitude": 48.3,
-    "longitude": -123.55,
-    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-    "source": "https://eaglewingtours.com/daily-sighting-report/",
-    "behaviors": [
-      "reported",
-      "feeding"
-    ]
-  },
-  {
-    "id": "2025-12-30-salish-orca-01",
-    "name": "Killer whales (winter tour)",
-    "species": "Orca",
-    "info": "Eagle Wing Tours Daily Sighting Report (2025-12-30) lists this wildlife encountered on the Salish Sea near Victoria/Vancouver Island; the source page backs the report.",
-    "date": "2025-12-30",
-    "latitude": 48.29,
-    "longitude": -123.6,
-    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-    "source": "https://eaglewingtours.com/daily-sighting-report/",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2025-12-30-salish-humpback-01",
-    "name": "Humpback whale(s) (winter tour)",
-    "species": "Humpback",
-    "info": "Eagle Wing Tours Daily Sighting Report (2025-12-30) lists this wildlife encountered on the Salish Sea near Victoria/Vancouver Island; the source page backs the report.",
-    "date": "2025-12-30",
-    "latitude": 48.32,
-    "longitude": -123.62,
-    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-    "source": "https://eaglewingtours.com/daily-sighting-report/",
+    "info": "Instagram post notes humpback whale 'Pi' spotted again off the Isles of Scilly during winter conditions.",
+    "date": "2026-01-04",
+    "latitude": 49.93,
+    "longitude": -6.3,
+    "area": "Isles of Scilly (offshore), England, United Kingdom",
+    "source": "https://www.instagram.com/p/DRVMf3Jkoxr/",
     "behaviors": [
       "reported",
       "surfacing"
+    ]
+  },
+  {
+    "id": "2026-01-12-cl-magallanes-humpback-01",
+    "name": "Humpback whale encounter (Chilean Patagonia)",
+    "species": "Humpback",
+    "info": "News report documents a humpback whale incident filmed in Chilean Patagonia waters; the linked story summarizes the event and location context.",
+    "date": "2026-01-12",
+    "latitude": -53.16,
+    "longitude": -70.91,
+    "area": "Patagonia fjords (near Punta Arenas region), Chile",
+    "source": "https://www.ndtv.com/offbeat/watch-humpback-whale-swallow-kayaker-then-spit-him-out-in-chile-4458053",
+    "behaviors": [
+      "reported",
+      "lunge_feeding"
     ]
   }
 ]
