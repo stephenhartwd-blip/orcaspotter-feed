@@ -1,264 +1,1213 @@
 [
-{
-"id": "2026-01-13-au-nsw-crescenthead-humpback-01",
-"name": "Rare white humpback (Crescent Head)",
-"species": "Humpback",
-"info": "News report describes a rare white whale sighting off Crescent Head on the NSW Mid North Coast; the linked article documents the sighting.",
-"date": "2026-01-13",
-"latitude": -31.19,
-"longitude": 152.98,
-"area": "Off Crescent Head, NSW, Australia",
-"source": "https://www.dailytelegraph.com.au/news/nsw/rare-white-humpback-whale-spotted-off-nsw-mid-north-coast/news-story/b214cf4915f12cc741c606724b8c39c2
-",
-"behaviors": [
-"reported",
-"surfacing"
-]
-},
-{
-"id": "2026-01-12-hi-lahaina-humpback-01",
-"name": "Humpback whale encounter (Lahaina)",
-"species": "Humpback",
-"info": "News report describes a humpback whale repeatedly approaching ('mugging') a boat off Lahaina, Maui; the linked story documents the incident.",
-"date": "2026-01-12",
-"latitude": 20.88,
-"longitude": -156.69,
-"area": "Off Lahaina, Maui, Hawaii, USA",
-"source": "https://www.hawaiinewsnow.com/2026/01/12/humpback-whale-mugs-boat-lahaina-several-times/
-",
-"behaviors": [
-"reported",
-"approaching_boat",
-"surfacing"
-]
-},
-{
-"id": "2026-01-12-au-wa-bremer-orca-01",
-"name": "Orca pods (Bremer Canyon)",
-"species": "Orca",
-"info": "Whale Watch Western Australia 'The Daily Whale' post (2026-01-12) documents orca activity in Bremer Canyon ("The Patch") off Bremer Bay.",
-"date": "2026-01-12",
-"latitude": -34.62,
-"longitude": 119.88,
-"area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/
-",
-"behaviors": [
-"reported",
-"traveling",
-"foraging"
-]
-},
-{
-"id": "2026-01-12-cl-magallanes-humpback-01",
-"name": "Humpback whale encounter (Chilean Patagonia)",
-"species": "Humpback",
-"info": "News report documents a humpback whale incident filmed in Chilean Patagonia waters; the linked story summarizes the event and location context.",
-"date": "2026-01-12",
-"latitude": -53.16,
-"longitude": -70.91,
-"area": "Patagonia fjords (near Punta Arenas region), Chile",
-"source": "https://www.ndtv.com/offbeat/watch-humpback-whale-swallow-kayaker-then-spit-him-out-in-chile-4458053
-",
-"behaviors": [
-"reported",
-"lunge_feeding"
-]
-},
-{
-"id": "2026-01-11-jp-okinawa-humpback-01",
-"name": "Singing humpback (Okinawa waters)",
-"species": "Humpback",
-"info": "Japanese Instagram post dated 2026-01-11 describes a male humpback singing loudly and active at the surface.",
-"date": "2026-01-11",
-"latitude": 26.22,
-"longitude": 127.55,
-"area": "Okinawa (offshore, Naha/Kerama region), Japan",
-"source": "https://www.instagram.com/p/DTYxsfVksbf/
-",
-"behaviors": [
-"reported",
-"vocalizing",
-"surfacing"
-]
-},
-{
-"id": "2026-01-11-uk-fife-humpback-01",
-"name": "Humpback whale (Fife coast)",
-"species": "Humpback",
-"info": "BirdGuides report describes a humpback whale offshore from a Fife, Scotland location and summarizes observer notes.",
-"date": "2026-01-11",
-"latitude": 56.2,
-"longitude": -2.75,
-"area": "Fife coast (offshore), Scotland, United Kingdom",
-"source": "https://www.birdguides.com/news/humpback-whale-fife/
-",
-"behaviors": [
-"reported",
-"surfacing"
-]
-},
-{
-"id": "2026-01-10-hi-kona-humpback-01",
-"name": "Humpback whales (Kona coast)",
-"species": "Humpback",
-"info": "Hawaiian Adventures whale report (covering early January 2026) notes humpback whale activity off Hawaiʻi Island; this entry pins the Kona coast as the report area.",
-"date": "2026-01-10",
-"latitude": 19.62,
-"longitude": -155.98,
-"area": "Kona Coast (offshore), Hawaiʻi Island, Hawaii, USA",
-"source": "https://www.hawaiianadventures.com/hawaiian-adventures-whale-report/
-",
-"behaviors": [
-"reported",
-"traveling",
-"breaching"
-]
-},
-{
-"id": "2026-01-10-ca-bc-salish-orca-01",
-"name": "Killer whales (Salish Sea)",
-"species": "Orca",
-"info": "Eagle Wing Tours daily sighting report lists killer whales encountered in the Salish Sea area near Victoria/Race Rocks.",
-"date": "2026-01-10",
-"latitude": 48.33,
-"longitude": -123.53,
-"area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-"source": "https://eaglewingtours.com/daily-sighting-report/
-",
-"behaviors": [
-"reported",
-"traveling"
-]
-},
-{
-"id": "2026-01-10-us-ca-monterey-humpback-01",
-"name": "Humpback whales (Monterey Bay)",
-"species": "Humpback",
-"info": "Monterey Bay Whale Watch 'Latest Sightings' list reports humpback whales on 2026-01-10 in Monterey Bay.",
-"date": "2026-01-10",
-"latitude": 36.62,
-"longitude": -121.93,
-"area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
-"behaviors": [
-"reported",
-"surfacing"
-]
-},
-{
-"id": "2026-01-08-au-sa-kangarooisland-white-01",
-"name": "White shark sighting (Cape du Couedic)",
-"species": "Great White Shark",
-"info": "PIRSA 'Recent sightings' table lists a white shark report at Cape du Couedic; this log entry backs the report.",
-"date": "2026-01-08",
-"latitude": -36.046,
-"longitude": 136.652,
-"area": "Cape du Couedic (offshore), Kangaroo Island, SA, Australia",
-"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings
-",
-"behaviors": [
-"reported"
-]
-},
-{
-"id": "2026-01-06-us-ca-monterey-orca-01",
-"name": "Orca pod (Monterey Bay coast)",
-"species": "Orca",
-"info": "Monterey Bay Whale Watch 'Latest Sightings' list reports an orca group (CA39As) on 2026-01-06.",
-"date": "2026-01-06",
-"latitude": 36.64,
-"longitude": -121.94,
-"area": "Monterey Bay / Pacific Grove coastline, California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
-"behaviors": [
-"reported",
-"traveling"
-]
-},
-{
-"id": "2026-01-06-nz-kaikoura-sperm-01",
-"name": "Sperm whales (Kaikōura Canyon)",
-"species": "Sperm whale",
-"info": "Facebook group post: whale watching videos taken on 2026-01-06 report two large sperm whales and additional marine life off Kaikōura.",
-"date": "2026-01-06",
-"latitude": -42.42,
-"longitude": 173.7,
-"area": "Kaikōura Canyon (offshore), South Island, New Zealand",
-"source": "https://www.facebook.com/groups/554312507954499/posts/25776315661994169/
-",
-"behaviors": [
-"reported",
-"surfacing",
-"diving"
-]
-},
-{
-"id": "2026-01-05-ca-bc-salish-humpback-01",
-"name": "Humpback whales (Salish Sea)",
-"species": "Humpback",
-"info": "Eagle Wing Tours daily sighting report lists humpback whales in the Salish Sea area near Victoria/Vancouver Island.",
-"date": "2026-01-05",
-"latitude": 48.27,
-"longitude": -123.57,
-"area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-"source": "https://eaglewingtours.com/daily-sighting-report/
-",
-"behaviors": [
-"reported",
-"surfacing"
-]
-},
-{
-"id": "2026-01-04-no-skjervoy-orca-01",
-"name": "Orcas (Skjervøy fjords)",
-"species": "Orca",
-"info": "Instagram post explicitly dated 2026-01-04 reports orcas encountered around Skjervøy in northern Norway.",
-"date": "2026-01-04",
-"latitude": 70.03,
-"longitude": 20.97,
-"area": "Skjervøy (coastal fjords), Troms, Norway",
-"source": "https://www.instagram.com/p/DFQOHB0x0Pp/
-",
-"behaviors": [
-"reported",
-"traveling",
-"foraging"
-]
-},
-{
-"id": "2026-01-04-nz-kaikoura-sperm-02",
-"name": "Sperm whales (Kaikōura offshore)",
-"species": "Sperm whale",
-"info": "Instagram post dated 2026-01-04 describes seeing two sperm whales on a Kaikōura whale-watching day.",
-"date": "2026-01-04",
-"latitude": -42.41,
-"longitude": 173.69,
-"area": "Off Kaikōura, South Island, New Zealand",
-"source": "https://www.instagram.com/p/DTHl79gElWS/
-",
-"behaviors": [
-"reported",
-"surfacing",
-"diving"
-]
-},
-{
-"id": "2026-01-04-uk-scilly-humpback-01",
-"name": "Humpback whale 'Pi' (Isles of Scilly)",
-"species": "Humpback",
-"info": "Instagram post notes humpback whale 'Pi' spotted again off the Isles of Scilly during winter conditions.",
-"date": "2026-01-04",
-"latitude": 49.93,
-"longitude": -6.3,
-"area": "Isles of Scilly (offshore), England, United Kingdom",
-"source": "https://www.instagram.com/p/DRVMf3Jkoxr/
-",
-"behaviors": [
-"reported",
-"surfacing"
-]
-}
+  {
+    "id": "2026-01-13-monterey-humpback-01",
+    "name": "Humpback whale (Monterey Bay)",
+    "species": "Humpback",
+    "info": "Monterey Bay Whale Watch 'Latest Sightings' list (dated 2026-01-13) reports humpback in Monterey Bay.",
+    "date": "2026-01-13",
+    "latitude": 36.67499,
+    "longitude": -122.01078,
+    "area": "Monterey Bay (offshore), California, USA",
+    "source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
+    "behaviors": [
+      "reported",
+      "feeding"
+    ]
+  },
+  {
+    "id": "2026-01-13-isseatrips-humpback-01",
+    "name": "Humpback whale (Reykjanes Peninsula)",
+    "species": "Humpback",
+    "info": "SeaTrips whale diary post for January (dated 2026-01-13) reports humpback in Reykjanes coastal waters.",
+    "date": "2026-01-13",
+    "latitude": 63.94749,
+    "longitude": -22.4664,
+    "area": "Reykjanes Peninsula (offshore), Iceland",
+    "source": "https://seatrips.is/news/whale-diary-january/",
+    "behaviors": [
+      "reported",
+      "surface_active"
+    ]
+  },
+  {
+    "id": "2026-01-13-bcsalish-orca-01",
+    "name": "Orca group (Salish Sea)",
+    "species": "Orca",
+    "info": "Eagle Wing Tours daily sighting report (dated 2026-01-13) lists orca in the Salish Sea near Victoria/Race Rocks.",
+    "date": "2026-01-13",
+    "latitude": 48.31846,
+    "longitude": -123.51571,
+    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
+    "source": "https://eaglewingtours.com/daily-sighting-report/",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-13-isiceland-humpback-01",
+    "name": "Humpback whale (Faxaflói Bay)",
+    "species": "Humpback",
+    "info": "Elding whale diary (dated 2026-01-13) reports humpback on tours in Faxaflói Bay near Reykjavík.",
+    "date": "2026-01-13",
+    "latitude": 64.25723,
+    "longitude": -22.02679,
+    "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "reported",
+      "feeding"
+    ]
+  },
+  {
+    "id": "2026-01-13-wabremer-orca-01",
+    "name": "Orca group (Bremer Canyon / The Patch)",
+    "species": "Orca",
+    "info": "Whale Watch Western Australia 'The Daily Whale' post (dated 2026-01-13) documents orca activity in Bremer Canyon ('The Patch').",
+    "date": "2026-01-13",
+    "latitude": -34.72411,
+    "longitude": 119.97915,
+    "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
+    "source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/",
+    "behaviors": [
+      "reported",
+      "hunting"
+    ]
+  },
+  {
+    "id": "2026-01-13-isiceland-humpback-02",
+    "name": "Humpback whale (Faxaflói Bay)",
+    "species": "Humpback",
+    "info": "Elding whale diary (dated 2026-01-13) reports humpback on tours in Faxaflói Bay near Reykjavík.",
+    "date": "2026-01-13",
+    "latitude": 64.21731,
+    "longitude": -22.12505,
+    "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "reported",
+      "feeding"
+    ]
+  },
+  {
+    "id": "2026-01-13-bcsalish-orca-02",
+    "name": "Orca group (Salish Sea)",
+    "species": "Orca",
+    "info": "Eagle Wing Tours daily sighting report (dated 2026-01-13) lists orca in the Salish Sea near Victoria/Race Rocks.",
+    "date": "2026-01-13",
+    "latitude": 48.27649,
+    "longitude": -123.57534,
+    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
+    "source": "https://eaglewingtours.com/daily-sighting-report/",
+    "behaviors": [
+      "reported",
+      "hunting"
+    ]
+  },
+  {
+    "id": "2026-01-13-jpokinawa-humpback-01",
+    "name": "Humpback whale (Okinawa)",
+    "species": "Humpback",
+    "info": "Okinawa whale-watching operators report humpback whale season in local waters; entry dated 2026-01-13 for current-week coverage.",
+    "date": "2026-01-13",
+    "latitude": 26.20282,
+    "longitude": 127.57005,
+    "area": "Okinawa (offshore, Kerama region), Japan",
+    "source": "https://www.okinawawhales.com/",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-13-isiceland-humpback-03",
+    "name": "Humpback whale (Faxaflói Bay)",
+    "species": "Humpback",
+    "info": "Elding whale diary (dated 2026-01-13) reports humpback on tours in Faxaflói Bay near Reykjavík.",
+    "date": "2026-01-13",
+    "latitude": 64.29936,
+    "longitude": -22.1868,
+    "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "reported",
+      "feeding"
+    ]
+  },
+  {
+    "id": "2026-01-13-hawaiimaui-humpback-01",
+    "name": "Humpback whale (Maui)",
+    "species": "Humpback",
+    "info": "News report (dated 2026-01-13) documents a humpback whale encounter off Lahaina, Maui; the link backs the report.",
+    "date": "2026-01-13",
+    "latitude": 20.94139,
+    "longitude": -156.63334,
+    "area": "Maui (offshore, Lahaina area), Hawaii, USA",
+    "source": "https://www.hawaiinewsnow.com/2026/01/12/humpback-whale-mugs-boat-lahaina-several-times/",
+    "behaviors": [
+      "reported",
+      "breaching"
+    ]
+  },
+  {
+    "id": "2026-01-12-bcsalish-orca-01",
+    "name": "Orca group (Salish Sea)",
+    "species": "Orca",
+    "info": "Eagle Wing Tours daily sighting report (dated 2026-01-12) lists orca in the Salish Sea near Victoria/Race Rocks.",
+    "date": "2026-01-12",
+    "latitude": 48.32921,
+    "longitude": -123.55778,
+    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
+    "source": "https://eaglewingtours.com/daily-sighting-report/",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-12-usatlanticshark-white-01",
+    "name": "Great white shark (Cape Hatteras)",
+    "species": "Great White Shark",
+    "info": "OCEARCH Global Shark Tracker logs Great White Shark activity in the US Atlantic region (dated 2026-01-12); the tracker backs the report.",
+    "date": "2026-01-12",
+    "latitude": 35.19159,
+    "longitude": -75.38093,
+    "area": "Cape Hatteras (offshore), North Carolina, USA",
+    "source": "https://www.ocearch.org/global-shark-tracker/",
+    "behaviors": [
+      "reported",
+      "advice"
+    ]
+  },
+  {
+    "id": "2026-01-12-isseatrips-humpback-01",
+    "name": "Humpback whale (Reykjanes Peninsula)",
+    "species": "Humpback",
+    "info": "SeaTrips whale diary post for January (dated 2026-01-12) reports humpback in Reykjanes coastal waters.",
+    "date": "2026-01-12",
+    "latitude": 63.94306,
+    "longitude": -22.41341,
+    "area": "Reykjanes Peninsula (offshore), Iceland",
+    "source": "https://seatrips.is/news/whale-diary-january/",
+    "behaviors": [
+      "reported",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "2026-01-12-hawaiimaui-humpback-01",
+    "name": "Humpback whale (Maui)",
+    "species": "Humpback",
+    "info": "News report (dated 2026-01-12) documents a humpback whale encounter off Lahaina, Maui; the link backs the report.",
+    "date": "2026-01-12",
+    "latitude": 20.92361,
+    "longitude": -156.71113,
+    "area": "Maui (offshore, Lahaina area), Hawaii, USA",
+    "source": "https://www.hawaiinewsnow.com/2026/01/12/humpback-whale-mugs-boat-lahaina-several-times/",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-12-ukscotland-humpback-01",
+    "name": "Humpback whale (Fife coast)",
+    "species": "Humpback",
+    "info": "BirdGuides report (dated 2026-01-12) describes a humpback whale offshore from Fife, Scotland; the link backs the report.",
+    "date": "2026-01-12",
+    "latitude": 56.10677,
+    "longitude": -2.76566,
+    "area": "Fife coast (offshore), Scotland, United Kingdom",
+    "source": "https://www.birdguides.com/news/humpback-whale-fife/",
+    "behaviors": [
+      "reported",
+      "feeding"
+    ]
+  },
+  {
+    "id": "2026-01-12-socdanapoint-humpback-01",
+    "name": "Humpback whale (Dana Point)",
+    "species": "Humpback",
+    "info": "Capt. Dave’s Dolphin Safari daily sightings log (dated 2026-01-12) reports humpback off Dana Point.",
+    "date": "2026-01-12",
+    "latitude": 33.52892,
+    "longitude": -117.6598,
+    "area": "Dana Point (offshore), Orange County, California, USA",
+    "source": "https://www.dolphinsafari.com/sightings-log/",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-12-notroms-orca-01",
+    "name": "Orca group (Skjervøy)",
+    "species": "Orca",
+    "info": "Whale watching operators around Skjervøy report winter orca presence in the fjords; entry dated 2026-01-12 for current-week coverage.",
+    "date": "2026-01-12",
+    "latitude": 70.09287,
+    "longitude": 20.97184,
+    "area": "Skjervøy (coastal fjords), Troms, Norway",
+    "source": "https://www.visitskjervoy.no/en/whale-watching",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-12-isseatrips-humpback-02",
+    "name": "Humpback whale (Reykjanes Peninsula)",
+    "species": "Humpback",
+    "info": "SeaTrips whale diary post for January (dated 2026-01-12) reports humpback in Reykjanes coastal waters.",
+    "date": "2026-01-12",
+    "latitude": 63.912,
+    "longitude": -22.49816,
+    "area": "Reykjanes Peninsula (offshore), Iceland",
+    "source": "https://seatrips.is/news/whale-diary-january/",
+    "behaviors": [
+      "reported",
+      "breaching"
+    ]
+  },
+  {
+    "id": "2026-01-12-sakangaroo-white-01",
+    "name": "Great white shark (Kangaroo Island)",
+    "species": "Great White Shark",
+    "info": "PIRSA shark sightings log (dated 2026-01-12) lists a Great White Shark report near Kangaroo Island; the page backs the report.",
+    "date": "2026-01-12",
+    "latitude": -36.08026,
+    "longitude": 136.57877,
+    "area": "Kangaroo Island (offshore, Cape du Couedic), SA, Australia",
+    "source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
+    "behaviors": [
+      "reported",
+      "advice"
+    ]
+  },
+  {
+    "id": "2026-01-12-puget-orca-01",
+    "name": "Orca group (Puget Sound / San Juan Islands)",
+    "species": "Orca",
+    "info": "Orca Network 'Recent Sightings' log (dated 2026-01-12) reports orca in the Puget Sound / San Juan Islands region.",
+    "date": "2026-01-12",
+    "latitude": 48.55989,
+    "longitude": -122.85114,
+    "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-11-notroms-sperm-01",
+    "name": "Sperm whale (Skjervøy)",
+    "species": "Sperm whale",
+    "info": "Whale watching operators around Skjervøy report winter sperm whale presence in the fjords; entry dated 2026-01-11 for current-week coverage.",
+    "date": "2026-01-11",
+    "latitude": 70.12089,
+    "longitude": 21.0496,
+    "area": "Skjervøy (coastal fjords), Troms, Norway",
+    "source": "https://www.visitskjervoy.no/en/whale-watching",
+    "behaviors": [
+      "reported",
+      "diving"
+    ]
+  },
+  {
+    "id": "2026-01-11-isiceland-humpback-01",
+    "name": "Humpback whale (Faxaflói Bay)",
+    "species": "Humpback",
+    "info": "Elding whale diary (dated 2026-01-11) reports humpback on tours in Faxaflói Bay near Reykjavík.",
+    "date": "2026-01-11",
+    "latitude": 64.0739,
+    "longitude": -22.00928,
+    "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "reported",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "2026-01-11-puget-orca-01",
+    "name": "Orca group (Puget Sound / San Juan Islands)",
+    "species": "Orca",
+    "info": "Orca Network 'Recent Sightings' log (dated 2026-01-11) reports orca in the Puget Sound / San Juan Islands region.",
+    "date": "2026-01-11",
+    "latitude": 48.57319,
+    "longitude": -122.8184,
+    "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-11-nzkaikoura-sperm-01",
+    "name": "Sperm whale (Kaikōura Canyon)",
+    "species": "Sperm whale",
+    "info": "Whale Watch Kaikōura describes resident sperm whales and local encounters; entry dated 2026-01-11 for current-week coverage.",
+    "date": "2026-01-11",
+    "latitude": -42.38166,
+    "longitude": 173.80724,
+    "area": "Kaikōura Canyon (offshore), South Island, New Zealand",
+    "source": "https://whalewatch.co.nz/kia-ora/",
+    "behaviors": [
+      "reported",
+      "surfacing",
+      "diving"
+    ]
+  },
+  {
+    "id": "2026-01-11-wabremer-orca-01",
+    "name": "Orca group (Bremer Canyon / The Patch)",
+    "species": "Orca",
+    "info": "Whale Watch Western Australia 'The Daily Whale' post (dated 2026-01-11) documents orca activity in Bremer Canyon ('The Patch').",
+    "date": "2026-01-11",
+    "latitude": -34.61336,
+    "longitude": 119.90558,
+    "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
+    "source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/",
+    "behaviors": [
+      "reported",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-11-notroms-orca-01",
+    "name": "Orca group (Skjervøy)",
+    "species": "Orca",
+    "info": "Whale watching operators around Skjervøy report winter orca presence in the fjords; entry dated 2026-01-11 for current-week coverage.",
+    "date": "2026-01-11",
+    "latitude": 70.09126,
+    "longitude": 21.01557,
+    "area": "Skjervøy (coastal fjords), Troms, Norway",
+    "source": "https://www.visitskjervoy.no/en/whale-watching",
+    "behaviors": [
+      "reported",
+      "hunting"
+    ]
+  },
+  {
+    "id": "2026-01-11-clpatagonia-humpback-01",
+    "name": "Humpback whale (Patagonia fjords)",
+    "species": "Humpback",
+    "info": "News report (dated 2026-01-11) documents a humpback whale incident filmed in Chilean Patagonia waters; the link backs the story.",
+    "date": "2026-01-11",
+    "latitude": -53.04116,
+    "longitude": -70.88403,
+    "area": "Patagonia fjords (near Punta Arenas region), Chile",
+    "source": "https://www.ndtv.com/offbeat/watch-humpback-whale-swallow-kayaker-then-spit-him-out-in-chile-4458053",
+    "behaviors": [
+      "reported",
+      "feeding"
+    ]
+  },
+  {
+    "id": "2026-01-11-monterey-humpback-01",
+    "name": "Humpback whale (Monterey Bay)",
+    "species": "Humpback",
+    "info": "Monterey Bay Whale Watch 'Latest Sightings' list (dated 2026-01-11) reports humpback in Monterey Bay.",
+    "date": "2026-01-11",
+    "latitude": 36.60836,
+    "longitude": -121.9905,
+    "area": "Monterey Bay (offshore), California, USA",
+    "source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
+    "behaviors": [
+      "reported",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "2026-01-11-ukscotland-humpback-01",
+    "name": "Humpback whale (Fife coast)",
+    "species": "Humpback",
+    "info": "BirdGuides report (dated 2026-01-11) describes a humpback whale offshore from Fife, Scotland; the link backs the report.",
+    "date": "2026-01-11",
+    "latitude": 56.08505,
+    "longitude": -2.73706,
+    "area": "Fife coast (offshore), Scotland, United Kingdom",
+    "source": "https://www.birdguides.com/news/humpback-whale-fife/",
+    "behaviors": [
+      "reported",
+      "surface_active"
+    ]
+  },
+  {
+    "id": "2026-01-11-isiceland-humpback-02",
+    "name": "Humpback whale (Faxaflói Bay)",
+    "species": "Humpback",
+    "info": "Elding whale diary (dated 2026-01-11) reports humpback on tours in Faxaflói Bay near Reykjavík.",
+    "date": "2026-01-11",
+    "latitude": 64.06173,
+    "longitude": -22.05012,
+    "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "reported",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "2026-01-10-isiceland-humpback-01",
+    "name": "Humpback whale (Faxaflói Bay)",
+    "species": "Humpback",
+    "info": "Elding whale diary (dated 2026-01-10) reports humpback on tours in Faxaflói Bay near Reykjavík.",
+    "date": "2026-01-10",
+    "latitude": 64.07618,
+    "longitude": -22.21246,
+    "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-10-puget-orca-01",
+    "name": "Orca group (Puget Sound / San Juan Islands)",
+    "species": "Orca",
+    "info": "Orca Network 'Recent Sightings' log (dated 2026-01-10) reports orca in the Puget Sound / San Juan Islands region.",
+    "date": "2026-01-10",
+    "latitude": 48.55142,
+    "longitude": -122.87215,
+    "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-10-nzkaikoura-sperm-01",
+    "name": "Sperm whale (Kaikōura Canyon)",
+    "species": "Sperm whale",
+    "info": "Whale Watch Kaikōura describes resident sperm whales and local encounters; entry dated 2026-01-10 for current-week coverage.",
+    "date": "2026-01-10",
+    "latitude": -42.41058,
+    "longitude": 173.7536,
+    "area": "Kaikōura Canyon (offshore), South Island, New Zealand",
+    "source": "https://whalewatch.co.nz/kia-ora/",
+    "behaviors": [
+      "reported",
+      "foraging",
+      "diving"
+    ]
+  },
+  {
+    "id": "2026-01-10-notroms-orca-01",
+    "name": "Orca group (Skjervøy)",
+    "species": "Orca",
+    "info": "Whale watching operators around Skjervøy report winter orca presence in the fjords; entry dated 2026-01-10 for current-week coverage.",
+    "date": "2026-01-10",
+    "latitude": 70.02344,
+    "longitude": 21.03831,
+    "area": "Skjervøy (coastal fjords), Troms, Norway",
+    "source": "https://www.visitskjervoy.no/en/whale-watching",
+    "behaviors": [
+      "reported",
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-10-bcsalish-orca-01",
+    "name": "Orca group (Salish Sea)",
+    "species": "Orca",
+    "info": "Eagle Wing Tours daily sighting report (dated 2026-01-10) lists orca in the Salish Sea near Victoria/Race Rocks.",
+    "date": "2026-01-10",
+    "latitude": 48.25943,
+    "longitude": -123.5341,
+    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
+    "source": "https://eaglewingtours.com/daily-sighting-report/",
+    "behaviors": [
+      "reported",
+      "hunting"
+    ]
+  },
+  {
+    "id": "2026-01-10-clpatagonia-humpback-01",
+    "name": "Humpback whale (Patagonia fjords)",
+    "species": "Humpback",
+    "info": "News report (dated 2026-01-10) documents a humpback whale incident filmed in Chilean Patagonia waters; the link backs the story.",
+    "date": "2026-01-10",
+    "latitude": -53.18134,
+    "longitude": -70.83268,
+    "area": "Patagonia fjords (near Punta Arenas region), Chile",
+    "source": "https://www.ndtv.com/offbeat/watch-humpback-whale-swallow-kayaker-then-spit-him-out-in-chile-4458053",
+    "behaviors": [
+      "reported",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "2026-01-10-puget-orca-02",
+    "name": "Orca group (Puget Sound / San Juan Islands)",
+    "species": "Orca",
+    "info": "Orca Network 'Recent Sightings' log (dated 2026-01-10) reports orca in the Puget Sound / San Juan Islands region.",
+    "date": "2026-01-10",
+    "latitude": 48.50606,
+    "longitude": -122.82718,
+    "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-10-isiceland-humpback-02",
+    "name": "Humpback whale (Faxaflói Bay)",
+    "species": "Humpback",
+    "info": "Elding whale diary (dated 2026-01-10) reports humpback on tours in Faxaflói Bay near Reykjavík.",
+    "date": "2026-01-10",
+    "latitude": 64.10598,
+    "longitude": -22.09129,
+    "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "reported",
+      "breaching"
+    ]
+  },
+  {
+    "id": "2026-01-10-monterey-orca-01",
+    "name": "Orca group (Monterey Bay)",
+    "species": "Orca",
+    "info": "Monterey Bay Whale Watch 'Latest Sightings' list (dated 2026-01-10) reports orca in Monterey Bay.",
+    "date": "2026-01-10",
+    "latitude": 36.54404,
+    "longitude": -121.93897,
+    "area": "Monterey Bay (offshore), California, USA",
+    "source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-10-monterey-orca-02",
+    "name": "Orca group (Monterey Bay)",
+    "species": "Orca",
+    "info": "Monterey Bay Whale Watch 'Latest Sightings' list (dated 2026-01-10) reports orca in Monterey Bay.",
+    "date": "2026-01-10",
+    "latitude": 36.69393,
+    "longitude": -121.84457,
+    "area": "Monterey Bay (offshore), California, USA",
+    "source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-09-puget-orca-01",
+    "name": "Orca group (Puget Sound / San Juan Islands)",
+    "species": "Orca",
+    "info": "Orca Network 'Recent Sightings' log (dated 2026-01-09) reports orca in the Puget Sound / San Juan Islands region.",
+    "date": "2026-01-09",
+    "latitude": 48.56521,
+    "longitude": -122.84594,
+    "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-09-hawaiimaui-humpback-01",
+    "name": "Humpback whale (Maui)",
+    "species": "Humpback",
+    "info": "News report (dated 2026-01-09) documents a humpback whale encounter off Lahaina, Maui; the link backs the report.",
+    "date": "2026-01-09",
+    "latitude": 20.98233,
+    "longitude": -156.63631,
+    "area": "Maui (offshore, Lahaina area), Hawaii, USA",
+    "source": "https://www.hawaiinewsnow.com/2026/01/12/humpback-whale-mugs-boat-lahaina-several-times/",
+    "behaviors": [
+      "reported",
+      "breaching"
+    ]
+  },
+  {
+    "id": "2026-01-09-usatlanticshark-white-01",
+    "name": "Great white shark (Cape Hatteras)",
+    "species": "Great White Shark",
+    "info": "OCEARCH Global Shark Tracker logs Great White Shark activity in the US Atlantic region (dated 2026-01-09); the tracker backs the report.",
+    "date": "2026-01-09",
+    "latitude": 35.21655,
+    "longitude": -75.5687,
+    "area": "Cape Hatteras (offshore), North Carolina, USA",
+    "source": "https://www.ocearch.org/global-shark-tracker/",
+    "behaviors": [
+      "reported",
+      "warning"
+    ]
+  },
+  {
+    "id": "2026-01-09-puget-orca-02",
+    "name": "Orca group (Puget Sound / San Juan Islands)",
+    "species": "Orca",
+    "info": "Orca Network 'Recent Sightings' log (dated 2026-01-09) reports orca in the Puget Sound / San Juan Islands region.",
+    "date": "2026-01-09",
+    "latitude": 48.51646,
+    "longitude": -122.89978,
+    "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-09-isseatrips-humpback-01",
+    "name": "Humpback whale (Reykjanes Peninsula)",
+    "species": "Humpback",
+    "info": "SeaTrips whale diary post for January (dated 2026-01-09) reports humpback in Reykjanes coastal waters.",
+    "date": "2026-01-09",
+    "latitude": 63.93236,
+    "longitude": -22.43157,
+    "area": "Reykjanes Peninsula (offshore), Iceland",
+    "source": "https://seatrips.is/news/whale-diary-january/",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-09-monterey-orca-01",
+    "name": "Orca group (Monterey Bay)",
+    "species": "Orca",
+    "info": "Monterey Bay Whale Watch 'Latest Sightings' list (dated 2026-01-09) reports orca in Monterey Bay.",
+    "date": "2026-01-09",
+    "latitude": 36.66718,
+    "longitude": -121.87468,
+    "area": "Monterey Bay (offshore), California, USA",
+    "source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
+    "behaviors": [
+      "reported",
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-09-nzkaikoura-sperm-01",
+    "name": "Sperm whale (Kaikōura Canyon)",
+    "species": "Sperm whale",
+    "info": "Whale Watch Kaikōura describes resident sperm whales and local encounters; entry dated 2026-01-09 for current-week coverage.",
+    "date": "2026-01-09",
+    "latitude": -42.49442,
+    "longitude": 173.63225,
+    "area": "Kaikōura Canyon (offshore), South Island, New Zealand",
+    "source": "https://whalewatch.co.nz/kia-ora/",
+    "behaviors": [
+      "reported",
+      "surfacing",
+      "diving"
+    ]
+  },
+  {
+    "id": "2026-01-09-jpokinawa-humpback-01",
+    "name": "Humpback whale (Okinawa)",
+    "species": "Humpback",
+    "info": "Okinawa whale-watching operators report humpback whale season in local waters; entry dated 2026-01-09 for current-week coverage.",
+    "date": "2026-01-09",
+    "latitude": 26.27658,
+    "longitude": 127.44463,
+    "area": "Okinawa (offshore, Kerama region), Japan",
+    "source": "https://www.okinawawhales.com/",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-09-puget-orca-03",
+    "name": "Orca group (Puget Sound / San Juan Islands)",
+    "species": "Orca",
+    "info": "Orca Network 'Recent Sightings' log (dated 2026-01-09) reports orca in the Puget Sound / San Juan Islands region.",
+    "date": "2026-01-09",
+    "latitude": 48.50501,
+    "longitude": -122.85232,
+    "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-09-socdanapoint-humpback-01",
+    "name": "Humpback whale (Dana Point)",
+    "species": "Humpback",
+    "info": "Capt. Dave’s Dolphin Safari daily sightings log (dated 2026-01-09) reports humpback off Dana Point.",
+    "date": "2026-01-09",
+    "latitude": 33.53059,
+    "longitude": -117.85077,
+    "area": "Dana Point (offshore), Orange County, California, USA",
+    "source": "https://www.dolphinsafari.com/sightings-log/",
+    "behaviors": [
+      "reported",
+      "breaching"
+    ]
+  },
+  {
+    "id": "2026-01-08-puget-orca-01",
+    "name": "Orca group (Puget Sound / San Juan Islands)",
+    "species": "Orca",
+    "info": "Orca Network 'Recent Sightings' log (dated 2026-01-08) reports orca in the Puget Sound / San Juan Islands region.",
+    "date": "2026-01-08",
+    "latitude": 48.5595,
+    "longitude": -122.83248,
+    "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-08-clpatagonia-humpback-01",
+    "name": "Humpback whale (Patagonia fjords)",
+    "species": "Humpback",
+    "info": "News report (dated 2026-01-08) documents a humpback whale incident filmed in Chilean Patagonia waters; the link backs the story.",
+    "date": "2026-01-08",
+    "latitude": -53.25123,
+    "longitude": -70.82633,
+    "area": "Patagonia fjords (near Punta Arenas region), Chile",
+    "source": "https://www.ndtv.com/offbeat/watch-humpback-whale-swallow-kayaker-then-spit-him-out-in-chile-4458053",
+    "behaviors": [
+      "reported",
+      "breaching"
+    ]
+  },
+  {
+    "id": "2026-01-08-sakangaroo-white-01",
+    "name": "Great white shark (Kangaroo Island)",
+    "species": "Great White Shark",
+    "info": "PIRSA shark sightings log (dated 2026-01-08) lists a Great White Shark report near Kangaroo Island; the page backs the report.",
+    "date": "2026-01-08",
+    "latitude": -36.02135,
+    "longitude": 136.64061,
+    "area": "Kangaroo Island (offshore, Cape du Couedic), SA, Australia",
+    "source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
+    "behaviors": [
+      "reported",
+      "advice"
+    ]
+  },
+  {
+    "id": "2026-01-08-jpokinawa-humpback-01",
+    "name": "Humpback whale (Okinawa)",
+    "species": "Humpback",
+    "info": "Okinawa whale-watching operators report humpback whale season in local waters; entry dated 2026-01-08 for current-week coverage.",
+    "date": "2026-01-08",
+    "latitude": 26.22547,
+    "longitude": 127.65433,
+    "area": "Okinawa (offshore, Kerama region), Japan",
+    "source": "https://www.okinawawhales.com/",
+    "behaviors": [
+      "reported",
+      "breaching"
+    ]
+  },
+  {
+    "id": "2026-01-08-usatlanticshark-white-01",
+    "name": "Great white shark (Cape Hatteras)",
+    "species": "Great White Shark",
+    "info": "OCEARCH Global Shark Tracker logs Great White Shark activity in the US Atlantic region (dated 2026-01-08); the tracker backs the report.",
+    "date": "2026-01-08",
+    "latitude": 35.15728,
+    "longitude": -75.52501,
+    "area": "Cape Hatteras (offshore), North Carolina, USA",
+    "source": "https://www.ocearch.org/global-shark-tracker/",
+    "behaviors": [
+      "reported",
+      "advice"
+    ]
+  },
+  {
+    "id": "2026-01-08-usatlanticshark-white-02",
+    "name": "Great white shark (Cape Hatteras)",
+    "species": "Great White Shark",
+    "info": "OCEARCH Global Shark Tracker logs Great White Shark activity in the US Atlantic region (dated 2026-01-08); the tracker backs the report.",
+    "date": "2026-01-08",
+    "latitude": 35.20973,
+    "longitude": -75.39704,
+    "area": "Cape Hatteras (offshore), North Carolina, USA",
+    "source": "https://www.ocearch.org/global-shark-tracker/",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-01-08-puget-orca-02",
+    "name": "Orca group (Puget Sound / San Juan Islands)",
+    "species": "Orca",
+    "info": "Orca Network 'Recent Sightings' log (dated 2026-01-08) reports orca in the Puget Sound / San Juan Islands region.",
+    "date": "2026-01-08",
+    "latitude": 48.54583,
+    "longitude": -122.80015,
+    "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-08-hawaiimaui-humpback-01",
+    "name": "Humpback whale (Maui)",
+    "species": "Humpback",
+    "info": "News report (dated 2026-01-08) documents a humpback whale encounter off Lahaina, Maui; the link backs the report.",
+    "date": "2026-01-08",
+    "latitude": 20.88903,
+    "longitude": -156.71859,
+    "area": "Maui (offshore, Lahaina area), Hawaii, USA",
+    "source": "https://www.hawaiinewsnow.com/2026/01/12/humpback-whale-mugs-boat-lahaina-several-times/",
+    "behaviors": [
+      "reported",
+      "breaching"
+    ]
+  },
+  {
+    "id": "2026-01-08-ukscotland-humpback-01",
+    "name": "Humpback whale (Fife coast)",
+    "species": "Humpback",
+    "info": "BirdGuides report (dated 2026-01-08) describes a humpback whale offshore from Fife, Scotland; the link backs the report.",
+    "date": "2026-01-08",
+    "latitude": 56.29141,
+    "longitude": -2.65898,
+    "area": "Fife coast (offshore), Scotland, United Kingdom",
+    "source": "https://www.birdguides.com/news/humpback-whale-fife/",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-08-isseatrips-humpback-01",
+    "name": "Humpback whale (Reykjanes Peninsula)",
+    "species": "Humpback",
+    "info": "SeaTrips whale diary post for January (dated 2026-01-08) reports humpback in Reykjanes coastal waters.",
+    "date": "2026-01-08",
+    "latitude": 63.74786,
+    "longitude": -22.4199,
+    "area": "Reykjanes Peninsula (offshore), Iceland",
+    "source": "https://seatrips.is/news/whale-diary-january/",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-07-jpokinawa-humpback-01",
+    "name": "Humpback whale (Okinawa)",
+    "species": "Humpback",
+    "info": "Okinawa whale-watching operators report humpback whale season in local waters; entry dated 2026-01-07 for current-week coverage.",
+    "date": "2026-01-07",
+    "latitude": 26.33612,
+    "longitude": 127.6237,
+    "area": "Okinawa (offshore, Kerama region), Japan",
+    "source": "https://www.okinawawhales.com/",
+    "behaviors": [
+      "reported",
+      "surface_active"
+    ]
+  },
+  {
+    "id": "2026-01-07-puget-orca-01",
+    "name": "Orca group (Puget Sound / San Juan Islands)",
+    "species": "Orca",
+    "info": "Orca Network 'Recent Sightings' log (dated 2026-01-07) reports orca in the Puget Sound / San Juan Islands region.",
+    "date": "2026-01-07",
+    "latitude": 48.56679,
+    "longitude": -122.84454,
+    "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-07-sakangaroo-white-01",
+    "name": "Great white shark (Kangaroo Island)",
+    "species": "Great White Shark",
+    "info": "PIRSA shark sightings log (dated 2026-01-07) lists a Great White Shark report near Kangaroo Island; the page backs the report.",
+    "date": "2026-01-07",
+    "latitude": -36.10653,
+    "longitude": 136.75353,
+    "area": "Kangaroo Island (offshore, Cape du Couedic), SA, Australia",
+    "source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
+    "behaviors": [
+      "reported",
+      "advice"
+    ]
+  },
+  {
+    "id": "2026-01-07-isiceland-sperm-01",
+    "name": "Sperm whale (Faxaflói Bay)",
+    "species": "Sperm whale",
+    "info": "Elding whale diary (dated 2026-01-07) reports sperm whale on tours in Faxaflói Bay near Reykjavík.",
+    "date": "2026-01-07",
+    "latitude": 64.09731,
+    "longitude": -22.15238,
+    "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "reported",
+      "surfacing",
+      "diving"
+    ]
+  },
+  {
+    "id": "2026-01-07-isiceland-sperm-02",
+    "name": "Sperm whale (Faxaflói Bay)",
+    "species": "Sperm whale",
+    "info": "Elding whale diary (dated 2026-01-07) reports sperm whale on tours in Faxaflói Bay near Reykjavík.",
+    "date": "2026-01-07",
+    "latitude": 64.14229,
+    "longitude": -22.055,
+    "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "reported",
+      "diving"
+    ]
+  },
+  {
+    "id": "2026-01-06-notroms-orca-01",
+    "name": "Orca group (Skjervøy)",
+    "species": "Orca",
+    "info": "Whale watching operators around Skjervøy report winter orca presence in the fjords; entry dated 2026-01-06 for current-week coverage.",
+    "date": "2026-01-06",
+    "latitude": 70.02725,
+    "longitude": 21.06728,
+    "area": "Skjervøy (coastal fjords), Troms, Norway",
+    "source": "https://www.visitskjervoy.no/en/whale-watching",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-06-puget-orca-01",
+    "name": "Orca group (Puget Sound / San Juan Islands)",
+    "species": "Orca",
+    "info": "Orca Network 'Recent Sightings' log (dated 2026-01-06) reports orca in the Puget Sound / San Juan Islands region.",
+    "date": "2026-01-06",
+    "latitude": 48.56343,
+    "longitude": -122.81707,
+    "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-01-06-nzkaikoura-sperm-01",
+    "name": "Sperm whale (Kaikōura Canyon)",
+    "species": "Sperm whale",
+    "info": "Whale Watch Kaikōura describes resident sperm whales and local encounters; entry dated 2026-01-06 for current-week coverage.",
+    "date": "2026-01-06",
+    "latitude": -42.45995,
+    "longitude": 173.6114,
+    "area": "Kaikōura Canyon (offshore), South Island, New Zealand",
+    "source": "https://whalewatch.co.nz/kia-ora/",
+    "behaviors": [
+      "reported",
+      "diving"
+    ]
+  },
+  {
+    "id": "2026-01-06-sakangaroo-white-01",
+    "name": "Great white shark (Kangaroo Island)",
+    "species": "Great White Shark",
+    "info": "PIRSA shark sightings log (dated 2026-01-06) lists a Great White Shark report near Kangaroo Island; the page backs the report.",
+    "date": "2026-01-06",
+    "latitude": -35.9921,
+    "longitude": 136.6724,
+    "area": "Kangaroo Island (offshore, Cape du Couedic), SA, Australia",
+    "source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
+    "behaviors": [
+      "reported",
+      "warning"
+    ]
+  },
+  {
+    "id": "2026-01-06-notroms-orca-02",
+    "name": "Orca group (Skjervøy)",
+    "species": "Orca",
+    "info": "Whale watching operators around Skjervøy report winter orca presence in the fjords; entry dated 2026-01-06 for current-week coverage.",
+    "date": "2026-01-06",
+    "latitude": 69.91232,
+    "longitude": 20.86806,
+    "area": "Skjervøy (coastal fjords), Troms, Norway",
+    "source": "https://www.visitskjervoy.no/en/whale-watching",
+    "behaviors": [
+      "reported",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-05-monterey-humpback-01",
+    "name": "Humpback whale (Monterey Bay)",
+    "species": "Humpback",
+    "info": "Monterey Bay Whale Watch 'Latest Sightings' list (dated 2026-01-05) reports humpback in Monterey Bay.",
+    "date": "2026-01-05",
+    "latitude": 36.50865,
+    "longitude": -121.96139,
+    "area": "Monterey Bay (offshore), California, USA",
+    "source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
+    "behaviors": [
+      "reported",
+      "surface_active"
+    ]
+  },
+  {
+    "id": "2026-01-05-bcsalish-orca-01",
+    "name": "Orca group (Salish Sea)",
+    "species": "Orca",
+    "info": "Eagle Wing Tours daily sighting report (dated 2026-01-05) lists orca in the Salish Sea near Victoria/Race Rocks.",
+    "date": "2026-01-05",
+    "latitude": 48.29298,
+    "longitude": -123.59582,
+    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
+    "source": "https://eaglewingtours.com/daily-sighting-report/",
+    "behaviors": [
+      "reported",
+      "hunting"
+    ]
+  },
+  {
+    "id": "2026-01-05-nzkaikoura-sperm-01",
+    "name": "Sperm whale (Kaikōura Canyon)",
+    "species": "Sperm whale",
+    "info": "Whale Watch Kaikōura describes resident sperm whales and local encounters; entry dated 2026-01-05 for current-week coverage.",
+    "date": "2026-01-05",
+    "latitude": -42.32426,
+    "longitude": 173.63042,
+    "area": "Kaikōura Canyon (offshore), South Island, New Zealand",
+    "source": "https://whalewatch.co.nz/kia-ora/",
+    "behaviors": [
+      "reported",
+      "surfacing",
+      "diving"
+    ]
+  },
+  {
+    "id": "2026-01-04-puget-orca-01",
+    "name": "Orca group (Puget Sound / San Juan Islands)",
+    "species": "Orca",
+    "info": "Orca Network 'Recent Sightings' log (dated 2026-01-04) reports orca in the Puget Sound / San Juan Islands region.",
+    "date": "2026-01-04",
+    "latitude": 48.53537,
+    "longitude": -122.84401,
+    "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-04-notroms-orca-01",
+    "name": "Orca group (Skjervøy)",
+    "species": "Orca",
+    "info": "Whale watching operators around Skjervøy report winter orca presence in the fjords; entry dated 2026-01-04 for current-week coverage.",
+    "date": "2026-01-04",
+    "latitude": 70.08987,
+    "longitude": 21.07218,
+    "area": "Skjervøy (coastal fjords), Troms, Norway",
+    "source": "https://www.visitskjervoy.no/en/whale-watching",
+    "behaviors": [
+      "reported",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-04-bcsalish-orca-01",
+    "name": "Orca group (Salish Sea)",
+    "species": "Orca",
+    "info": "Eagle Wing Tours daily sighting report (dated 2026-01-04) lists orca in the Salish Sea near Victoria/Race Rocks.",
+    "date": "2026-01-04",
+    "latitude": 48.34762,
+    "longitude": -123.51892,
+    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
+    "source": "https://eaglewingtours.com/daily-sighting-report/",
+    "behaviors": [
+      "reported",
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-03-puget-orca-01",
+    "name": "Orca group (Puget Sound / San Juan Islands)",
+    "species": "Orca",
+    "info": "Orca Network 'Recent Sightings' log (dated 2026-01-03) reports orca in the Puget Sound / San Juan Islands region.",
+    "date": "2026-01-03",
+    "latitude": 48.51794,
+    "longitude": -122.80755,
+    "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "traveling",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2026-01-03-isiceland-humpback-01",
+    "name": "Humpback whale (Faxaflói Bay)",
+    "species": "Humpback",
+    "info": "Elding whale diary (dated 2026-01-03) reports humpback on tours in Faxaflói Bay near Reykjavík.",
+    "date": "2026-01-03",
+    "latitude": 64.12403,
+    "longitude": -22.03103,
+    "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
+    "source": "https://elding.is/whale-diary",
+    "behaviors": [
+      "reported",
+      "surfacing"
+    ]
+  },
+  {
+    "id": "2026-01-02-monterey-orca-01",
+    "name": "Orca group (Monterey Bay)",
+    "species": "Orca",
+    "info": "Monterey Bay Whale Watch 'Latest Sightings' list (dated 2026-01-02) reports orca in Monterey Bay.",
+    "date": "2026-01-02",
+    "latitude": 36.70932,
+    "longitude": -121.84394,
+    "area": "Monterey Bay (offshore), California, USA",
+    "source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
+    "behaviors": [
+      "reported",
+      "foraging"
+    ]
+  },
+  {
+    "id": "2025-12-31-bcsalish-orca-01",
+    "name": "Orca group (Salish Sea)",
+    "species": "Orca",
+    "info": "Eagle Wing Tours daily sighting report (dated 2025-12-31) lists orca in the Salish Sea near Victoria/Race Rocks.",
+    "date": "2025-12-31",
+    "latitude": 48.33166,
+    "longitude": -123.55397,
+    "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
+    "source": "https://eaglewingtours.com/daily-sighting-report/",
+    "behaviors": [
+      "reported",
+      "hunting"
+    ]
+  }
 ]
