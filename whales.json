@@ -8,8 +8,7 @@
 "latitude": -34.72411,
 "longitude": 119.99915,
 "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/
-",
+"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/",
 "behaviors": [
 "reported",
 "hunting",
@@ -25,8 +24,7 @@
 "latitude": 48.29846,
 "longitude": -123.53571,
 "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-"source": "https://eaglewingtours.com/daily-sighting-report/
-",
+"source": "https://eaglewingtours.com/daily-sighting-report/",
 "behaviors": [
 "reported",
 "traveling"
@@ -41,8 +39,7 @@
 "latitude": 48.55679,
 "longitude": -122.88454,
 "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
-"source": "https://www.orcanetwork.org/recent-sightings
-",
+"source": "https://www.orcanetwork.org/recent-sightings",
 "behaviors": [
 "reported",
 "foraging"
@@ -54,11 +51,10 @@
 "species": "Orca",
 "info": "Discover Wildlife report (dated 2026-01-15) references ongoing killer whale work/observations in the Shiretoko (Hokkaido) area; entry reflects the report’s Japan killer whale coverage.",
 "date": "2026-01-15",
-"latitude": 44.06000,
-"longitude": 145.18000,
+"latitude": 44.06,
+"longitude": 145.18,
 "area": "Shiretoko / Rausu (offshore), Hokkaido, Japan",
-"source": "https://www.discoverwildlife.com/animal-facts/marine-animals/orca-ecotypes-hokkaido-japan
-",
+"source": "https://www.discoverwildlife.com/animal-facts/marine-animals/orca-ecotypes-hokkaido-japan",
 "behaviors": [
 "reported",
 "traveling"
@@ -73,8 +69,7 @@
 "latitude": 36.65499,
 "longitude": -122.01078,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "feeding"
@@ -89,8 +84,7 @@
 "latitude": 33.50059,
 "longitude": -117.85077,
 "area": "Dana Point (offshore), Orange County, California, USA",
-"source": "https://www.dolphinsafari.com/sightings-log/
-",
+"source": "https://www.dolphinsafari.com/sightings-log/",
 "behaviors": [
 "reported",
 "traveling"
@@ -105,8 +99,7 @@
 "latitude": 20.94139,
 "longitude": -156.65334,
 "area": "Maui (offshore, Lahaina area), Hawaii, USA",
-"source": "https://www.hawaiinewsnow.com/2026/01/12/humpback-whale-mugs-boat-lahaina-several-times/
-",
+"source": "https://www.hawaiinewsnow.com/2026/01/12/humpback-whale-mugs-boat-lahaina-several-times/",
 "behaviors": [
 "reported",
 "breaching"
@@ -118,11 +111,10 @@
 "species": "Humpback",
 "info": "Whale Watching Akureyri daily blog entries for mid-January (dated 2026-01-15) report humpback whales in Eyjafjordur near Akureyri.",
 "date": "2026-01-15",
-"latitude": 65.70700,
-"longitude": -18.12300,
+"latitude": 65.707,
+"longitude": -18.123,
 "area": "Eyjafjordur (offshore), Akureyri, Iceland",
-"source": "https://www.whalewatchingakureyri.is/new-blog/2026/1/14/wednesday-14-january-2026
-",
+"source": "https://www.whalewatchingakureyri.is/new-blog/2026/1/14/wednesday-14-january-2026",
 "behaviors": [
 "reported",
 "surfacing"
@@ -137,8 +129,7 @@
 "latitude": 64.08731,
 "longitude": -22.17238,
 "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
-"source": "https://elding.is/whale-diary
-",
+"source": "https://elding.is/whale-diary",
 "behaviors": [
 "reported",
 "diving"
@@ -150,11 +141,10 @@
 "species": "Great White Shark",
 "info": "PIRSA shark sightings page (dated 2026-01-15) logs a shark sighting report consistent with white shark reporting in South Australian waters.",
 "date": "2026-01-15",
-"latitude": -34.93000,
-"longitude": 138.45000,
+"latitude": -34.93,
+"longitude": 138.45,
 "area": "Gulf St Vincent (offshore), South Australia, Australia",
-"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings
-",
+"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
 "behaviors": [
 "reported",
 "advice"
@@ -169,8 +159,7 @@
 "latitude": -34.70411,
 "longitude": 119.97915,
 "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/
-",
+"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/",
 "behaviors": [
 "reported",
 "hunting"
@@ -185,8 +174,7 @@
 "latitude": 48.27649,
 "longitude": -123.59534,
 "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-"source": "https://eaglewingtours.com/daily-sighting-report/
-",
+"source": "https://eaglewingtours.com/daily-sighting-report/",
 "behaviors": [
 "reported",
 "traveling"
@@ -201,8 +189,7 @@
 "latitude": 48.54583,
 "longitude": -122.82015,
 "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
-"source": "https://www.orcanetwork.org/recent-sightings
-",
+"source": "https://www.orcanetwork.org/recent-sightings",
 "behaviors": [
 "reported",
 "traveling"
@@ -214,11 +201,10 @@
 "species": "Orca",
 "info": "Victoria Whale Watching captain’s log post (dated 2026-01-14) reports orcas on the first trips of the 2026 season off Victoria.",
 "date": "2026-01-14",
-"latitude": 48.40400,
-"longitude": -123.40500,
+"latitude": 48.404,
+"longitude": -123.405,
 "area": "Juan de Fuca Strait (offshore, Victoria area), BC, Canada",
-"source": "https://www.victoriawhalewatching.com/captains_log/new-year-new-encounters-orcas-lead-the-way-into-2026/
-",
+"source": "https://www.victoriawhalewatching.com/captains_log/new-year-new-encounters-orcas-lead-the-way-into-2026/",
 "behaviors": [
 "reported",
 "traveling"
@@ -231,10 +217,9 @@
 "info": "Monterey Bay Whale Watch 'Latest Sightings' list (dated 2026-01-14) reports humpback in Monterey Bay.",
 "date": "2026-01-14",
 "latitude": 36.60836,
-"longitude": -122.01050,
+"longitude": -122.0105,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "surfacing"
@@ -249,8 +234,7 @@
 "latitude": 33.53059,
 "longitude": -117.83077,
 "area": "Dana Point (offshore), Orange County, California, USA",
-"source": "https://www.dolphinsafari.com/sightings-log/
-",
+"source": "https://www.dolphinsafari.com/sightings-log/",
 "behaviors": [
 "reported",
 "breaching"
@@ -265,8 +249,7 @@
 "latitude": 20.92361,
 "longitude": -156.71113,
 "area": "Maui (offshore, Lahaina area), Hawaii, USA",
-"source": "https://www.hawaiinewsnow.com/2026/01/12/humpback-whale-mugs-boat-lahaina-several-times/
-",
+"source": "https://www.hawaiinewsnow.com/2026/01/12/humpback-whale-mugs-boat-lahaina-several-times/",
 "behaviors": [
 "reported",
 "traveling"
@@ -278,11 +261,10 @@
 "species": "Humpback",
 "info": "Whale Watching Akureyri blog post (dated 2026-01-14) reports humpback whales near the buoy east of Akureyri in Eyjafjordur.",
 "date": "2026-01-14",
-"latitude": 65.69000,
-"longitude": -18.06000,
+"latitude": 65.69,
+"longitude": -18.06,
 "area": "Eyjafjordur (offshore), Akureyri, Iceland",
-"source": "https://www.whalewatchingakureyri.is/new-blog/2026/1/14/wednesday-14-january-2026
-",
+"source": "https://www.whalewatchingakureyri.is/new-blog/2026/1/14/wednesday-14-january-2026",
 "behaviors": [
 "reported",
 "surfacing"
@@ -295,10 +277,9 @@
 "info": "Elding whale diary (dated 2026-01-14) reports sperm whale presence on tours in Faxaflói Bay near Reykjavík.",
 "date": "2026-01-14",
 "latitude": 64.14229,
-"longitude": -22.07500,
+"longitude": -22.075,
 "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
-"source": "https://elding.is/whale-diary
-",
+"source": "https://elding.is/whale-diary",
 "behaviors": [
 "reported",
 "diving"
@@ -310,11 +291,10 @@
 "species": "Great White Shark",
 "info": "PIRSA shark sightings page (dated 2026-01-14) logs a shark sighting report consistent with white shark reporting in South Australian waters.",
 "date": "2026-01-14",
-"latitude": -35.12000,
-"longitude": 136.60000,
+"latitude": -35.12,
+"longitude": 136.6,
 "area": "Spencer Gulf (offshore), South Australia, Australia",
-"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings
-",
+"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
 "behaviors": [
 "reported",
 "warning"
@@ -329,8 +309,7 @@
 "latitude": -34.70411,
 "longitude": 119.95915,
 "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/
-",
+"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/",
 "behaviors": [
 "reported",
 "hunting"
@@ -345,8 +324,7 @@
 "latitude": 48.31846,
 "longitude": -123.53571,
 "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-"source": "https://eaglewingtours.com/daily-sighting-report/
-",
+"source": "https://eaglewingtours.com/daily-sighting-report/",
 "behaviors": [
 "reported",
 "traveling"
@@ -361,8 +339,7 @@
 "latitude": 48.55989,
 "longitude": -122.87114,
 "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
-"source": "https://www.orcanetwork.org/recent-sightings
-",
+"source": "https://www.orcanetwork.org/recent-sightings",
 "behaviors": [
 "reported",
 "foraging"
@@ -377,8 +354,7 @@
 "latitude": 36.54404,
 "longitude": -121.95897,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "traveling"
@@ -393,8 +369,7 @@
 "latitude": 36.67499,
 "longitude": -122.01078,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "feeding"
@@ -407,10 +382,9 @@
 "info": "Capt. Dave’s Dolphin Safari daily sightings log (dated 2026-01-13) reports humpback off Dana Point.",
 "date": "2026-01-13",
 "latitude": 33.52892,
-"longitude": -117.67980,
+"longitude": -117.6798,
 "area": "Dana Point (offshore), Orange County, California, USA",
-"source": "https://www.dolphinsafari.com/sightings-log/
-",
+"source": "https://www.dolphinsafari.com/sightings-log/",
 "behaviors": [
 "reported",
 "traveling"
@@ -425,8 +399,7 @@
 "latitude": 20.94139,
 "longitude": -156.63334,
 "area": "Maui (offshore, Lahaina area), Hawaii, USA",
-"source": "https://www.hawaiinewsnow.com/2026/01/12/humpback-whale-mugs-boat-lahaina-several-times/
-",
+"source": "https://www.hawaiinewsnow.com/2026/01/12/humpback-whale-mugs-boat-lahaina-several-times/",
 "behaviors": [
 "reported",
 "breaching"
@@ -441,8 +414,7 @@
 "latitude": 64.25723,
 "longitude": -22.04679,
 "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
-"source": "https://elding.is/whale-diary
-",
+"source": "https://elding.is/whale-diary",
 "behaviors": [
 "reported",
 "feeding"
@@ -457,8 +429,7 @@
 "latitude": 64.09731,
 "longitude": -22.15238,
 "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
-"source": "https://elding.is/whale-diary
-",
+"source": "https://elding.is/whale-diary",
 "behaviors": [
 "reported",
 "diving"
@@ -473,8 +444,7 @@
 "latitude": -36.08026,
 "longitude": 136.59877,
 "area": "Kangaroo Island (offshore), South Australia, Australia",
-"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings
-",
+"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
 "behaviors": [
 "reported",
 "advice"
@@ -489,8 +459,7 @@
 "latitude": -34.61336,
 "longitude": 119.92558,
 "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/
-",
+"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/",
 "behaviors": [
 "reported",
 "foraging"
@@ -505,8 +474,7 @@
 "latitude": 48.32921,
 "longitude": -123.57778,
 "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-"source": "https://eaglewingtours.com/daily-sighting-report/
-",
+"source": "https://eaglewingtours.com/daily-sighting-report/",
 "behaviors": [
 "reported",
 "traveling"
@@ -521,8 +489,7 @@
 "latitude": 48.55989,
 "longitude": -122.85114,
 "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
-"source": "https://www.orcanetwork.org/recent-sightings
-",
+"source": "https://www.orcanetwork.org/recent-sightings",
 "behaviors": [
 "reported",
 "traveling"
@@ -537,8 +504,7 @@
 "latitude": 36.69393,
 "longitude": -121.86457,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "traveling"
@@ -551,10 +517,9 @@
 "info": "Monterey Bay Whale Watch 'Latest Sightings' list (dated 2026-01-12) reports humpback in Monterey Bay.",
 "date": "2026-01-12",
 "latitude": 36.60836,
-"longitude": -122.01050,
+"longitude": -122.0105,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "surfacing"
@@ -567,10 +532,9 @@
 "info": "Capt. Dave’s Dolphin Safari daily sightings log (dated 2026-01-12) reports humpback off Dana Point.",
 "date": "2026-01-12",
 "latitude": 33.52892,
-"longitude": -117.67980,
+"longitude": -117.6798,
 "area": "Dana Point (offshore), Orange County, California, USA",
-"source": "https://www.dolphinsafari.com/sightings-log/
-",
+"source": "https://www.dolphinsafari.com/sightings-log/",
 "behaviors": [
 "reported",
 "traveling"
@@ -582,11 +546,10 @@
 "species": "Humpback",
 "info": "Hawaiian Adventures Kona weekly whale report (dated 2026-01-12) reports humpback whale activity off the Kona Coast.",
 "date": "2026-01-12",
-"latitude": 19.64000,
-"longitude": -156.01000,
+"latitude": 19.64,
+"longitude": -156.01,
 "area": "Kona Coast (offshore), Hawaii Island, Hawaii, USA",
-"source": "https://www.hawaiianadventureskona.com/humpback-whales/weekly-whale-report/
-",
+"source": "https://www.hawaiianadventureskona.com/humpback-whales/weekly-whale-report/",
 "behaviors": [
 "reported",
 "traveling"
@@ -601,8 +564,7 @@
 "latitude": 63.94306,
 "longitude": -22.43341,
 "area": "Reykjanes Peninsula (offshore), Iceland",
-"source": "https://seatrips.is/news/whale-diary-january/
-",
+"source": "https://seatrips.is/news/whale-diary-january/",
 "behaviors": [
 "reported",
 "surfacing"
@@ -617,8 +579,7 @@
 "latitude": 64.09731,
 "longitude": -22.15238,
 "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
-"source": "https://elding.is/whale-diary
-",
+"source": "https://elding.is/whale-diary",
 "behaviors": [
 "reported",
 "diving"
@@ -630,11 +591,10 @@
 "species": "Great White Shark",
 "info": "PIRSA shark sightings page (dated 2026-01-12) logs a shark sighting report consistent with white shark reporting in South Australian waters.",
 "date": "2026-01-12",
-"latitude": -34.99000,
-"longitude": 138.44000,
+"latitude": -34.99,
+"longitude": 138.44,
 "area": "Glenelg / Holdfast Bay (offshore), South Australia, Australia",
-"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings
-",
+"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
 "behaviors": [
 "reported",
 "warning"
@@ -649,8 +609,7 @@
 "latitude": -34.61336,
 "longitude": 119.90558,
 "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/
-",
+"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/",
 "behaviors": [
 "reported",
 "foraging"
@@ -663,10 +622,9 @@
 "info": "Eagle Wing Tours daily sighting report (dated 2026-01-11) lists orca in the Salish Sea near Victoria/Race Rocks.",
 "date": "2026-01-11",
 "latitude": 48.25943,
-"longitude": -123.55410,
+"longitude": -123.5541,
 "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-"source": "https://eaglewingtours.com/daily-sighting-report/
-",
+"source": "https://eaglewingtours.com/daily-sighting-report/",
 "behaviors": [
 "reported",
 "hunting"
@@ -679,10 +637,9 @@
 "info": "Orca Network 'Recent Sightings' log (dated 2026-01-11) reports orca in the Puget Sound / San Juan Islands region.",
 "date": "2026-01-11",
 "latitude": 48.57319,
-"longitude": -122.83840,
+"longitude": -122.8384,
 "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
-"source": "https://www.orcanetwork.org/recent-sightings
-",
+"source": "https://www.orcanetwork.org/recent-sightings",
 "behaviors": [
 "reported",
 "foraging"
@@ -697,8 +654,7 @@
 "latitude": 36.66718,
 "longitude": -121.89468,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "traveling"
@@ -711,10 +667,9 @@
 "info": "Monterey Bay Whale Watch 'Latest Sightings' list (dated 2026-01-11) reports humpback in Monterey Bay.",
 "date": "2026-01-11",
 "latitude": 36.60836,
-"longitude": -122.01050,
+"longitude": -122.0105,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "surfacing"
@@ -729,8 +684,7 @@
 "latitude": 33.53059,
 "longitude": -117.85077,
 "area": "Dana Point (offshore), Orange County, California, USA",
-"source": "https://www.dolphinsafari.com/sightings-log/
-",
+"source": "https://www.dolphinsafari.com/sightings-log/",
 "behaviors": [
 "reported",
 "breaching"
@@ -742,11 +696,10 @@
 "species": "Humpback",
 "info": "Hawaiian Adventures Kona weekly whale report (dated 2026-01-11) reports humpback whale activity off the Kona Coast.",
 "date": "2026-01-11",
-"latitude": 19.68000,
-"longitude": -156.03000,
+"latitude": 19.68,
+"longitude": -156.03,
 "area": "Kona Coast (offshore), Hawaii Island, Hawaii, USA",
-"source": "https://www.hawaiianadventureskona.com/humpback-whales/weekly-whale-report/
-",
+"source": "https://www.hawaiianadventureskona.com/humpback-whales/weekly-whale-report/",
 "behaviors": [
 "reported",
 "traveling"
@@ -761,8 +714,7 @@
 "latitude": 64.06173,
 "longitude": -22.07012,
 "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
-"source": "https://elding.is/whale-diary
-",
+"source": "https://elding.is/whale-diary",
 "behaviors": [
 "reported",
 "surfacing"
@@ -777,8 +729,7 @@
 "latitude": 64.09731,
 "longitude": -22.17238,
 "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
-"source": "https://elding.is/whale-diary
-",
+"source": "https://elding.is/whale-diary",
 "behaviors": [
 "reported",
 "diving"
@@ -790,11 +741,10 @@
 "species": "Great White Shark",
 "info": "PIRSA shark sightings page (dated 2026-01-11) logs a shark sighting report consistent with white shark reporting in South Australian waters.",
 "date": "2026-01-11",
-"latitude": -33.89000,
-"longitude": 137.62000,
+"latitude": -33.89,
+"longitude": 137.62,
 "area": "Yorke Peninsula (offshore), South Australia, Australia",
-"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings
-",
+"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
 "behaviors": [
 "reported",
 "advice"
@@ -809,8 +759,7 @@
 "latitude": -34.70411,
 "longitude": 119.93915,
 "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/
-",
+"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/",
 "behaviors": [
 "reported",
 "hunting"
@@ -823,10 +772,9 @@
 "info": "Eagle Wing Tours daily sighting report (dated 2026-01-10) lists orca in the Salish Sea near Victoria/Race Rocks.",
 "date": "2026-01-10",
 "latitude": 48.27943,
-"longitude": -123.53410,
+"longitude": -123.5341,
 "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-"source": "https://eaglewingtours.com/daily-sighting-report/
-",
+"source": "https://eaglewingtours.com/daily-sighting-report/",
 "behaviors": [
 "reported",
 "hunting"
@@ -841,8 +789,7 @@
 "latitude": 48.55142,
 "longitude": -122.89215,
 "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
-"source": "https://www.orcanetwork.org/recent-sightings
-",
+"source": "https://www.orcanetwork.org/recent-sightings",
 "behaviors": [
 "reported",
 "traveling"
@@ -857,8 +804,7 @@
 "latitude": 36.54404,
 "longitude": -121.95897,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "traveling"
@@ -873,8 +819,7 @@
 "latitude": 36.50865,
 "longitude": -121.98139,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "surface_active"
@@ -889,8 +834,7 @@
 "latitude": 33.51059,
 "longitude": -117.85077,
 "area": "Dana Point (offshore), Orange County, California, USA",
-"source": "https://www.dolphinsafari.com/sightings-log/
-",
+"source": "https://www.dolphinsafari.com/sightings-log/",
 "behaviors": [
 "reported",
 "breaching"
@@ -902,11 +846,10 @@
 "species": "Humpback",
 "info": "Hawaiian Adventures Kona weekly whale report (dated 2026-01-10) reports humpback whale activity off the Kona Coast.",
 "date": "2026-01-10",
-"latitude": 19.62000,
-"longitude": -156.02000,
+"latitude": 19.62,
+"longitude": -156.02,
 "area": "Kona Coast (offshore), Hawaii Island, Hawaii, USA",
-"source": "https://www.hawaiianadventureskona.com/humpback-whales/weekly-whale-report/
-",
+"source": "https://www.hawaiianadventureskona.com/humpback-whales/weekly-whale-report/",
 "behaviors": [
 "reported",
 "surfacing"
@@ -921,8 +864,7 @@
 "latitude": 63.93236,
 "longitude": -22.45157,
 "area": "Reykjanes Peninsula (offshore), Iceland",
-"source": "https://seatrips.is/news/whale-diary-january/
-",
+"source": "https://seatrips.is/news/whale-diary-january/",
 "behaviors": [
 "reported",
 "traveling"
@@ -937,8 +879,7 @@
 "latitude": 64.08731,
 "longitude": -22.15238,
 "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
-"source": "https://elding.is/whale-diary
-",
+"source": "https://elding.is/whale-diary",
 "behaviors": [
 "reported",
 "diving"
@@ -950,11 +891,10 @@
 "species": "Great White Shark",
 "info": "PIRSA shark sightings page (dated 2026-01-10) logs a shark sighting report consistent with white shark reporting in South Australian waters.",
 "date": "2026-01-10",
-"latitude": -35.94000,
-"longitude": 136.69000,
+"latitude": -35.94,
+"longitude": 136.69,
 "area": "Kangaroo Island (offshore), South Australia, Australia",
-"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings
-",
+"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
 "behaviors": [
 "reported",
 "warning"
@@ -969,8 +909,7 @@
 "latitude": -34.72411,
 "longitude": 119.95915,
 "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/
-",
+"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/",
 "behaviors": [
 "reported",
 "hunting"
@@ -985,8 +924,7 @@
 "latitude": 48.29298,
 "longitude": -123.61582,
 "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-"source": "https://eaglewingtours.com/daily-sighting-report/
-",
+"source": "https://eaglewingtours.com/daily-sighting-report/",
 "behaviors": [
 "reported",
 "traveling"
@@ -1001,8 +939,7 @@
 "latitude": 48.56521,
 "longitude": -122.86594,
 "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
-"source": "https://www.orcanetwork.org/recent-sightings
-",
+"source": "https://www.orcanetwork.org/recent-sightings",
 "behaviors": [
 "reported",
 "traveling"
@@ -1017,8 +954,7 @@
 "latitude": 36.66718,
 "longitude": -121.89468,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "foraging"
@@ -1033,8 +969,7 @@
 "latitude": 36.65499,
 "longitude": -122.01078,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "feeding"
@@ -1049,8 +984,7 @@
 "latitude": 33.53059,
 "longitude": -117.85077,
 "area": "Dana Point (offshore), Orange County, California, USA",
-"source": "https://www.dolphinsafari.com/sightings-log/
-",
+"source": "https://www.dolphinsafari.com/sightings-log/",
 "behaviors": [
 "reported",
 "breaching"
@@ -1062,11 +996,10 @@
 "species": "Humpback",
 "info": "Hawaiian Adventures Kona weekly whale report (dated 2026-01-09) reports humpback whale activity off the Kona Coast.",
 "date": "2026-01-09",
-"latitude": 19.66000,
-"longitude": -156.04000,
+"latitude": 19.66,
+"longitude": -156.04,
 "area": "Kona Coast (offshore), Hawaii Island, Hawaii, USA",
-"source": "https://www.hawaiianadventureskona.com/humpback-whales/weekly-whale-report/
-",
+"source": "https://www.hawaiianadventureskona.com/humpback-whales/weekly-whale-report/",
 "behaviors": [
 "reported",
 "traveling"
@@ -1078,11 +1011,10 @@
 "species": "Humpback",
 "info": "SeaTrips whale diary January post (dated 2026-01-09) reports humpback activity in Reykjanes coastal waters.",
 "date": "2026-01-09",
-"latitude": 63.91200,
+"latitude": 63.912,
 "longitude": -22.51816,
 "area": "Reykjanes Peninsula (offshore), Iceland",
-"source": "https://seatrips.is/news/whale-diary-january/
-",
+"source": "https://seatrips.is/news/whale-diary-january/",
 "behaviors": [
 "reported",
 "traveling"
@@ -1097,8 +1029,7 @@
 "latitude": 64.09731,
 "longitude": -22.15238,
 "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
-"source": "https://elding.is/whale-diary
-",
+"source": "https://elding.is/whale-diary",
 "behaviors": [
 "reported",
 "diving"
@@ -1110,11 +1041,10 @@
 "species": "Great White Shark",
 "info": "PIRSA shark sightings page (dated 2026-01-09) logs a shark sighting report consistent with white shark reporting in South Australian waters.",
 "date": "2026-01-09",
-"latitude": -35.98000,
-"longitude": 136.64000,
+"latitude": -35.98,
+"longitude": 136.64,
 "area": "Kangaroo Island (offshore), South Australia, Australia",
-"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings
-",
+"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
 "behaviors": [
 "reported",
 "advice"
@@ -1129,8 +1059,7 @@
 "latitude": -34.72411,
 "longitude": 119.93915,
 "area": "Bremer Canyon / The Patch (offshore), Bremer Bay, WA, Australia",
-"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/
-",
+"source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/",
 "behaviors": [
 "reported",
 "hunting"
@@ -1145,8 +1074,7 @@
 "latitude": 48.33166,
 "longitude": -123.57397,
 "area": "Salish Sea (offshore, near Victoria/Race Rocks), BC, Canada",
-"source": "https://eaglewingtours.com/daily-sighting-report/
-",
+"source": "https://eaglewingtours.com/daily-sighting-report/",
 "behaviors": [
 "reported",
 "traveling"
@@ -1158,11 +1086,10 @@
 "species": "Orca",
 "info": "Orca Network 'Recent Sightings' log (dated 2026-01-08) reports orca in the Puget Sound / San Juan Islands region.",
 "date": "2026-01-08",
-"latitude": 48.55950,
+"latitude": 48.5595,
 "longitude": -122.85248,
 "area": "Puget Sound / San Juan Islands (offshore), Washington, USA",
-"source": "https://www.orcanetwork.org/recent-sightings
-",
+"source": "https://www.orcanetwork.org/recent-sightings",
 "behaviors": [
 "reported",
 "foraging"
@@ -1177,8 +1104,7 @@
 "latitude": 36.70932,
 "longitude": -121.86394,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "traveling"
@@ -1191,10 +1117,9 @@
 "info": "Monterey Bay Whale Watch 'Latest Sightings' list (dated 2026-01-08) reports humpback in Monterey Bay.",
 "date": "2026-01-08",
 "latitude": 36.60836,
-"longitude": -122.01050,
+"longitude": -122.0105,
 "area": "Monterey Bay (offshore), California, USA",
-"source": "https://montereybaywhalewatch.com/sightings/slstcurr/
-",
+"source": "https://montereybaywhalewatch.com/sightings/slstcurr/",
 "behaviors": [
 "reported",
 "surfacing"
@@ -1209,8 +1134,7 @@
 "latitude": 33.53059,
 "longitude": -117.83077,
 "area": "Dana Point (offshore), Orange County, California, USA",
-"source": "https://www.dolphinsafari.com/sightings-log/
-",
+"source": "https://www.dolphinsafari.com/sightings-log/",
 "behaviors": [
 "reported",
 "traveling"
@@ -1222,11 +1146,10 @@
 "species": "Humpback",
 "info": "Hawaiian Adventures Kona weekly whale report (dated 2026-01-08) reports humpback whale activity off the Kona Coast.",
 "date": "2026-01-08",
-"latitude": 19.64000,
-"longitude": -156.03000,
+"latitude": 19.64,
+"longitude": -156.03,
 "area": "Kona Coast (offshore), Hawaii Island, Hawaii, USA",
-"source": "https://www.hawaiianadventureskona.com/humpback-whales/weekly-whale-report/
-",
+"source": "https://www.hawaiianadventureskona.com/humpback-whales/weekly-whale-report/",
 "behaviors": [
 "reported",
 "surfacing"
@@ -1241,8 +1164,7 @@
 "latitude": 64.07618,
 "longitude": -22.23246,
 "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
-"source": "https://elding.is/whale-diary
-",
+"source": "https://elding.is/whale-diary",
 "behaviors": [
 "reported",
 "traveling"
@@ -1257,8 +1179,7 @@
 "latitude": 64.08731,
 "longitude": -22.17238,
 "area": "Faxaflói Bay (offshore, near Reykjavík), Iceland",
-"source": "https://elding.is/whale-diary
-",
+"source": "https://elding.is/whale-diary",
 "behaviors": [
 "reported",
 "diving"
@@ -1270,11 +1191,10 @@
 "species": "Great White Shark",
 "info": "PIRSA shark sightings page (dated 2026-01-08) logs a shark sighting report consistent with white shark reporting in South Australian waters.",
 "date": "2026-01-08",
-"latitude": -35.99210,
-"longitude": 136.69240,
+"latitude": -35.9921,
+"longitude": 136.6924,
 "area": "Kangaroo Island (offshore), South Australia, Australia",
-"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings
-",
+"source": "https://pir.sa.gov.au/fishing-and-aquaculture/recreational-fishing/reporting/shark-sightings",
 "behaviors": [
 "reported",
 "warning"
