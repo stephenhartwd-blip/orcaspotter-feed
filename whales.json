@@ -1,10 +1,25 @@
 [
   {
-    "id": "2026-02-02-united-kingdom-orca-01",
+    "id": "2026-02-09-cape-town-white-01",
+    "name": "Great White Shark sighting (Cape Town (offshore), South Africa)",
+    "species": "Great White Shark",
+    "info": "Parsed from za_sharkspotters on 2026-02-09.",
+    "date": "2026-02-09",
+    "latitude": -34.12,
+    "longitude": 18.32,
+    "area": "Cape Town (offshore), South Africa",
+    "source": "https://www.sharkspotters.org.za/",
+    "behaviors": [
+      "reported",
+      "feeding"
+    ]
+  },
+  {
+    "id": "2026-02-09-united-kingdom-orca-01",
     "name": "Orca sighting (United Kingdom (offshore))",
     "species": "Orca",
-    "info": "Parsed from uk_seawatch_sightings on 2026-02-02.",
-    "date": "2026-02-02",
+    "info": "Parsed from uk_seawatch_sightings on 2026-02-09.",
+    "date": "2026-02-09",
     "latitude": 57.53,
     "longitude": -6.47,
     "area": "United Kingdom (offshore)",
@@ -15,41 +30,11 @@
     ]
   },
   {
-    "id": "2026-02-02-bremer-canyon-orca-02",
-    "name": "Orca sighting (Bremer Canyon (offshore), WA, Australia)",
-    "species": "Orca",
-    "info": "Parsed from whale_watch_wa on 2026-02-02.",
-    "date": "2026-02-02",
-    "latitude": -34.7,
-    "longitude": 119.9,
-    "area": "Bremer Canyon (offshore), WA, Australia",
-    "source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/",
-    "behaviors": [
-      "reported",
-      "hunting"
-    ]
-  },
-  {
-    "id": "2026-02-02-bremer-canyon-blue-01",
-    "name": "Blue Whale sighting (Bremer Canyon (offshore), WA, Australia)",
-    "species": "Blue Whale",
-    "info": "Parsed from whale_watch_wa on 2026-02-02.",
-    "date": "2026-02-02",
-    "latitude": -34.7,
-    "longitude": 119.9,
-    "area": "Bremer Canyon (offshore), WA, Australia",
-    "source": "https://whalewatchwesternaustralia.com/killer-whale-tours-in-january/",
-    "behaviors": [
-      "reported",
-      "hunting"
-    ]
-  },
-  {
-    "id": "2026-02-02-faxafloi-bay-humpback-01",
+    "id": "2026-02-09-faxafloi-bay-humpback-01",
     "name": "Humpback sighting (Faxafloi Bay (offshore), Reykjavik, Iceland)",
     "species": "Humpback",
-    "info": "Parsed from elding_diary on 2026-02-02.",
-    "date": "2026-02-02",
+    "info": "Parsed from elding_diary on 2026-02-09.",
+    "date": "2026-02-09",
     "latitude": 64.2,
     "longitude": -22.4,
     "area": "Faxafloi Bay (offshore), Reykjavik, Iceland",
@@ -58,32 +43,15 @@
       "reported",
       "feeding",
       "breaching",
-      "vocalizing",
       "traveling"
     ]
   },
   {
-    "id": "2026-02-02-bay-of-fundy-humpback-02",
-    "name": "Humpback sighting (Bay of Fundy (offshore), NS, Canada)",
-    "species": "Humpback",
-    "info": "Parsed from brier_island_whale_sightings on 2026-02-02.",
-    "date": "2026-02-02",
-    "latitude": 44.26,
-    "longitude": -66.42,
-    "area": "Bay of Fundy (offshore), NS, Canada",
-    "source": "https://brierislandwhalewatch.com/whale-watching/whale-sightings/",
-    "behaviors": [
-      "reported",
-      "hunting",
-      "vocalizing"
-    ]
-  },
-  {
-    "id": "2026-02-02-bay-of-fundy-orca-03",
+    "id": "2026-02-09-bay-of-fundy-orca-02",
     "name": "Orca sighting (Bay of Fundy (offshore), NS, Canada)",
     "species": "Orca",
-    "info": "Parsed from brier_island_whale_sightings on 2026-02-02.",
-    "date": "2026-02-02",
+    "info": "Parsed from brier_island_whale_sightings on 2026-02-09.",
+    "date": "2026-02-09",
     "latitude": 44.26,
     "longitude": -66.42,
     "area": "Bay of Fundy (offshore), NS, Canada",
@@ -95,28 +63,27 @@
     ]
   },
   {
-    "id": "2026-02-02-san-juan-islands-humpback-03",
-    "name": "Humpback sighting (San Juan Islands (offshore), WA, USA)",
+    "id": "2026-02-09-bay-of-fundy-humpback-02",
+    "name": "Humpback sighting (Bay of Fundy (offshore), NS, Canada)",
     "species": "Humpback",
-    "info": "Parsed from sanjuan_safaris_whale_report on 2026-02-02.",
-    "date": "2026-02-02",
-    "latitude": 48.55,
-    "longitude": -123.17,
-    "area": "San Juan Islands (offshore), WA, USA",
-    "source": "https://www.sanjuansafaris.com/whale-report/",
+    "info": "Parsed from brier_island_whale_sightings on 2026-02-09.",
+    "date": "2026-02-09",
+    "latitude": 44.26,
+    "longitude": -66.42,
+    "area": "Bay of Fundy (offshore), NS, Canada",
+    "source": "https://brierislandwhalewatch.com/whale-watching/whale-sightings/",
     "behaviors": [
       "reported",
       "hunting",
-      "vocalizing",
-      "traveling"
+      "vocalizing"
     ]
   },
   {
-    "id": "2026-02-02-san-juan-islands-orca-04",
+    "id": "2026-02-09-san-juan-islands-orca-03",
     "name": "Orca sighting (San Juan Islands (offshore), WA, USA)",
     "species": "Orca",
-    "info": "Parsed from sanjuan_safaris_whale_report on 2026-02-02.",
-    "date": "2026-02-02",
+    "info": "Parsed from sanjuan_safaris_whale_report on 2026-02-09.",
+    "date": "2026-02-09",
     "latitude": 48.55,
     "longitude": -123.17,
     "area": "San Juan Islands (offshore), WA, USA",
@@ -129,44 +96,293 @@
     ]
   },
   {
-    "id": "2026-02-02-north-pacific-ocean--humpback-04",
-    "name": "Humpback sighting (North Pacific Ocean, Hōnaunau-Nāpōʻopoʻo, HI, US)",
+    "id": "2026-02-09-san-juan-islands-humpback-03",
+    "name": "Humpback sighting (San Juan Islands (offshore), WA, USA)",
     "species": "Humpback",
-    "info": "iNaturalist observation by grahamsteinruck.",
-    "date": "2026-02-02",
-    "latitude": 19.4157279288,
-    "longitude": -155.909265814,
-    "area": "North Pacific Ocean, Hōnaunau-Nāpōʻopoʻo, HI, US",
-    "source": "https://www.inaturalist.org/observations/337115400",
+    "info": "Parsed from sanjuan_safaris_whale_report on 2026-02-09.",
+    "date": "2026-02-09",
+    "latitude": 48.55,
+    "longitude": -123.17,
+    "area": "San Juan Islands (offshore), WA, USA",
+    "source": "https://www.sanjuansafaris.com/whale-report/",
+    "behaviors": [
+      "reported",
+      "hunting",
+      "vocalizing",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-02-09-eyjafjordur-orca-04",
+    "name": "Orca sighting (Eyjafjordur (offshore), Akureyri, Iceland)",
+    "species": "Orca",
+    "info": "Parsed from akureyri_blog on 2026-02-09.",
+    "date": "2026-02-09",
+    "latitude": 65.75,
+    "longitude": -18.15,
+    "area": "Eyjafjordur (offshore), Akureyri, Iceland",
+    "source": "https://www.whalewatchingakureyri.is/new-blog/",
     "behaviors": [
       "reported"
     ]
   },
   {
-    "id": "2026-02-01-new-zealand-kaikoura-orca-01",
-    "name": "Orca sighting (New Zealand, Kaikoura Peninsula)",
+    "id": "2026-02-08-washington-us-orca-01",
+    "name": "Orca sighting (Washington, US)",
     "species": "Orca",
-    "info": "iNaturalist observation by juliagraeter.",
-    "date": "2026-02-01",
-    "latitude": -42.430417,
-    "longitude": 173.714083,
-    "area": "New Zealand, Kaikoura Peninsula",
-    "source": "https://www.inaturalist.org/observations/337027438",
+    "info": "iNaturalist observation by ywcai.",
+    "date": "2026-02-08",
+    "latitude": 47.7228312089,
+    "longitude": -122.4230144536,
+    "area": "Washington, US",
+    "source": "https://www.inaturalist.org/observations/337887442",
     "behaviors": [
       "reported",
       "hunting"
     ]
   },
   {
-    "id": "2026-02-01-honolulu-county-hi-u-humpback-01",
-    "name": "Humpback sighting (Honolulu County, HI, USA)",
+    "id": "2026-02-08-eyjafjordur-humpback-01",
+    "name": "Humpback sighting (Eyjafjordur (offshore), Akureyri, Iceland)",
     "species": "Humpback",
-    "info": "iNaturalist observation by tommyvg.",
-    "date": "2026-02-01",
-    "latitude": 21.3828098709,
-    "longitude": -157.6894598454,
-    "area": "Honolulu County, HI, USA",
-    "source": "https://www.inaturalist.org/observations/337172311",
+    "info": "Parsed from akureyri_blog on 2026-02-08.",
+    "date": "2026-02-08",
+    "latitude": 65.75,
+    "longitude": -18.15,
+    "area": "Eyjafjordur (offshore), Akureyri, Iceland",
+    "source": "https://www.whalewatchingakureyri.is/new-blog/",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-02-08-eyjafjordur-orca-02",
+    "name": "Orca sighting (Eyjafjordur (offshore), Akureyri, Iceland)",
+    "species": "Orca",
+    "info": "Parsed from akureyri_blog on 2026-02-08.",
+    "date": "2026-02-08",
+    "latitude": 65.75,
+    "longitude": -18.15,
+    "area": "Eyjafjordur (offshore), Akureyri, Iceland",
+    "source": "https://www.whalewatchingakureyri.is/new-blog/",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-02-07-huatulco-mx-oa-mx-humpback-01",
+    "name": "Humpback sighting (Huatulco, MX-OA, MX)",
+    "species": "Humpback",
+    "info": "iNaturalist observation by blakesito.",
+    "date": "2026-02-07",
+    "latitude": 15.712533738200001,
+    "longitude": -96.1302503311,
+    "area": "Huatulco, MX-OA, MX",
+    "source": "https://www.inaturalist.org/observations/337956143",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-02-07-huatulco-mx-oa-mx-humpback-02",
+    "name": "Humpback sighting (Huatulco, MX-OA, MX)",
+    "species": "Humpback",
+    "info": "iNaturalist observation by blakesito.",
+    "date": "2026-02-07",
+    "latitude": 15.7079834523,
+    "longitude": -96.1337693893,
+    "area": "Huatulco, MX-OA, MX",
+    "source": "https://www.inaturalist.org/observations/337956136",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-02-07-maranui-street-oppos-orca-01",
+    "name": "Orca sighting (Maranui Street - Opposite Pacific Coast Village, Papamoa Beach, Tauranga 3118, New Zealand)",
+    "species": "Orca",
+    "info": "iNaturalist observation by forrest00.",
+    "date": "2026-02-07",
+    "latitude": -37.658399043699994,
+    "longitude": 176.2488773838,
+    "area": "Maranui Street - Opposite Pacific Coast Village, Papamoa Beach, Tauranga 3118, New Zealand",
+    "source": "https://www.inaturalist.org/observations/337641829",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-02-07-huatulco-mx-oa-mx-humpback-03",
+    "name": "Humpback sighting (Huatulco, MX-OA, MX)",
+    "species": "Humpback",
+    "info": "iNaturalist observation by blakesito.",
+    "date": "2026-02-07",
+    "latitude": 15.7097882431,
+    "longitude": -96.1352562818,
+    "area": "Huatulco, MX-OA, MX",
+    "source": "https://www.inaturalist.org/observations/337956135",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-02-06-dunedin-city-otago-r-orca-01",
+    "name": "Orca sighting (Dunedin City, Otago Region, New Zealand)",
+    "species": "Orca",
+    "info": "iNaturalist observation by househopper_jr.",
+    "date": "2026-02-06",
+    "latitude": -45.8200091053,
+    "longitude": 170.6316031234,
+    "area": "Dunedin City, Otago Region, New Zealand",
+    "source": "https://www.inaturalist.org/observations/337631099",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-02-06-lahaina-hi-usa-humpback-01",
+    "name": "Humpback sighting (Lahaina, HI, USA)",
+    "species": "Humpback",
+    "info": "iNaturalist observation by scoutingforplants.",
+    "date": "2026-02-06",
+    "latitude": 20.862371,
+    "longitude": -156.6816195,
+    "area": "Lahaina, HI, USA",
+    "source": "https://www.inaturalist.org/observations/337622293",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-02-05-p-hoa-hi-96778-usa-humpback-01",
+    "name": "Humpback sighting (Pāhoa, HI 96778, USA)",
+    "species": "Humpback",
+    "info": "iNaturalist observation by prostoi_nablyudatel.",
+    "date": "2026-02-05",
+    "latitude": 19.422330555600002,
+    "longitude": -154.8592166667,
+    "area": "Pāhoa, HI 96778, USA",
+    "source": "https://www.inaturalist.org/observations/337511465",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-02-05-north-pacific-ocean--humpback-02",
+    "name": "Humpback sighting (North Pacific Ocean, HI, US)",
+    "species": "Humpback",
+    "info": "iNaturalist observation by kelly-welly.",
+    "date": "2026-02-05",
+    "latitude": 19.7490383333,
+    "longitude": -155.0727833333,
+    "area": "North Pacific Ocean, HI, US",
+    "source": "https://www.inaturalist.org/observations/337620077",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-02-05-iceland-humpback-03",
+    "name": "Humpback sighting (Iceland)",
+    "species": "Humpback",
+    "info": "iNaturalist observation by taigerus.",
+    "date": "2026-02-05",
+    "latitude": 64.1756571472,
+    "longitude": -21.9018439204,
+    "area": "Iceland",
+    "source": "https://www.inaturalist.org/observations/337552786",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-02-05-salish-sea-orca-01",
+    "name": "Orca sighting (Salish Sea (offshore), BC/WA, Canada/USA)",
+    "species": "Orca",
+    "info": "Orca Network recent sightings indicates Orca on 2026-02-05.",
+    "date": "2026-02-05",
+    "latitude": 47.95,
+    "longitude": -122.35,
+    "area": "Salish Sea (offshore), BC/WA, Canada/USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "hunting",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-02-05-salish-sea-humpback-04",
+    "name": "Humpback sighting (Salish Sea (offshore), BC/WA, Canada/USA)",
+    "species": "Humpback",
+    "info": "Orca Network recent sightings indicates Humpback on 2026-02-05.",
+    "date": "2026-02-05",
+    "latitude": 47.95,
+    "longitude": -122.35,
+    "area": "Salish Sea (offshore), BC/WA, Canada/USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "hunting",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-02-04-washington-us-orca-01",
+    "name": "Orca sighting (Washington, US)",
+    "species": "Orca",
+    "info": "iNaturalist observation by granatstein.",
+    "date": "2026-02-04",
+    "latitude": 47.7927111431,
+    "longitude": -122.3935092276,
+    "area": "Washington, US",
+    "source": "https://www.inaturalist.org/observations/337370470",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-02-04-salish-sea-orca-02",
+    "name": "Orca sighting (Salish Sea (offshore), BC/WA, Canada/USA)",
+    "species": "Orca",
+    "info": "Orca Network recent sightings indicates Orca on 2026-02-04.",
+    "date": "2026-02-04",
+    "latitude": 47.92,
+    "longitude": -122.55,
+    "area": "Salish Sea (offshore), BC/WA, Canada/USA",
+    "source": "https://www.orcanetwork.org/recent-sightings",
+    "behaviors": [
+      "reported",
+      "hunting",
+      "feeding",
+      "breaching",
+      "traveling"
+    ]
+  },
+  {
+    "id": "2026-02-03-marine-parade-at-ran-orca-01",
+    "name": "Orca sighting (Marine Parade at Rangiuru Road, Ōtaki Beach 5512, Nieuw-Zeeland)",
+    "species": "Orca",
+    "info": "iNaturalist observation by valentijnvanb.",
+    "date": "2026-02-03",
+    "latitude": -40.7481251426,
+    "longitude": 175.1092164963,
+    "area": "Marine Parade at Rangiuru Road, Ōtaki Beach 5512, Nieuw-Zeeland",
+    "source": "https://www.inaturalist.org/observations/337863022",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-01-31-overberg-za-wc-za-white-01",
+    "name": "Great White Shark sighting (Overberg, ZA-WC, ZA)",
+    "species": "Great White Shark",
+    "info": "iNaturalist observation by cbjenman.",
+    "date": "2026-01-31",
+    "latitude": -34.6526014653,
+    "longitude": 20.2784880022,
+    "area": "Overberg, ZA-WC, ZA",
+    "source": "https://www.inaturalist.org/observations/337342226",
     "behaviors": [
       "reported"
     ]
@@ -187,62 +403,6 @@
     ]
   },
   {
-    "id": "2026-01-31-north-pacific-ocean--humpback-01",
-    "name": "Humpback sighting (North Pacific Ocean, HI, US)",
-    "species": "Humpback",
-    "info": "iNaturalist observation by debbie2.",
-    "date": "2026-01-31",
-    "latitude": 20.6795053401,
-    "longitude": -156.46911361,
-    "area": "North Pacific Ocean, HI, US",
-    "source": "https://www.inaturalist.org/observations/337093352",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-31-mexico-humpback-02",
-    "name": "Humpback sighting (Mexico)",
-    "species": "Humpback",
-    "info": "iNaturalist observation by k77027.",
-    "date": "2026-01-31",
-    "latitude": 22.866576845,
-    "longitude": -110.0198836997,
-    "area": "Mexico",
-    "source": "https://www.inaturalist.org/observations/336857756",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-31-mx-humpback-03",
-    "name": "Humpback sighting (MX)",
-    "species": "Humpback",
-    "info": "iNaturalist observation by offgridgirl.",
-    "date": "2026-01-31",
-    "latitude": 20.6601616667,
-    "longitude": -105.3067466667,
-    "area": "MX",
-    "source": "https://www.inaturalist.org/observations/336904163",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-31-mx-humpback-04",
-    "name": "Humpback sighting (MX)",
-    "species": "Humpback",
-    "info": "iNaturalist observation by offgridgirl.",
-    "date": "2026-01-31",
-    "latitude": 20.6685003348,
-    "longitude": -105.2918875164,
-    "area": "MX",
-    "source": "https://www.inaturalist.org/observations/336879450",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
     "id": "2026-01-29-greater-vancouver-bc-orca-01",
     "name": "Orca sighting (Greater Vancouver, BC, CA)",
     "species": "Orca",
@@ -254,99 +414,6 @@
     "source": "https://www.inaturalist.org/observations/336906343",
     "behaviors": [
       "reported"
-    ]
-  },
-  {
-    "id": "2026-01-27-ri-grande-tierra-del-orca-01",
-    "name": "Orca sighting (Rió Grande, Tierra del Fuego, Argentina)",
-    "species": "Orca",
-    "info": "iNaturalist observation by pablof.",
-    "date": "2026-01-27",
-    "latitude": -53.2747066667,
-    "longitude": -68.4609661111,
-    "area": "Rió Grande, Tierra del Fuego, Argentina",
-    "source": "https://www.inaturalist.org/observations/336518270",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-27-salish-sea-orca-02",
-    "name": "Orca sighting (Salish Sea (offshore), BC/WA, Canada/USA)",
-    "species": "Orca",
-    "info": "Orca Network recent sightings indicates Orca on 2026-01-27.",
-    "date": "2026-01-27",
-    "latitude": 47.92,
-    "longitude": -122.55,
-    "area": "Salish Sea (offshore), BC/WA, Canada/USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "reported",
-      "hunting",
-      "feeding",
-      "traveling"
-    ]
-  },
-  {
-    "id": "2026-01-26-salish-sea-orca-01",
-    "name": "Orca sighting (Salish Sea (offshore), BC/WA, Canada/USA)",
-    "species": "Orca",
-    "info": "Orca Network recent sightings indicates Orca on 2026-01-26.",
-    "date": "2026-01-26",
-    "latitude": 48.5,
-    "longitude": -123.2,
-    "area": "Salish Sea (offshore), BC/WA, Canada/USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "reported",
-      "hunting",
-      "traveling"
-    ]
-  },
-  {
-    "id": "2026-01-25-washington-us-orca-01",
-    "name": "Orca sighting (Washington, US)",
-    "species": "Orca",
-    "info": "iNaturalist observation by woodsdyke.",
-    "date": "2026-01-25",
-    "latitude": 47.8365307032,
-    "longitude": -122.3910237772,
-    "area": "Washington, US",
-    "source": "https://www.inaturalist.org/observations/336175951",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-25-washington-us-orca-02",
-    "name": "Orca sighting (Washington, US)",
-    "species": "Orca",
-    "info": "iNaturalist observation by michaeltownsend.",
-    "date": "2026-01-25",
-    "latitude": 48.0492117052,
-    "longitude": -122.3016855578,
-    "area": "Washington, US",
-    "source": "https://www.inaturalist.org/observations/337179122",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-25-salish-sea-orca-03",
-    "name": "Orca sighting (Salish Sea (offshore), BC/WA, Canada/USA)",
-    "species": "Orca",
-    "info": "Orca Network recent sightings indicates Orca on 2026-01-25.",
-    "date": "2026-01-25",
-    "latitude": 47.92,
-    "longitude": -122.55,
-    "area": "Salish Sea (offshore), BC/WA, Canada/USA",
-    "source": "https://www.orcanetwork.org/recent-sightings",
-    "behaviors": [
-      "reported",
-      "hunting",
-      "feeding",
-      "breaching",
-      "traveling"
     ]
   },
   {
@@ -364,29 +431,15 @@
     ]
   },
   {
-    "id": "2026-01-19-the-village-green-en-orca-01",
-    "name": "Orca sighting (The Village Green End of Kenwood Drive, Meet in the Reserve Matarangi, Surf Coromandel, Coromandel 3592, New Zealand)",
-    "species": "Orca",
-    "info": "iNaturalist observation by plogginginpetone.",
-    "date": "2026-01-19",
-    "latitude": -36.7285972,
-    "longitude": 175.6691147997,
-    "area": "The Village Green End of Kenwood Drive, Meet in the Reserve Matarangi, Surf Coromandel, Coromandel 3592, New Zealand",
-    "source": "https://www.inaturalist.org/observations/336079598",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
-    "id": "2026-01-19-canterbury-region-ne-orca-02",
-    "name": "Orca sighting (Canterbury Region, New Zealand)",
-    "species": "Orca",
-    "info": "iNaturalist observation by joshcmpbll.",
-    "date": "2026-01-19",
-    "latitude": -42.4574167506,
-    "longitude": 173.5905594682,
-    "area": "Canterbury Region, New Zealand",
-    "source": "https://www.inaturalist.org/observations/336871737",
+    "id": "2026-01-22-maria-island-tas-719-humpback-01",
+    "name": "Humpback sighting (Maria Island TAS 7190, Australia)",
+    "species": "Humpback",
+    "info": "iNaturalist observation by quirino.",
+    "date": "2026-01-22",
+    "latitude": -42.557091022799995,
+    "longitude": 148.0634784189,
+    "area": "Maria Island TAS 7190, Australia",
+    "source": "https://www.inaturalist.org/observations/337849807",
     "behaviors": [
       "reported"
     ]
@@ -490,20 +543,6 @@
     ]
   },
   {
-    "id": "2026-01-05-au-humpback-01",
-    "name": "Humpback sighting (AU)",
-    "species": "Humpback",
-    "info": "iNaturalist observation by doobeeroo.",
-    "date": "2026-01-05",
-    "latitude": -43.2553033333,
-    "longitude": 148.0042722167,
-    "area": "AU",
-    "source": "https://www.inaturalist.org/observations/333788245",
-    "behaviors": [
-      "reported"
-    ]
-  },
-  {
     "id": "2026-01-03-ri-grande-ar-tf-ar-orca-01",
     "name": "Orca sighting (Rió Grande, AR-TF, AR)",
     "species": "Orca",
@@ -527,6 +566,20 @@
     "longitude": -68.4052694236,
     "area": "Rió Grande, AR-TF, AR",
     "source": "https://www.inaturalist.org/observations/334747910",
+    "behaviors": [
+      "reported"
+    ]
+  },
+  {
+    "id": "2026-01-03-r-o-grande-tierra-de-orca-03",
+    "name": "Orca sighting (Río Grande, Tierra del Fuego, Argentina)",
+    "species": "Orca",
+    "info": "iNaturalist observation by pablo_jusim.",
+    "date": "2026-01-03",
+    "latitude": -53.271469999999994,
+    "longitude": -68.4686916667,
+    "area": "Río Grande, Tierra del Fuego, Argentina",
+    "source": "https://www.inaturalist.org/observations/333308331",
     "behaviors": [
       "reported"
     ]
